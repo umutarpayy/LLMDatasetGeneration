@@ -16,7 +16,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # 📁 Uygulama dosyalarını kopyala
 COPY api_server.py .
-COPY README.md .
 
 # 🌐 Port'u aç
 EXPOSE 8001
