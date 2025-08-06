@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Koordinat düzleminde iki nokta arasındaki mesafe nasıl bulunur?",
+    "output": "Koordinat düzleminde iki nokta arasındaki mesafeyi bulmak için iki noktanın x ve y koordinatları arasındaki farkların kareleri toplanır ve bu toplamın karekökü alınır. Bu formül, Pisagor Teoremi'ne dayanmaktadır ve mesafe formülü olarak bilinir: √((x2 - x1)² + (y2 - y1)²)."
+  },
+  {
+    "instruction": "Delta sembolü matematikte neyi ifade eder?",
+    "output": "Delta sembolü (Δ), matematikte genellikle 'değişim' veya 'fark' anlamında kullanılır. Özellikle cebir ve analizde, bir değişkenin iki değer arasındaki farkını belirtmek için kullanılır. Örneğin, Δx, x değişkenindeki değişimi ifade eder."
+  },
+  {
+    "instruction": "Bir doğrunun negatif eğimi ne anlama gelir?",
+    "output": "Bir doğrunun negatif eğimi, x ekseni boyunca ilerlerken y değerinin azaldığını ifade eder. Bu, doğrunun grafik üzerinde sol yukarıdan sağ aşağıya doğru eğildiği anlamına gelir. Negatif eğim, iki nokta arasındaki y değişiminin x değişimine göre ters yönde olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim hesaplamasında kullanılan y2 - y1 ve x2 - x1 ifadeleri neyi temsil eder?",
+    "output": "Eğim hesaplamasında kullanılan y2 - y1 ifadesi, iki nokta arasındaki y koordinatlarının farkını, yani y eksenindeki değişimi temsil eder. Benzer şekilde, x2 - x1 ifadesi, x koordinatlarının farkını, yani x eksenindeki değişimi temsil eder. Eğim, bu iki farkın oranı olarak tanımlanır."
+  },
+  {
+    "instruction": "Doğrunun eğimi ile doğrusal fonksiyonun katsayısı arasında nasıl bir ilişki vardır?",
+    "output": "Doğrunun eğimi, doğrusal bir fonksiyonun katsayısı olarak da bilinir. Doğrusal bir fonksiyon y = mx + b formunda ifade edilir ve burada m, doğrunun eğimini temsil eder. Bu katsayı, x'teki bir birimlik artışın y üzerindeki etkisini gösterir."
+  },
+  {
+    "instruction": "Eğim hesaplanırken başlangıç ve bitiş noktalarının yer değiştirmesi sonucu etkiler mi?",
+    "output": "Eğim hesaplanırken başlangıç ve bitiş noktalarının yer değiştirmesi eğimin değerini etkilemez, ancak işaretini değiştirebilir. İki nokta arasında eğim hesaplanırken, y değişimi ve x değişimi oranı alınır. Bu oran, noktaların sırası değişse bile mutlak değer olarak aynı kalır, ancak işaret tersine döner."
+  },
+  {
+    "instruction": "Eğim hesaplamasında neden y eksenindeki değişim x eksenindeki değişime bölünür?",
+    "output": "Eğim hesaplamasında y eksenindeki değişimin x eksenindeki değişime bölünmesi, eğimin tanımından kaynaklanır. Eğim, bir doğrunun dikliğini veya eğimini ölçer ve bu, y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır. Bu oran, doğrunun ne kadar dik veya yatay olduğunu gösterir."
+  },
+  {
+    "instruction": "Negatif eğimli bir doğrunun grafik üzerinde nasıl bir görünümü vardır?",
+    "output": "Negatif eğimli bir doğrunun grafik üzerinde görünümü, sol yukarıdan sağ aşağıya doğru eğimlidir. Bu, x ekseni boyunca sağa doğru ilerlerken y değerinin azaldığı anlamına gelir. Böyle bir doğru, genellikle düşüş veya azalma eğilimini temsil eder."
+  },
+  {
+    "instruction": "Eğim hesaplamasında kullanılan formüllerin farklı gösterimleri var mıdır?",
+    "output": "Eğim hesaplamasında kullanılan formüllerin farklı gösterimleri vardır. En yaygın kullanılan formül, m = (y2 - y1) / (x2 - x1) şeklindedir. Ancak, bazı durumlarda bu formül, y değişimi (Δy) ve x değişimi (Δx) olarak da ifade edilebilir: m = Δy / Δx."
+  },
+  {
+    "instruction": "Eğim hesaplamasında hangi durumlarda negatif değerler ortaya çıkar?",
+    "output": "Eğim hesaplamasında negatif değerler, y eksenindeki değişimin x eksenindeki değişimle ters yönde olduğu durumlarda ortaya çıkar. Bu, x arttıkça y'nin azaldığı bir senaryoda gerçekleşir ve bu durum, negatif eğimli bir doğruyu temsil eder."
+  }
+]

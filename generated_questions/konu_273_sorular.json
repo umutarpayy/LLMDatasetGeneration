@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Koordinat sistemi nedir?",
+    "output": "Koordinat sistemi, bir düzlem üzerinde noktaların yerini belirlemek için kullanılan bir sistemdir. Genellikle iki boyutlu bir düzlemde, yatay eksen (x ekseni) ve dikey eksen (y ekseni) olmak üzere iki eksen bulunur. Bu eksenler, düzlemi dört bölgeye ayırır ve her nokta, bu eksenler üzerinde belirli bir x ve y değeri ile ifade edilir."
+  },
+  {
+    "instruction": "Öteleme işlemi koordinat sisteminde nasıl ifade edilir?",
+    "output": "Öteleme işlemi, bir şeklin koordinat sisteminde belirli bir mesafe kadar yatay veya dikey olarak kaydırılmasıdır. Bu işlem, her bir noktanın x ve y koordinatlarına belirli bir değerin eklenmesi veya çıkarılması ile gerçekleştirilir. Örneğin, bir şeklin x koordinatlarını 3 birim artırmak ve y koordinatlarını 2 birim azaltmak, şekli sağa ve aşağıya doğru kaydırır."
+  },
+  {
+    "instruction": "Öteleme işleminin geometrik şekiller üzerindeki etkisi nedir?",
+    "output": "Öteleme işlemi, bir geometrik şeklin boyutunu veya şeklini değiştirmeden, sadece konumunu değiştirir. Şekil, orijinal haliyle aynı kalır; sadece koordinat sisteminde farklı bir pozisyona taşınır."
+  },
+  {
+    "instruction": "Öteleme işlemi hangi matematiksel özelliklere sahiptir?",
+    "output": "Öteleme işlemi, şeklin boyutunu, şeklini veya yönünü değiştirmez; sadece konumunu değiştirir. Öteleme, bir şeklin her noktasını eşit miktarda ve aynı yönde hareket ettirir. Bu işlem, şeklin simetrisini ve paralellik özelliklerini korur."
+  },
+  {
+    "instruction": "Öteleme işlemi hangi durumlarda kullanılır?",
+    "output": "Öteleme işlemi, grafik tasarım, mühendislik ve bilgisayar grafiklerinde sıkça kullanılır. Örneğin, bir tasarımın farklı pozisyonlarda test edilmesi veya bir nesnenin hareketinin simülasyonu için öteleme işlemi kullanılır."
+  },
+  {
+    "instruction": "Öteleme işlemi ile döndürme işlemi arasındaki fark nedir?",
+    "output": "Öteleme işlemi, bir şeklin konumunu değiştirirken, döndürme işlemi şeklin etrafında belirli bir açıyla dönmesini sağlar. Öteleme sırasında şeklin yönü değişmezken, döndürme sırasında şeklin yönü değişir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında koordinatlar nasıl güncellenir?",
+    "output": "Öteleme işlemi sırasında, her bir noktanın koordinatları belirli bir miktar artırılır veya azaltılır. Örneğin, bir noktanın (x, y) koordinatları, x + a ve y + b şeklinde güncellenir. Burada a ve b, x ve y yönlerinde yapılan öteleme miktarlarını temsil eder."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi matematiksel işlemler kullanılır?",
+    "output": "Öteleme işlemi sırasında temel aritmetik işlemler, yani toplama ve çıkarma kullanılır. Her bir noktanın x ve y koordinatlarına, öteleme miktarına bağlı olarak belirli bir değer eklenir veya çıkarılır."
+  },
+  {
+    "instruction": "Öteleme işlemi ile yansıma işlemi arasındaki fark nedir?",
+    "output": "Öteleme işlemi, bir şeklin konumunu değiştirirken, yansıma işlemi bir şeklin bir eksen üzerinde simetrik olarak yer değiştirmesini sağlar. Öteleme, şeklin yönünü değiştirmezken, yansıma şeklin yönünü değiştirir."
+  },
+  {
+    "instruction": "Koordinat sisteminde bir şeklin öteleme sonrası konumu nasıl belirlenir?",
+    "output": "Koordinat sisteminde bir şeklin öteleme sonrası konumu, her bir noktanın x ve y koordinatlarına öteleme miktarının eklenmesi veya çıkarılması ile belirlenir. Örneğin, bir şeklin x koordinatları 3 birim artırıldığında ve y koordinatları 2 birim azaltıldığında, şekil sağa ve aşağıya doğru kaydırılmış olur."
+  }
+]

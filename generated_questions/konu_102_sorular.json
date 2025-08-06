@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dağılma özelliği hangi durumlarda kullanılır?",
+    "output": "Dağılma özelliği, genellikle cebirsel ifadelerde parantez içindeki terimlerin çarpanlarının dağıtılması gerektiğinde kullanılır. Bu özellik, bir çarpanın parantez içindeki her terimle ayrı ayrı çarpılmasını sağlar ve bu sayede ifadeler daha basit bir hale getirilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, katsayıların ve değişkenlerin ayrı ayrı çarpılmasıyla gerçekleştirilir. Eğer değişkenler aynı ise üsleri toplanır. Örneğin, (3x) * (2x) işlemi 6x^2 olarak bulunur."
+  },
+  {
+    "instruction": "Dağılma özelliği ile parantez açmanın avantajları nelerdir?",
+    "output": "Dağılma özelliği ile parantez açmanın avantajları, ifadelerin daha basit hale getirilmesi, karmaşık işlemlerin kolaylaştırılması ve eşitliklerin daha rahat çözülebilmesidir. Bu özellik, özellikle denklem çözme süreçlerinde büyük kolaylık sağlar."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimler nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde terimler, bir cebirsel ifadenin parçalarıdır ve genellikle katsayı ve değişkenlerden oluşur. Her terim, bir çarpanlar grubunun sonucudur ve terimler arasında toplama veya çıkarma işlemi bulunur. Örneğin, 3x + 5y - 7 ifadesinde 3x, 5y ve -7 ayrı terimlerdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde negatif işaretlerin rolü nedir?",
+    "output": "Cebirsel ifadelerde negatif işaretler, terimlerin işaretini belirler ve işlemlerin sonucunu etkiler. Negatif işaretler, özellikle çıkarma işlemlerinde ve negatif katsayılarda önemlidir. Negatif bir sayının negatif bir sayıyla çarpılması pozitif bir sonuç verir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayılar neyi ifade eder?",
+    "output": "Cebirsel ifadelerde katsayılar, bir terimin değişken kısmının önündeki sayısal değerdir ve değişkenin kaç katı olduğunu belirtir. Örneğin, 4x teriminde 4 katsayıdır ve x'in 4 katı olduğunu ifade eder."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenler nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde değişkenler, genellikle harflerle temsil edilen ve farklı değerler alabilen sembollerdir. Değişkenler, ifadelerin genel bir formda yazılmasını ve farklı durumlar için çözüm bulunabilmesini sağlar. Örneğin, x ve y sıkça kullanılan değişkenlerdir."
+  },
+  {
+    "instruction": "Dağılma özelliği ile çarpma işlemi arasındaki ilişki nedir?",
+    "output": "Dağılma özelliği, çarpma işleminin bir özelliğidir ve bir çarpanın parantez içindeki her terimle ayrı ayrı çarpılmasını sağlar. Bu ilişki, çarpmanın toplama veya çıkarma üzerinde nasıl dağıldığını gösterir ve işlemleri kolaylaştırır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezlerin önemi nedir?",
+    "output": "Cebirsel ifadelerde parantezler, işlemlerin öncelik sırasını belirler ve hangi işlemlerin önce yapılacağını gösterir. Parantezler, ifadelerin doğru bir şekilde çözümlenmesini ve işlemlerin hatasız yapılmasını sağlar."
+  },
+  {
+    "instruction": "Dağılma özelliği ile ilgili bir örnek nasıl oluşturulur?",
+    "output": "Dağılma özelliği ile ilgili bir örnek oluşturmak için bir çarpan ve parantez içinde bir toplam veya fark ifadesi seçilir. Örneğin, 3(x + 4) ifadesi dağılma özelliği ile 3x + 12 olarak açılabilir. Bu, 3'ün hem x ile hem de 4 ile çarpılmasıyla elde edilir."
+  }
+]

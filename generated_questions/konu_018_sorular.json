@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bileşik sayı nedir?",
+    "output": "Bileşik sayı, 1 ve kendisinden başka en az bir pozitif böleni olan doğal sayıdır. Yani, asal olmayan ve 1'den büyük olan sayılar bileşik sayılardır. Örneğin, 4, 6, 8 gibi sayılar bileşiktir çünkü 1 ve kendileri dışında başka bölenleri de vardır."
+  },
+  {
+    "instruction": "Asal çarpanlar nasıl kontrol edilir?",
+    "output": "Bir sayının asal çarpanlarını kontrol etmek için, asal çarpanlara ayırma işlemi sırasında elde edilen çarpanların asal olup olmadığını kontrol etmeliyiz. Her bir çarpanın yalnızca 1 ve kendisi tarafından bölünebilir olması gerekir. Eğer bu şartı sağlıyorsa, o çarpan asal bir sayıdır."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanları ile orijinal sayıyı nasıl doğrularız?",
+    "output": "Bir sayının asal çarpanlarını doğrulamak için, bu çarpanları birbiriyle çarparız ve elde edilen sonucun orijinal sayıya eşit olup olmadığını kontrol ederiz. Eğer eşitse, asal çarpanlar doğru belirlenmiştir."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi sırasında hangi sayılar kullanılır?",
+    "output": "Asal çarpanlara ayırma işlemi sırasında, 2, 3, 5, 7, 11 gibi küçük asal sayılar kullanılarak başlanır ve sayının bölünebilirliği kontrol edilir. Sayı bu asal sayılarla bölündükçe, kalan sayı üzerinde aynı işlem tekrarlanır."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanları nasıl yazılır?",
+    "output": "Bir sayının asal çarpanları, sayıyı oluşturan asal sayıların çarpımı olarak yazılır. Örneğin, 36 sayısı 2, 2, 3 ve 3 asal çarpanlarının çarpımı şeklinde, yani 2^2 * 3^2 olarak yazılabilir."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma neden önemlidir?",
+    "output": "Asal çarpanlara ayırma, bir sayının en küçük asal sayıların çarpımı şeklinde ifade edilmesini sağlar. Bu yöntem, sayı teorisinde ve matematiksel problemlerin çözümünde önemli bir araçtır. Özellikle, EBOB ve EKOK hesaplamalarında, kesirlerin sadeleştirilmesinde ve sayıların faktöriyel analizlerinde kullanılır."
+  },
+  {
+    "instruction": "Asal ve bileşik sayılar arasındaki fark nedir?",
+    "output": "Asal sayılar, sadece 1 ve kendisi olmak üzere iki pozitif böleni olan sayılardır. Bileşik sayılar ise, 1 ve kendisi dışında en az bir pozitif böleni olan sayılardır. Örneğin, 5 asal bir sayıdır çünkü yalnızca 1 ve 5'e bölünürken, 6 bileşik bir sayıdır çünkü 1, 2, 3 ve 6'ya bölünür."
+  },
+  {
+    "instruction": "Hangi sayılar asal çarpanlarına ayrılamaz?",
+    "output": "1 sayısı asal çarpanlarına ayrılamaz çünkü asal sayı tanımına göre, bir sayının asal olabilmesi için en az iki farklı pozitif böleni olmalıdır. 1, yalnızca kendisine bölünebildiği için asal sayı değildir ve dolayısıyla asal çarpanlarına ayrılamaz."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi hangi durumlarda zordur?",
+    "output": "Asal çarpanlara ayırma işlemi, büyük ve asal olup olmadığı kolayca belirlenemeyen sayılar için zor olabilir. Özellikle, büyük asal sayılar veya büyük bileşik sayılar üzerinde çalışırken, asal çarpanları bulmak zaman alıcı ve karmaşık olabilir."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi ile üslü sayılar arasında nasıl bir ilişki vardır?",
+    "output": "Asal çarpanlara ayırma işlemi, bir sayıyı asal sayıların üslü çarpımı şeklinde ifade etmeye olanak tanır. Bu, sayının asal çarpanlarının kaç kez kullanıldığını gösterir. Örneğin, 36 sayısı 2^2 * 3^2 şeklinde yazılabilir, burada 2 ve 3 asal çarpanlar olup, üsler bu çarpanların kaç kez kullanıldığını belirtir."
+  }
+]

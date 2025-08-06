@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal denklem nedir?",
+    "output": "Doğrusal denklem, bir veya daha fazla bilinmeyeni içeren ve bu bilinmeyenlerin yalnızca birinci dereceden olduğu bir matematiksel ifadedir. Genellikle ax + b = 0 formunda yazılır ve çözümü, bilinmeyenlerin değerlerini bulmayı içerir."
+  },
+  {
+    "instruction": "Doğrusal denklemler nasıl çözülür?",
+    "output": "Doğrusal denklemleri çözmek için, bilinmeyenleri bir tarafta, sabit terimleri diğer tarafta toplarız. Daha sonra bilinmeyenlerin katsayısını bir yapacak şekilde her iki tarafı bu katsayıya böleriz. Böylece bilinmeyenin değeri bulunur."
+  },
+  {
+    "instruction": "Yaş problemleri nasıl çözülür?",
+    "output": "Yaş problemleri genellikle bir kişinin veya kişilerin yaşları arasındaki ilişkiyi ifade eden denklemler kurmayı gerektirir. Bu tür problemleri çözmek için, bilinmeyenleri temsil eden değişkenler tanımlanır ve problemde verilen bilgiler kullanılarak denklemler oluşturulur. Daha sonra bu denklemler çözülerek bilinmeyen yaşlar bulunur."
+  },
+  {
+    "instruction": "Bir denklemin çözümü ne anlama gelir?",
+    "output": "Bir denklemin çözümü, denklemi doğru kılan bilinmeyen değerleridir. Yani, bu değerler yerine konulduğunda denklemdeki eşitlik sağlanır."
+  },
+  {
+    "instruction": "Denklem kurma neden önemlidir?",
+    "output": "Denklem kurma, matematiksel problemleri soyut bir biçimde ifade etmemizi ve çözmemizi sağlar. Gerçek dünya problemlerini matematiksel modellere dönüştürerek, bu modelleri çözebilir ve anlamlı sonuçlar elde edebiliriz."
+  },
+  {
+    "instruction": "Bilinmeyen nedir?",
+    "output": "Bilinmeyen, bir denklemin veya matematiksel ifadenin içinde yer alan ve değerini bulmamız gereken değişkendir. Genellikle x, y, z gibi harflerle gösterilir."
+  },
+  {
+    "instruction": "Denklemdeki terimler nasıl düzenlenir?",
+    "output": "Denklemdeki terimler, genellikle bilinmeyenler bir tarafta, sabit terimler diğer tarafta olacak şekilde düzenlenir. Bu, denklemin çözümünü kolaylaştırır."
+  },
+  {
+    "instruction": "Çözüm kontrolü nasıl yapılır?",
+    "output": "Çözüm kontrolü, elde edilen çözüm değerlerini orijinal denklemde yerine koyarak eşitliğin sağlanıp sağlanmadığını kontrol etmekle yapılır. Eğer eşitlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi alanlarda kullanılır?",
+    "output": "Doğrusal denklemler, mühendislik, ekonomi, fizik, bilgisayar bilimi gibi birçok alanda kullanılır. Özellikle sistemlerin davranışlarını modellemek ve analiz etmek için yaygın olarak kullanılırlar."
+  },
+  {
+    "instruction": "Denklem çözümünde eşitliğin korunması neden önemlidir?",
+    "output": "Denklem çözümünde eşitliğin korunması, her iki tarafa yapılan işlemlerin denklemin dengesini bozmaması için gereklidir. Aynı işlemin her iki tarafa da uygulanması, denklemin eşitliğini korur ve doğru çözüme ulaşmamızı sağlar."
+  }
+]

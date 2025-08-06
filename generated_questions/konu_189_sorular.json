@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küçüktür ve küçük eşittir işaretleri arasındaki fark nedir?",
+    "output": "Küçüktür işareti (<), bir sayının diğerinden daha küçük olduğunu belirtir. Küçük eşittir işareti (≤) ise bir sayının diğerine eşit veya ondan daha küçük olabileceğini gösterir. Küçüktür işaretinde eşitlik durumu kabul edilmezken, küçük eşittir işaretinde eşitlik durumu kabul edilir."
+  },
+  {
+    "instruction": "Büyüktür ve büyük eşittir işaretleri arasındaki fark nedir?",
+    "output": "Büyüktür işareti (>), bir sayının diğerinden daha büyük olduğunu ifade eder. Büyük eşittir işareti (≥) ise bir sayının diğerine eşit veya ondan daha büyük olabileceğini belirtir. Büyüktür işaretinde eşitlik durumu kabul edilmezken, büyük eşittir işaretinde eşitlik durumu kabul edilir."
+  },
+  {
+    "instruction": "Bir eşitsizlik sayı doğrusunda nasıl gösterilir?",
+    "output": "Bir eşitsizlik sayı doğrusunda gösterilirken, eşitsizliğin sınır değerine bir nokta konur. Eğer eşitsizlikte eşitlik durumu varsa (≤ veya ≥), nokta dolu olur. Eşitlik yoksa (< veya >), nokta boş bırakılır. Eşitsizlik yönüne göre, bu noktadan itibaren kabul edilen değerler sayı doğrusunda boyanır."
+  },
+  {
+    "instruction": "Eşitsizliklerde içi dolu ve içi boş noktalar ne anlama gelir?",
+    "output": "Eşitsizliklerde içi dolu noktalar, sınır değerinin eşitsizliğe dahil olduğunu gösterir (≤ veya ≥). İçi boş noktalar ise sınır değerinin eşitsizliğe dahil olmadığını belirtir (< veya >). Bu, sayı doğrusunda eşitsizliğin doğru olduğu aralığı görsel olarak ifade eder."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözüm kümeleri nasıl belirlenir?",
+    "output": "Eşitsizliklerin çözüm kümeleri, eşitsizliği sağlayan tüm sayıların kümesi olarak tanımlanır. Çözüm kümesi, sayı doğrusunda veya cebirsel ifadelerle gösterilebilir. Eşitsizliğin türüne göre, çözüm kümesi bir aralık veya birleşim kümesi şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizliklerde sınır değerler, eşitsizliğin eşitlik durumunu kontrol eden değerlerdir. Eşitsizlikte eşitlik varsa (≤ veya ≥), sınır değer dahildir ve sayı doğrusunda dolu nokta ile gösterilir. Eşitlik yoksa (< veya >), sınır değer dahil değildir ve sayı doğrusunda boş nokta ile gösterilir."
+  },
+  {
+    "instruction": "Bir eşitsizlikte çözüm aralığı nasıl belirlenir?",
+    "output": "Bir eşitsizlikte çözüm aralığı, eşitsizliği sağlayan tüm sayıların oluşturduğu aralıktır. Çözüm aralığı, eşitsizliğin türüne göre açık veya kapalı aralık olarak ifade edilir. Açık aralıkta sınır değerler dahil edilmezken, kapalı aralıkta sınır değerler dahildir."
+  },
+  {
+    "instruction": "Eşitsizliklerin sayı doğrusunda gösterimi neden önemlidir?",
+    "output": "Eşitsizliklerin sayı doğrusunda gösterimi, çözüm kümesini görsel olarak ifade etmeyi sağlar. Bu, çözümün hangi değerleri kapsadığını ve sınır değerlerin dahil olup olmadığını kolayca anlamamıza yardımcı olur. Ayrıca, eşitsizliklerin karşılaştırılması ve analizi için de görsel bir araç sunar."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi semboller kullanılır?",
+    "output": "Eşitsizliklerin çözümünde kullanılan temel semboller '<', '>', '≤' ve '≥' sembolleridir. Bu semboller, iki değer arasındaki büyüklük veya küçüklük ilişkisini ifade eder. Ayrıca, eşitsizliklerin sayı doğrusunda gösterimi için dolu ve boş noktalar kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde dikkat edilmesi gereken noktalar arasında, eşitsizlik yönünün doğru belirlenmesi, sınır değerlerin doğru işaretlenmesi ve çözüm aralığının doğru ifade edilmesi yer alır. Ayrıca, eşitsizlik çözümünde yapılan işlemlerin eşitsizliğin yönünü değiştirebileceği durumlar (örneğin, negatif bir sayı ile çarpma) dikkatle ele alınmalıdır."
+  }
+]

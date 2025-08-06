@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dik üçgenin kenarları arasındaki ilişki nedir?",
+    "output": "Dik üçgende, iki dik kenarın karelerinin toplamı, hipotenüsün karesine eşittir. Bu ilişki Pisagor Teoremi ile ifade edilir ve matematiksel olarak a² + b² = c² şeklinde yazılır."
+  },
+  {
+    "instruction": "Hipotenüs nasıl bulunur?",
+    "output": "Dik üçgende hipotenüs, dik açının karşısındaki en uzun kenardır. İki dik kenarın uzunlukları biliniyorsa, hipotenüsün uzunluğu Pisagor Teoremi kullanılarak bulunabilir. Formül: c = √(a² + b²)."
+  },
+  {
+    "instruction": "Bir sayının karesi nasıl hesaplanır?",
+    "output": "Bir sayının karesi, sayının kendisiyle çarpılmasıyla elde edilir. Örneğin, x sayısının karesi x² = x * x şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Karekök nasıl hesaplanır?",
+    "output": "Karekök, bir sayının hangi sayının karesi olduğunu bulmayı ifade eder. Örneğin, √x ifadesi, karesi x olan sayıyı belirtir. Karekök hesaplamaları genellikle hesap makinesi veya karekök tabloları kullanılarak yapılır."
+  },
+  {
+    "instruction": "Pisagor Teoremi hangi durumlarda kullanılır?",
+    "output": "Pisagor Teoremi, yalnızca dik açılı üçgenlerde kullanılır. İki kenarın uzunluğu bilindiğinde, üçüncü kenarın uzunluğunu bulmak için kullanılır."
+  },
+  {
+    "instruction": "Dik üçgenin hipotenüsü neden en uzun kenardır?",
+    "output": "Dik üçgende hipotenüs, dik açının karşısında yer alır ve diğer iki kenarın karelerinin toplamı hipotenüsün karesine eşit olduğundan, hipotenüs her zaman en uzun kenardır."
+  },
+  {
+    "instruction": "Dik üçgenin kenar uzunlukları nasıl belirlenir?",
+    "output": "Dik üçgenin kenar uzunlukları, Pisagor Teoremi kullanılarak belirlenebilir. Eğer iki kenar biliniyorsa, üçüncü kenar bu teorem yardımıyla hesaplanabilir."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin günlük hayatta kullanımı nedir?",
+    "output": "Pisagor Teoremi, inşaat, mühendislik ve mimarlık gibi alanlarda, özellikle dik açılı yapıların ve mesafelerin hesaplanmasında yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin doğruluğunu nasıl test edebiliriz?",
+    "output": "Pisagor Teoremi'nin doğruluğu, bir dik üçgende ölçülen kenar uzunluklarının karesini alarak ve teoremin formülüne uygulayarak test edilebilir. Eğer a² + b² = c² eşitliği sağlanıyorsa, teorem doğrudur."
+  },
+  {
+    "instruction": "Pisagor Teoremi'ni kullanarak bir kenarın uzunluğu nasıl bulunur?",
+    "output": "Pisagor Teoremi'ni kullanarak bir kenarın uzunluğunu bulmak için, bilinen iki kenarın karelerini alıp toplar veya çıkarırız ve ardından karekök alarak bilinmeyen kenarın uzunluğunu hesaplarız. Örneğin, hipotenüs c'yi bulmak için c = √(a² + b²) formülü kullanılır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki bilinmeyenli doğrusal denklem sistemleri nedir?",
+    "output": "İki bilinmeyenli doğrusal denklem sistemleri, iki farklı doğrusal denklemin bir araya gelerek oluşturduğu sistemlerdir. Bu denklemler genellikle x ve y gibi iki değişken içerir ve bu değişkenlerin belirli bir çözüm kümesi vardır. Bu tür sistemler, grafiksel olarak iki doğrunun kesişim noktalarını temsil eder."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde eğim nedir ve nasıl hesaplanır?",
+    "output": "Doğrusal denklem sistemlerinde eğim, bir doğrunun yatay eksene göre dikey eksende ne kadar yükseldiğini veya alçaldığını ifade eder. Eğim, genellikle m harfi ile gösterilir ve y = mx + b formülünde m, eğimi temsil eder. Eğim, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde y ekseni kesişimi nedir?",
+    "output": "Y ekseni kesişimi, bir doğrunun y eksenini kestiği noktayı ifade eder. Bu, y = mx + b denkleminde b ile gösterilir. Y ekseni kesişimi, x'in sıfır olduğu durumda y'nin değerini verir ve bu nokta, doğrunun grafik üzerinde y eksenini kestiği noktadır."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde tek çözüm ne anlama gelir?",
+    "output": "Doğrusal denklem sistemlerinde tek çözüm, iki doğrunun grafik üzerinde sadece bir noktada kesiştiği durumdur. Bu, iki denklemin farklı eğimlere sahip olduğu ve dolayısıyla sadece bir ortak noktalarının olduğu anlamına gelir. Bu durumda, sistemin tek bir çözümü vardır."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde çözüm kümesi nedir?",
+    "output": "Doğrusal denklem sistemlerinde çözüm kümesi, sistemdeki tüm denklemleri aynı anda sağlayan (doğrulayan) x ve y değerlerinin tümüdür. Çözüm kümesi, grafiksel olarak doğruların kesişim noktalarını temsil eder ve bu noktalar, sistemin çözümlerini ifade eder."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde çakışan doğrular nasıl belirlenir?",
+    "output": "Doğrusal denklem sistemlerinde çakışan doğrular, aynı eğime ve aynı y ekseni kesişimine sahip olan doğrulardır. Bu doğrular grafik üzerinde tamamen üst üste binerler ve bu nedenle sonsuz sayıda ortak noktaları vardır. Bu durum, sistemin sonsuz sayıda çözümü olduğunu gösterir."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde paralel doğrular nasıl oluşur?",
+    "output": "Doğrusal denklem sistemlerinde paralel doğrular, aynı eğime sahip ancak farklı y ekseni kesişim noktalarına sahip olan doğrulardır. Bu doğrular grafik üzerinde hiçbir noktada kesişmezler ve dolayısıyla sistemin çözümü yoktur."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde grafiksel çözüm yönteminin avantajları nelerdir?",
+    "output": "Grafiksel çözüm yöntemi, doğrusal denklem sistemlerinin çözümünü görsel olarak temsil eder ve çözümün varlığını ve doğasını hızlı bir şekilde anlamayı sağlar. Bu yöntem, kesişim noktalarını belirleyerek sistemin tek, sonsuz veya hiç çözümü olup olmadığını görsel olarak gösterir."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde sonsuz çözüm nasıl anlaşılır?",
+    "output": "Doğrusal denklem sistemlerinde sonsuz çözüm, iki doğrunun grafik üzerinde tamamen çakıştığı durumlarda ortaya çıkar. Bu, iki denklemin aynı eğime ve aynı y ekseni kesişimine sahip olduğu anlamına gelir. Bu durumda, her iki denklem de aynı doğrusal ilişkiyi temsil eder ve bu nedenle sonsuz sayıda ortak çözüm vardır."
+  },
+  {
+    "instruction": "Doğrusal denklem sistemlerinde çözümün varlığı nasıl kontrol edilir?",
+    "output": "Doğrusal denklem sistemlerinde çözümün varlığı, doğruların grafik üzerinde kesişip kesişmediğine bakılarak kontrol edilir. Eğer doğrular grafik üzerinde kesişiyorsa, sistemin en az bir çözümü vardır. Çakışan doğrular sonsuz çözüm, paralel doğrular ise çözüm yokluğu anlamına gelir."
+  }
+]

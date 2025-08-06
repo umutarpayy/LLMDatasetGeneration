@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Y-kesişim noktası nedir?",
+    "output": "Y-kesişim noktası, bir doğrunun y-eksenini kestiği noktadır. Bu noktada x koordinatı sıfırdır ve y koordinatı doğrunun y-eksenini kestiği değeri gösterir."
+  },
+  {
+    "instruction": "Bir fonksiyonun y-kesişim noktası nasıl bulunur?",
+    "output": "Bir fonksiyonun y-kesişim noktası, x'in sıfır olduğu durumda y'nin değerine bakılarak bulunur. Bu, fonksiyonun y-eksenini kestiği noktayı verir."
+  },
+  {
+    "instruction": "Doğrusal bir fonksiyonun eğimi nedir?",
+    "output": "Doğrusal bir fonksiyonun eğimi, x'teki birim değişiklik başına y'deki değişikliği ifade eder. Matematiksel olarak, eğim = (y'deki değişim) / (x'teki değişim) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, iki nokta arasındaki y değerlerinin farkının, x değerlerinin farkına bölünmesiyle hesaplanır. Eğim formülü: m = (y2 - y1) / (x2 - x1) şeklindedir."
+  },
+  {
+    "instruction": "Doğrusal fonksiyon nedir?",
+    "output": "Doğrusal fonksiyon, grafiği düz bir çizgi olan bir fonksiyondur. Genel formu y = mx + b şeklindedir, burada m eğimi ve b y-kesişim noktasını temsil eder."
+  },
+  {
+    "instruction": "Doğrusal bir fonksiyonun grafiği nasıl çizilir?",
+    "output": "Doğrusal bir fonksiyonun grafiğini çizmek için önce y-kesişim noktası belirlenir, ardından eğim kullanılarak diğer noktalar bulunur ve bu noktalar birleştirilerek doğru çizilir."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların özellikleri nelerdir?",
+    "output": "Doğrusal fonksiyonlar sabit bir eğime sahiptir, grafikleri düz bir çizgi oluşturur ve her x değeri için yalnızca bir y değeri vardır. Ayrıca, y = mx + b formunda ifade edilirler."
+  },
+  {
+    "instruction": "Eğim ve y-kesişim formu nedir?",
+    "output": "Eğim ve y-kesişim formu, doğrusal bir denklemin y = mx + b şeklinde ifade edilmesidir. Burada m eğimi, b ise y-kesişim noktasını gösterir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda kullanılır?",
+    "output": "Doğrusal denklemler, iki değişken arasındaki doğrusal ilişkiyi modellemek için kullanılır. Ekonomi, fizik ve mühendislik gibi alanlarda yaygın olarak uygulanır."
+  },
+  {
+    "instruction": "Doğrusal bir fonksiyonun grafiği neyi temsil eder?",
+    "output": "Doğrusal bir fonksiyonun grafiği, iki değişken arasındaki doğrusal ilişkiyi temsil eder. Grafikteki her nokta, fonksiyonun bir çözümünü gösterir."
+  }
+]

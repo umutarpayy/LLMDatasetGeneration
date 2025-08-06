@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal fonksiyonların grafiği nasıl çizilir?",
+    "output": "Doğrusal fonksiyonların grafiği, bir doğru şeklinde olur. Bu doğruyu çizmek için en az iki noktaya ihtiyaç vardır. Bu noktalar genellikle y-eksenini kestiği nokta ve başka bir noktadır. Fonksiyonun denklemi y = mx + b şeklindeyse, b y-eksenini kestiği noktadır ve m eğimdir. Bu iki bilgiyi kullanarak doğruyu çizebilirsiniz."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların eğimi neyi ifade eder?",
+    "output": "Doğrusal fonksiyonların eğimi, doğrusal bir grafikteki doğrunun ne kadar dik veya yatay olduğunu ifade eder. Eğim, y eksenindeki değişimin x eksenindeki değişime oranıdır ve genellikle m harfi ile gösterilir. Pozitif eğim, sağa doğru yukarı çıkan bir doğruyu, negatif eğim ise sağa doğru aşağı inen bir doğruyu ifade eder."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların kesim noktaları nasıl belirlenir?",
+    "output": "Doğrusal fonksiyonların kesim noktaları, fonksiyonun x ve y eksenlerini kestiği noktalardır. Y-eksenini kesim noktası, x=0 iken fonksiyonun y değeridir ve genellikle denklemin sabit terimi olan b'dir. X-eksenini kesim noktası ise y=0 iken fonksiyonun x değeridir ve bu değeri bulmak için fonksiyon denklemini y=0 yaparak x'i çözmek gerekir."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların denklemi nasıl yazılır?",
+    "output": "Doğrusal fonksiyonların denklemi genellikle y = mx + b formunda yazılır. Burada m eğimi, b ise y-eksenini kestiği noktayı temsil eder. Eğim, doğrunun ne kadar dik veya yatay olduğunu gösterirken, b değeri doğrunun y eksenini nerede kestiğini belirtir."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların kullanım alanları nelerdir?",
+    "output": "Doğrusal fonksiyonlar, birçok gerçek dünya probleminde kullanılır. Örneğin, sabit hızla hareket eden bir aracı modellemek, maliyet ve gelir hesaplamaları yapmak veya iki değişken arasındaki doğrudan ilişkiyi analiz etmek gibi durumlarda kullanılırlar. Doğrusal fonksiyonlar, basit ve etkili bir modelleme aracı oldukları için matematik, ekonomi, mühendislik ve fen bilimlerinde yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonlar ile doğrusal olmayan fonksiyonlar arasındaki fark nedir?",
+    "output": "Doğrusal fonksiyonlar, grafiği düz bir doğru olan fonksiyonlardır ve genellikle y = mx + b şeklinde ifade edilirler. Doğrusal olmayan fonksiyonlar ise grafiği düz bir doğru olmayan, eğri şeklinde olan fonksiyonlardır. Doğrusal fonksiyonlar sabit bir eğime sahipken, doğrusal olmayan fonksiyonların eğimi değişkendir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi negatif olduğunda ne anlama gelir?",
+    "output": "Bir doğrunun eğimi negatif olduğunda, bu, doğrunun sağa doğru ilerlerken aşağıya doğru eğildiğini ifade eder. Yani, x değerleri arttıkça y değerleri azalır. Bu, iki değişken arasında ters bir ilişki olduğunu gösterir."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların sabit terimi neyi ifade eder?",
+    "output": "Doğrusal fonksiyonların sabit terimi, genellikle b harfi ile gösterilir ve y-eksenini kestiği noktayı ifade eder. Bu, x=0 iken fonksiyonun y değeridir. Sabit terim, doğrunun grafiği üzerinde y eksenini nerede kestiğini belirler."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların grafiği neden önemlidir?",
+    "output": "Doğrusal fonksiyonların grafiği, iki değişken arasındaki ilişkiyi görsel olarak anlamamıza yardımcı olur. Grafik, eğimi ve kesim noktalarını göstererek fonksiyonun davranışını ve eğilimini kolayca analiz etmemizi sağlar. Ayrıca, grafik üzerinden yapılan analizler, tahmin ve modelleme yapmamıza olanak tanır."
+  },
+  {
+    "instruction": "Doğrusal fonksiyonların eğimi nasıl hesaplanır?",
+    "output": "Doğrusal fonksiyonların eğimi, iki nokta arasındaki y değişiminin x değişimine oranı olarak hesaplanır. Eğer iki nokta (x1, y1) ve (x2, y2) verilmişse, eğim m = (y2 - y1) / (x2 - x1) formülü ile bulunur. Bu oran, doğrunun ne kadar dik veya yatay olduğunu gösterir."
+  }
+]

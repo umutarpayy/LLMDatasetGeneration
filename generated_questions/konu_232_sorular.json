@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Olasılık kuramı nedir?",
+    "output": "Olasılık kuramı, belirsizlik içeren olayların meydana gelme olasılıklarını inceleyen matematik dalıdır. Bu kuram, rastgele olayların olasılıklarını hesaplamak ve bu olayların sonuçlarını analiz etmek için kullanılır."
+  },
+  {
+    "instruction": "Bir olasılık deneyi nedir?",
+    "output": "Bir olasılık deneyi, sonuçları önceden kesin olarak tahmin edilemeyen ve rastgele olarak gerçekleşen bir süreçtir. Örneğin, bir zarın atılması veya bir madeni paranın yazı-tura atılması birer olasılık deneyidir."
+  },
+  {
+    "instruction": "Olasılık dağılımı nasıl yapılır?",
+    "output": "Olasılık dağılımı, bir rastgele değişkenin alabileceği her bir değere karşılık gelen olasılıkları gösteren bir tablodur. Bu dağılım, olasılık kütle fonksiyonu (diskret değişkenler için) veya olasılık yoğunluk fonksiyonu (sürekli değişkenler için) kullanılarak ifade edilir."
+  },
+  {
+    "instruction": "Bağımlı olaylar nedir?",
+    "output": "Bağımlı olaylar, bir olayın gerçekleşmesinin diğer bir olayın gerçekleşme olasılığını etkilediği durumları ifade eder. Örneğin, bir torbadan bir top çekildikten sonra ikinci bir top çekildiğinde, ilk çekilen topun rengi ikinci topun rengini etkileyebilir."
+  },
+  {
+    "instruction": "Örnek uzay nasıl belirlenir?",
+    "output": "Örnek uzay, bir olasılık deneyinin tüm olası sonuçlarını içeren kümedir. Örnek uzayı belirlemek için, deneyin tüm olası sonuçları listelenir ve bu sonuçlar bir küme olarak ifade edilir. Örneğin, bir zar atıldığında örnek uzay {1, 2, 3, 4, 5, 6} olur."
+  },
+  {
+    "instruction": "Koşullu olasılık nedir?",
+    "output": "Koşullu olasılık, bir olayın olasılığının, başka bir olayın gerçekleştiği bilindiğinde hesaplanmasıdır. Koşullu olasılık, P(A|B) ile gösterilir ve B olayının gerçekleştiği bilindiğinde A olayının gerçekleşme olasılığını ifade eder."
+  },
+  {
+    "instruction": "Birleşim olasılığı nedir?",
+    "output": "Birleşim olasılığı, iki veya daha fazla olayın en az birinin gerçekleşme olasılığıdır. İki olay A ve B için birleşim olasılığı, P(A ∪ B) = P(A) + P(B) - P(A ∩ B) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Kesin olay nedir?",
+    "output": "Kesin olay, bir olasılık deneyinde mutlaka gerçekleşen olaydır. Kesin olayın olasılığı 1'dir. Örneğin, bir zar atıldığında zarın 1 ile 6 arasında bir sayı göstermesi kesin olaydır."
+  },
+  {
+    "instruction": "İmkansız olay nedir?",
+    "output": "İmkansız olay, bir olasılık deneyinde asla gerçekleşmeyecek olaydır. İmkansız olayın olasılığı 0'dır. Örneğin, bir zar atıldığında zarın 7 göstermesi imkansız olaydır."
+  },
+  {
+    "instruction": "Rastgele değişken nedir?",
+    "output": "Rastgele değişken, bir olasılık deneyinin sonuçlarını sayısal değerlerle ifade eden bir değişkendir. Rastgele değişkenler, diskret veya sürekli olabilir ve olasılık dağılımları ile tanımlanır."
+  }
+]

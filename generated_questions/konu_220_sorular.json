@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Grafik üzerinde bir doğrunun denklemi nasıl bulunur?",
+    "output": "Bir doğrunun denklemi genellikle eğim-kesişim formunda yazılır: y = mx + b. Burada m, doğrunun eğimini, b ise y-eksenini kestiği noktayı temsil eder. Doğrunun denklemini bulmak için öncelikle doğrunun y-eksenini kestiği noktayı (b) belirleriz. Ardından, doğrunun eğimini (m) bulmak için iki nokta arasındaki y değişimini x değişimine böleriz."
+  },
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun dikey değişiminin yatay değişimine oranıdır ve genellikle m harfi ile gösterilir. Eğim, iki nokta arasındaki y değişiminin x değişimine bölünmesiyle hesaplanır: m = (y2 - y1) / (x2 - x1). Eğim, doğrunun ne kadar dik veya yatay olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eder. Burada m, doğrunun eğimini, b ise doğrunun y-eksenini kestiği noktayı temsil eder. Bu form, doğrunun grafiğini çizerken veya denklemini belirlerken kullanışlıdır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl yorumlanır?",
+    "output": "Bir doğrunun eğimi, doğrunun eğim açısını ve yönünü belirler. Pozitif eğim, doğrunun sağa doğru yükseldiğini, negatif eğim ise sağa doğru alçaldığını gösterir. Eğim sıfırsa, doğru yataydır ve sonsuzsa, doğru dikeydir."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde hangi alanlar çözüm kümesini oluşturur?",
+    "output": "Eşitsizlik grafiğinde, çözüm kümesi genellikle sınır çizgisinin belirttiği alanın bir tarafında yer alır. Eğer eşitsizlik 'büyük eşittir' veya 'küçük eşittir' şeklindeyse, sınır çizgisi de çözüm kümesine dahildir. Alanın hangi tarafının çözüm kümesi olduğunu belirlemek için test noktaları kullanılabilir."
+  },
+  {
+    "instruction": "Bir doğrunun y-eksenini kestiği nokta nasıl bulunur?",
+    "output": "Bir doğrunun y-eksenini kestiği nokta, x'in 0 olduğu noktadır. Doğrunun denklemi y = mx + b formunda verildiğinde, b değeri doğrunun y-eksenini kestiği noktayı gösterir."
+  },
+  {
+    "instruction": "Delta y ve delta x nedir?",
+    "output": "Delta y, iki nokta arasındaki y koordinatlarındaki değişimi, delta x ise x koordinatlarındaki değişimi temsil eder. Eğim hesaplamalarında kullanılırlar ve eğim formülünde m = (delta y) / (delta x) şeklinde yer alırlar."
+  },
+  {
+    "instruction": "Bir eşitsizlik grafiğinde sınır çizgisi nasıl belirlenir?",
+    "output": "Bir eşitsizlik grafiğinde sınır çizgisi, eşitsizliğin eşitlik kısmını temsil eder. Örneğin, y ≥ mx + b eşitsizliğinde sınır çizgisi y = mx + b olur. Eşitsizlik 'büyük' veya 'küçük' ise kesik çizgi, 'büyük eşittir' veya 'küçük eşittir' ise düz çizgi kullanılır."
+  },
+  {
+    "instruction": "Eğim ve y-eksenini kesme noktası arasındaki ilişki nedir?",
+    "output": "Eğim (m) ve y-eksenini kesme noktası (b), bir doğrunun eğim-kesişim formunda (y = mx + b) temsil edilmesini sağlar. Eğim, doğrunun dikliğini veya yataylığını ifade ederken, y-eksenini kesme noktası, doğrunun y-eksenini kestiği noktayı belirtir. Bu iki değer, doğrunun grafiğini tam olarak tanımlar."
+  },
+  {
+    "instruction": "Bir eşitsizlik grafiğinde çözüm kümesi nasıl belirlenir?",
+    "output": "Bir eşitsizlik grafiğinde çözüm kümesi, sınır çizgisinin belirttiği alanın bir tarafında yer alır. Eşitsizlik 'büyük eşittir' veya 'küçük eşittir' şeklinde ise sınır çizgisi de çözüm kümesine dahildir. Çözüm kümesinin hangi taraf olduğunu belirlemek için test noktaları kullanılır; bu noktalar eşitsizlikte yerine konularak kontrol edilir."
+  }
+]

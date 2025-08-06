@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yerine koyma yöntemi nedir?",
+    "output": "Yerine koyma yöntemi, bir denklemi çözmek için bilinmeyen bir değişkenin yerine bir sayı veya başka bir ifade koyarak sonucun kontrol edilmesi yöntemidir. Bu yöntem, özellikle denklemlerin çözümünde farklı değerlerin denenmesi ve doğru sonucun bulunması için kullanılır."
+  },
+  {
+    "instruction": "Yerine koyma yöntemi nasıl uygulanır?",
+    "output": "Yerine koyma yöntemi uygulanırken, denklemin içindeki bilinmeyen değişkenin yerine farklı sayılar konularak denklemin eşitliğinin sağlanıp sağlanmadığı kontrol edilir. Doğru sayı bulunduğunda, bu sayı denklemin çözümü olur."
+  },
+  {
+    "instruction": "Bilinmeyen nedir?",
+    "output": "Bilinmeyen, bir denklemde genellikle harflerle temsil edilen ve değeri belirlenmesi gereken değişkendir. Bilinmeyeni bulmak, denklemi çözmenin ana hedefidir."
+  },
+  {
+    "instruction": "Bilinmeyen nasıl bulunur?",
+    "output": "Bilinmeyeni bulmak için denklemin her iki tarafında matematiksel işlemler yaparak bilinmeyeni izole ederiz. Bu, toplama, çıkarma, çarpma veya bölme işlemleriyle yapılabilir. Amaç, bilinmeyeni tek başına bırakmaktır."
+  },
+  {
+    "instruction": "Basit denklemler hangi durumlarda kullanılır?",
+    "output": "Basit denklemler, günlük hayatta karşılaşılan problemleri modellemek ve çözmek için kullanılır. Örneğin, bir bütçeyi hesaplamak, mesafeyi bulmak veya bir miktarın eksik kısmını belirlemek gibi durumlarda basit denklemler kullanılır."
+  },
+  {
+    "instruction": "Denklemlerde deneme yanılma yöntemi nedir?",
+    "output": "Deneme yanılma yöntemi, bir denklemi çözmek için farklı değerler deneyerek doğru sonucu bulma yöntemidir. Bu yöntem, özellikle daha karmaşık denklemlerde veya hızlı bir çözüm gerektiğinde kullanılabilir."
+  },
+  {
+    "instruction": "Denklemlerde çıkarma işlemi nasıl yapılır?",
+    "output": "Denklemlerde çıkarma işlemi, bir terimi denklemin bir tarafından çıkararak diğer tarafa eklemek şeklinde yapılır. Bu, bilinmeyeni izole etmek ve denklemi çözmek için kullanılır."
+  },
+  {
+    "instruction": "Denklemlerde toplama işlemi nasıl yapılır?",
+    "output": "Denklemlerde toplama işlemi, bir terimi denklemin bir tarafına ekleyerek diğer taraftan çıkarma şeklinde yapılır. Bu, denklemin her iki tarafında eşitliği koruyarak bilinmeyeni izole etmeye yardımcı olur."
+  },
+  {
+    "instruction": "Bir denklemin çözümü nasıl kontrol edilir?",
+    "output": "Bir denklemin çözümü, bulunan değeri yerine koyarak denklemin her iki tarafının eşit olup olmadığını kontrol ederek doğrulanır. Eğer eşitlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Denklemlerde çarpma işlemi nasıl yapılır?",
+    "output": "Denklemlerde çarpma işlemi, denklemin her iki tarafını aynı sayıyla çarparak yapılır. Bu işlem, bilinmeyeni izole etmek ve denklemi çözmek için kullanılır. Her iki tarafı aynı sayıyla çarpmak, denklemin eşitliğini bozmadan çözüm sürecini ilerletir."
+  }
+]

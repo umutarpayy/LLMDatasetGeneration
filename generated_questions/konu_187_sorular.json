@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemi nasıl oluşturulur?",
+    "output": "Denklem sistemi, birden fazla denklemden oluşan ve bu denklemlerin aynı değişkenleri içerdiği bir sistemdir. Denklem sistemleri genellikle iki veya daha fazla bilinmeyeni çözmek için kullanılır. Bir problemde verilen koşullara göre her bir koşul bir denklem olarak ifade edilir ve bu denklemler bir sistem oluşturur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kümesi nedir?",
+    "output": "Denklem sistemlerinde çözüm kümesi, sistemdeki tüm denklemleri aynı anda sağlayan değişken değerlerinin tümüdür. Çözüm kümesi, sistemin türüne bağlı olarak tek bir çözüm, sonsuz sayıda çözüm veya hiç çözüm içermeyebilir."
+  },
+  {
+    "instruction": "Faiz hesaplaması nasıl yapılır?",
+    "output": "Faiz hesaplaması, genellikle bir ana para miktarının belirli bir faiz oranı üzerinden belirli bir süre için ne kadar faiz getireceğini hesaplamak için yapılır. Basit faiz hesaplamasında, faiz = ana para x faiz oranı x süre formülü kullanılır. Bileşik faiz hesaplamasında ise faiz, belirli aralıklarla ana paraya eklenir ve yeni ana para üzerinden hesaplanır."
+  },
+  {
+    "instruction": "İki bilinmeyenli denklem sistemi nasıl modellenir?",
+    "output": "İki bilinmeyenli denklem sistemi, genellikle iki değişken ve bu değişkenlerin katsayıları ile ifade edilen iki denklemden oluşur. Her bir denklem, problemdeki bir koşulu temsil eder. Örneğin, x ve y değişkenlerini içeren iki denklem, sistemin çözümünü bulmak için birlikte ele alınır."
+  },
+  {
+    "instruction": "Faiz oranı nedir ve nasıl ifade edilir?",
+    "output": "Faiz oranı, bir borç veya yatırım için ödenecek veya kazanılacak faiz miktarını belirleyen yüzdelik bir orandır. Genellikle yıllık olarak ifade edilir ve yüzde (%) işareti ile gösterilir. Örneğin, %5 faiz oranı, her yıl için ana paranın %5'i kadar faiz ödeneceği anlamına gelir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eşitlik nasıl sağlanır?",
+    "output": "Denklem sistemlerinde eşitlik, her iki denklemin de aynı değişken değerleri için sağlanmasıyla elde edilir. Bu, denklemlerin her iki tarafına da aynı işlemlerin uygulanması veya denklemlerin birleştirilmesiyle sağlanabilir. Eşitlik sağlandığında, sistemin çözümü bulunmuş olur."
+  },
+  {
+    "instruction": "İpotek karşılığı kredi nedir?",
+    "output": "İpotek karşılığı kredi, bir gayrimenkulün teminat olarak gösterilmesi karşılığında verilen bir kredi türüdür. Bu tür kredilerde, kredi veren kuruluş, borçlunun borcunu ödeyememesi durumunda teminat olarak gösterilen gayrimenkule el koyma hakkına sahiptir. Genellikle daha düşük faiz oranları sunar."
+  },
+  {
+    "instruction": "Bireysel ihtiyaç kredisi nedir?",
+    "output": "Bireysel ihtiyaç kredisi, kişisel harcamalar için kullanılan ve genellikle teminatsız olarak verilen bir kredi türüdür. Bu tür krediler, tatil, eğitim, düğün gibi kişisel ihtiyaçları finanse etmek için kullanılır ve genellikle daha yüksek faiz oranlarına sahiptir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde sınır koşulları nasıl belirlenir?",
+    "output": "Denklem sistemlerinde sınır koşulları, problemin fiziksel veya mantıksal kısıtlamalarına göre belirlenir. Örneğin, bir kredi problemi için maksimum kredi miktarı veya faiz oranı gibi kısıtlamalar sınır koşulları olarak alınabilir. Bu koşullar, sistemin çözümlerini sınırlayarak gerçekçi ve uygulanabilir çözümler elde edilmesini sağlar."
+  },
+  {
+    "instruction": "Matematikte faiz oranı ve toplam faiz arasındaki ilişki nedir?",
+    "output": "Matematikte, faiz oranı ve toplam faiz arasındaki ilişki, faiz oranının ana para üzerinden belirli bir süre için ne kadar faiz getirileceğini belirlemesi şeklindedir. Faiz oranı ne kadar yüksekse, aynı ana para ve süre için toplam faiz de o kadar yüksek olacaktır. Faiz oranı, toplam faizin hesaplanmasında temel bir bileşendir."
+  }
+]

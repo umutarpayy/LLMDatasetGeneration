@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bileşik eşitsizlik nedir?",
+    "output": "Bileşik eşitsizlik, iki veya daha fazla eşitsizliğin bir arada ele alındığı matematiksel bir ifadeyi ifade eder. Bu tür eşitsizlikler genellikle 've' veya 'veya' bağlaçları ile birbirine bağlanır. 'Ve' bağlacı, her iki eşitsizliğin de aynı anda sağlanmasını gerektirirken, 'veya' bağlacı, eşitsizliklerden en az birinin sağlanmasının yeterli olduğunu belirtir."
+  },
+  {
+    "instruction": "Bileşik eşitsizlikler nasıl çözülür?",
+    "output": "Bileşik eşitsizlikler, her bir eşitsizliğin ayrı ayrı çözülmesi ve ardından bu çözümlerin birleştirilmesi ile çözülür. 'Ve' bağlacı kullanıldığında, her iki eşitsizliğin kesişim kümesi alınır. 'Veya' bağlacı kullanıldığında ise, her iki eşitsizliğin birleşim kümesi alınır. Çözüm kümeleri sayı doğrusu üzerinde gösterilerek daha iyi anlaşılabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde yön değiştirme ne zaman yapılır?",
+    "output": "Eşitsizliklerde yön değiştirme, eşitsizliğin her iki tarafı negatif bir sayı ile çarpıldığında veya bölündüğünde yapılır. Bu durumda eşitsizliğin yönü tersine çevrilir. Örneğin, eğer -3x < 9 eşitsizliğini çözmek için her iki tarafı -3'e bölersek, eşitsizlik x > -3 olarak yön değiştirecektir."
+  },
+  {
+    "instruction": "Eşitsizliklerde 've' ve 'veya' bağlaçları nasıl kullanılır?",
+    "output": "'Ve' bağlacı, iki eşitsizliğin aynı anda doğru olması gerektiğini belirtir. Çözüm kümesi, her iki eşitsizliğin kesişim kümesidir. 'Veya' bağlacı ise, eşitsizliklerden en az birinin doğru olmasının yeterli olduğunu belirtir. Çözüm kümesi, her iki eşitsizliğin birleşim kümesidir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözüm kümesi nasıl belirlenir?",
+    "output": "Bileşik eşitsizliklerin çözüm kümesi, her bir eşitsizliğin çözüm kümesinin 've' veya 'veya' bağlaçlarına göre birleştirilmesi ile belirlenir. 'Ve' bağlacı kullanıldığında, kesişim kümesi alınır; 'veya' bağlacı kullanıldığında ise birleşim kümesi alınır. Çözüm kümeleri genellikle sayı doğrusu üzerinde gösterilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin sayı doğrusu üzerinde gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin sayı doğrusu üzerinde gösterimi, çözüm kümesinin belirli bir aralıkta veya aralıklarda olduğunu görselleştirmek için kullanılır. Açık aralıklar için yuvarlak parantez veya açık daire, kapalı aralıklar için ise köşeli parantez veya dolu daire kullanılır. Örneğin, x < 4 eşitsizliği, 4'ün solunda açık bir daire ile gösterilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Negatif sayılarla işlem yaparken, özellikle çarpma veya bölme işlemleri sırasında eşitsizliğin yönünün değişmesi gerektiğine dikkat edilmelidir. Bu, negatif bir sayı ile çarpma veya bölme işlemi yapıldığında eşitsizliğin yönünün tersine çevrilmesi gerektiği anlamına gelir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerde çözüm kontrolü nasıl yapılır?",
+    "output": "Bileşik eşitsizliklerde çözüm kontrolü, elde edilen çözüm kümelerindeki herhangi bir değeri orijinal eşitsizliklerde yerine koyarak yapılır. Eğer bu değerler eşitsizlikleri sağlıyorsa, çözüm doğru kabul edilir. Özellikle kritik sınır değerleri kontrol etmek, çözümün doğruluğunu teyit etmek için önemlidir."
+  },
+  {
+    "instruction": "Eşitsizliklerde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizliklerde sınır değerler, eşitsizliğin eşitliğe dönüştüğü noktalar olarak belirlenir. Bu değerler, eşitsizliğin çözüm kümesinin sınırlarını oluşturur ve genellikle eşitsizlik çözülürken elde edilen sonuçlardır. Sınır değerler, çözüm kümesinin açık veya kapalı olmasına göre sayı doğrusu üzerinde açık veya dolu daireler ile gösterilir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin gerçek hayatta kullanım alanları nelerdir?",
+    "output": "Bileşik eşitsizlikler, gerçek hayatta çeşitli optimizasyon problemlerinde, kaynak tahsisi, bütçeleme, mühendislik tasarımları ve karar verme süreçlerinde kullanılır. Örneğin, belirli bir bütçe dahilinde en fazla ürün alımı veya belirli bir alanda en az maliyetle en fazla verim elde etme gibi durumlarda bileşik eşitsizlikler kullanılarak çözümler üretilir."
+  }
+]

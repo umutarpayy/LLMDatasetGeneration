@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki bilinmeyenli cebirsel ifadeler nedir?",
+    "output": "İki bilinmeyenli cebirsel ifadeler, iki farklı değişken içeren matematiksel ifadelerdir. Bu ifadeler genellikle 'ax + by' şeklinde yazılır ve a, b sabit katsayılar, x ve y ise değişkenlerdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin yerine sayı koyma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde değişkenlerin yerine sayı koyma işlemi, verilen değişkenlerin yerine belirli sayılar konularak ifadenin sayısal değerinin hesaplanmasıdır. Bu işlemde, her bir değişkenin yerine verilen sayı yerleştirilir ve ardından matematiksel işlemler yapılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde işlem sırası neden önemlidir?",
+    "output": "Cebirsel ifadelerde işlem sırası, doğru sonuca ulaşmak için önemlidir. Matematikte işlemler belirli bir sırayla yapılmalıdır: önce parantez içindeki işlemler, sonra çarpma ve bölme, en son toplama ve çıkarma. Bu sırayı takip etmek, yanlış sonuçlardan kaçınmak için gereklidir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Negatif sayılarla işlem yaparken, işaret kurallarına dikkat edilmelidir. İki negatif sayının çarpımı pozitif, bir negatif ve bir pozitif sayının çarpımı ise negatiftir. Ayrıca, çıkarma işlemi yaparken negatif bir sayıyı çıkarmak, onu toplamak anlamına gelir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nedir?",
+    "output": "Cebirsel ifadelerde katsayı, bir değişkenin önündeki sayıdır. Katsayı, değişkenin kaç katının alındığını belirtir. Örneğin, 3x ifadesinde 3, x'in katsayısıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, genellikle çarpı işareti (*) kullanılmadan gösterilir. Örneğin, 3x ifadesi 3 ile x'in çarpımını temsil eder. Çarpma işlemi parantez veya yan yana yazılarak da gösterilebilir, örneğin (3)(x) veya 3x."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nedir?",
+    "output": "Cebirsel ifadelerde sabit terim, değişken içermeyen sayıdır. Bu terim, ifadenin değişkenlerden bağımsız olan kısmını temsil eder. Örneğin, 5x + 7 ifadesinde 7, sabit terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Cebirsel ifadelerde toplama ve çıkarma işlemleri, benzer terimler arasında yapılır. Benzer terimler, aynı değişken ve aynı üssü olan terimlerdir. Örneğin, 3x + 2x ifadesinde 3x ve 2x benzer terimlerdir ve toplanarak 5x elde edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terim nedir?",
+    "output": "Cebirsel ifadelerde terim, bir ifadenin her bir parçasıdır. Terimler, sabit sayılar, değişkenler veya bunların çarpımları şeklinde olabilir. Örneğin, 4x + 5y - 3 ifadesinde 4x, 5y ve -3 birer terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin yerine sayı koyarken işlem sırası nasıl etkilenir?",
+    "output": "Değişkenlerin yerine sayı koyarken, işlem sırası değişmez. Önce parantez içindeki işlemler, ardından çarpma ve bölme, en son toplama ve çıkarma yapılır. Değişkenlerin yerine sayı koymak, bu sıralamayı etkilemez, sadece sayısal hesaplamaların yapılmasını sağlar."
+  }
+]

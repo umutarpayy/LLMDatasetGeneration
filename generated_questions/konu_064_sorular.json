@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Köklü ifadeler nedir?",
+    "output": "Köklü ifadeler, bir sayının kök (genellikle karekök) altında yazıldığı matematiksel ifadelerdir. Bu ifadeler, tam kare olmayan sayıların karekökleri gibi irrasyonel sayıları temsil edebilir."
+  },
+  {
+    "instruction": "Köklü ifadeler nasıl sadeleştirilir?",
+    "output": "Köklü ifadeleri sadeleştirmek için, kök içindeki sayıyı çarpanlarına ayırarak tam kare olan çarpanları kök dışına çıkarırız. Örneğin, √18 ifadesi 18 = 9 x 2 olarak yazılır ve √9 kök dışına 3 olarak çıkar, böylece √18 = 3√2 olur."
+  },
+  {
+    "instruction": "Köklü ifadeler nasıl toplanır veya çıkarılır?",
+    "output": "Köklü ifadeleri toplamak veya çıkarmak için, kök içindeki sayıların aynı olması gerekir. Aynı köklü ifadeler, katsayıları toplanarak veya çıkarılarak birleştirilebilir. Örneğin, 3√2 + 5√2 = 8√2 olur."
+  },
+  {
+    "instruction": "Köklü ifadelerin çarpanlarına ayrılması ne anlama gelir?",
+    "output": "Köklü ifadelerin çarpanlarına ayrılması, kök içindeki sayının çarpanlarına ayrılarak tam kare olan çarpanların kök dışına çıkarılması işlemidir. Bu, ifadeyi daha sade bir forma dönüştürmek için yapılır."
+  },
+  {
+    "instruction": "Köklü ifadelerle işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Köklü ifadelerle işlem yaparken, kök içindeki sayıların çarpanlarına dikkat edilmeli, aynı köklü ifadeler toplanıp çıkarılmalı ve kök içindeki tam kareler kök dışına çıkarılmalıdır. Ayrıca, işlemler sırasında negatif sayıların kareköklerinin gerçek sayılar olmadığını unutmamak gerekir."
+  },
+  {
+    "instruction": "Tam kare nedir ve köklü ifadelerde nasıl kullanılır?",
+    "output": "Tam kare, bir sayının kendisiyle çarpılması sonucu elde edilen sayıdır. Köklü ifadelerde, tam kare olan çarpanlar kök dışına çıkarılarak ifadeler sadeleştirilir. Örneğin, 16 bir tam karedir ve √16 = 4 olarak kök dışına çıkar."
+  },
+  {
+    "instruction": "Köklü ifadelerle çarpma işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerle çarpma işlemi, kök içindeki sayıların çarpılması ve sonucun kök içine alınmasıyla yapılır. Örneğin, √2 x √3 = √(2 x 3) = √6 olur."
+  },
+  {
+    "instruction": "Köklü ifadelerin özellikleri nelerdir?",
+    "output": "Köklü ifadelerin özellikleri arasında, köklerin çarpılması ve bölünmesi durumunda kök içindeki sayıların çarpılması veya bölünmesi, köklerin sadeleştirilmesi ve aynı köklü ifadelerin toplanıp çıkarılabilmesi gibi özellikler bulunur."
+  },
+  {
+    "instruction": "Köklü ifadeler hangi durumlarda kullanılır?",
+    "output": "Köklü ifadeler, tam kare olmayan sayıların daha kolay anlaşılabilir bir formda ifade edilmesi gerektiğinde, geometri problemlerinde, mühendislik hesaplamalarında ve bilimsel araştırmalarda sıkça kullanılır."
+  },
+  {
+    "instruction": "Köklü ifadelerle ilgili hangi matematiksel kurallar önemlidir?",
+    "output": "Köklü ifadelerle ilgili önemli matematiksel kurallar arasında, köklerin çarpılması ve bölünmesi kuralları, kök içindeki sayıların çarpanlarına ayrılması ve sadeleştirilmesi, aynı köklü ifadelerin toplanıp çıkarılması ve kök dışına çıkarılacak tam karelerin belirlenmesi gibi kurallar yer alır."
+  }
+]

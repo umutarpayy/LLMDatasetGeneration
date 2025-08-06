@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üs nedir?",
+    "output": "Üs, bir sayının kendisiyle kaç kez çarpılacağını gösteren bir matematiksel ifadedir. Üs, sayının sağ üst köşesine yazılır ve taban olarak adlandırılan sayının kaç kez kendisiyle çarpılacağını belirtir."
+  },
+  {
+    "instruction": "Bir sayının 0'ıncı kuvveti neden 1'e eşittir?",
+    "output": "Bir sayının 0'ıncı kuvveti 1'e eşittir çünkü matematiksel olarak bir sayıyı 0 kez kendisiyle çarpmak, başlangıç değerini yani 1'i değiştirmez. Bu kural, üslü ifadelerin tutarlılığını sağlamak için kabul edilmiştir."
+  },
+  {
+    "instruction": "Bir sayının 1'inci kuvveti ne anlama gelir?",
+    "output": "Bir sayının 1'inci kuvveti, o sayının kendisine eşittir. Çünkü sayıyı 1 kez kendisiyle çarpmak, sayının değerini değiştirmez."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban ve üs neyi ifade eder?",
+    "output": "Üslü ifadelerde taban, çarpılacak sayıyı, üs ise bu sayının kaç kez kendisiyle çarpılacağını ifade eder. Örneğin, 3^4 ifadesinde 3 taban, 4 ise üssü temsil eder."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken tabanlar aynı ise üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler ne anlama gelir?",
+    "output": "Negatif üsler, sayının çarpmaya göre tersini ifade eder. a^(-n) = 1/a^n şeklinde yazılır. Bu, sayının tersinin pozitif üs kadar çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerin özellikleri nelerdir?",
+    "output": "Üslü ifadeler, tabanlar aynı olduğunda üslerin toplanması veya çıkarılması, bir sayının 0'ıncı kuvvetinin 1'e eşit olması gibi özelliklere sahiptir. Ayrıca negatif üsler, sayının tersinin pozitif üs kadar çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde işaret kuralları nelerdir?",
+    "output": "Üslü ifadelerde işaret kuralları, tabanın negatif veya pozitif olmasına göre değişir. Negatif bir tabanın çift sayıda üssü pozitif, tek sayıda üssü ise negatif sonuç verir."
+  },
+  {
+    "instruction": "Üslü ifadeler hangi durumlarda kullanılır?",
+    "output": "Üslü ifadeler, büyük veya küçük sayıları daha kolay ifade etmek, bilimsel hesaplamalar yapmak, büyüme ve azalma oranlarını hesaplamak gibi durumlarda kullanılır."
+  }
+]

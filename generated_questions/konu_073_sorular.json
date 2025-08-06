@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü sayılar nedir?",
+    "output": "Üslü sayılar, bir sayının kendisiyle tekrarlı çarpımını göstermek için kullanılan matematiksel ifadelerdir. 'a' sayısının 'n' kez kendisiyle çarpılması 'a üzeri n' veya a^n şeklinde gösterilir."
+  },
+  {
+    "instruction": "Üslü sayıların özellikleri nelerdir?",
+    "output": "Üslü sayıların bazı temel özellikleri şunlardır: 1) a^m * a^n = a^(m+n) (Tabanlar aynı, üsler toplanır), 2) (a^m)^n = a^(m*n) (Üslerin çarpımı), 3) a^0 = 1 (Her sayının sıfırıncı kuvveti 1'dir), 4) a^(-n) = 1/a^n (Negatif üsler, sayının tersini ifade eder)."
+  },
+  {
+    "instruction": "Üslü ifadeler nasıl sadeleştirilir?",
+    "output": "Üslü ifadeler, aynı tabana sahip üslerin toplama, çıkarma veya çarpma özellikleri kullanılarak sadeleştirilebilir. Aynı tabanlı üsler toplanabilir veya çıkarılabilir. Ayrıca üslü ifadelerin çarpımı veya bölümü, üslerin çarpımı veya farkı olarak yazılabilir."
+  },
+  {
+    "instruction": "Köklü ifadeler ile üslü ifadeler arasındaki ilişki nedir?",
+    "output": "Köklü ifadeler, üslü ifadelerin kesirli üslerle gösterimidir. Örneğin, n'inci dereceden kök a, a^(1/n) şeklinde ifade edilir. Bu, köklü ifadelerin üslü ifadeler olarak yazılabileceği anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi, aynı tabana sahip ifadeler için üslerin toplanmasıyla yapılır. Örneğin, a^m * a^n = a^(m+n). Farklı tabanlar için ise çarpma işlemi normal çarpma kurallarına göre yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi, aynı tabana sahip ifadeler için üslerin çıkarılmasıyla yapılır. Örneğin, a^m / a^n = a^(m-n). Farklı tabanlar için ise bölme işlemi normal bölme kurallarına göre yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler ne anlama gelir?",
+    "output": "Negatif üsler, sayının tersini ifade eder. Yani a^(-n) = 1/a^n şeklinde tanımlanır. Bu, negatif üslerin sayıyı ters çevirdiği anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde kesirli üsler nasıl yorumlanır?",
+    "output": "Kesirli üsler, köklü ifadelerle ilişkilidir. Örneğin, a^(m/n) ifadesi, n'inci dereceden kök a'nın m'inci kuvveti olarak yorumlanır. Bu, a'nın n'inci dereceden kökünün m kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Üslü ifadelerde toplama ve çıkarma işlemleri, yalnızca aynı üslere ve aynı tabanlara sahip ifadeler arasında yapılabilir. Örneğin, a^m + a^m = 2a^m. Farklı üsler veya tabanlar arasında doğrudan toplama veya çıkarma işlemi yapılamaz."
+  },
+  {
+    "instruction": "Üslü ifadeler hangi durumlarda kullanılır?",
+    "output": "Üslü ifadeler, büyük veya küçük sayıların daha kolay ifade edilmesi, bilimsel hesaplamalar, mühendislik problemleri, büyüme oranlarının hesaplanması gibi birçok alanda kullanılır. Üslü ifadeler, matematiksel işlemleri daha basit ve anlaşılır hale getirir."
+  }
+]

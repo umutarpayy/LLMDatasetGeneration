@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Resimli grafik nedir?",
+    "output": "Resimli grafik, verileri görsel bir şekilde temsil etmek için kullanılan bir grafik türüdür. Her bir resim veya sembol, belirli bir veri miktarını temsil eder. Bu grafik türü, verilerin daha kolay anlaşılmasını sağlar ve özellikle çocuklar için öğretici bir araç olarak kullanılır."
+  },
+  {
+    "instruction": "Resimli grafik nasıl yorumlanır?",
+    "output": "Resimli grafiği yorumlamak için önce her bir resmin veya sembolün ne kadar veriyi temsil ettiğini anlamak gerekir. Daha sonra, grafikteki her bir resim veya sembol sayısı ile temsil ettiği veri miktarı çarpılarak toplam veri miktarı hesaplanır. Bu sayede, hangi kategoriye ne kadar veri düştüğü anlaşılır."
+  },
+  {
+    "instruction": "Resimli grafiklerin avantajları nelerdir?",
+    "output": "Resimli grafiklerin avantajları arasında verilerin görsel olarak daha çekici ve anlaşılır hale gelmesi, karmaşık verilerin basit bir şekilde sunulabilmesi ve özellikle çocuklar için eğitici bir araç olarak kullanılabilmesi sayılabilir. Ayrıca, resimli grafikler verilerin hızlı bir şekilde karşılaştırılmasına olanak tanır."
+  },
+  {
+    "instruction": "Resimli grafik ile sütun grafiği arasındaki fark nedir?",
+    "output": "Resimli grafik, verileri semboller veya resimlerle temsil ederken, sütun grafiği dikey veya yatay sütunlar kullanarak verileri gösterir. Resimli grafikler daha görseldir ve genellikle daha küçük veri setleri için uygundur, sütun grafikleri ise daha büyük veri setleri için daha uygun ve daha hassas bir karşılaştırma sağlar."
+  },
+  {
+    "instruction": "Resimli grafikler hangi durumlarda kullanılır?",
+    "output": "Resimli grafikler genellikle eğitim amaçlı, çocuklara yönelik sunumlarda veya verilerin daha çekici ve anlaşılır hale getirilmek istendiği durumlarda kullanılır. Ayrıca, belirli bir veri setinin hızlı ve kolay bir şekilde yorumlanması gerektiğinde de tercih edilir."
+  },
+  {
+    "instruction": "Resimli grafiklerde birim nasıl belirlenir?",
+    "output": "Resimli grafiklerde birim, her bir resim veya sembolün temsil ettiği veri miktarını ifade eder. Bu birim, grafik oluşturulurken belirlenir ve genellikle grafiğin yanında veya altında belirtilir. Birim, verilerin doğru bir şekilde yorumlanabilmesi için önemlidir."
+  },
+  {
+    "instruction": "Resimli grafiklerde veri okuma nasıl yapılır?",
+    "output": "Resimli grafiklerde veri okumak için önce her bir sembolün ne kadar veriyi temsil ettiğini bilmek gerekir. Daha sonra, her bir kategori için sembol sayısı ile bu birim çarpılarak toplam veri miktarı hesaplanır. Bu şekilde her bir kategoride kaç birim veri olduğu anlaşılır."
+  },
+  {
+    "instruction": "Resimli grafiklerin dezavantajları nelerdir?",
+    "output": "Resimli grafiklerin dezavantajları arasında, büyük veri setleri için uygun olmamaları ve hassas veri karşılaştırmaları için yeterince kesin olmamaları sayılabilir. Ayrıca, sembollerin yanlış anlaşılması veya yanlış birim kullanımı, verilerin yanlış yorumlanmasına neden olabilir."
+  },
+  {
+    "instruction": "Resimli grafiklerde sembol seçimi neden önemlidir?",
+    "output": "Resimli grafiklerde sembol seçimi, verilerin doğru ve etkili bir şekilde sunulabilmesi için önemlidir. Semboller, temsil ettikleri verilerle ilişkili olmalı ve kolayca anlaşılabilir olmalıdır. Yanlış sembol seçimi, verilerin yanlış anlaşılmasına veya grafiklerin etkisiz olmasına yol açabilir."
+  },
+  {
+    "instruction": "Veri sunumunda resimli grafikler nasıl etkili kullanılır?",
+    "output": "Veri sunumunda resimli grafiklerin etkili kullanımı için, grafiklerin net ve anlaşılır olması, uygun sembol ve birimlerin seçilmesi ve verilerin doğru bir şekilde temsil edilmesi gerekir. Ayrıca, grafiklerin görsel olarak çekici olması ve izleyicilerin dikkatini çekebilmesi de önemlidir."
+  }
+]

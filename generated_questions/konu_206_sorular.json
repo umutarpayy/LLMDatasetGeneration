@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki ifadeyi karşılaştıran ve bu ifadeler arasında büyüklük veya küçüklük ilişkisi kuran matematiksel bir ifadedir. Eşitsizlik sembolleri genellikle '<', '>', '≤' ve '≥' şeklindedir."
+  },
+  {
+    "instruction": "Bileşik eşitsizlik nasıl çözülür?",
+    "output": "Bileşik eşitsizlik, birden fazla eşitsizliğin bir arada bulunduğu bir ifadedir. Çözmek için, eşitsizlikler tek tek ele alınarak çözülür ve sonuçlar birleştirilir. Her iki eşitsizlik de aynı anda sağlanmalıdır."
+  },
+  {
+    "instruction": "Eşitsizliklerde hangi işlemler yapılabilir?",
+    "output": "Eşitsizliklerde toplama, çıkarma, çarpma ve bölme işlemleri yapılabilir. Ancak çarpma veya bölme işlemi negatif bir sayı ile yapıldığında, eşitsizlik yönü değiştirilmelidir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözüm kümesi nasıl bulunur?",
+    "output": "Eşitsizliklerin çözüm kümesi, eşitsizliği sağlayan tüm sayıların oluşturduğu kümedir. Çözüm kümesi, sayı doğrusu üzerinde gösterilerek veya aralık notasyonu kullanılarak ifade edilebilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde 've' ve 'veya' bağlaçları nasıl kullanılır?",
+    "output": "'Ve' bağlacı, her iki eşitsizliğin aynı anda sağlanması gerektiğini belirtir. 'Veya' bağlacı ise en az bir eşitsizliğin sağlanmasının yeterli olduğunu ifade eder."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafik üzerinde gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin grafik üzerinde gösterimi, sayı doğrusu üzerinde yapılır. Eşitsizliğin sağladığı aralık, açık veya kapalı noktalarla belirtilir ve bu aralık çizgi ile gösterilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Eşitsizliklerle işlem yaparken, negatif sayılarla çarpma veya bölme durumunda eşitsizlik yönünün değiştirilmesi gerektiğine dikkat edilmelidir. Ayrıca, eşitsizliklerin her iki tarafına aynı sayıyı eklemek veya çıkarmak eşitsizliği değiştirmez."
+  },
+  {
+    "instruction": "Eşitsizliklerin doğruluğunu nasıl kontrol edebiliriz?",
+    "output": "Eşitsizliklerin doğruluğunu kontrol etmek için, çözüm kümesinden bir veya birkaç değer seçilerek bu değerler eşitsizlikte yerine konur. Eğer eşitsizlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde sayı doğrusu nasıl kullanılır?",
+    "output": "Eşitsizliklerin çözümünde sayı doğrusu kullanılarak çözüm kümesi görsel olarak gösterilir. Çözüm aralığı, sayı doğrusunda açık veya kapalı noktalarla ve çizgi ile belirtilir."
+  },
+  {
+    "instruction": "Çözüm kümesinin boş olması ne anlama gelir?",
+    "output": "Çözüm kümesinin boş olması, eşitsizliğin hiçbir gerçek sayı için sağlanmadığı anlamına gelir. Bu durumda, eşitsizliğin çözümü yoktur ve çözüm kümesi boş küme olarak ifade edilir."
+  }
+]

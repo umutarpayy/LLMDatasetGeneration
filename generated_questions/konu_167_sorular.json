@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemi nedir?",
+    "output": "Denklem sistemi, birden fazla denklemin bir araya gelerek oluşturduğu bir yapıdır. Bu denklemler genellikle aynı değişkenleri içerir ve bu değişkenlerin değerlerini bulmak için birlikte çözülmeleri gerekir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde denge kavramı nasıl kullanılır?",
+    "output": "Denklem sistemlerinde denge kavramı, iki tarafın eşit olduğu durumları ifade eder. Örneğin, bir terazinin iki kefesindeki ağırlıkların eşit olması gibi, denklemlerde de sol ve sağ tarafların eşit olması gerekir. Bu dengeyi sağlamak için her iki tarafa da aynı işlemler uygulanır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eşitlik nasıl korunur?",
+    "output": "Denklem sistemlerinde eşitlik, her iki tarafa aynı matematiksel işlemi uygulayarak korunur. Örneğin, bir taraftan bir değer çıkarılırsa, diğer taraftan da aynı değer çıkarılmalıdır. Bu, denklemin dengesini bozmadan çözüm sürecine devam etmeyi sağlar."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bir değişkenin değeri nasıl bulunur?",
+    "output": "Denklem sistemlerinde bir değişkenin değeri, genellikle diğer değişkenleri yok ederek veya yerine koyma yöntemi kullanılarak bulunur. Bu süreçte, bir denklemden bir değişkenin değeri ifade edilir ve bu ifade diğer denklemde yerine konur ya da bir değişken yok edilerek diğerinin değeri hesaplanır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün doğruluğu nasıl kontrol edilir?",
+    "output": "Denklem sistemlerinde çözümün doğruluğu, bulunan değişken değerlerini orijinal denklemlerde yerine koyarak kontrol edilir. Eğer her iki denklem de sağlanıyorsa, çözüm doğrudur. Aksi halde, çözüm tekrar gözden geçirilmelidir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde terazi modeli nasıl kullanılır?",
+    "output": "Denklem sistemlerinde terazi modeli, denklemleri ve değişkenleri fiziksel bir denge durumu olarak görselleştirmeye yardımcı olur. Bu modelde, her iki tarafın eşit ağırlıkta olması gerektiği prensibiyle, denklemlerin her iki tarafına da aynı işlemler uygulanarak denge korunur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde değişkenlerin katsayıları neden önemlidir?",
+    "output": "Denklem sistemlerinde değişkenlerin katsayıları, denklemlerin çözümünde önemli bir rol oynar çünkü katsayılar, değişkenlerin birbirleriyle nasıl ilişkili olduğunu gösterir. Katsayılar eşitlenerek ya da uygun işlemler yapılarak, değişkenlerin yok edilmesi veya izole edilmesi sağlanır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bir değişkeni izole etmek ne anlama gelir?",
+    "output": "Denklem sistemlerinde bir değişkeni izole etmek, o değişkenin diğer değişkenlerden ve sabitlerden ayrılarak tek başına bırakılması anlamına gelir. Bu, genellikle diğer terimlerin karşı tarafa taşınması ve değişkenin katsayısının bir yapılması ile sağlanır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde terazi modeli hangi durumlarda kullanışlıdır?",
+    "output": "Denklem sistemlerinde terazi modeli, özellikle denklemlerin görselleştirilmesi ve anlaşılması zor olan durumlarda kullanışlıdır. Öğrencilerin denklemler arasındaki ilişkileri ve dengeyi daha iyi kavramalarına yardımcı olur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bir değişkenin yok edilmesi ne anlama gelir?",
+    "output": "Denklem sistemlerinde bir değişkenin yok edilmesi, iki denklemde de aynı değişkenin katsayılarının eşitlenip, bu değişkenin elimine edilmesi işlemidir. Bu, diğer değişkenin değerini bulmayı kolaylaştırır ve genellikle yok etme yöntemi ile gerçekleştirilir."
+  }
+]

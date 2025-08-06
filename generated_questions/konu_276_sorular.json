@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Döndürme işlemi sırasında merkez noktası nasıl belirlenir?",
+    "output": "Döndürme işlemi sırasında merkez noktası, döndürme hareketinin etrafında gerçekleştiği sabit bir noktadır. Bu nokta genellikle koordinat sisteminde belirli bir (x, y) konumunda bulunur ve tüm şekil bu nokta etrafında döndürülür. Merkez noktası, döndürme işleminin başlangıç ve bitiş pozisyonlarını etkiler."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında saat yönü ve saat yönünün tersi ne anlama gelir?",
+    "output": "Döndürme işlemi sırasında saat yönü, saat ibrelerinin hareket ettiği yönü ifade eder ve genellikle negatif açı değerleriyle gösterilir. Saat yönünün tersi ise saat ibrelerinin tersi yönünde döndürmeyi ifade eder ve pozitif açı değerleriyle belirtilir. Matematikte pozitif açı genellikle saat yönünün tersine döndürmeyi ifade eder."
+  },
+  {
+    "instruction": "270 derece döndürme işlemi ne anlama gelir?",
+    "output": "270 derece döndürme işlemi, bir şeklin belirli bir merkez noktası etrafında saat yönünün tersine 270 derece döndürülmesi anlamına gelir. Bu, şeklin başlangıç pozisyonundan itibaren saat yönünün tersine üç çeyrek tur atması demektir. Bu tür bir döndürme, şeklin orijinal konumuna göre belirgin bir dönüşüm sağlar."
+  },
+  {
+    "instruction": "Döndürme işlemi sonucunda şeklin konumu nasıl kontrol edilir?",
+    "output": "Döndürme işlemi sonucunda şeklin konumunu kontrol etmek için, döndürme işleminin başlangıç ve bitiş konumları karşılaştırılır. Bu, genellikle koordinat sisteminde şeklin yeni konumunu belirleyerek yapılır. Döndürme işlemi sırasında kullanılan açı ve merkez noktası doğruluğu kontrol edilerek, şeklin beklenen konumda olup olmadığı değerlendirilir."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi araçlar kullanılabilir?",
+    "output": "Döndürme işlemi sırasında çeşitli araçlar kullanılabilir, bunlar arasında geometrik yazılımlar, döndürme aygıtları veya manuel yöntemler bulunur. Geometrik yazılımlar, şeklin belirli bir merkez etrafında döndürülmesini simüle ederken, döndürme aygıtları fiziksel olarak şekli döndürmek için kullanılır. Manuel yöntemler ise genellikle kağıt üzerinde şeklin elle döndürülmesiyle gerçekleştirilir."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi matematiksel kavramlar kullanılır?",
+    "output": "Döndürme işlemi sırasında kullanılan matematiksel kavramlar arasında açı, merkez nokta, koordinat sistemi ve trigonometri bulunur. Açı, döndürmenin ne kadar yapılacağını belirlerken, merkez nokta döndürmenin etrafında gerçekleştiği sabit noktadır. Koordinat sistemi, şeklin konumunu belirlemek için kullanılır ve trigonometri, döndürme işleminin matematiksel hesaplamalarında yardımcı olur."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında şeklin boyutu değişir mi?",
+    "output": "Döndürme işlemi izometrik bir dönüşümdür, yani şeklin boyutu, biçimi ve alanı değişmez. Sadece şeklin konumu ve yönü değişir. Bu nedenle, döndürme işlemi sonrasında şeklin boyutu orijinal haliyle aynı kalır."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi geometrik şekiller üzerinde uygulanabilir?",
+    "output": "Döndürme işlemi, iki boyutlu tüm geometrik şekiller üzerinde uygulanabilir. Bu şekiller arasında üçgenler, dörtgenler, beşgenler, daireler ve diğer çokgenler bulunur. Üç boyutlu şekillerde de döndürme işlemi yapılabilir, ancak bu durumda döndürme ekseni de belirlenmelidir."
+  },
+  {
+    "instruction": "Döndürme işlemi ile simetri arasında nasıl bir ilişki vardır?",
+    "output": "Döndürme işlemi ile simetri arasında bir ilişki vardır, çünkü bazı şekiller belirli açılarla döndürüldüğünde kendileriyle örtüşebilir. Bu, şeklin döndürme simetrisine sahip olduğunu gösterir. Örneğin, düzgün bir beşgen 72 derece döndürüldüğünde kendisiyle örtüşür, bu da onun döndürme simetrisine sahip olduğunu gösterir."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi açılar daha sık kullanılır?",
+    "output": "Döndürme işlemi sırasında en sık kullanılan açılar 90 derece, 180 derece, 270 derece ve 360 derecedir. Bu açılar, şeklin belirgin dönüşümlerini sağlar ve genellikle simetrik özelliklere sahip şekillerde kullanılır. 360 derece döndürme, şekli başlangıç konumuna geri getirir."
+  }
+]

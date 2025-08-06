@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çarpan nedir?",
+    "output": "Çarpan, bir sayıyı tam olarak bölebilen sayılardır. Başka bir deyişle, bir sayının çarpanları, o sayıyı böldüğünüzde kalansız sonuç veren sayılardır."
+  },
+  {
+    "instruction": "Bir sayının çarpanları nasıl bulunur?",
+    "output": "Bir sayının çarpanlarını bulmak için, o sayıyı bölebilen tüm tamsayıları belirlemek gerekir. Bu, sayıyı 1'den başlayarak kendisine kadar olan sayılarla bölerek yapılabilir. Bölme işlemi sonucunda kalan sıfırsa, bölen sayı bir çarpandır."
+  },
+  {
+    "instruction": "Çift sayılar hangi özelliklere sahiptir?",
+    "output": "Çift sayılar, 2 ile tam olarak bölünebilen sayılardır. Bir sayının çift olup olmadığını anlamak için birler basamağına bakılır; 0, 2, 4, 6 veya 8 ile biten sayılar çift sayılardır."
+  },
+  {
+    "instruction": "Bir sayının 3 ile bölünebilme kuralı nedir?",
+    "output": "Bir sayının 3 ile bölünebilir olup olmadığını anlamak için, sayının rakamları toplanır ve elde edilen toplamın 3 ile bölünüp bölünmediğine bakılır. Eğer toplam 3 ile bölünüyorsa, sayı da 3 ile bölünebilir."
+  },
+  {
+    "instruction": "Bir sayının 4 ile bölünebilme kuralı nedir?",
+    "output": "Bir sayının 4 ile bölünebilir olup olmadığını anlamak için, sayının son iki basamağına bakılır. Eğer son iki basamak 4 ile bölünebiliyorsa, sayı da 4 ile bölünebilir."
+  },
+  {
+    "instruction": "Bir sayının 5 ile bölünebilme kuralı nedir?",
+    "output": "Bir sayının 5 ile bölünebilir olup olmadığını anlamak için, sayının birler basamağına bakılır. Eğer sayı 0 veya 5 ile bitiyorsa, 5 ile bölünebilir."
+  },
+  {
+    "instruction": "Bir sayının 6 ile bölünebilme kuralı nedir?",
+    "output": "Bir sayının 6 ile bölünebilir olması için hem 2 hem de 3 ile bölünebilir olması gerekir. Bu nedenle, sayının çift olması ve rakamları toplamının 3 ile bölünebilir olması gerekir."
+  },
+  {
+    "instruction": "Bir sayının çarpanlarının özellikleri nelerdir?",
+    "output": "Bir sayının çarpanları, sayıyı kalansız bölen tüm sayılardır. Her sayının en küçük çarpanı 1, en büyük çarpanı ise kendisidir. Çarpanlar, sayının pozitif bölenleri olarak da adlandırılır."
+  },
+  {
+    "instruction": "Çarpanlar ve katlar arasındaki fark nedir?",
+    "output": "Çarpanlar, bir sayıyı kalansız bölebilen sayılardır, yani sayının bölenleridir. Katlar ise bir sayının, başka bir sayının tam sayı katı olarak elde edilen sonuçlarıdır. Örneğin, 3'ün çarpanları 1 ve 3 iken, katları 3, 6, 9, 12 gibi sayılardır."
+  },
+  {
+    "instruction": "Bir sayının çarpanlarını bulmanın amacı nedir?",
+    "output": "Bir sayının çarpanlarını bulmak, sayının bölünebilme özelliklerini anlamak ve matematiksel işlemlerde, özellikle kesirlerin sadeleştirilmesinde, ortak bölenlerin bulunmasında ve asal çarpanlara ayırmada kullanılır. Bu, matematik problemlerini daha kolay çözmeyi sağlar."
+  }
+]

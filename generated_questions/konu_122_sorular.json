@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki değişkenli denklem nedir?",
+    "output": "İki değişkenli denklem, iki farklı değişken içeren ve genellikle x ve y ile temsil edilen cebirsel bir ifadedir. Bu tür denklemler, bir düzlemde bir doğruyu temsil eder ve genellikle ax + by = c formunda yazılır."
+  },
+  {
+    "instruction": "Sıralı ikili nedir?",
+    "output": "Sıralı ikili, bir çift sayıdan oluşan ve genellikle (x, y) şeklinde yazılan bir matematiksel kavramdır. İlk eleman x, ikinci eleman y'yi temsil eder ve bu sıralama önemlidir. Sıralı ikililer, genellikle koordinat sisteminde bir noktayı tanımlamak için kullanılır."
+  },
+  {
+    "instruction": "Bir sıralı ikilinin bir denklemi sağlaması ne anlama gelir?",
+    "output": "Bir sıralı ikilinin bir denklemi sağlaması, bu ikilinin elemanlarının denkleme yerleştirildiğinde doğru bir eşitlik oluşturması anlamına gelir. Yani, x ve y değerleri denkleme konulduğunda, sol taraf sağ tarafa eşit olur."
+  },
+  {
+    "instruction": "Denklem çözümünde sıralı ikililer nasıl kullanılır?",
+    "output": "Denklem çözümünde sıralı ikililer, x ve y'nin belirli değerlerini temsil eder ve bu değerler denkleme yerleştirilerek denklemin sağlanıp sağlanmadığı kontrol edilir. Eğer denklemin her iki tarafı da eşitse, sıralı ikili bu denklemin bir çözümüdür."
+  },
+  {
+    "instruction": "İki değişkenli denklemlerin grafiği nasıl çizilir?",
+    "output": "İki değişkenli denklemlerin grafiği, genellikle bir koordinat düzleminde bir doğru olarak çizilir. Denklemin x ve y kesişim noktaları bulunarak, bu noktalar koordinat düzlemine işaretlenir ve bu noktalar birleştirilerek doğru çizilir."
+  },
+  {
+    "instruction": "Bir sıralı ikilinin koordinat düzlemindeki yeri nasıl belirlenir?",
+    "output": "Bir sıralı ikilinin koordinat düzlemindeki yeri, ikilinin ilk elemanı x ekseni üzerinde, ikinci elemanı ise y ekseni üzerinde işaretlenerek belirlenir. Bu iki noktadan geçen dikey ve yatay çizgilerin kesişim noktası, sıralı ikilinin koordinat düzlemindeki yerini gösterir."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi yöntemler kullanılır?",
+    "output": "Denklem çözümünde genellikle yerine koyma yöntemi, grafik yöntemi ve eliminasyon yöntemi gibi yöntemler kullanılır. Bu yöntemler, denklemin türüne ve çözümün bulunma şekline göre seçilir."
+  },
+  {
+    "instruction": "Bir denklemin çözüm kümesi nedir?",
+    "output": "Bir denklemin çözüm kümesi, denklemi sağlayan tüm sıralı ikililerin oluşturduğu kümedir. Bu küme, denklemin tüm olası çözümlerini içerir ve genellikle bir grafik üzerinde bir doğru ya da belirli noktalar olarak gösterilir."
+  },
+  {
+    "instruction": "Sıralı ikililerin denklemleri sağlama durumu nasıl kontrol edilir?",
+    "output": "Sıralı ikililerin denklemleri sağlama durumu, ikilinin x ve y değerlerini denkleme koyarak kontrol edilir. Eğer denklemin her iki tarafı da eşitse, sıralı ikili denklemi sağlar."
+  },
+  {
+    "instruction": "İki değişkenli denklemler hangi alanlarda kullanılır?",
+    "output": "İki değişkenli denklemler, fizik, mühendislik, ekonomi gibi birçok alanda kullanılır. Özellikle, iki değişken arasındaki ilişkiyi modellemek ve bu ilişkiyi analiz etmek için kullanılırlar."
+  }
+]

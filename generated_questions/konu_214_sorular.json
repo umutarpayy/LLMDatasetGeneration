@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrunun denklemi nedir?",
+    "output": "Doğrunun denklemi, bir doğruyu matematiksel olarak ifade eden bir eşitliktir. Genellikle y = mx + b formunda yazılır, burada m eğimi, b ise y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Eğim-kesişim formu nasıl kullanılır?",
+    "output": "Eğim-kesişim formu, y = mx + b şeklinde yazılır ve bir doğrunun eğimini (m) ve y-eksenini kestiği noktayı (b) kullanarak doğrunun denklemini belirlemeye yarar. Bu form, bir doğruyu grafik üzerinde kolayca çizmek için kullanılır."
+  },
+  {
+    "instruction": "Bir noktanın bir doğrunun üzerinde olup olmadığı nasıl kontrol edilir?",
+    "output": "Bir noktanın bir doğrunun üzerinde olup olmadığını kontrol etmek için, noktanın koordinatları doğru denklemi yerine konulur. Eğer denklem sağlanıyorsa, nokta doğrunun üzerindedir."
+  },
+  {
+    "instruction": "y-eksenini kesen nokta nasıl bulunur?",
+    "output": "y-eksenini kesen nokta, x = 0 iken y'nin değeridir. Doğru denklemi y = mx + b formunda verildiğinde, y-eksenini kesen nokta b değerine eşittir."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl oluşturulur?",
+    "output": "Bir doğrunun denklemi, eğim ve y-eksenini kestiği nokta bilindiğinde y = mx + b formülü kullanılarak oluşturulur. Eğer bir nokta ve eğim biliniyorsa, bu bilgiler kullanılarak b değeri bulunur ve denklem oluşturulur."
+  },
+  {
+    "instruction": "Doğrunun y-eksenini kesen noktası neyi ifade eder?",
+    "output": "Doğrunun y-eksenini kesen noktası, doğrunun y-eksenine temas ettiği noktadır. Bu nokta, x = 0 olduğunda y'nin aldığı değerdir ve genellikle b ile gösterilir."
+  },
+  {
+    "instruction": "Bir doğru denklemi nasıl çözülür?",
+    "output": "Bir doğru denklemi çözülürken, genellikle verilen x veya y değerleri yerine konularak diğer değişkenin değeri bulunur. Bu, denklemin sağlanıp sağlanmadığını kontrol etmek için de kullanılabilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda 'b' nasıl bulunur?",
+    "output": "Eğim-kesişim formunda 'b' değeri, bir nokta ve eğim bilindiğinde, bu değerler denkleme yerleştirilerek bulunur. y = mx + b formülünde, bilinen y ve x değerleri yerine konularak b hesaplanır."
+  },
+  {
+    "instruction": "Doğru denklemi ile grafik nasıl çizilir?",
+    "output": "Doğru denklemi ile grafik çizmek için önce y-eksenini kesen nokta (b) işaretlenir, ardından eğim (m) kullanılarak doğru üzerindeki diğer noktalar belirlenir. Eğim, y'deki değişim oranını x'deki değişime göre gösterir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi ve y-keseni bilindiğinde denklemi nasıl yazılır?",
+    "output": "Bir doğrunun eğimi (m) ve y-keseni (b) bilindiğinde, doğrunun denklemi y = mx + b formunda yazılır. Bu form, doğruyu grafik üzerinde temsil eder ve eğim ile y-kesenin değerlerini içerir."
+  }
+]

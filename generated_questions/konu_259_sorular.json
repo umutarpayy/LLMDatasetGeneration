@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küp nedir?",
+    "output": "Küp, tüm yüzeyleri kare olan ve üç boyutlu bir geometrik şekil olan bir prizmadır. Küpün tüm kenar uzunlukları eşittir ve her bir köşesinde üç yüzey birleşir."
+  },
+  {
+    "instruction": "Küpün hacmi nasıl hesaplanır?",
+    "output": "Küpün hacmi, bir kenar uzunluğunun kendisiyle üç kez çarpılmasıyla bulunur. Eğer küpün bir kenar uzunluğu 'a' ise, hacmi a³ olarak hesaplanır."
+  },
+  {
+    "instruction": "Kesirli ölçülerle hacim nasıl hesaplanır?",
+    "output": "Kesirli ölçülerle hacim hesaplanırken, her bir boyutun kesirli değeri çarpılır. Örneğin, bir cismin boyutları 1/4 metre ise, hacmi (1/4) x (1/4) x (1/4) olarak hesaplanır."
+  },
+  {
+    "instruction": "Metreküp nedir?",
+    "output": "Metreküp, bir küpün her bir kenarının bir metre olduğu bir hacim ölçü birimidir. Üç boyutlu alanı ifade eder ve genellikle m³ olarak gösterilir."
+  },
+  {
+    "instruction": "Hacim birimleri nelerdir?",
+    "output": "Hacim birimleri, ölçülen hacmin büyüklüğüne göre değişir. Temel birimler arasında metreküp (m³), santimetreküp (cm³), litrelik ölçüler (L), ve mililitre (mL) bulunur."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının hacmi neden önemlidir?",
+    "output": "Dikdörtgenler prizmasının hacmi, pratik uygulamalarda, özellikle depolama, inşaat ve mühendislik gibi alanlarda, bir alanın kapasitesini veya bir cismin içerebileceği madde miktarını belirlemek için önemlidir."
+  },
+  {
+    "instruction": "Kesirler ile çarpma işlemi nasıl yapılır?",
+    "output": "Kesirler ile çarpma işlemi yapılırken, paylar kendi aralarında ve paydalar kendi aralarında çarpılır. Örneğin, (a/b) x (c/d) işlemi, (a x c) / (b x d) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Bir cismin hacmi nasıl sadeleştirilir?",
+    "output": "Bir cismin hacmi kesirli bir sayı olarak ifade ediliyorsa, pay ve payda ortak bölenleri ile bölünerek sadeleştirilebilir. Örneğin, 16/64 hacmi, hem pay hem de payda 16'ya bölünerek 1/4 olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının boyutları nasıl belirlenir?",
+    "output": "Dikdörtgenler prizmasının boyutları, genellikle uzunluk, genişlik ve yükseklik olarak adlandırılır. Bu boyutlar, prizmanın farklı kenarlarının uzunluklarıdır ve prizmanın toplam hacmini belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Hacim hesaplamada çarpma işlemi neden önemlidir?",
+    "output": "Hacim hesaplamada çarpma işlemi, üç boyutlu bir cismin tüm boyutlarının bir araya getirilerek toplam alanı veya içeriği belirlemek için kullanılır. Bu, bir cismin ne kadar yer kapladığını veya içine ne kadar madde sığabileceğini hesaplamak için gereklidir."
+  }
+]

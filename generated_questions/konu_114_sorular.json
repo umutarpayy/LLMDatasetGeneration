@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki adımlı denklemler nedir?",
+    "output": "İki adımlı denklemler, bir bilinmeyeni bulmak için iki temel matematiksel işlemin gerektiği denklemlerdir. Genellikle, bu işlemler toplama veya çıkarma ile çarpma veya bölme şeklinde olur. Bu tür denklemler, basit cebirsel problemlerin çözümünde sıkça kullanılır."
+  },
+  {
+    "instruction": "İki adımlı denklemler nasıl çözülür?",
+    "output": "İki adımlı denklemleri çözmek için öncelikle denklemin her iki tarafında eşitliği koruyarak toplama veya çıkarma işlemi yapılır. Ardından, çarpma veya bölme işlemi uygulanarak bilinmeyen izole edilir. Her adımda, denklemin her iki tarafına aynı işlemi uygulamak önemlidir."
+  },
+  {
+    "instruction": "Bilinmeyen bir terimi izole etmek ne anlama gelir?",
+    "output": "Bilinmeyen bir terimi izole etmek, denklemin bir tarafında yalnızca bilinmeyeni bırakmak için diğer tüm terimleri karşı tarafa taşımak anlamına gelir. Bu, genellikle toplama, çıkarma, çarpma veya bölme işlemleri kullanılarak yapılır."
+  },
+  {
+    "instruction": "Çözüm kontrolü nasıl yapılır?",
+    "output": "Çözüm kontrolü, bulunan çözümün doğru olup olmadığını doğrulamak için yapılan bir işlemdir. Çözümü, orijinal denklemde yerine koyarak ve her iki tarafın eşit olup olmadığını kontrol ederek yapılır. Eğer eşitlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Denklemlerde ters işlemler neden kullanılır?",
+    "output": "Denklemlerde ters işlemler, bir terimi izole etmek ve bilinmeyeni bulmak için kullanılır. Örneğin, bir toplama işlemini ortadan kaldırmak için çıkarma, çarpma işlemini ortadan kaldırmak için bölme işlemi kullanılır. Bu, denklemin her iki tarafında eşitliği koruyarak çözüm bulmayı sağlar."
+  },
+  {
+    "instruction": "Denklemlerde eşitliğin her iki tarafına aynı işlemi uygulamak neden önemlidir?",
+    "output": "Denklemlerde eşitliğin her iki tarafına aynı işlemi uygulamak, denklemin dengesini korumak için önemlidir. Bu, denklemin yapısını ve doğruluğunu bozmadan bilinmeyeni izole etmeye yardımcı olur. Eşitliğin korunması, doğru çözüm elde etmenin temelidir."
+  },
+  {
+    "instruction": "Denklemlerdeki sabit terimler nasıl tanımlanır?",
+    "output": "Denklemlerdeki sabit terimler, herhangi bir bilinmeyen içermeyen sayılardır. Bu terimler, denklemin çözüm sürecinde genellikle bilinen değerlerdir ve denklemin her iki tarafında yer alabilirler. Sabit terimler, denklemin çözümünde genellikle bilinmeyeni izole etmek için kullanılır."
+  },
+  {
+    "instruction": "Bir denklemi çözmek için hangi stratejiler kullanılabilir?",
+    "output": "Bir denklemi çözmek için çeşitli stratejiler kullanılabilir. Bunlar arasında, terimleri bir araya toplamak, bilinmeyeni izole etmek için ters işlemler kullanmak, denklemin her iki tarafına aynı işlemi uygulamak ve çözümün doğruluğunu kontrol etmek yer alır. Her strateji, denklemin türüne ve yapısına göre uyarlanabilir."
+  },
+  {
+    "instruction": "Çarpma işlemi denklemlerde nasıl kullanılır?",
+    "output": "Çarpma işlemi, denklemlerde genellikle bir terimi veya bilinmeyeni izole etmek için kullanılır. Örneğin, bir bölme işlemini ortadan kaldırmak için çarpma işlemi uygulanabilir. Çarpma işlemi, denklemin her iki tarafına eşit şekilde uygulanarak denklemin dengesi korunur."
+  },
+  {
+    "instruction": "Denklem çözümünde yapılan yaygın hatalar nelerdir?",
+    "output": "Denklem çözümünde yapılan yaygın hatalar arasında, denklemin her iki tarafına aynı işlemi uygulamamak, işlem sırasını karıştırmak, yanlış aritmetik işlemler yapmak ve çözüm kontrolünü ihmal etmek yer alır. Bu hatalar, yanlış sonuçlara yol açabilir ve bu nedenle dikkatli olunmalıdır."
+  }
+]

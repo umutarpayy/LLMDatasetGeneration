@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal denklemler nedir?",
+    "output": "Doğrusal denklemler, iki değişken arasında doğrusal bir ilişkiyi tanımlayan denklemlerdir. Genellikle y = mx + b formunda yazılırlar, burada m eğimi ve b y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl bulunur?",
+    "output": "Bir doğrunun eğimi, iki nokta arasındaki dikey değişimin yatay değişime oranıdır. Matematiksel olarak, eğim m = (y2 - y1) / (x2 - x1) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Y-eksenini kesim noktası nasıl belirlenir?",
+    "output": "Y-eksenini kesim noktası, x'in 0 olduğu durumda y'nin değeridir. Doğrusal denklemin y = mx + b formunda, b terimi y-eksenini kesim noktasını temsil eder."
+  },
+  {
+    "instruction": "X-eksenini kesim noktası nasıl belirlenir?",
+    "output": "X-eksenini kesim noktası, y'nin 0 olduğu durumda x'in değeridir. Doğrusal denklemi y = mx + b formunda çözüp y'yi 0'a eşitleyerek x değerini bulabilirsiniz."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda kullanılır?",
+    "output": "Doğrusal denklemler, iki değişken arasındaki doğrusal ilişkileri modellemek için kullanılır. Ekonomi, fizik ve mühendislik gibi birçok alanda, değişkenler arasındaki ilişkiyi incelemek için kullanılırlar."
+  },
+  {
+    "instruction": "Grafik üzerinde bir doğru nasıl uzatılır?",
+    "output": "Grafik üzerinde bir doğru, belirlenen iki nokta arasındaki çizgi uzatılarak çizilir. Doğru, bu iki noktadan geçer ve her iki yönde de sonsuza kadar devam eder."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde eğim neyi ifade eder?",
+    "output": "Doğrusal denklemlerde eğim, doğrunun ne kadar dik veya yatay olduğunu ifade eder. Pozitif eğim, doğrunun yukarı doğru eğimli olduğunu, negatif eğim ise aşağı doğru eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde sabit terim neyi temsil eder?",
+    "output": "Doğrusal denklemlerde sabit terim (b), doğrunun y-eksenini kestiği noktayı temsil eder. Bu, x'in 0 olduğu durumda y'nin değeridir."
+  },
+  {
+    "instruction": "Bir denklemin grafiği neden önemlidir?",
+    "output": "Bir denklemin grafiği, değişkenler arasındaki ilişkiyi görsel olarak anlamamıza yardımcı olur. Grafikler, eğilimleri ve kesim noktalarını kolayca görmemizi sağlar."
+  },
+  {
+    "instruction": "Doğrusal denklemlerle ilgili hangi temel kavramlar bilinmelidir?",
+    "output": "Doğrusal denklemlerle ilgili temel kavramlar arasında eğim, y-eksenini kesim noktası, x-eksenini kesim noktası, grafik çizimi ve doğrusal ilişki yer alır. Bu kavramlar, denklemleri anlamak ve yorumlamak için önemlidir."
+  }
+]

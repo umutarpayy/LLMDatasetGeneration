@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eder. Burada m, doğrunun eğimini, b ise y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Doğru denklemi bulurken hangi adımlar izlenir?",
+    "output": "Doğru denklemi bulurken önce doğrunun eğimi hesaplanır. Eğim, y'deki değişim bölü x'deki değişim olarak bulunur. Ardından, eğim ve bir nokta kullanılarak y-kesişim noktası hesaplanır. Son olarak, y = mx + b formülüne bu değerler yerleştirilir."
+  },
+  {
+    "instruction": "Y-kesişim noktası nasıl bulunur?",
+    "output": "Y-kesişim noktası, bir doğrunun y-eksenini kestiği noktadır. Eğim ve bir nokta biliniyorsa, bu değerler y = mx + b formülüne yerleştirilerek b değeri, yani y-kesişim noktası bulunabilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile standart form arasındaki fark nedir?",
+    "output": "Eğim-kesişim formu y = mx + b şeklindedir ve doğrunun eğimini ve y-kesişim noktasını doğrudan gösterir. Standart form ise Ax + By = C şeklindedir ve doğrudan eğim veya y-kesişim noktasını göstermez."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi negatif olduğunda ne anlama gelir?",
+    "output": "Bir doğrunun eğimi negatifse, bu doğrunun sola doğru eğimli olduğunu ve x ekseni boyunca sağa gidildikçe y değerinin azaldığını gösterir."
+  },
+  {
+    "instruction": "Eğim nasıl yorumlanır?",
+    "output": "Eğim, bir doğrunun dikliğini ve yönünü belirtir. Pozitif eğim, doğrunun yukarı doğru eğimli olduğunu, negatif eğim ise aşağı doğru eğimli olduğunu gösterir. Eğim değeri ne kadar büyükse, doğru o kadar dik olur."
+  },
+  {
+    "instruction": "İki nokta arasındaki eğim nasıl hesaplanır?",
+    "output": "İki nokta arasındaki eğim, (y2 - y1) / (x2 - x1) formülü kullanılarak hesaplanır. Burada (x1, y1) ve (x2, y2) noktaları doğrunun üzerinde yer alan iki farklı noktadır."
+  },
+  {
+    "instruction": "Doğrunun y-eksenini kestiği nokta nasıl belirlenir?",
+    "output": "Doğrunun y-eksenini kestiği nokta, x'in sıfır olduğu durumda y'nin değeridir. Bu, y = mx + b denkleminde b olarak temsil edilir."
+  },
+  {
+    "instruction": "Eğim ve y-kesişim formu grafik üzerinde nasıl gösterilir?",
+    "output": "Eğim ve y-kesişim formu grafik üzerinde, doğrunun y-eksenini kestiği noktadan başlayarak eğim doğrultusunda bir çizgi çizilerek gösterilir. Eğim, bir birim sağa gidildiğinde y'de ne kadar değişim olduğunu gösterir."
+  },
+  {
+    "instruction": "Doğrunun denklemi neden önemlidir?",
+    "output": "Doğrunun denklemi, doğrunun eğimini, y-kesişim noktasını ve grafik üzerindeki tüm noktaları tanımlar. Bu, matematiksel analiz ve uygulamalar için önemlidir, çünkü bir doğrunun davranışını ve diğer doğrularla ilişkisini anlamamızı sağlar."
+  }
+]

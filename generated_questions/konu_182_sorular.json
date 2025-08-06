@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yaş problemleri nedir?",
+    "output": "Yaş problemleri, genellikle iki veya daha fazla kişinin yaşları arasındaki ilişkiyi ve bu yaşların belirli bir süre sonra nasıl değişeceğini inceleyen matematiksel problemlerdir. Bu tür problemler, cebirsel denklemler kurarak ve çözerek kişilerin yaşları arasındaki ilişkileri bulmayı gerektirir."
+  },
+  {
+    "instruction": "Yaş problemlerinde denklem nasıl kurulur?",
+    "output": "Yaş problemlerinde denklem kurarken, genellikle mevcut yaşlar ve geçen süreyi temsil eden değişkenler kullanılır. Problemin verdiği ilişkilere göre bu değişkenler arasında cebirsel denklemler kurulur. Örneğin, bir kişinin yaşının başka bir kişinin yaşının belirli bir katı olması gerektiği gibi ifadeler, denklemin temelini oluşturur."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi adımlar izlenir?",
+    "output": "Denklem çözümünde öncelikle denklemi sadeleştirmek için terimleri bir araya toplamak gerekir. Daha sonra değişkenleri bir tarafta, sabit sayıları diğer tarafta toplamak için uygun işlemler yapılır. Son olarak, değişkenin katsayısını 1 yapmak için her iki tarafı bu katsayıya böleriz. Bu adımlar sonucunda değişkenin değeri bulunur."
+  },
+  {
+    "instruction": "Yaş problemlerinde hangi tür denklemler kullanılır?",
+    "output": "Yaş problemlerinde genellikle birinci dereceden denklemler kullanılır. Bu denklemler, bir veya daha fazla bilinmeyeni içeren ve bu bilinmeyenlerin birinci kuvvetini içeren eşitliklerdir. Problemin içeriğine bağlı olarak, bazen daha karmaşık ifadeler de kullanılabilir."
+  },
+  {
+    "instruction": "Yaş problemlerinde değişken seçimi nasıl yapılır?",
+    "output": "Yaş problemlerinde değişken seçimi, problemi basit ve anlaşılır hale getirmek için önemlidir. Genellikle, yaşları veya geçen süreyi temsil eden değişkenler seçilir. Bu değişkenler, problemin şartlarına uygun olarak belirlenir ve denklemler bu değişkenler üzerinden kurulur."
+  },
+  {
+    "instruction": "Eşitliklerin korunması ilkesi nedir?",
+    "output": "Eşitliklerin korunması ilkesi, bir denklemin her iki tarafına aynı işlemi uyguladığınızda denklemin eşitliğinin bozulmaması gerektiğini belirtir. Bu ilke, denklemin her iki tarafına aynı sayıyı eklemek, çıkarmak, çarpmak veya bölmek gibi işlemleri içerir ve denklemin çözüm sürecinde kullanılır."
+  },
+  {
+    "instruction": "Yaş problemleri neden önemlidir?",
+    "output": "Yaş problemleri, matematiksel düşünme ve problem çözme becerilerini geliştirmek için önemlidir. Bu problemler, günlük yaşamda karşılaşılabilecek durumları modellemeye yardımcı olur ve cebirsel denklemler kurma ve çözme yeteneğini artırır."
+  },
+  {
+    "instruction": "Denklem çözümünde yapılan yaygın hatalar nelerdir?",
+    "output": "Denklem çözümünde yaygın hatalar arasında, terimleri yanlış bir şekilde toplamak veya çıkarmak, her iki tarafa aynı işlemi uygulamayı unutmak, değişkenleri yanlış izole etmek ve denklemi yanlış sadeleştirmek yer alır. Bu hatalar, çözüm sürecini karmaşık hale getirebilir ve yanlış sonuçlara yol açabilir."
+  },
+  {
+    "instruction": "Yaş problemlerinde sağlama yapmanın önemi nedir?",
+    "output": "Yaş problemlerinde sağlama yapmak, bulduğunuz çözümün doğru olup olmadığını kontrol etmenizi sağlar. Sağlama işlemi, elde edilen sonuçları başlangıçtaki problem şartlarına göre tekrar değerlendirerek, çözümün tutarlılığını ve doğruluğunu test etmenize yardımcı olur."
+  },
+  {
+    "instruction": "Yaş problemleri nasıl daha karmaşık hale gelebilir?",
+    "output": "Yaş problemleri, daha fazla kişi ekleyerek, farklı zaman dilimleri kullanarak veya yaşlar arasındaki ilişkileri daha karmaşık hale getirerek zorlaştırılabilir. Ayrıca, yaşların belirli bir oranda artması veya azalması gibi ek şartlar eklenerek problem daha karmaşık hale getirilebilir."
+  }
+]

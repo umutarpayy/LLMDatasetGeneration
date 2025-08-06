@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Negatif üs nedir?",
+    "output": "Negatif üs, bir sayının üssünün negatif olması durumunda, sayının bir bölü o sayının pozitif üssü şeklinde ifade edilmesidir. Örneğin, a üzeri eksi n, 1 bölü a üzeri n olarak yazılır."
+  },
+  {
+    "instruction": "Pozitif üs nedir?",
+    "output": "Pozitif üs, bir sayının üssünün pozitif bir tam sayı olduğu durumdur. Bu, sayının kendisiyle pozitif tam sayı kadar çarpılması anlamına gelir. Örneğin, 2 üzeri 3, 2'nin kendisiyle 3 kez çarpılması anlamına gelir ve 8'e eşittir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, pay ve paydadaki benzer tabanların üslerinin çıkarılmasıyla yapılır. Örneğin, x üzeri a bölü x üzeri b ifadesi x üzeri a-b şeklinde sadeleştirilir."
+  },
+  {
+    "instruction": "Bir ifadenin pozitif üslü hale getirilmesi nasıl yapılır?",
+    "output": "Negatif üslü bir ifade pozitif üslü hale getirilirken, negatif üs, sayının paydasına alınarak pozitif yapılır. Örneğin, x üzeri eksi a, 1 bölü x üzeri a olarak yazılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, x üzeri a çarpı x üzeri b, x üzeri a+b şeklinde yazılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler çıkarılır. Örneğin, x üzeri a bölü x üzeri b, x üzeri a-b şeklinde yazılır."
+  },
+  {
+    "instruction": "Negatif üsler hangi durumlarda kullanılır?",
+    "output": "Negatif üsler, özellikle kesirli ifadelerin ve paydanın üslü ifadelerle temsil edilmesi gereken durumlarda kullanılır. Bu, ifadelerin daha kolay manipüle edilmesini sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı ise çarpma nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı ise çarpma işlemi yapılırken, tabanlar ayrı ayrı çarpılır ve sonuçlar kendi üsleriyle yazılır. Örneğin, a üzeri m çarpı b üzeri n, (a çarpı b) üzeri m+n şeklinde yazılmaz, a üzeri m çarpı b üzeri n olarak kalır."
+  },
+  {
+    "instruction": "Üslü ifadelerin çarpanlara ayrılması nasıl yapılır?",
+    "output": "Üslü ifadelerin çarpanlara ayrılması, ortak tabanların bulunarak ve üslerin toplanarak veya çıkarılarak yapılabilir. Ayrıca, ifadeler faktörlere ayrılarak da çarpanlara ayrılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde eşitlik nasıl sağlanır?",
+    "output": "Üslü ifadelerde eşitlik sağlanması için tabanların ve üslerin her iki tarafta da eşit olması gerekir. Eğer tabanlar eşitse, üslerin de eşit olması gerekir ve bu, denklemler kurularak çözülebilir."
+  }
+]

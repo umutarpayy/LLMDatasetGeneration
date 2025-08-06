@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim ile x ve y eksenlerindeki değişim arasındaki ilişki nedir?",
+    "output": "Eğim, y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır. Bu, bir doğrunun ne kadar dik olduğunu belirler. Eğer y eksenindeki değişim x eksenindeki değişimden daha büyükse, eğim pozitif ve doğrunun eğimi dik olur. Eğer y eksenindeki değişim x eksenindeki değişimden daha küçükse, eğim negatif olur ve doğru daha yatık bir şekilde aşağıya doğru eğilir."
+  },
+  {
+    "instruction": "Pozitif ve negatif eğimlerin grafik üzerindeki görünümü nasıldır?",
+    "output": "Pozitif eğimli bir doğru, grafik üzerinde yukarı doğru eğim gösterir, yani x arttıkça y de artar. Negatif eğimli bir doğru ise aşağı doğru eğim gösterir, yani x arttıkça y azalır. Pozitif eğim, doğruyu yukarı doğru eğimli yaparken, negatif eğim doğruyu aşağı doğru eğimli yapar."
+  },
+  {
+    "instruction": "Eğim değeri bir doğrunun dikliğini nasıl etkiler?",
+    "output": "Eğim değeri ne kadar büyükse, doğru o kadar dik olur. Pozitif eğim, doğruyu yukarı doğru dikleştirirken, negatif eğim doğruyu aşağı doğru dikleştirir. Eğim değeri arttıkça, y eksenindeki değişim x eksenindeki değişime göre daha fazla olur, bu da doğrunun dikliğini artırır."
+  },
+  {
+    "instruction": "Eğim değeri 1 olan bir doğrunun özellikleri nelerdir?",
+    "output": "Eğim değeri 1 olan bir doğru, x ekseninde bir birim artış olduğunda y ekseninde de bir birim artış gösterir. Bu, doğruyu 45 derecelik bir açıyla yukarı doğru eğimli yapar ve x ve y eksenindeki değişimlerin eşit olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim değeri -1 olan bir doğrunun özellikleri nelerdir?",
+    "output": "Eğim değeri -1 olan bir doğru, x ekseninde bir birim artış olduğunda y ekseninde bir birim azalış gösterir. Bu, doğruyu 45 derecelik bir açıyla aşağı doğru eğimli yapar ve x ve y eksenindeki değişimlerin eşit fakat zıt yönlü olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim değeri 0 olan bir doğrunun özellikleri nelerdir?",
+    "output": "Eğim değeri 0 olan bir doğru, yatay bir doğruyu temsil eder. Bu durumda, x ekseninde herhangi bir değişim olsa da y ekseninde bir değişim olmaz. Bu, doğrunun yatay olduğunu ve diklik göstermediğini ifade eder."
+  },
+  {
+    "instruction": "Eğim değeri sonsuz olan bir doğrunun özellikleri nelerdir?",
+    "output": "Eğim değeri sonsuz olan bir doğru, dikey bir doğruyu temsil eder. Bu durumda, y ekseninde değişim olurken x ekseninde değişim olmaz. Bu, doğrunun dikey olduğunu ve sonsuz diklik gösterdiğini ifade eder."
+  },
+  {
+    "instruction": "Eğim ile doğruların paralellik durumu arasındaki ilişki nedir?",
+    "output": "İki doğru paralel ise, eğimleri eşittir. Bu, iki doğrunun aynı eğime sahip olduğu ve birbirine paralel oldukları anlamına gelir. Paralel doğrular, aynı eğimle aynı yönde ilerler ve asla kesişmezler."
+  },
+  {
+    "instruction": "Eğim ile doğruların diklik durumu arasındaki ilişki nedir?",
+    "output": "İki doğru birbirine dik ise, eğimlerinin çarpımı -1'dir. Bu, bir doğrunun eğimi m ise, diğer doğrunun eğiminin -1/m olması gerektiği anlamına gelir. Dik doğrular, birbirleriyle 90 derecelik bir açı yapar."
+  },
+  {
+    "instruction": "Eğim kavramı hangi matematiksel problemlerde önemlidir?",
+    "output": "Eğim kavramı, doğrusal denklemler, grafik çizimleri, optimizasyon problemleri ve hareket analizleri gibi birçok matematiksel problemde önemlidir. Özellikle, bir doğrunun eğimi, iki nokta arasındaki ilişkiyi anlamak ve bu ilişkinin grafikte nasıl temsil edildiğini görmek için kullanılır."
+  }
+]

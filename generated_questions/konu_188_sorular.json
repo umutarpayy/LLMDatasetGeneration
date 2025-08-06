@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki matematiksel ifadenin birbirine eşit olmadığını, birinin diğerinden büyük veya küçük olduğunu gösteren bir ifadedir. Eşitsizlikler genellikle '<', '>', '≤', '≥' sembolleri ile ifade edilir."
+  },
+  {
+    "instruction": "Eşitsizlik nasıl çözülür?",
+    "output": "Eşitsizlik çözümü, tıpkı denklemler gibi, bilinmeyeni izole etmek için her iki tarafa da aynı işlemleri uygulayarak yapılır. Ancak, eşitsizlik çözümünde dikkat edilmesi gereken önemli bir kural vardır: Eğer her iki taraf da negatif bir sayı ile çarpılır veya bölünürse, eşitsizlik işareti tersine çevrilmelidir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünün sağlaması nasıl yapılır?",
+    "output": "Eşitsizlik çözümünün sağlaması, elde edilen çözüm kümesindeki değerleri orijinal eşitsizlikte yerine koyarak yapılır. Eğer bu değerler eşitsizliği doğru kılıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Bir eşitsizlik sisteminde çözüm kümesi nedir?",
+    "output": "Bir eşitsizlik sisteminde çözüm kümesi, sistemdeki tüm eşitsizlikleri aynı anda sağlayan tüm değerlerin kümesidir. Bu değerler genellikle bir aralık veya belirli sayılar olabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafiği nasıl çizilir?",
+    "output": "Eşitsizliklerin grafiği, sayı doğrusunda veya koordinat düzleminde çizilebilir. Tek değişkenli eşitsizlikler için sayı doğrusunda, çift değişkenli eşitsizlikler için koordinat düzleminde gölgelendirilmiş bölgeler kullanılır. Eşitsizlik işaretine göre sınır çizgisi kesikli veya düz çizgi olabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde hangi durumlarda işaret değiştirilir?",
+    "output": "Eşitsizliklerde, her iki taraf negatif bir sayı ile çarpıldığında veya bölündüğünde işaret değiştirilir. Bu, eşitsizliğin doğruluğunu korumak için gereklidir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde kritik noktalar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde kritik noktalar, eşitsizliği eşitliğe dönüştüren değerlerdir. Bu noktalar, çözüm kümesinin sınırlarını belirler ve genellikle eşitsizlik işaretinin değiştiği yerlerdir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde karşılaşılan yaygın hatalar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde yaygın hatalar arasında, negatif bir sayı ile çarpma veya bölme sırasında işaret değiştirmeyi unutmak, çözüm kümesini yanlış belirtmek ve çözüm kümesini kontrol etmemek yer alır."
+  },
+  {
+    "instruction": "Eşitsizliklerin günlük hayattaki uygulamaları nelerdir?",
+    "output": "Eşitsizlikler, günlük hayatta bütçe planlaması, hız sınırları, kapasite kısıtlamaları gibi durumlarda kullanılır. Örneğin, bir bütçe eşitsizliği, harcamaların geliri aşmaması gerektiğini ifade edebilir."
+  },
+  {
+    "instruction": "Eşitsizlik ile denklem arasındaki fark nedir?",
+    "output": "Eşitsizlik, iki ifadenin eşit olmadığını, birinin diğerinden büyük veya küçük olduğunu belirtirken, denklem iki ifadenin eşit olduğunu belirtir. Eşitsizlikler daha geniş çözüm kümelerine sahip olabilirken, denklemler genellikle belirli bir çözüm setine sahiptir."
+  }
+]

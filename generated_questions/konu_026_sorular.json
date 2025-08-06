@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde tek ve çift üslerin sonuçları nasıl belirlenir?",
+    "output": "Üslü ifadelerde taban negatifse ve üs tek sayı ise sonuç negatif olur. Eğer üs çift sayı ise sonuç pozitif olur. Bu, negatif sayıların çift sayıda çarpılmasıyla pozitif, tek sayıda çarpılmasıyla negatif sonuç vermesinden kaynaklanır."
+  },
+  {
+    "instruction": "Negatif sayıların kuvvetleri nasıl hesaplanır?",
+    "output": "Negatif sayıların kuvvetlerini hesaplarken, sayının işaretine ve üssün tek mi çift mi olduğuna dikkat edilir. Negatif bir sayı, çift bir üsse sahipse sonuç pozitif olur; tek bir üsse sahipse sonuç negatif olur."
+  },
+  {
+    "instruction": "Bir sayının negatif kuvveti ne anlama gelir?",
+    "output": "Bir sayının negatif kuvveti, o sayının tersinin pozitif kuvveti anlamına gelir. Örneğin, a^-n ifadesi, 1/a^n şeklinde ifade edilir. Bu, sayının tersinin n kez çarpılması demektir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sıfırın kuvveti nasıl yorumlanır?",
+    "output": "Üslü ifadelerde sıfırın kuvveti, sıfır hariç herhangi bir sayının sıfırıncı kuvveti 1'e eşittir. Bu, matematiksel bir kuraldır ve üslü ifadelerin temel özelliklerinden biridir."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban 1 olduğunda sonuç nasıl belirlenir?",
+    "output": "Üslü ifadelerde taban 1 olduğunda, üssün değeri ne olursa olsun sonuç her zaman 1 olur. Çünkü 1, kendisiyle kaç kez çarpılırsa çarpılsın sonuç değişmez."
+  },
+  {
+    "instruction": "Negatif tabanlı üslü ifadelerde işaret nasıl belirlenir?",
+    "output": "Negatif tabanlı üslü ifadelerde işaret, üssün tek veya çift olmasına bağlıdır. Üs tek ise sonuç negatif, çift ise pozitif olur. Bu, negatif sayıların çarpım kurallarından kaynaklanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban ve üs nasıl belirlenir?",
+    "output": "Üslü ifadelerde taban, çarpılacak olan sayıyı ifade ederken, üs bu sayının kaç kez çarpılacağını belirtir. Örneğin, 2^3 ifadesinde 2 tabandır ve 3 üssü temsil eder, bu da 2'nin 3 kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde 1'in kuvvetleri nasıl hesaplanır?",
+    "output": "Üslü ifadelerde 1'in herhangi bir kuvveti, üssün değeri ne olursa olsun her zaman 1'e eşittir. Çünkü 1, kendisiyle kaç kez çarpılırsa çarpılsın sonuç değişmez."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde hesaplanır. Bu, aynı tabanın farklı üslerle çarpılması durumunda geçerlidir."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde hesaplanır. Bu, aynı tabanın farklı üslerle bölünmesi durumunda geçerlidir."
+  }
+]

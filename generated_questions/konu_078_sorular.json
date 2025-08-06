@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kare kök nedir?",
+    "output": "Kare kök, bir sayının karesinin alınarak elde edilen sayıya eşit olan değerdir. Örneğin, 4'ün kare kökü 2'dir çünkü 2'nin karesi 4 eder."
+  },
+  {
+    "instruction": "Rasyonel üslü ifadeler nasıl köklü ifadelere dönüştürülür?",
+    "output": "Rasyonel üslü ifadeler, üssün paydası kök derecesi olarak alınarak köklü ifadelere dönüştürülür. Örneğin, a^(1/2) ifadesi, a'nın karekökü olarak yazılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) olarak hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı ise çarpma nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı ise çarpma işlemi, normal çarpma işlemi gibi yapılır ve sonuçlar ayrı ayrı hesaplanır. Örneğin, a^m * b^n ifadesi, a^m ve b^n ayrı ayrı hesaplanarak çarpılır."
+  },
+  {
+    "instruction": "Pozitif ve negatif sayıların kare kökü nasıl değerlendirilir?",
+    "output": "Pozitif sayıların kare kökü pozitif bir sayıdır. Negatif sayıların kare kökü ise reel sayılar kümesinde tanımlı değildir, ancak karmaşık sayılar kümesinde tanımlanabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, tabanlar aynı olduğunda üslerin çıkarılması yoluyla yapılır. Örneğin, a^m / a^n = a^(m-n) olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Köklü ifadelerin üslü ifadelerle ilişkisi nedir?",
+    "output": "Köklü ifadeler, üslü ifadelerin özel bir durumudur. Bir sayının n'inci dereceden kökü, o sayının 1/n üssü olarak ifade edilir. Örneğin, √a = a^(1/2) ve ∛a = a^(1/3) şeklinde yazılabilir."
+  },
+  {
+    "instruction": "Kare kök ve mutlak değer arasındaki ilişki nedir?",
+    "output": "Kare kök, bir sayının pozitif kare kökünü ifade eder ve bu nedenle her zaman sıfır veya pozitif bir sonuç verir. Mutlak değer ise bir sayının sıfırdan uzaklığını ölçer ve negatif sayıları pozitif yapar. Kare kök, negatif sonuç vermezken mutlak değer negatif bir sayıyı pozitif yapar."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetlerin çarpımı nasıl yapılır?",
+    "output": "Üslü ifadelerde kuvvetlerin çarpımı, üslerin çarpılması yoluyla yapılır. Örneğin, (a^m)^n ifadesi a^(m*n) olarak hesaplanır."
+  },
+  {
+    "instruction": "Köklü ifadelerde sadeleştirme hangi durumlarda gereklidir?",
+    "output": "Köklü ifadelerde sadeleştirme, ifadeyi daha basit ve anlaşılır hale getirmek için gereklidir. Bu, özellikle kök içindeki sayının tam kare bir çarpanı olduğunda veya kök derecesinin sadeleştirilebildiği durumlarda yapılır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzerlik nedir?",
+    "output": "Benzerlik, iki şeklin aynı formda ancak farklı boyutlarda olması durumudur. Benzer şekillerin açıları eşit, kenar uzunlukları ise orantılıdır."
+  },
+  {
+    "instruction": "Yer değiştirme işlemi nedir ve nasıl yapılır?",
+    "output": "Yer değiştirme işlemi, bir şeklin konumunu değiştirmeden, başka bir yere taşınmasıdır. Bu işlemde şeklin boyutları ve yönü değişmez, sadece konumu değişir."
+  },
+  {
+    "instruction": "Döndürme işlemi nedir ve nasıl uygulanır?",
+    "output": "Döndürme işlemi, bir şeklin belirli bir nokta etrafında belirli bir açı kadar döndürülmesidir. Bu işlemde şeklin boyutları değişmez, sadece yönü değişir."
+  },
+  {
+    "instruction": "Boyutlarını değiştirme işlemi nedir?",
+    "output": "Boyutlarını değiştirme işlemi, bir şeklin boyutlarını orantılı olarak büyütmek veya küçültmek anlamına gelir. Bu işlem, şeklin benzerliğini koruyarak yapılır."
+  },
+  {
+    "instruction": "Eşlik ile benzerlik arasındaki fark nedir?",
+    "output": "Eşlik, iki şeklin hem form hem de boyut olarak birebir aynı olması durumudur. Benzerlik ise şekillerin aynı formda fakat farklı boyutlarda olmasıdır. Eş şekillerin hem açıları hem de kenar uzunlukları eşittir, benzer şekillerin ise sadece açıları eşit, kenar uzunlukları orantılıdır."
+  },
+  {
+    "instruction": "Yansıtma işlemi nedir ve ne zaman kullanılır?",
+    "output": "Yansıtma işlemi, bir şeklin bir eksen boyunca simetrik olarak diğer tarafa geçirilmesidir. Bu işlem genellikle şeklin simetrik özelliklerini incelemek veya simetrik bir şekil elde etmek için kullanılır."
+  },
+  {
+    "instruction": "Benzerlikte orantı nasıl kullanılır?",
+    "output": "Benzerlikte orantı, benzer şekillerin kenar uzunlukları arasındaki oranı ifade eder. İki benzer şeklin karşılıklı kenar uzunlukları aynı oranda büyür veya küçülür, bu oran benzerlik oranı olarak adlandırılır."
+  },
+  {
+    "instruction": "Bir şeklin boyutlarını değiştirirken sabit nokta seçimi neden önemlidir?",
+    "output": "Bir şeklin boyutlarını değiştirirken sabit bir nokta seçmek, şeklin belli bir noktadan itibaren büyümesini veya küçülmesini sağlar. Bu, şeklin konumunu ve yönünü kontrol altında tutarak, istenen orantılı değişimi elde etmeye yardımcı olur."
+  },
+  {
+    "instruction": "Benzer şekillerin özellikleri nelerdir?",
+    "output": "Benzer şekillerin özellikleri arasında eşit açılar ve orantılı kenar uzunlukları bulunur. Aynı zamanda, benzer şekillerin çevreleri ve alanları da belirli bir orantı ile ilişkilidir."
+  },
+  {
+    "instruction": "Benzerlik hangi durumlarda kullanılır?",
+    "output": "Benzerlik, genellikle haritalar, ölçekli modeller, mimari çizimler ve fotoğrafçılık gibi alanlarda kullanılır. Bu alanlarda, gerçek nesnelerin küçültülmüş veya büyütülmüş modellerini oluşturmak için benzerlik kavramı kullanılır."
+  }
+]

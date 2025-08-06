@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik grafiği nedir?",
+    "output": "Eşitsizlik grafiği, bir eşitsizliği temsil eden ve koordinat düzleminde belirli bir alanı gösteren bir grafik türüdür. Bu grafik, eşitsizliği sağlayan tüm x ve y değerlerini içerir. Eşitsizlik grafiği, eşitlik durumunda bir doğru ile temsil edilirken, eşitsizlik durumunda bu doğrunun belirli bir tarafında kalan alanı kapsar."
+  },
+  {
+    "instruction": "Eşitsizlik grafiği nasıl çizilir?",
+    "output": "Eşitsizlik grafiği çizmek için öncelikle eşitsizliğin eşitlik kısmı ele alınarak bir doğru çizilir. Daha sonra, eşitsizliğin türüne göre (küçüktür, büyüktür, küçük eşittir, büyük eşittir) doğrunun hangi tarafının taranacağı belirlenir. Eğer eşitsizlik küçük eşittir veya büyük eşittir şeklindeyse, doğru üzerinde kalan noktalar da dahil edilir ve çizgi düz çizilir. Sadece küçüktür veya büyüktür şeklindeyse, doğru kesikli çizgi ile gösterilir ve doğru üzerindeki noktalar dahil edilmez."
+  },
+  {
+    "instruction": "Kesikli çizgi ve düz çizgi arasındaki fark nedir?",
+    "output": "Kesikli çizgi, eşitsizlik grafiğinde eşitsizliğin sadece küçüktür veya büyüktür olduğu durumlarda kullanılır. Bu, doğrunun üzerindeki noktaların eşitsizliğe dahil edilmediğini gösterir. Düz çizgi ise eşitsizliğin küçük eşittir veya büyük eşittir olduğu durumlarda kullanılır ve doğrunun üzerindeki noktaların da eşitsizliğe dahil olduğunu belirtir."
+  },
+  {
+    "instruction": "Bir doğrunun altında kalan alan nasıl belirlenir?",
+    "output": "Bir doğrunun altında kalan alan, eşitsizlik grafiği çizilirken doğrunun y değerlerinin daha küçük olduğu taraf olarak belirlenir. Eşitsizlik y < mx + b şeklindeyse, doğrunun altında kalan alan taranır. Bu, y değerlerinin doğrunun y değerlerinden daha küçük olduğu tüm noktaları içerir."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde eğim nasıl kullanılır?",
+    "output": "Eşitsizlik grafiğinde eğim, doğrunun eğimini belirlemek için kullanılır. Eğim, doğrunun x ekseni boyunca ne kadar yukarı veya aşağı hareket ettiğini gösterir. Eğim, doğruyu çizerken başlangıç noktası ve eğim kullanılarak doğruyu oluşturmak için kullanılır. Eğim, doğrunun hangi yönde eğimli olduğunu ve eşitsizliğin hangi tarafının taranacağını belirlemeye yardımcı olur."
+  },
+  {
+    "instruction": "Eşitsizlikler hangi durumlarda kullanılır?",
+    "output": "Eşitsizlikler, bir değişkenin belirli bir değerden büyük, küçük, eşit veya eşit olmama durumlarını ifade etmek için kullanılır. Matematiksel modelleme, optimizasyon problemleri, ekonomi, mühendislik ve bilimsel araştırmalar gibi alanlarda sıkça kullanılırlar. Eşitsizlikler, belirli bir koşulu sağlayan tüm olası değerleri belirlemeye yardımcı olur."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafikle gösterimi ne işe yarar?",
+    "output": "Eşitsizliklerin grafikle gösterimi, bir eşitsizliği sağlayan tüm olası çözüm kümesini görsel olarak temsil etmeye yarar. Bu, çözüm kümesinin hangi x ve y değerlerini içerdiğini kolayca anlamamıza yardımcı olur. Ayrıca, birden fazla eşitsizliğin kesişim kümesini belirlemek ve görselleştirmek için de kullanılır."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde y eksenini kesen nokta nasıl belirlenir?",
+    "output": "Eşitsizlik grafiğinde y eksenini kesen nokta, eşitsizliğin eşitlik kısmında x'in 0 olduğu durumda y'nin aldığı değeri belirleyerek bulunur. Bu, y = mx + b formülünde x yerine 0 konularak y = b sonucu elde edilerek bulunur. Bu nokta, doğrunun y eksenini kestiği noktadır."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde doğru nasıl çizilir?",
+    "output": "Eşitsizlik grafiğinde doğru çizmek için öncelikle eşitsizliğin eşitlik kısmını ele alarak bir doğru denklemi oluşturulur. Bu denklem, y = mx + b formunda yazılır. Daha sonra, y eksenini kesen nokta ve eğim kullanılarak doğru çizilir. Doğru, eşitsizliğin türüne göre düz veya kesikli çizgi ile gösterilir."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde taralı alan neyi temsil eder?",
+    "output": "Eşitsizlik grafiğinde taralı alan, eşitsizliği sağlayan tüm x ve y değerlerini temsil eder. Bu alan, doğrunun altında veya üstünde olabilir ve eşitsizliğin türüne göre belirlenir. Taralı alan, çözüm kümesini ve hangi noktaların eşitsizliği sağladığını görsel olarak ifade eder."
+  }
+]

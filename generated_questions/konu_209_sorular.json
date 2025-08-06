@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun dikey değişiminin yatay değişimine oranı olarak tanımlanır. İki nokta (x1, y1) ve (x2, y2) verildiğinde, eğim m = (y2 - y1) / (x2 - x1) formülüyle hesaplanır."
+  },
+  {
+    "instruction": "Y-kesişim noktası nedir?",
+    "output": "Y-kesişim noktası, bir doğrunun y eksenini kestiği noktadır. Eğim-kesişim formunda bu nokta b ile gösterilir ve denklem y = mx + b şeklindedir. Burada b, y-kesişim noktasıdır."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda kullanılır?",
+    "output": "Eğim-kesişim formu, bir doğrunun grafiğini çizerken, eğimi ve y-kesişim noktasını hızlıca belirlemek için kullanılır. Özellikle iki nokta arasındaki doğrusal ilişkiyi ifade etmek ve grafiği kolayca çizmek için idealdir."
+  },
+  {
+    "instruction": "Eğim pozitif olduğunda bu ne anlama gelir?",
+    "output": "Eğim pozitif olduğunda, doğru yukarı doğru eğimlidir, yani x arttıkça y de artar. Bu, iki değişken arasında pozitif bir ilişki olduğunu gösterir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi negatif olduğunda ne olur?",
+    "output": "Bir doğrunun eğimi negatif olduğunda, doğru aşağı doğru eğimlidir, yani x arttıkça y azalır. Bu, iki değişken arasında negatif bir ilişki olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile eğim-nokta formu arasındaki fark nedir?",
+    "output": "Eğim-kesişim formu y = mx + b şeklindedir ve doğrunun eğimi ile y-kesişim noktasını gösterir. Eğim-nokta formu ise y - y1 = m(x - x1) şeklindedir ve belirli bir noktadan geçen doğrunun eğimini kullanarak denklemi ifade eder."
+  },
+  {
+    "instruction": "Eğim-kesişim formunun dezavantajları nelerdir?",
+    "output": "Eğim-kesişim formunun dezavantajları arasında, doğrunun y-kesişim noktasının belirgin olmadığı durumlarda kullanışsız olması ve özellikle dikey doğrular için eğimin tanımsız olması yer alır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi sıfır olduğunda bu ne anlama gelir?",
+    "output": "Bir doğrunun eğimi sıfır olduğunda, doğru yataydır ve y değerleri sabittir. Bu, iki değişken arasında hiçbir değişim olmadığını ve y'nin x'ten bağımsız olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile iki nokta arasındaki eğim nasıl bulunur?",
+    "output": "İki nokta arasındaki eğim, iki noktanın koordinatları (x1, y1) ve (x2, y2) kullanılarak m = (y2 - y1) / (x2 - x1) formülü ile bulunur. Bu eğim, eğim-kesişim formunda m olarak kullanılır."
+  },
+  {
+    "instruction": "Eğim-kesişim formu neden önemlidir?",
+    "output": "Eğim-kesişim formu, bir doğrunun grafiğini çizerken eğim ve y-kesişim noktasını doğrudan gösterdiği için önemlidir. Bu form, doğrusal denklemlerin analizini ve grafiksel temsilini kolaylaştırır."
+  }
+]

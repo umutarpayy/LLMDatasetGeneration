@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küpün hacmi nasıl hesaplanır?",
+    "output": "Küpün hacmi, bir kenar uzunluğunun kendisiyle üç kez çarpılmasıyla bulunur. Yani, kenar uzunluğunun küpü alınır. Eğer bir küpün kenar uzunluğu a ise, hacmi a^3 olarak hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvet nedir?",
+    "output": "Üslü ifadelerde kuvvet, bir sayının kendisiyle kaç kez çarpılacağını belirten sayıdır. Örneğin, 3^4 ifadesinde 4, taban olan 3'ün kendisiyle dört kez çarpılacağını gösterir."
+  },
+  {
+    "instruction": "Bir sayının küpü ne anlama gelir?",
+    "output": "Bir sayının küpü, o sayının kendisiyle üç kez çarpılması anlamına gelir. Matematiksel olarak, a sayısının küpü a^3 şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban nedir?",
+    "output": "Üslü ifadelerde taban, üssün etkilediği sayıdır. Örneğin, 5^3 ifadesinde 5 tabandır ve bu ifade 5'in kendisiyle üç kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Kuvvetin kuvveti nasıl hesaplanır?",
+    "output": "Kuvvetin kuvveti hesaplanırken üsler çarpılır. Örneğin, (x^2)^3 ifadesi x^(2*3) = x^6 olarak hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işleminde üsler nasıl kullanılır?",
+    "output": "Üslü ifadelerde çarpma işleminde, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin özellikleri nelerdir?",
+    "output": "Üslü ifadelerin bazı temel özellikleri şunlardır: (a^m)^n = a^(m*n), a^m * a^n = a^(m+n), a^0 = 1 (a ≠ 0), a^(-n) = 1/a^n."
+  },
+  {
+    "instruction": "Küp ile kare arasındaki fark nedir?",
+    "output": "Küp, üç boyutlu bir geometrik şekildir ve tüm kenarları eşit uzunluktadır. Hacmi, bir kenar uzunluğunun küpü alınarak bulunur. Kare ise iki boyutlu bir şekildir ve tüm kenarları eşittir. Alanı, bir kenar uzunluğunun karesi alınarak hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, benzer terimlerin birleştirilmesi ve ortak çarpanların çıkarılmasıyla yapılır. Örneğin, a^3 * a^2 ifadesi a^(3+2) = a^5 olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler ne anlama gelir?",
+    "output": "Üslü ifadelerde negatif üsler, sayının tersinin alınması anlamına gelir. Örneğin, a^(-n) ifadesi 1/a^n olarak yorumlanır. Bu, sayının tersinin n kez çarpılması demektir."
+  }
+]

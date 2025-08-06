@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kareköklü ifadeler nedir?",
+    "output": "Kareköklü ifadeler, bir sayının karesini alarak elde edilen değerin ters işlemi olan karekök alma işlemiyle bulunur. Örneğin, 9'un karekökü 3'tür çünkü 3'ün karesi 9'dur."
+  },
+  {
+    "instruction": "Kareköklü ifadelerin yaklaşık değeri nasıl bulunur?",
+    "output": "Kareköklü ifadelerin yaklaşık değeri, sayının hangi iki tam kare arasında olduğunu belirleyerek ve bu iki sayı arasındaki mesafeyi kullanarak tahmin edilir. Örneğin, 45'in karekökü 6 ve 7 arasında olduğu için 6,7 civarında bir değer alır."
+  },
+  {
+    "instruction": "Tam kare sayılar nedir?",
+    "output": "Tam kare sayılar, bir tam sayının karesi olan sayılardır. Örneğin, 1, 4, 9, 16 gibi sayılar tam kare sayılardır çünkü sırasıyla 1, 2, 3, ve 4'ün kareleridir."
+  },
+  {
+    "instruction": "Kareköklü ifadelerde tahmin yaparken hangi yöntemler kullanılır?",
+    "output": "Kareköklü ifadelerde tahmin yaparken, sayının hangi iki tam kare arasında olduğunu belirlemek ve bu iki tam kare arasındaki mesafeyi kullanarak daha hassas bir tahmin yapmak yaygın bir yöntemdir."
+  },
+  {
+    "instruction": "Kareköklü ifadeler hangi durumlarda kullanılır?",
+    "output": "Kareköklü ifadeler, geometri, fizik ve mühendislik gibi alanlarda uzunluk, alan ve hacim hesaplamalarında sıklıkla kullanılır. Ayrıca, istatistikte standart sapma gibi hesaplamalarda da kullanılır."
+  },
+  {
+    "instruction": "Kareköklü ifadeler ile üslü ifadeler arasındaki fark nedir?",
+    "output": "Üslü ifadeler, bir sayının kendisiyle belirli bir sayıda çarpılmasını ifade ederken, kareköklü ifadeler bir sayının karesini alarak elde edilen değerin ters işlemi olan karekök alma işlemiyle bulunur."
+  },
+  {
+    "instruction": "Kareköklü ifadelerin özellikleri nelerdir?",
+    "output": "Kareköklü ifadelerin en önemli özelliklerinden biri, negatif sayıların gerçek sayılar kümesinde karekökünün olmamasıdır. Ayrıca, bir sayının karekökü her zaman pozitif bir sayı olarak kabul edilir."
+  },
+  {
+    "instruction": "Kareköklü ifadelerde hangi sayılar tam kare değildir?",
+    "output": "Tam kare olmayan sayılar, bir tam sayının karesi olmayan sayılardır. Örneğin, 2, 3, 5 gibi sayılar tam kare değildir çünkü hiçbir tam sayının karesi bu sayıları vermez."
+  },
+  {
+    "instruction": "Kareköklü ifadelerde yaklaşık değer hesaplamada doğruluk nasıl artırılır?",
+    "output": "Yaklaşık değer hesaplamada doğruluğu artırmak için, sayının hangi iki tam kare arasında olduğunu daha hassas bir şekilde belirlemek ve aradaki mesafeyi daha küçük birimlere bölerek tahmin yapmak gerekir."
+  },
+  {
+    "instruction": "Kareköklü ifadeler neden önemlidir?",
+    "output": "Kareköklü ifadeler, birçok matematiksel ve bilimsel hesaplamada kritik bir rol oynar. Özellikle, geometri ve trigonometri problemlerinde, mühendislik hesaplamalarında ve istatistiksel analizlerde kullanılır."
+  }
+]

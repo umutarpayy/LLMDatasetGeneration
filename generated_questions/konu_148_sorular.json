@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun dikey değişiminin yatay değişimine oranıdır ve genellikle 'm' harfi ile gösterilir. İki nokta (x1, y1) ve (x2, y2) arasındaki eğim, (y2 - y1) / (x2 - x1) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Nokta-eğim formu hangi durumlarda kullanılır?",
+    "output": "Nokta-eğim formu, bir doğrunun eğimi ve üzerindeki bir nokta bilindiğinde, doğrunun denklemini yazmak için kullanılır. Bu form, özellikle bir doğrunun eğimi ve belirli bir nokta üzerinden geçen doğruların denklemlerini hızlıca oluşturmak için idealdir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu nedir ve nasıl kullanılır?",
+    "output": "Eğim-kesişim formu, y = mx + b şeklindedir. Burada 'm' eğimi, 'b' ise y-eksenini kestiği noktayı temsil eder. Bu form, bir doğrunun eğimi ve y-kesişim noktası bilindiğinde doğrunun denklemini yazmak için kullanılır."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl oluşturulur?",
+    "output": "Bir doğrunun denklemi, eğim ve bir nokta bilindiğinde nokta-eğim formu ile veya eğim ve y-kesişim noktası bilindiğinde eğim-kesişim formu ile oluşturulabilir. Her iki durumda da, bilinen değerler yerine konularak doğrunun denklemi elde edilir."
+  },
+  {
+    "instruction": "Doğrusal denklemler neden farklı formlarda yazılır?",
+    "output": "Doğrusal denklemler, farklı problemlere ve ihtiyaçlara uygun çözümler sunmak için çeşitli formlarda yazılır. Nokta-eğim formu, belirli bir noktadan geçen doğrular için; eğim-kesişim formu, y-kesişim noktası bilinen doğrular için; standart form ise genel analiz ve karşılaştırmalar için kullanılır."
+  },
+  {
+    "instruction": "Nokta-eğim formu ile eğim-kesişim formu arasında nasıl dönüşüm yapılır?",
+    "output": "Nokta-eğim formundan eğim-kesişim formuna geçmek için, nokta-eğim formundaki denklemi açarak ve y'yi yalnız bırakarak eğim-kesişim formunu elde edebiliriz. Bu işlem, denklemi genişletip terimleri uygun şekilde düzenlemeyi içerir."
+  },
+  {
+    "instruction": "Doğrunun eğimi pozitif olduğunda grafikte ne gözlemlenir?",
+    "output": "Doğrunun eğimi pozitif olduğunda, grafik sola doğru yükselir. Bu, x değerleri arttıkça y değerlerinin de arttığı anlamına gelir, yani doğru yukarıya doğru eğimlidir."
+  },
+  {
+    "instruction": "Delta sembolü matematikte neyi ifade eder?",
+    "output": "Delta sembolü (Δ), matematikte genellikle bir değişimi veya farkı ifade etmek için kullanılır. Örneğin, Δy, y'deki değişimi, Δx ise x'teki değişimi temsil eder."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi alanlarda uygulanır?",
+    "output": "Doğrusal denklemler, mühendislik, ekonomi, fizik gibi birçok alanda kullanılır. Özellikle, iki değişken arasındaki doğrusal ilişkiyi modellemek ve analiz etmek için yaygın bir araçtır."
+  },
+  {
+    "instruction": "Bir doğrunun grafiğinde y-kesişim noktası nasıl belirlenir?",
+    "output": "Bir doğrunun grafiğinde y-kesişim noktası, doğrunun y-eksenini kestiği noktadır. Eğim-kesişim formunda bu nokta, denklemin sabit terimi olan 'b' değeridir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eden bir formattır. Burada m, doğrunun eğimini, b ise doğrunun y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Standart form nedir?",
+    "output": "Standart form, bir doğrusal denklemin ax + by = c şeklinde ifade edilmesidir. Burada a, b ve c genellikle tamsayıdır ve a pozitif olmalıdır."
+  },
+  {
+    "instruction": "Bir denklemi standart forma dönüştürmenin amacı nedir?",
+    "output": "Bir denklemi standart forma dönüştürmenin amacı, denklemi daha genel bir biçimde ifade etmektir. Bu form, denklemin x ve y katsayılarının daha kolay karşılaştırılmasına ve denklemin grafik üzerinde nasıl davrandığının daha iyi anlaşılmasına olanak tanır."
+  },
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun dikey değişiminin yatay değişimine oranıdır. Matematiksel olarak, eğim m, iki nokta (x1, y1) ve (x2, y2) arasında (y2 - y1) / (x2 - x1) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Eğim-kesişim formundan standart forma dönüştürme nasıl yapılır?",
+    "output": "Eğim-kesişim formundan standart forma dönüştürmek için, y = mx + b denklemini ax + by = c formuna getirmek gerekir. Bu, genellikle x terimini ve y terimini aynı tarafta toplamak ve sabit terimi diğer tarafa taşımakla yapılır."
+  },
+  {
+    "instruction": "Bir denklemde ortak bölenleri sadeleştirme neden önemlidir?",
+    "output": "Bir denklemde ortak bölenleri sadeleştirmek, denklemin en basit ve en anlaşılır formunu elde etmeyi sağlar. Bu, denklemin daha kolay çözümlenmesine ve yorumlanmasına yardımcı olur."
+  },
+  {
+    "instruction": "Eğim-kesişim formunun avantajları nelerdir?",
+    "output": "Eğim-kesişim formunun avantajları, doğrunun eğimi ve y-eksenini kestiği noktanın doğrudan görülebilmesidir. Bu, grafiği çizerken veya doğrunun özelliklerini analiz ederken büyük kolaylık sağlar."
+  },
+  {
+    "instruction": "Bir doğrusal denklemin eğimi neden önemlidir?",
+    "output": "Bir doğrusal denklemin eğimi, doğrunun eğim açısını ve yönünü belirler. Eğim, doğrunun ne kadar dik veya yatay olduğunu ve pozitif mi yoksa negatif mi eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Standart formda bir denklemin grafiği nasıl çizilir?",
+    "output": "Standart formda bir denklemin grafiğini çizmek için, önce x ve y kesişim noktaları bulunur. a ve b katsayıları kullanılarak bu noktalar belirlenir ve ardından bu noktalar birleştirilerek doğru çizilir."
+  },
+  {
+    "instruction": "Bir doğrunun y-eksenini kesim noktası nasıl belirlenir?",
+    "output": "Bir doğrunun y-eksenini kesim noktası, x = 0 olduğunda y'nin değeridir. Eğim-kesişim formunda, bu değer b olarak doğrudan görülebilir."
+  }
+]

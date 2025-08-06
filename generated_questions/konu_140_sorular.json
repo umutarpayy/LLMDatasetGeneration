@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim formülü nasıl kullanılır?",
+    "output": "Eğim formülü, iki nokta arasındaki y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır. İki nokta (x1, y1) ve (x2, y2) verildiğinde, eğim m = (y2 - y1) / (x2 - x1) formülü ile hesaplanır. Bu formül, bir doğrunun eğikliğini belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Eğim neden negatif olabilir?",
+    "output": "Eğim negatif olabilir çünkü bir doğrunun eğimi, y eksenindeki değişimin x eksenindeki değişime oranıdır. Eğer bir doğru sol üstten sağ alta doğru eğimliyse, bu durumda y eksenindeki değişim negatif olurken x eksenindeki değişim pozitif olur. Bu durumda, eğim negatif bir sayı olur."
+  },
+  {
+    "instruction": "Eğim hesaplamasında hangi adımlar izlenir?",
+    "output": "Eğim hesaplamak için öncelikle iki nokta belirlenir. Bu noktaların koordinatları (x1, y1) ve (x2, y2) olarak alınır. Daha sonra y eksenindeki değişim (y2 - y1) ve x eksenindeki değişim (x2 - x1) hesaplanır. Son olarak, bu iki değişim oranlanarak eğim (m) bulunur: m = (y2 - y1) / (x2 - x1)."
+  },
+  {
+    "instruction": "Doğrunun eğimi ile doğrultusu arasında nasıl bir ilişki vardır?",
+    "output": "Doğrunun eğimi, doğrunun eğiklik derecesini ve doğrultusunu belirler. Pozitif eğim, doğrunun sağa yukarı doğru eğimli olduğunu, negatif eğim ise sağa aşağı doğru eğimli olduğunu gösterir. Eğim sıfır ise, doğru yataydır. Sonsuz eğim, doğrunun dikey olduğunu belirtir."
+  },
+  {
+    "instruction": "Eğim hesaplamasında hangi durumlarda pozitif değer elde edilir?",
+    "output": "Eğim hesaplamasında pozitif bir değer elde edilir, eğer iki nokta arasındaki y eksenindeki değişim ve x eksenindeki değişim aynı işaretliyse. Yani, y ekseni ve x ekseni aynı yönde artıyorsa veya azalıyorsa, eğim pozitif olur."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi sıfır olduğunda bu ne anlama gelir?",
+    "output": "Bir doğrunun eğimi sıfır olduğunda, bu doğrunun yatay olduğunu ve y ekseninde herhangi bir değişim olmadığını gösterir. Yani, x ekseni boyunca hareket edilirken y ekseni sabit kalır."
+  },
+  {
+    "instruction": "Eğim, doğrusal denklemin hangi bileşenini temsil eder?",
+    "output": "Eğim, doğrusal denklemin y = mx + b formülündeki 'm' bileşenini temsil eder. Bu bileşen, doğrunun eğim derecesini ve doğrultusunu belirlerken, 'b' ise doğrunun y eksenini kestiği noktayı gösterir."
+  },
+  {
+    "instruction": "Eğim hesaplamasında hangi durumlarda tanımsız değer elde edilir?",
+    "output": "Eğim hesaplamasında tanımsız bir değer elde edilir, eğer x eksenindeki değişim sıfırsa. Bu durumda, iki nokta aynı x koordinatına sahip olur ve doğru dikey bir doğru olur. Dikey doğruların eğimi tanımsızdır."
+  },
+  {
+    "instruction": "Eğim, doğrusal fonksiyonların grafiklerinin hangi özelliğini belirler?",
+    "output": "Eğim, doğrusal fonksiyonların grafiklerinin eğiklik derecesini ve yönünü belirler. Eğim, doğrunun ne kadar dik veya yatay olduğunu ve hangi yöne eğimli olduğunu gösterir. Bu, grafik üzerindeki her bir birim x değişimine karşılık gelen y değişimini tanımlar."
+  },
+  {
+    "instruction": "Eğim hesaplamasında hangi durumlarda eğim değeri sıfır olur?",
+    "output": "Eğim hesaplamasında eğim değeri sıfır olur, eğer iki nokta arasındaki y eksenindeki değişim sıfırsa. Bu durumda, doğru yatay olur ve y ekseni boyunca hiçbir değişim olmaz."
+  }
+]

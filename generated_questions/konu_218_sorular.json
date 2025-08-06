@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikeyde ne kadar yükseldiğini veya alçaldığını gösteren bir ölçüdür. Matematiksel olarak eğim, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Eğim formülü m = (y2 - y1) / (x2 - x1) şeklindedir."
+  },
+  {
+    "instruction": "Doğrusal bir eşitsizlik grafiğinde noktalı çizgi neyi ifade eder?",
+    "output": "Noktalı çizgi, eşitsizlikte 'büyüktür' veya 'küçüktür' işaretlerinin kullanıldığı durumları ifade eder. Bu çizgi, eşitsizliğin eşitlik durumunu içermediğini ve çizgi üzerindeki noktaların çözüm kümesine dahil olmadığını gösterir."
+  },
+  {
+    "instruction": "Y eksenini kesen nokta nedir ve nasıl bulunur?",
+    "output": "Y eksenini kesen nokta, bir doğrunun y ekseni üzerinde kestiği noktadır. Bu nokta, x'in 0 olduğu durumda y'nin aldığı değerdir. Doğrunun denklemi y = mx + b formunda verildiğinde, y eksenini kesen nokta (0, b) olur."
+  },
+  {
+    "instruction": "Doğrusal bir eşitsizlikte çözüm kümesi nasıl belirlenir?",
+    "output": "Doğrusal bir eşitsizlikte çözüm kümesi, eşitsizliği sağlayan tüm (x, y) çiftlerinin oluşturduğu alandır. Grafikte, eşitsizlik doğrusu çizildikten sonra, doğruya göre hangi tarafın eşitsizliği sağladığı belirlenir ve o alan taranarak gösterilir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl yorumlanır?",
+    "output": "Bir doğrunun eğimi pozitifse, doğru yukarı doğru eğimlidir ve x arttıkça y de artar. Eğim negatifse, doğru aşağı doğru eğimlidir ve x arttıkça y azalır. Eğim sıfırsa, doğru yataydır ve y sabittir. Eğim tanımsızsa, doğru dikeydir ve x sabittir."
+  },
+  {
+    "instruction": "Doğrusal bir eşitsizlik grafiğinde taralı alan neyi ifade eder?",
+    "output": "Taralı alan, doğrusal eşitsizliği sağlayan tüm (x, y) noktalarını ifade eder. Bu alan, eşitsizlik doğrusu ile belirlenen bölgenin bir tarafında yer alır ve eşitsizliğin çözüm kümesini temsil eder."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde bir noktanın çözüm kümesine dahil olup olmadığını nasıl kontrol edersiniz?",
+    "output": "Bir noktanın çözüm kümesine dahil olup olmadığını kontrol etmek için, noktanın koordinatlarını eşitsizlikte yerine koyarız. Eğer eşitsizlik sağlanıyorsa, nokta çözüm kümesine dahildir. Sağlanmıyorsa, nokta çözüm kümesine dahil değildir."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir doğrunun eğimi nasıl belirlenir?",
+    "output": "Koordinat düzleminde bir doğrunun eğimi, doğru üzerindeki iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Bu, eğim formülü m = (y2 - y1) / (x2 - x1) kullanılarak bulunur."
+  },
+  {
+    "instruction": "Doğrusal eşitsizliklerin çözüm kümesi neden önemlidir?",
+    "output": "Doğrusal eşitsizliklerin çözüm kümesi, eşitsizliği sağlayan tüm olası çözümleri gösterir. Bu, özellikle optimizasyon problemlerinde veya belirli koşulları sağlayan değerlerin bulunmasında önemlidir. Çözüm kümesi, karar verme süreçlerinde ve modellemelerde kullanılır."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde x eksenini kesen noktalar nasıl bulunur?",
+    "output": "Eşitsizlik grafiğinde x eksenini kesen noktalar, y'nin 0 olduğu durumda x'in aldığı değerlerdir. Eşitsizlik denklemi y = mx + b formunda verildiğinde, y'yi 0 yaparak x için çözüm yapılır ve x eksenini kesen noktalar bulunur."
+  }
+]

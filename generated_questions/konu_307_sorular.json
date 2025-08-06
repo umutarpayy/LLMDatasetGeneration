@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İkizkenar üçgen nedir?",
+    "output": "İkizkenar üçgen, en az iki kenarının uzunlukları birbirine eşit olan bir üçgendir. Bu tür üçgenlerde, eşit kenarların karşısındaki açılar da birbirine eşittir."
+  },
+  {
+    "instruction": "İkizkenar üçgenin taban açıları hangi özelliklere sahiptir?",
+    "output": "İkizkenar üçgende, eşit kenarların karşısındaki açılar taban açıları olarak adlandırılır ve bu açılar birbirine eşittir. Bu, ikizkenar üçgenin temel özelliklerinden biridir."
+  },
+  {
+    "instruction": "İkizkenar üçgende tepe açısı nedir?",
+    "output": "İkizkenar üçgende, eşit olmayan kenarın karşısındaki açı tepe açısı olarak adlandırılır. Bu açı, taban açıları ile birlikte üçgenin iç açılarından biridir."
+  },
+  {
+    "instruction": "Kenar kenar kenar (KKK) eşlik kriteri nedir?",
+    "output": "Kenar kenar kenar (KKK) eşlik kriteri, iki üçgenin üç kenarının da birbirine eşit olması durumunda bu üçgenlerin eş olduğunu belirten bir kuraldır. Bu durumda, üçgenlerin karşılıklı açıları da eşit olur."
+  },
+  {
+    "instruction": "İkizkenar üçgende yükseklik ne işe yarar?",
+    "output": "İkizkenar üçgende, tepe noktasından tabana indirilen yükseklik, tabanı iki eşit parçaya böler ve üçgeni iki eş üçgene ayırır. Bu, üçgenin simetrik özelliklerini kullanarak çeşitli kanıtlamalar yapmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Açı kenar açı (AKA) eşlik kriteri nedir?",
+    "output": "Açı kenar açı (AKA) eşlik kriteri, iki üçgenin bir açısı, bu açının iki kenarından biri ve diğer açısı birbirine eşit olduğunda bu üçgenlerin eş olduğunu belirten bir kuraldır."
+  },
+  {
+    "instruction": "İkizkenar üçgenin simetri ekseni nedir?",
+    "output": "İkizkenar üçgenin simetri ekseni, tepe noktasından tabana indirilen ve tabanı iki eşit parçaya bölen dikmedir. Bu eksen, üçgeni simetrik olarak iki eş parçaya böler."
+  },
+  {
+    "instruction": "İkizkenar üçgenin tepe noktasından indirilen dikmenin özellikleri nelerdir?",
+    "output": "Tepe noktasından indirilen dikme, tabanı iki eşit parçaya böler ve aynı zamanda üçgenin simetri ekseni olur. Bu dikme, üçgeni iki eş üçgene böler."
+  },
+  {
+    "instruction": "İkizkenar üçgende açıların eşitliği nasıl kanıtlanır?",
+    "output": "İkizkenar üçgende, eşit kenarların karşısındaki açıların eşit olduğunu kanıtlamak için genellikle tepe noktasından tabana bir dikme indirilir ve oluşan iki üçgenin eş olduğu gösterilir. Bu, KKK veya AKA eşlik kriterleri kullanılarak yapılabilir."
+  },
+  {
+    "instruction": "İkizkenar üçgenin taban kenarının orta noktası hangi özelliklere sahiptir?",
+    "output": "İkizkenar üçgende, tepe noktasından tabana indirilen dikme, tabanı iki eşit parçaya böler. Bu durumda, dikmenin tabanı kestiği nokta taban kenarının orta noktasıdır ve bu nokta, üçgenin simetri ekseni üzerinde yer alır."
+  }
+]

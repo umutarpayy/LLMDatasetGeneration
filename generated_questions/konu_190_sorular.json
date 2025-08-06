@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki ifadenin birbirine eşit olmadığını gösteren matematiksel bir ifadedir. Eşitsizlikler, büyüktür (>), küçüktür (<), büyük eşittir (≥) ve küçük eşittir (≤) gibi sembollerle ifade edilir. Eşitsizlikler, iki miktar arasında karşılaştırma yapmamıza olanak tanır."
+  },
+  {
+    "instruction": "Sayı doğrusu nedir?",
+    "output": "Sayı doğrusu, sayıların belirli bir düzende sıralandığı, genellikle yatay bir çizgi üzerinde gösterilen bir çizimdir. Sayı doğrusunda, pozitif sayılar sağa doğru, negatif sayılar ise sola doğru yer alır. Sayı doğrusu, sayıların büyüklüklerini ve aralarındaki ilişkileri görselleştirmek için kullanılır."
+  },
+  {
+    "instruction": "Bir eşitsizlikte çözüm kümesi nedir?",
+    "output": "Bir eşitsizlikte çözüm kümesi, eşitsizliği sağlayan tüm olası değerlerin topluluğudur. Bu küme, sayı doğrusunda belirli bir aralığı veya aralıkları temsil edebilir ve genellikle açık veya kapalı aralıklarla ifade edilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi adımlar izlenir?",
+    "output": "Eşitsizliklerin çözümünde genellikle şu adımlar izlenir: 1) Eşitsizliği basitleştirin. 2) Değişkeni izole etmek için uygun işlemleri uygulayın. 3) Elde edilen çözümü kontrol edin ve gerekirse sayı doğrusunda gösterin. 4) Çözüm kümesini belirleyin."
+  },
+  {
+    "instruction": "Eşitsizliklerin sayı doğrusunda gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin sayı doğrusunda gösterimi, eşitsizliği sağlayan sayıların görsel olarak temsil edilmesiyle yapılır. Açık aralıklar için içi boş noktalar, kapalı aralıklar için içi dolu noktalar kullanılır. Eşitsizliği sağlayan tüm sayılar, uygun yönde bir ok ile belirtilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafikle gösterimi ne işe yarar?",
+    "output": "Eşitsizliklerin grafikle gösterimi, çözüm kümesini görselleştirmemize ve çözümün hangi değerler arasında olduğunu kolayca anlamamıza yardımcı olur. Bu, özellikle karmaşık problemlerle uğraşırken çözüm aralığını hızlıca belirlemek için faydalıdır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi semboller kullanılır?",
+    "output": "Eşitsizliklerin çözümünde kullanılan temel semboller, büyüktür (>), küçüktür (<), büyük eşittir (≥) ve küçük eşittir (≤) sembolleridir. Bu semboller, iki ifadenin birbirine göre büyüklük veya küçüklük ilişkisini belirtir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde dikkat edilmesi gereken noktalar şunlardır: 1) Eşitsizliğin yönünü değiştiren işlemler (örneğin, negatif bir sayı ile çarpma) dikkatle yapılmalıdır. 2) Çözüm aralığı doğru bir şekilde belirlenmelidir. 3) Eşitsizliğin her iki tarafına aynı işlemler uygulanmalıdır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Eşitsizliklerin çözümünde negatif sayılarla işlem yaparken, eşitsizliğin her iki tarafı negatif bir sayı ile çarpılır veya bölünürse, eşitsizlik yönü değiştirilmelidir. Bu, negatif sayıların çarpma ve bölme işlemlerinde eşitsizlik yönünü tersine çevirmesi nedeniyle önemlidir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizliklerin çözümünde sınır değerler, eşitsizliği sağlayan en küçük ve en büyük değerlerdir. Bu değerler, eşitsizliğin sağlandığı aralığın başlangıç ve bitiş noktalarını belirler. Sınır değerler, eşitsizlik sembolüne bağlı olarak dahil veya hariç olabilir."
+  }
+]

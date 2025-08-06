@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik olduğunu gösteren bir değerdir. Matematiksel olarak, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak tanımlanır. Eğim, genellikle 'm' harfi ile gösterilir ve eğim formülü (y2 - y1) / (x2 - x1) şeklindedir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl bulunur?",
+    "output": "Bir doğrunun eğimini bulmak için, doğrunun üzerindeki iki noktanın koordinatları kullanılır. Bu noktaların koordinatları (x1, y1) ve (x2, y2) ise, eğim (y2 - y1) / (x2 - x1) formülü ile hesaplanır. Bu oran, doğrunun yatay eksene göre ne kadar dik olduğunu gösterir."
+  },
+  {
+    "instruction": "Yansıma işlemi sırasında eğim nasıl değişir?",
+    "output": "Yansıma işlemi sırasında eğim, yansıma yapılan doğruya bağlı olarak değişir. Eğer bir doğru, y = mx doğrusu üzerinde yansıtılıyorsa, yansıyan doğrunun eğimi, yansıma doğrusunun eğiminin negatif çarpı tersine eşit olur. Bu, yansıma doğrusuna dik olan doğruların eğimlerinin ters işaretli olmasından kaynaklanır."
+  },
+  {
+    "instruction": "Yansıma ve simetri arasındaki ilişki nedir?",
+    "output": "Yansıma, bir şeklin bir doğruya göre simetrik olan görüntüsünü oluşturma işlemidir. Simetri, bir şeklin bir eksen etrafında aynadaki gibi bir görüntüsünün olması durumudur. Yansıma, simetrinin bir türüdür ve genellikle bir eksen etrafında şeklin aynadaki görüntüsünü elde etmek için kullanılır."
+  },
+  {
+    "instruction": "Bir doğrunun y = kx formunda olması ne anlama gelir?",
+    "output": "Bir doğrunun y = kx formunda olması, doğrunun orijinden geçen ve eğimi k olan bir doğru olduğunu ifade eder. Bu form, doğrunun eğimini ve y eksenini kestiği noktayı belirtir. Eğer k pozitifse, doğru yukarı doğru eğimlidir; negatifse, aşağı doğru eğimlidir."
+  },
+  {
+    "instruction": "Yansıma işlemi sırasında hangi matematiksel kavramlar kullanılır?",
+    "output": "Yansıma işlemi sırasında kullanılan matematiksel kavramlar arasında koordinat sistemi, doğruların eğimi, simetri, diklik ve mesafe hesaplamaları bulunur. Bu kavramlar, yansıma işleminin doğru bir şekilde gerçekleştirilmesi için gereklidir."
+  },
+  {
+    "instruction": "Doğru parçasının eğimi nasıl hesaplanır?",
+    "output": "Doğru parçasının eğimi, doğru parçasının iki ucu arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Bu, eğim formülü (y2 - y1) / (x2 - x1) kullanılarak yapılır. Doğru parçasının eğimi, doğru parçasının yatay eksene göre ne kadar dik olduğunu gösterir."
+  },
+  {
+    "instruction": "Yansıma işlemi sonucunda şeklin eğimi nasıl etkilenir?",
+    "output": "Yansıma işlemi sonucunda bir şeklin eğimi, yansıma yapılan doğruya bağlı olarak değişir. Yansıma doğrusu ile yansıyan şeklin eğimi arasında bir ilişki vardır; genellikle yansıyan şeklin eğimi, yansıma doğrusunun eğiminin negatif çarpı tersine eşit olur, bu da yansıma doğrusu ile dik olan doğruların eğimlerinin ters işaretli olmasına dayanır."
+  },
+  {
+    "instruction": "Bir doğrunun yansıması nasıl bulunur?",
+    "output": "Bir doğrunun yansıması, yansıma yapılacak doğruya göre şeklin simetrik olarak yer değiştirmesiyle bulunur. Yansıma doğrusu belirlendikten sonra, her bir noktanın yansıma doğrusu üzerindeki simetrik noktası hesaplanır. Bu işlem, genellikle koordinatların yansıma doğrusu etrafında değiştirilmesiyle yapılır."
+  },
+  {
+    "instruction": "Eğim ile yansıma arasındaki ilişki nedir?",
+    "output": "Eğim ile yansıma arasındaki ilişki, yansıma yapılan doğrunun eğimi ile yansıyan şeklin eğimi arasındaki matematiksel ilişkidir. Yansıma doğrusu ile yansıyan şeklin eğimi arasında genellikle ters işaretli bir ilişki vardır. Bu, yansıma doğrusu ile dik olan doğruların eğimlerinin ters işaretli olmasına dayanır."
+  }
+]

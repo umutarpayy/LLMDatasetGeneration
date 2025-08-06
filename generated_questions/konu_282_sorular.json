@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Döndürme nedir?",
+    "output": "Döndürme, bir şeklin belirli bir nokta etrafında belirli bir açı kadar dönmesini sağlayan geometrik bir dönüşüm türüdür. Bu işlem sırasında şeklin boyutu ve şekli değişmez, sadece konumu değişir."
+  },
+  {
+    "instruction": "Döndürme işlemi nasıl yapılır?",
+    "output": "Döndürme işlemi, bir şeklin belirli bir merkez nokta etrafında, saat yönünde veya saat yönünün tersinde belirli bir açı kadar döndürülmesiyle yapılır. Döndürme işlemi sırasında her bir noktanın yeni konumu, merkez noktasına olan uzaklığı sabit tutularak belirlenir."
+  },
+  {
+    "instruction": "Döndürmenin özellikleri nelerdir?",
+    "output": "Döndürmenin başlıca özellikleri şunlardır: 1) Şeklin boyutu ve şekli değişmez; sadece konumu değişir. 2) Döndürme işlemi belirli bir merkez etrafında yapılır. 3) Döndürme açısı pozitif ise saat yönünün tersine, negatif ise saat yönünde yapılır. 4) Her nokta, merkezden aynı uzaklıkta kalır."
+  },
+  {
+    "instruction": "Döndürme işlemi ne işe yarar?",
+    "output": "Döndürme işlemi, şekillerin konumunu değiştirerek farklı perspektiflerden görünmelerini sağlar. Bu, özellikle grafik tasarım, bilgisayar grafikleri ve mühendislik gibi alanlarda önemlidir. Döndürme, simetri ve desen oluşturma gibi geometrik analizlerde de kullanılır."
+  },
+  {
+    "instruction": "Döndürme ile simetri arasındaki ilişki nedir?",
+    "output": "Döndürme ve simetri, şekillerin dönüşümünde kullanılan iki farklı kavramdır. Döndürme, bir şeklin belirli bir açıyla dönmesini ifade ederken, simetri bir şeklin belirli bir eksen veya nokta etrafında kendisiyle örtüşecek şekilde yansımasını ifade eder. Döndürme simetrisi, bir şeklin belirli bir açıyla döndürüldüğünde kendisiyle örtüşmesi durumunu tanımlar."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında koordinatlar nasıl değişir?",
+    "output": "Döndürme işlemi sırasında, bir noktanın koordinatları dönüşüm matrisleri kullanılarak hesaplanır. Örneğin, orijin etrafında saat yönünün tersine θ derecelik bir döndürme için, yeni koordinatlar (x', y') = (x*cos(θ) - y*sin(θ), x*sin(θ) + y*cos(θ)) formülü ile bulunur."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi durumlarda kullanılır?",
+    "output": "Döndürme işlemi, bilgisayar grafikleri, robotik, mühendislik tasarımları, mimari ve animasyon gibi birçok alanda kullanılır. Özellikle, bir nesnenin farklı açılardan görüntülenmesi veya bir tasarımın farklı perspektiflerden analiz edilmesi gerektiğinde döndürme işlemi uygulanır."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi matematiksel formüller kullanılır?",
+    "output": "Döndürme işlemi sırasında trigonometri ve matris dönüşümleri kullanılır. Özellikle, bir noktanın yeni konumunu hesaplamak için cos(θ) ve sin(θ) fonksiyonları kullanılır. Dönüşüm matrisleri, bu trigonometrik fonksiyonları içeren matris çarpımları ile uygulanır."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında şeklin simetrisi nasıl etkilenir?",
+    "output": "Döndürme işlemi sırasında şeklin simetrisi etkilenmez; çünkü döndürme, şeklin boyutunu veya şeklini değiştirmez. Ancak, döndürme sonrası şeklin konumu değişeceği için, simetri eksenleri veya noktaları da döndürülmüş olur. Bu, yeni konumda simetrik özelliklerin nasıl göründüğünü etkileyebilir."
+  },
+  {
+    "instruction": "Döndürme ve yansıma arasındaki fark nedir?",
+    "output": "Döndürme, bir şeklin belirli bir merkez etrafında belirli bir açıyla dönmesini ifade ederken, yansıma bir şeklin belirli bir eksen veya düzlem üzerinde simetrik olarak yansıtılmasını ifade eder. Döndürme sırasında şeklin yönü değişir ama şekli değişmez; yansıma sırasında ise şeklin yönü ve konumu değişir."
+  }
+]

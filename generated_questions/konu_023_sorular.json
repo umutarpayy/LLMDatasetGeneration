@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bir sayının üssü 0 olduğunda sonuç neden 1 olur?",
+    "output": "Bir sayının üssü 0 olduğunda, bu durum matematiksel bir kural olarak her sayının 0'ıncı kuvvetinin 1'e eşit olmasıyla açıklanır. Bu, üslü ifadelerin tanımına ve çarpma işleminin özelliklerine dayanır. Örneğin, 3'ün farklı kuvvetleri arasında bir düzen vardır: 3^4 = 81, 3^3 = 27, 3^2 = 9, 3^1 = 3. Her adımda bir önceki sonucu tabana bölerek bir sonraki kuvveti buluruz. Bu mantığı devam ettirdiğimizde, 3^1'den 3^0'a geçerken 3'e böleriz ve sonuç 1 olur."
+  },
+  {
+    "instruction": "Negatif sayıların üslü ifadeleri nasıl hesaplanır?",
+    "output": "Negatif sayıların üslü ifadeleri hesaplanırken, üssün tek veya çift olmasına göre sonuç değişir. Negatif bir sayının çift kuvveti pozitif bir sonuç verirken, tek kuvveti negatif bir sonuç verir. Örneğin, (-2)^2 = 4 ve (-2)^3 = -8. Bu, negatif sayının işaretinin her çarpımda değişmesiyle ilgilidir; çift sayıda çarpımda işaret pozitif olur, tek sayıda çarpımda ise negatif kalır."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban negatif olduğunda neye dikkat edilmelidir?",
+    "output": "Üslü ifadelerde taban negatif olduğunda, üssün tek veya çift olmasına dikkat edilmelidir. Çift üslerde sonuç pozitif olurken, tek üslerde negatif olur. Ayrıca, negatif tabanlı üslü ifadelerde parantez kullanımı önemlidir. Örneğin, (-3)^2 = 9 iken, -3^2 = -9'dur. Parantez kullanımı, üssün hem tabana hem de işarete uygulanmasını sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üs ne anlama gelir?",
+    "output": "Üslü ifadelerde negatif üs, sayının tersinin alınması anlamına gelir. Örneğin, a^-n ifadesi, 1/a^n olarak ifade edilir. Bu, negatif üssün pozitif bir üs ile ters çevirme işlemi yapmasıyla ilgilidir. Örneğin, 2^-3 = 1/(2^3) = 1/8'dir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sıfır taban ne anlama gelir?",
+    "output": "Üslü ifadelerde sıfır taban, üssün pozitif olması durumunda sonucun her zaman 0 olacağı anlamına gelir. Yani, 0^n (n>0) her zaman 0'dır. Ancak, 0^0 ifadesi belirsiz bir durumdur ve genellikle matematiksel olarak tanımsız kabul edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde bir sayının karesi ne anlama gelir?",
+    "output": "Üslü ifadelerde bir sayının karesi, sayının kendisiyle bir kez daha çarpılması anlamına gelir. Matematiksel olarak, a^2 ifadesi a × a olarak yazılır. Kare alma işlemi, özellikle geometri ve fizik gibi alanlarda alan hesaplamaları ve diğer matematiksel işlemler için yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bir sayının küpü ne anlama gelir?",
+    "output": "Üslü ifadelerde bir sayının küpü, sayının kendisiyle iki kez daha çarpılması anlamına gelir. Matematiksel olarak, a^3 ifadesi a × a × a olarak yazılır. Küp alma işlemi, hacim hesaplamaları ve diğer matematiksel işlemler için yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban ve üs nasıl belirlenir?",
+    "output": "Üslü ifadelerde taban, tekrarlanan çarpmanın hangi sayıyla yapıldığını gösterirken, üs bu çarpmanın kaç kez yapıldığını belirtir. Örneğin, 5^3 ifadesinde 5 taban, 3 ise üssü temsil eder. Bu ifade, 5'in üç kez kendisiyle çarpılması anlamına gelir: 5 × 5 × 5."
+  },
+  {
+    "instruction": "Üslü ifadelerde 1'in herhangi bir kuvveti neden 1'e eşittir?",
+    "output": "Üslü ifadelerde 1'in herhangi bir kuvveti, 1'in kendisiyle kaç kez çarpılırsa çarpılsın, sonucun her zaman 1 olacağı anlamına gelir. Bu, 1'in çarpma işlemi üzerindeki etkisiz eleman olma özelliğinden kaynaklanır. Örneğin, 1^n = 1, n hangi pozitif tam sayı olursa olsun."
+  },
+  {
+    "instruction": "Üslü ifadelerde 0'ın pozitif bir kuvveti neden 0'a eşittir?",
+    "output": "Üslü ifadelerde 0'ın pozitif bir kuvveti, 0'ın kendisiyle kaç kez çarpılırsa çarpılsın sonucun her zaman 0 olacağı anlamına gelir. Bu, 0'ın çarpma işlemi üzerindeki etkisiz eleman olma özelliğinden kaynaklanır. Örneğin, 0^n = 0, n pozitif bir tam sayı olduğunda."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Nokta-eğim formu nedir?",
+    "output": "Nokta-eğim formu, bir doğrunun denklemini yazmak için kullanılan bir yöntemdir. Bu form, bir doğrunun eğimini ve bu doğrunun üzerinde bulunan bir noktayı kullanarak denklemi oluşturur. Genel olarak y - y₁ = m(x - x₁) şeklinde ifade edilir. Burada m eğimi, (x₁, y₁) ise doğrunun üzerindeki bir noktayı temsil eder."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile nokta-eğim formu arasındaki fark nedir?",
+    "output": "Eğim-kesişim formu (y = mx + b), doğrunun eğimini (m) ve y-eksenini kestiği noktayı (b) kullanarak doğrunun denklemini ifade eder. Nokta-eğim formu (y - y₁ = m(x - x₁)) ise doğrunun eğimini (m) ve doğrunun üzerinde bulunan bir noktayı ((x₁, y₁)) kullanır. Eğim-kesişim formu, doğrunun grafiği üzerinde daha genel bir bakış sunarken, nokta-eğim formu belirli bir noktadan hareketle denklemi oluşturur."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi eğim-kesişim formuna nasıl dönüştürülür?",
+    "output": "Bir doğrunun denklemi nokta-eğim formunda verildiğinde, eğim-kesişim formuna dönüştürmek için denklemi y = mx + b formuna getirmek gerekir. İlk adım, parantez içindeki ifadeyi dağıtarak denklemi genişletmektir. Ardından, y terimini izole etmek için gerekli işlemleri yaparak denklemi y = mx + b formuna dönüştürürüz."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda b terimi neyi ifade eder?",
+    "output": "Eğim-kesişim formunda (y = mx + b), b terimi doğrunun y-eksenini kestiği noktayı ifade eder. Bu, x'in 0 olduğu durumda y'nin alacağı değerdir ve doğrunun grafiği üzerinde y-eksenini kestiği noktayı belirler."
+  },
+  {
+    "instruction": "Doğrunun eğimi negatif olduğunda grafikte ne gözlemlenir?",
+    "output": "Bir doğrunun eğimi negatif olduğunda, grafik soldan sağa doğru aşağıya doğru eğim gösterir. Bu, x arttıkça y değerinin azaldığı anlamına gelir. Dolayısıyla, negatif eğimli bir doğru, düşen bir eğri olarak gözlemlenir."
+  },
+  {
+    "instruction": "Eğim-kesişim formunun avantajları nelerdir?",
+    "output": "Eğim-kesişim formunun (y = mx + b) avantajları arasında, doğrunun eğimini ve y-eksenini kestiği noktayı doğrudan göstermesi yer alır. Bu form, grafiğin hızlı bir şekilde çizilmesine olanak tanır ve doğrunun y-eksenini kestiği noktayı (b) ve eğimini (m) doğrudan verir, bu da analizi kolaylaştırır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl yorumlanır?",
+    "output": "Bir doğrunun eğimi (m), doğrunun ne kadar dik olduğunu ve hangi yönde eğildiğini gösterir. Pozitif eğim, doğrunun sağa doğru yükseldiğini, negatif eğim ise sağa doğru düştüğünü belirtir. Eğim 0 ise, doğru yataydır ve x eksenine paraleldir. Eğim sonsuz ise, doğru dikeydir ve y eksenine paraleldir."
+  },
+  {
+    "instruction": "Doğrusal denklemler neden önemlidir?",
+    "output": "Doğrusal denklemler, birçok matematiksel ve gerçek dünya probleminde temel bir rol oynar. İki değişken arasındaki doğrusal ilişkiyi modellemekte kullanılırlar. Bu denklemler, finansal analizden mühendisliğe, ekonomiden fiziksel bilimlere kadar birçok alanda uygulanır. Doğrusal denklemler, verilerin analiz edilmesi, tahminler yapılması ve sistemlerin davranışlarının modellenmesi için önemlidir."
+  },
+  {
+    "instruction": "Bir doğrunun grafiği nasıl çizilir?",
+    "output": "Bir doğrunun grafiğini çizmek için önce denklemin eğim-kesişim formunu (y = mx + b) belirlemek gerekir. İlk adım, y-eksenini kestiği noktayı (b) grafikte işaretlemektir. Ardından, eğimi (m) kullanarak bu noktadan başlayarak doğruyu çizeriz. Eğim, y'nin x'e göre değişim oranını gösterir. Örneğin, eğim 2 ise, her bir birim x artışında y iki birim artar."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda daha kullanışlıdır?",
+    "output": "Eğim-kesişim formu, özellikle bir doğrunun grafiğini hızlı bir şekilde çizmek veya y-eksenini kestiği noktayı ve eğimini doğrudan görmek istediğimiz durumlarda daha kullanışlıdır. Bu form, doğrunun genel davranışını ve eğilimini hızlı bir şekilde anlamamıza olanak tanır, bu da özellikle grafiksel analizlerde ve hızlı tahminlerde avantaj sağlar."
+  }
+]

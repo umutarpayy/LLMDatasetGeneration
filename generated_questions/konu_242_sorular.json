@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Medyan nedir?",
+    "output": "Medyan, bir veri setindeki değerlerin sıralandıktan sonra ortada kalan değeridir. Eğer veri setindeki eleman sayısı tek ise ortadaki değer medyan olur. Eğer çift ise ortadaki iki değerin aritmetik ortalaması medyan olarak kabul edilir."
+  },
+  {
+    "instruction": "Medyan nasıl bulunur?",
+    "output": "Medyanı bulmak için öncelikle veri setindeki tüm değerleri küçükten büyüğe doğru sıralamak gerekir. Ardından, eleman sayısına göre ortadaki değeri veya ortadaki iki değerin aritmetik ortalamasını alarak medyan bulunur."
+  },
+  {
+    "instruction": "Ortalama nedir?",
+    "output": "Ortalama, bir veri setindeki tüm değerlerin toplamının, veri setindeki eleman sayısına bölünmesiyle elde edilen değerdir. Genellikle aritmetik ortalama olarak bilinir ve veri setinin genel eğilimini gösterir."
+  },
+  {
+    "instruction": "Ortalama nasıl hesaplanır?",
+    "output": "Ortalama hesaplamak için veri setindeki tüm değerler toplanır ve bu toplam, veri setindeki eleman sayısına bölünür. Bu işlem, veri setinin genel eğilimini temsil eden ortalama değeri verir."
+  },
+  {
+    "instruction": "Mod nedir?",
+    "output": "Mod, bir veri setinde en sık tekrarlanan değerdir. Bir veri setinde birden fazla mod olabilir veya hiç mod olmayabilir. Mod, veri setinin en yaygın değerini gösterir."
+  },
+  {
+    "instruction": "Mod nasıl bulunur?",
+    "output": "Modu bulmak için veri setindeki her bir değerin kaç kez tekrarlandığını saymak gerekir. En fazla tekrar eden değer mod olarak kabul edilir."
+  },
+  {
+    "instruction": "Aralık nedir?",
+    "output": "Aralık, bir veri setindeki en yüksek değer ile en düşük değer arasındaki farktır. Veri setinin yayılımını ve çeşitliliğini gösterir."
+  },
+  {
+    "instruction": "Aralık nasıl hesaplanır?",
+    "output": "Aralık hesaplamak için veri setindeki en yüksek değerden en düşük değer çıkarılır. Bu, veri setinin yayılımını ifade eder."
+  },
+  {
+    "instruction": "Çubuk grafiği nedir?",
+    "output": "Çubuk grafiği, verileri görselleştirmek için kullanılan bir grafik türüdür. Her bir kategori veya veri noktası için bir çubuk kullanılır ve çubukların yüksekliği veya uzunluğu, o kategorinin değerini temsil eder."
+  },
+  {
+    "instruction": "Çubuk grafikleri hangi durumlarda kullanılır?",
+    "output": "Çubuk grafikleri, kategorik verilerin karşılaştırılması gerektiğinde kullanılır. Özellikle farklı kategoriler arasındaki farkları görselleştirmek ve analiz etmek için idealdir."
+  }
+]

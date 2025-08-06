@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgen eşliği nedir?",
+    "output": "Üçgen eşliği, iki üçgenin tüm kenar uzunluklarının ve açı ölçülerinin birbirine eşit olması durumudur. Bu, üçgenlerin şekil ve büyüklük olarak tamamen aynı olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Kenar kenar kenar (KKK) eşlik kriteri nedir?",
+    "output": "Kenar kenar kenar (KKK) eşlik kriteri, iki üçgenin eş olduğunu belirlemek için kullanılan bir yöntemdir. Bu kriter, iki üçgenin karşılık gelen tüm kenarlarının uzunluklarının eşit olması durumunda üçgenlerin eş olduğunu ifade eder."
+  },
+  {
+    "instruction": "Kenar uzunlukları eşit olan üçgenlerin eş olması neden mantıklıdır?",
+    "output": "Kenar uzunlukları eşit olan üçgenlerin eş olması mantıklıdır çünkü üçgenin şekli ve büyüklüğü, kenar uzunlukları tarafından belirlenir. Eğer üçgenin tüm kenarları eşitse, bu üçgenler aynı şekle ve büyüklüğe sahip olmalıdır, dolayısıyla eş olurlar."
+  },
+  {
+    "instruction": "Eş üçgenlerin açıları nasıl karşılaştırılır?",
+    "output": "Eş üçgenlerde karşılık gelen açıların ölçüleri birbirine eşittir. Yani, bir üçgendeki bir açı, eş üçgendeki karşılık gelen açının ölçüsüyle aynıdır. Bu, eş üçgenlerin aynı şekle sahip olduklarının bir sonucudur."
+  },
+  {
+    "instruction": "Eş üçgenlerin kenarları nasıl karşılaştırılır?",
+    "output": "Eş üçgenlerde karşılık gelen kenarların uzunlukları birbirine eşittir. Yani, bir üçgendeki bir kenar, eş üçgendeki karşılık gelen kenarın uzunluğuyla aynıdır. Bu, eş üçgenlerin aynı büyüklüğe sahip olduklarının bir sonucudur."
+  },
+  {
+    "instruction": "Eşlik işareti nasıl yazılır ve ne anlama gelir?",
+    "output": "Eşlik işareti, eşittir işaretine benzer, ancak üstünde dalgalı bir çizgi bulunur. İki üçgenin eş olduğunu belirtmek için kullanılır ve bu işaret, karşılık gelen kenarların ve açıların eşit olduğunu ifade eder."
+  },
+  {
+    "instruction": "Üçgen eşliğinde aksiyom ve postülatlar ne anlama gelir?",
+    "output": "Aksiyom ve postülatlar, geometride kanıt gerektirmeksizin doğru kabul edilen önermelerdir. Üçgen eşliğinde, kenar kenar kenar (KKK) gibi kriterler bir aksiyom olarak kabul edilir ve bu kriterin doğruluğu kanıtlanmadan kullanılır."
+  },
+  {
+    "instruction": "Eş üçgenlerin geometrik olarak nasıl aynı olduğu gösterilebilir?",
+    "output": "Eş üçgenlerin geometrik olarak aynı olduğunu göstermek için, bir üçgenin diğerine kaydırma, döndürme veya yansıtma gibi hareketlerle üst üste bindirilmesi sağlanabilir. Bu hareketler sonucu üçgenler tamamen örtüşüyorsa, eş oldukları kanıtlanır."
+  },
+  {
+    "instruction": "Üçgen eşliği hangi durumlarda kullanılır?",
+    "output": "Üçgen eşliği, geometri problemlerinde şekillerin ve yapıların analizi, mühendislikte yapıların tasarımı ve mimarlıkta simetri ve denge sağlama gibi durumlarda kullanılır. Eşlik, iki şeklin tamamen aynı olduğunu göstererek problemlerin çözümünü kolaylaştırır."
+  },
+  {
+    "instruction": "Eş üçgenlerin özellikleri nelerdir?",
+    "output": "Eş üçgenlerin özellikleri arasında karşılık gelen kenarların ve açıların eşitliği bulunur. Bu, üçgenlerin şekil ve büyüklük olarak tamamen aynı olduğu anlamına gelir. Eş üçgenler, aynı çevre ve alan değerlerine sahiptir."
+  }
+]

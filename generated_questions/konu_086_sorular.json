@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çarpı işareti yerine cebirde hangi semboller kullanılır?",
+    "output": "Cebirde çarpı işareti yerine genellikle nokta (·) veya parantezler kullanılır. Nokta, değişkenlerle karışmaması için satırın ortasına konur. Ayrıca, iki terim yan yana yazılarak da çarpma işlemi gösterilebilir, örneğin 2x ifadesi 2 çarpı x anlamına gelir."
+  },
+  {
+    "instruction": "Değişken nedir ve nasıl kullanılır?",
+    "output": "Değişken, matematikte bir değeri temsil etmek için kullanılan semboldür. Genellikle harflerle gösterilir ve cebirsel ifadelerde bilinmeyen veya değişebilen bir miktarı ifade eder. Örneğin, x ve y sıkça kullanılan değişkenlerdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde işlem önceliği nasıl belirlenir?",
+    "output": "Cebirsel ifadelerde işlem önceliği, matematiksel işlemlerin hangi sırayla yapılacağını belirler. Öncelik sırası parantez içindeki işlemler, çarpma ve bölme, ardından toplama ve çıkarma şeklindedir. Bu kurallar, işlemlerin doğru ve tutarlı bir şekilde yapılmasını sağlar."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin yerine sayı koyma işlemi nedir?",
+    "output": "Değişkenlerin yerine sayı koyma işlemi, değişkenin belirli bir değerle değiştirilmesidir. Bu işlem, ifadenin sayısal değerini bulmak için yapılır. Örneğin, 2x + 3 ifadesinde x yerine 5 koyarsak, ifade 2(5) + 3 olur ve bu da 13 eder."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi neden farklı gösterimlerle ifade edilir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, çarpı işaretinin değişkenlerle karışmasını önlemek için farklı gösterimlerle ifade edilir. Özellikle x değişkeni çarpı işaretine benzediğinden, karışıklığı önlemek için nokta veya parantez gibi alternatif gösterimler kullanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezlerin rolü nedir?",
+    "output": "Parantezler, cebirsel ifadelerde işlem sırasını belirlemek ve belirli işlemleri öncelikli hale getirmek için kullanılır. Parantez içindeki işlemler, diğer işlemlerden önce yapılır. Bu, ifadelerin doğru bir şekilde çözülmesini sağlar."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi sırasında hangi semboller kullanılabilir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi sırasında nokta (·), parantez veya yan yana yazma gibi semboller kullanılabilir. Bu semboller, çarpma işleminin değişkenlerle karışmasını önlemek için tercih edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin yerine sayı koyarken nelere dikkat edilmelidir?",
+    "output": "Değişkenlerin yerine sayı koyarken, işlemlerin doğru sırasına dikkat edilmelidir. Önce çarpma ve bölme, sonra toplama ve çıkarma yapılmalıdır. Ayrıca, değişkenin her geçtiği yere aynı sayı konulmalıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi neden doğrudan yazılmaz?",
+    "output": "Cebirsel ifadelerde çarpma işlemi doğrudan yazılmaz çünkü çarpı işareti, özellikle x değişkeni ile karışabilir. Bu karışıklığı önlemek için çarpma işlemi nokta veya parantez kullanılarak ya da terimlerin yan yana yazılmasıyla ifade edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin değeri nasıl belirlenir?",
+    "output": "Cebirsel ifadelerde değişkenlerin değeri, verilen bir koşul veya problem bağlamında belirlenir. Değişkenin yerine konulacak sayı, genellikle problemde belirtilir ve bu sayı ifadenin çözümünde kullanılır."
+  }
+]

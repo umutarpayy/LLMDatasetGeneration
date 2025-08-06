@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki ifadenin birbirine eşit olmadığını gösteren matematiksel bir ifadedir. Genellikle '>', '<', '≥' veya '≤' sembolleri kullanılarak ifade edilir. Eşitsizlikler, bir ifadenin diğerinden büyük, küçük, büyük veya eşit, küçük veya eşit olduğunu belirtir."
+  },
+  {
+    "instruction": "Eşitsizlikler nasıl çözülür?",
+    "output": "Eşitsizlikler, her iki tarafında da aynı işlemler uygulanarak çözülür. Bu işlemler toplama, çıkarma, çarpma veya bölme olabilir. Ancak, eşitsizliğin her iki tarafı negatif bir sayıyla çarpıldığında veya bölündüğünde, eşitsizlik yönü değiştirilmelidir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözüm kümesi nedir?",
+    "output": "Eşitsizliklerin çözüm kümesi, eşitsizliği sağlayan tüm olası değerlerin kümesidir. Bu değerler, sayı doğrusu üzerinde bir aralık olarak gösterilebilir ve genellikle açık veya kapalı aralıklar şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde 've' ve 'veya' bağlaçları ne anlama gelir?",
+    "output": "'Ve' bağlacı, iki eşitsizliğin aynı anda sağlanması gerektiğini belirtir, yani çözüm kümesi her iki eşitsizliği de sağlayan değerlerden oluşur. 'Veya' bağlacı ise, en az bir eşitsizliğin sağlanması gerektiğini belirtir, yani çözüm kümesi herhangi bir eşitsizliği sağlayan değerlerden oluşur."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafiksel gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin grafiksel gösterimi, genellikle sayı doğrusu üzerinde yapılır. Çözüm kümesi, sayı doğrusu üzerinde bir aralık olarak işaretlenir. Açık aralıklar için sınır noktaları boş yuvarlaklarla, kapalı aralıklar için ise dolu yuvarlaklarla gösterilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde sınır noktaları nasıl belirlenir?",
+    "output": "Eşitsizliklerde sınır noktaları, eşitsizliğin eşitliğe dönüştüğü durumlarda bulunur. Bu noktalar, genellikle eşitsizliğin her iki tarafının eşit olduğu değerlerdir. Sınır noktaları, çözüm kümesinin başlangıç ve bitiş noktalarını belirler."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi işlemler dikkat gerektirir?",
+    "output": "Eşitsizliklerin çözümünde özellikle negatif sayılarla çarpma veya bölme işlemleri dikkat gerektirir. Bu işlemler sırasında eşitsizlik yönü değiştirilmelidir. Ayrıca, her iki tarafa aynı sayı eklemek veya çıkarmak eşitsizliğin yönünü değiştirmez."
+  },
+  {
+    "instruction": "Eşitsizliklerin gerçek hayatta kullanımı nasıldır?",
+    "output": "Eşitsizlikler, gerçek hayatta birçok alanda kullanılır. Örneğin, bütçe planlamasında harcamaların gelirden düşük olması gerektiğini belirtmek için, hız sınırlarını belirtmek için veya bir ürünün ağırlığının belirli bir değerden az veya fazla olduğunu göstermek için kullanılabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözüm kontrolü nasıl yapılır?",
+    "output": "Eşitsizliklerin çözüm kontrolü, çözüm kümesinden rastgele bir değer seçilerek bu değerin başlangıçtaki eşitsizlikte yerine konulması ve eşitsizliği sağlayıp sağlamadığının kontrol edilmesiyle yapılır. Eğer seçilen değer eşitsizliği sağlıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Eşitsizliklerde mutlak değer nasıl ele alınır?",
+    "output": "Eşitsizliklerde mutlak değer, ifadenin pozitif veya negatif olmasına göre iki farklı eşitsizlik oluşturularak çözülür. Mutlak değer içindeki ifade pozitifse, eşitsizlik olduğu gibi çözülür; negatifse, eşitsizliğin yönü değiştirilerek çözülür."
+  }
+]

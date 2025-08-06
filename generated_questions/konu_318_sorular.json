@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yükseklik merkezi nedir?",
+    "output": "Yükseklik merkezi, bir üçgenin üç yüksekliğinin kesiştiği noktadır. Yükseklik, bir üçgenin bir köşesinden karşı kenara veya karşı kenarın uzantısına dik olarak inen doğru parçasıdır. Bu merkez, üçgenin iç veya dış kısmında yer alabilir."
+  },
+  {
+    "instruction": "Ağırlık merkezi nedir?",
+    "output": "Ağırlık merkezi, bir üçgenin kenarortaylarının kesiştiği noktadır. Kenarortay, bir üçgenin bir köşesinden karşı kenarı iki eşit parçaya bölen doğru parçasıdır. Ağırlık merkezi, her zaman üçgenin içindedir ve üçgenin dengede durabileceği noktadır."
+  },
+  {
+    "instruction": "Eşkenar üçgenin özellikleri nelerdir?",
+    "output": "Eşkenar üçgenin tüm kenarları birbirine eşittir ve her bir iç açısı 60 derecedir. Ayrıca, eşkenar üçgenin yükseklikleri, kenarortayları ve açıortayları aynı doğru parçası üzerinde bulunur ve bu özellikleri nedeniyle simetriktir."
+  },
+  {
+    "instruction": "Kenar-Açı-Kenar (KAK) aksiyomu nedir?",
+    "output": "Kenar-Açı-Kenar (KAK) aksiyomu, iki üçgenin bir kenarının, bu kenarın bitişiğindeki açının ve diğer kenarının eşit olması durumunda, bu iki üçgenin eş olduğunu ifade eder. Bu, üçgenlerin benzerliğini veya eşliğini kanıtlamak için kullanılan temel bir geometrik prensiptir."
+  },
+  {
+    "instruction": "Üçgenin çevrel merkezi nedir?",
+    "output": "Üçgenin çevrel merkezi, üçgenin kenarlarının orta dikmelerinin kesiştiği noktadır. Bu nokta, üçgenin çevrel çemberinin merkezidir ve bu çember, üçgenin tüm köşelerinden geçer. Çevrel merkez, üçgenin iç veya dış kısmında bulunabilir."
+  },
+  {
+    "instruction": "Ters açılar nedir ve hangi özelliklere sahiptir?",
+    "output": "Ters açılar, iki doğrunun kesişmesiyle oluşan ve karşılıklı olarak birbirine eşit olan açılardır. Bu açılar, her zaman eşit ölçülere sahiptir ve bu özellik, geometrik problemlerde sıkça kullanılır."
+  },
+  {
+    "instruction": "Bir üçgenin iç açıları toplamı nedir?",
+    "output": "Bir üçgenin iç açıları toplamı her zaman 180 derecedir. Bu, temel bir geometrik kuraldır ve tüm üçgenler için geçerlidir, üçgenin şekli veya boyutu ne olursa olsun."
+  },
+  {
+    "instruction": "Eş üçgenler nedir?",
+    "output": "Eş üçgenler, tüm kenarları ve açıları birbirine eş olan üçgenlerdir. Bu üçgenler, aynı şekil ve boyutlara sahiptir ve bir üçgenin diğerine üst üste gelecek şekilde yerleştirilebilmesi mümkündür."
+  },
+  {
+    "instruction": "Bir üçgende kenarortay nedir?",
+    "output": "Kenarortay, bir üçgenin bir köşesinden karşı kenarına çizilen ve bu kenarı iki eşit parçaya bölen doğru parçasıdır. Kenarortaylar, üçgenin ağırlık merkezinde kesişir."
+  },
+  {
+    "instruction": "Üçgenin iç açıları nasıl hesaplanır?",
+    "output": "Bir üçgenin iç açıları, üçgenin iki bilinen açısının toplamının 180 dereceden çıkarılmasıyla hesaplanır. Eğer üçgenin iki açısı biliniyorsa, üçüncü açı 180 dereceden bu iki açının toplamı çıkarılarak bulunur."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem nedir?",
+    "output": "Denklem, iki matematiksel ifadenin eşit olduğunu belirten bir ifadedir. Genellikle, bir veya daha fazla bilinmeyeni içerir ve bu bilinmeyenlerin değerlerini bulmak için çözülür."
+  },
+  {
+    "instruction": "Bir denklemi çözmek ne anlama gelir?",
+    "output": "Bir denklemi çözmek, denklemin içindeki bilinmeyenlerin değerlerini bulmak anlamına gelir. Bu, denklemin her iki tarafında yapılan işlemlerle gerçekleştirilir ve eşitliği bozmadan yapılmalıdır."
+  },
+  {
+    "instruction": "Denklem kurma neden önemlidir?",
+    "output": "Denklem kurma, gerçek hayat problemlerini matematiksel olarak ifade etmenin bir yoludur. Bu, problemleri daha sistematik bir şekilde çözmemizi sağlar ve karmaşık durumları basitleştirir."
+  },
+  {
+    "instruction": "Denklemlerde çarpma ve bölme işlemleri nasıl yapılır?",
+    "output": "Denklemlerde çarpma ve bölme işlemleri, eşitliğin her iki tarafına aynı işlemi uygulayarak yapılır. Bu, denklemin dengesini bozmadan bilinmeyeni izole etmeye yardımcı olur."
+  },
+  {
+    "instruction": "Denklemde eşitliğin her iki tarafını aynı sayıyla çarpmanın etkisi nedir?",
+    "output": "Denklemde eşitliğin her iki tarafını aynı sayıyla çarpmak, denklemin dengesini bozmadan bilinmeyeni izole etmeye veya denklemi basitleştirmeye yardımcı olur. Bu işlem, denklemin çözümünü değiştirmez."
+  },
+  {
+    "instruction": "Gerçek hayat problemlerinde denklem nasıl kullanılır?",
+    "output": "Gerçek hayat problemlerinde denklem kullanımı, problemin matematiksel bir modelini oluşturarak çözüm bulmayı kolaylaştırır. Örneğin, bütçe hesaplamaları, hız ve mesafe problemleri gibi durumlarda denklemler kullanılır."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafını bir sayı ile bölmek neden yapılır?",
+    "output": "Bir denklemin her iki tarafını bir sayı ile bölmek, bilinmeyeni izole etmek ve denklemi daha basit bir forma getirmek için yapılır. Bu işlem, denklemin dengesini koruyarak çözüm bulmaya yardımcı olur."
+  },
+  {
+    "instruction": "Denklemde terimleri düzenlemenin amacı nedir?",
+    "output": "Denklemde terimleri düzenlemek, denklemi daha basit ve anlaşılır bir hale getirmek için yapılır. Bu, çözüm sürecini kolaylaştırır ve hataları önler."
+  },
+  {
+    "instruction": "Denklemde bilinmeyeni izole etmek ne anlama gelir?",
+    "output": "Denklemde bilinmeyeni izole etmek, bilinmeyeni tek başına bırakacak şekilde denklemi düzenlemek anlamına gelir. Bu, bilinmeyenin değerini bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Denklem çözümünde farklı yöntemler kullanmanın avantajı nedir?",
+    "output": "Denklem çözümünde farklı yöntemler kullanmak, problemin doğasına uygun en etkili çözüm yolunu seçmeyi sağlar. Bu, çözüm sürecini hızlandırabilir ve daha doğru sonuçlar elde etmeye yardımcı olabilir."
+  }
+]

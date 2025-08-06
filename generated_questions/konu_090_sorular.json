@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifade nedir?",
+    "output": "Cebirsel ifade, sayılar, değişkenler ve matematiksel işlemler (toplama, çıkarma, çarpma, bölme) kullanılarak oluşturulan matematiksel bir ifadedir. Örneğin, 3x + 2 bir cebirsel ifadedir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişken nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde değişken, genellikle bir harf ile temsil edilen ve farklı değerler alabilen bir semboldür. Değişkenler, cebirsel ifadelerin genel yapısını oluşturur ve ifadeye esneklik kazandırır."
+  },
+  {
+    "instruction": "Bir cebirsel ifadeye sayı ekleme işlemi nasıl yapılır?",
+    "output": "Bir cebirsel ifadeye sayı eklemek için, sayıyı doğrudan ifadenin sonuna ekleyebilirsiniz. Örneğin, 4x ifadesine 5 eklemek için 4x + 5 yazılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, katsayıların ve değişkenlerin çarpılmasıyla yapılır. Örneğin, -4x ifadesini -9 ile çarpmak için, -4 ve -9 katsayıları çarpılır ve değişken aynı kalır: (-4 * -9)x = 36x."
+  },
+  {
+    "instruction": "Cebirsel ifadelerle işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Cebirsel ifadelerle işlem yaparken, işlem önceliğine dikkat etmek, parantezleri doğru kullanmak ve katsayıları doğru bir şekilde çarpmak önemlidir. Ayrıca, benzer terimleri bir araya getirerek ifadeyi sadeleştirmek de gereklidir."
+  },
+  {
+    "instruction": "Bir cebirsel ifadeyi çarpanlarına ayırmak ne demektir?",
+    "output": "Bir cebirsel ifadeyi çarpanlarına ayırmak, ifadeyi daha basit çarpanların çarpımı şeklinde yazmak demektir. Bu, ifadeyi sadeleştirmek veya çözümlerini bulmak için kullanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde toplama işlemi, benzer terimlerin katsayılarının toplanmasıyla yapılır. Örneğin, 3x + 2x ifadesinde, benzer terimler olan 3x ve 2x'in katsayıları toplanarak 5x elde edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezlerin rolü nedir?",
+    "output": "Parantezler, cebirsel ifadelerde işlem önceliğini belirlemek ve ifadeleri gruplamak için kullanılır. Parantez içindeki işlemler, parantez dışındaki işlemlerden önce yapılır."
+  },
+  {
+    "instruction": "Bir cebirsel ifadeye sayı eklemek ne işe yarar?",
+    "output": "Bir cebirsel ifadeye sayı eklemek, ifadenin değerini değiştirmek veya belirli bir durumu modellemek için kullanılır. Bu, genellikle problem çözme veya denklemler oluşturma sırasında yapılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nedir?",
+    "output": "Katsayı, cebirsel bir ifadede değişkenin önündeki sayıdır ve değişkenin çarpıldığı değeri temsil eder. Örneğin, 5x ifadesinde 5, x'in katsayısıdır."
+  }
+]

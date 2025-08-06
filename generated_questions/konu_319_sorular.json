@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgenin yükseklikleri nedir ve nasıl çizilir?",
+    "output": "Üçgenin yükseklikleri, her bir köşeden karşı kenara dik olarak inen doğru parçalarıdır. Bir üçgende üç yükseklik bulunur ve bu yükseklikler, üçgenin içindeki veya dışındaki bir noktada kesişir. Yükseklikleri çizmek için, her bir köşeden karşı kenara dik bir doğru çizilir."
+  },
+  {
+    "instruction": "Benzer üçgenler nedir ve nasıl tanımlanır?",
+    "output": "Benzer üçgenler, aynı şekle sahip ancak farklı boyutlarda olan üçgenlerdir. İki üçgenin benzer olabilmesi için, karşılıklı açıları eşit ve karşılıklı kenarları orantılı olmalıdır. Bu, üçgenlerin aynı şekle sahip olduklarını ancak boyutlarının farklı olabileceğini ifade eder."
+  },
+  {
+    "instruction": "İç ters açılar nedir ve hangi durumlarda kullanılır?",
+    "output": "İç ters açılar, iki paralel doğruyu kesen bir kesenin oluşturduğu açılardan, karşılıklı olarak içte kalan açılardır. Bu açılar birbirine eşittir ve genellikle paralel doğrularla ilgili problemlerde kullanılır."
+  },
+  {
+    "instruction": "Yöndeş açılar nedir ve hangi özelliklere sahiptir?",
+    "output": "Yöndeş açılar, iki paralel doğruyu kesen bir kesenin oluşturduğu ve aynı konumda bulunan açılardır. Bu açılar da birbirine eşittir. Yöndeş açılar, paralel doğrularla ilgili problemlerde sıkça kullanılır."
+  },
+  {
+    "instruction": "Dik ortay nedir ve üçgende nasıl kullanılır?",
+    "output": "Dik ortay, bir üçgenin kenarını dik bir şekilde iki eşit parçaya bölen doğru parçasıdır. Üçgende, her kenarın bir dik ortayı vardır ve bu dik ortaylar genellikle üçgenin çevrel merkezini bulmak için kullanılır."
+  },
+  {
+    "instruction": "Üçgenin çevrel merkezi nedir ve nasıl bulunur?",
+    "output": "Üçgenin çevrel merkezi, üçgenin kenarlarının dik ortaylarının kesiştiği noktadır. Bu nokta, üçgenin çevrel çemberinin merkezi olur ve üçgenin tüm köşelerine eşit uzaklıktadır. Çevrel merkezi bulmak için, üçgenin her bir kenarının dik ortayını çizmek yeterlidir."
+  },
+  {
+    "instruction": "Kenar-Açı-Kenar (KAK) benzerlik kriteri nedir?",
+    "output": "Kenar-Açı-Kenar (KAK) benzerlik kriteri, iki üçgenin benzer olduğunu belirlemek için kullanılan bir yöntemdir. Bu kritere göre, iki üçgenin birer açısı eşit ve bu açıların oluşturduğu kenarlar orantılı ise, üçgenler benzer kabul edilir."
+  },
+  {
+    "instruction": "Üçgenin orta noktası nedir ve nasıl bulunur?",
+    "output": "Üçgenin orta noktası, bir kenarın iki eşit parçaya bölündüğü noktadır. Orta noktayı bulmak için, kenarın iki ucunun koordinatlarının aritmetik ortalaması alınır. Bu, üçgenin her kenarı için yapılabilir."
+  },
+  {
+    "instruction": "Üçgenin benzerlik kriterleri nelerdir?",
+    "output": "Üçgenin benzerlik kriterleri, iki üçgenin benzer olup olmadığını belirlemek için kullanılan kurallardır. Başlıca benzerlik kriterleri şunlardır: Açı-Açı (AA) benzerlik, Kenar-Kenar-Kenar (KKK) benzerlik ve Kenar-Açı-Kenar (KAK) benzerlik."
+  },
+  {
+    "instruction": "Üçgenin dik üçgen olma şartları nelerdir?",
+    "output": "Bir üçgenin dik üçgen olabilmesi için, bir açısının 90 derece olması gerekir. Dik üçgenlerde, Pisagor Teoremi uygulanabilir ve bu teorem, dik kenarların karelerinin toplamının, hipotenüsün karesine eşit olduğunu ifade eder."
+  }
+]

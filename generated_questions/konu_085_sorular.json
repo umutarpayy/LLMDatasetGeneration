@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifadelerde parantez kullanımı ne işe yarar?",
+    "output": "Cebirsel ifadelerde parantezler, işlemlerin önceliğini belirlemek ve ifadeleri gruplamak için kullanılır. Parantez içindeki işlemler, dışındaki işlemlerden önce yapılır, bu da karmaşık ifadelerin daha kolay yönetilmesini sağlar."
+  },
+  {
+    "instruction": "Bir cebirsel ifadede çarpma işlemi nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi genellikle '×' sembolü yerine doğrudan yan yana yazılarak veya nokta (·) ile gösterilir. Örneğin, 4 çarpı x ifadesi 4x veya 4·x şeklinde yazılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama ve çıkarma işlemleri nasıl temsil edilir?",
+    "output": "Cebirsel ifadelerde toplama '+' sembolü ile, çıkarma ise '-' sembolü ile gösterilir. Bu semboller, ifadelerdeki terimleri birleştirir veya ayırır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde bir terimin işareti nasıl belirlenir?",
+    "output": "Bir terimin işareti, önündeki sembole bağlıdır. Eğer terimin önünde '-' sembolü varsa terim negatif, '+' sembolü varsa pozitif olarak kabul edilir. İşareti olmayan terimler pozitif kabul edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi sırasında işaretler nasıl etkilenir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi sırasında işaretler, çarpılan sayıların işaretlerine bağlı olarak değişir. Pozitif bir sayı ile negatif bir sayının çarpımı negatif, iki negatif sayının çarpımı ise pozitif olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenler nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde değişkenler, genellikle harflerle temsil edilir ve değişkenin alabileceği farklı değerleri ifade eder. Örneğin, x ve y gibi harfler yaygın olarak değişken olarak kullanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nedir?",
+    "output": "Cebirsel ifadelerde sabit terim, değişken içermeyen ve değeri sabit olan sayıdır. Örneğin, 3x + 5 ifadesinde 5, sabit terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimler nasıl gruplandırılır?",
+    "output": "Cebirsel ifadelerde terimler, benzer terimler olarak gruplandırılır. Benzer terimler, aynı değişkenlere ve aynı derecelere sahip olan terimlerdir. Bu terimler toplama veya çıkarma işlemi ile birleştirilebilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nedir?",
+    "output": "Cebirsel ifadelerde katsayı, bir terimdeki değişkenin önündeki sayıdır. Katsayı, değişkenin kaç katı olduğunu belirtir. Örneğin, 4x teriminde 4 katsayıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde işlemlerin sırası nasıl belirlenir?",
+    "output": "Cebirsel ifadelerde işlemlerin sırası, parantezler ve işlem önceliği kurallarına göre belirlenir. Önce parantez içindeki işlemler yapılır, ardından çarpma ve bölme işlemleri, son olarak da toplama ve çıkarma işlemleri yapılır."
+  }
+]

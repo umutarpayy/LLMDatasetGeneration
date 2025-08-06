@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzer üçgenler nasıl tanımlanır?",
+    "output": "Benzer üçgenler, karşılıklı açıları eşit olan ve karşılıklı kenarlarının uzunlukları arasında sabit bir oran bulunan üçgenlerdir. Bu oran, benzerlik oranı olarak adlandırılır ve üçgenlerin büyüklüğünü belirler."
+  },
+  {
+    "instruction": "Benzerlik oranı nedir ve nasıl hesaplanır?",
+    "output": "Benzerlik oranı, benzer üçgenlerde karşılıklı kenarların uzunlukları arasındaki sabit orandır. Bu oran, bir üçgenin kenar uzunluğunun diğer üçgenin karşılık gelen kenar uzunluğuna bölünmesiyle bulunur. Örneğin, AB/XY, BC/YZ ve AC/XZ oranlarının hepsi aynıysa, bu oran benzerlik oranıdır."
+  },
+  {
+    "instruction": "Benzer üçgenlerin kenarları arasındaki oran nasıl belirlenir?",
+    "output": "Benzer üçgenlerde, her bir kenar çiftinin uzunlukları arasındaki oran sabittir. Bu oran, bir üçgenin bir kenarının uzunluğunun, diğer üçgenin karşılık gelen kenarının uzunluğuna bölünmesiyle bulunur. Örneğin, AB/XY = BC/YZ = AC/XZ oranları eşit olmalıdır."
+  },
+  {
+    "instruction": "Benzer üçgenler ile eş üçgenler arasındaki fark nedir?",
+    "output": "Benzer üçgenler, karşılıklı açıları eşit olan ve kenar uzunlukları arasında sabit bir oran bulunan üçgenlerdir. Eş üçgenler ise tüm kenar uzunlukları ve açıları birebir aynı olan üçgenlerdir. Eş üçgenler aynı zamanda benzer üçgenlerdir, ancak benzer üçgenler her zaman eş üçgen değildir."
+  },
+  {
+    "instruction": "Üçgenlerde benzerlik hangi durumlarda kullanılır?",
+    "output": "Üçgenlerde benzerlik, geometri problemlerinde, harita yapımında, mimarlıkta ve mühendislikte, özellikle ölçeklendirme ve modelleme işlemlerinde kullanılır. Benzerlik, farklı büyüklükteki şekillerin karşılaştırılmasını ve analiz edilmesini sağlar."
+  },
+  {
+    "instruction": "Benzer üçgenlerin iç açıları neden eşittir?",
+    "output": "Benzer üçgenlerin iç açıları eşittir çünkü benzerlik tanımı gereği, karşılıklı açıları eşit olan üçgenlerdir. Bu, üçgenlerin şekil olarak aynı ancak boyut olarak farklı olduklarını gösterir."
+  },
+  {
+    "instruction": "Benzer üçgenlerde alanlar arasındaki oran nasıl hesaplanır?",
+    "output": "Benzer üçgenlerde alanlar arasındaki oran, benzerlik oranının karesine eşittir. Eğer benzerlik oranı k ise, üçgenlerin alanları arasındaki oran k^2 olacaktır. Bu, benzer üçgenlerin alanlarının, kenar uzunluklarının karesiyle orantılı olduğunu gösterir."
+  },
+  {
+    "instruction": "Benzer üçgenlerin çevreleri arasındaki oran nasıl bulunur?",
+    "output": "Benzer üçgenlerin çevreleri arasındaki oran, benzerlik oranına eşittir. Eğer benzerlik oranı k ise, üçgenlerin çevreleri arasındaki oran da k olacaktır. Bu, benzer üçgenlerin çevrelerinin, kenar uzunluklarıyla orantılı olduğunu gösterir."
+  },
+  {
+    "instruction": "Üçgenlerde benzerlik hangi teoremlerle kanıtlanabilir?",
+    "output": "Üçgenlerde benzerlik, AA (Açı-Açı), SSS (Kenar-Kenar-Kenar) ve SAS (Kenar-Açı-Kenar) teoremleri ile kanıtlanabilir. AA teoremi, iki açının eşit olduğu durumda üçgenlerin benzer olduğunu belirtir. SSS teoremi, karşılıklı kenarların oranlarının eşit olması durumunda benzerliği kanıtlar. SAS teoremi ise, iki kenar ve bu kenarlar arasındaki açının eşitliği ile benzerliği kanıtlar."
+  },
+  {
+    "instruction": "Benzer üçgenlerin gerçek hayattaki uygulamaları nelerdir?",
+    "output": "Benzer üçgenler, haritacılık, mimarlık, mühendislik, astronomi ve fotoğrafçılık gibi birçok alanda kullanılır. Örneğin, haritalarda gerçek dünya mesafelerinin ölçeklendirilmesi, binaların veya yapıların modellemesi, gökyüzünde yıldızların veya gezegenlerin konumlarının belirlenmesi gibi uygulamalar benzer üçgenler kullanılarak yapılır."
+  }
+]

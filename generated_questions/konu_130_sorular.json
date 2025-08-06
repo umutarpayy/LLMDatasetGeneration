@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kesim noktası nedir?",
+    "output": "Kesim noktası, bir doğrunun koordinat düzleminde x ve y eksenlerini kestiği noktaları ifade eder. X eksenini kestiği noktaya x-kesim noktası, y eksenini kestiği noktaya ise y-kesim noktası denir."
+  },
+  {
+    "instruction": "X-kesim noktası nasıl bulunur?",
+    "output": "X-kesim noktasını bulmak için, y'yi sıfıra eşitleyip denklemi çözerek x değerini buluruz. Bu değer, x-kesim noktasının x koordinatını verir; y koordinatı ise sıfırdır."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir doğru nasıl çizilir?",
+    "output": "Koordinat düzleminde bir doğru çizmek için, doğrunun iki noktasını bulmak yeterlidir. Genellikle x ve y kesim noktaları kullanılır. Bu iki noktayı belirledikten sonra, noktaları birleştirerek doğruyu çizebilirsiniz."
+  },
+  {
+    "instruction": "Bir denklemin x ve y kesim noktaları nasıl kullanılır?",
+    "output": "Bir denklemin x ve y kesim noktaları, doğrunun koordinat düzleminde nerede kesiştiğini gösterir. Bu noktalar, doğruyu çizmek veya doğrunun eğimini ve yerini belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Doğrusal bir denklemin grafiği nasıl oluşturulur?",
+    "output": "Doğrusal bir denklemin grafiğini oluşturmak için, denklemin x ve y kesim noktalarını belirleyin. Bu noktaları koordinat düzlemine yerleştirin ve ardından bu iki noktayı birleştirerek doğruyu çizin."
+  },
+  {
+    "instruction": "X ve y kesim noktaları neyi temsil eder?",
+    "output": "X ve y kesim noktaları, bir doğrunun koordinat düzleminde x ve y eksenlerini kestiği noktaları temsil eder. X-kesim noktası, doğrunun x ekseniyle kesiştiği yerdir ve y koordinatı sıfırdır. Y-kesim noktası ise y ekseniyle kesiştiği yerdir ve x koordinatı sıfırdır."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde kesim noktaları neden önemlidir?",
+    "output": "Kesim noktaları, doğrusal denklemlerin grafiklerini çizmek için kritik öneme sahiptir. Bu noktalar, doğrunun eksenlerle nerede kesiştiğini gösterir ve doğruyu çizmek için gerekli iki temel noktayı sağlar."
+  },
+  {
+    "instruction": "Doğru çiziminde neden iki nokta yeterlidir?",
+    "output": "Bir doğru, iki nokta arasında uzanan en kısa yoldur. Bu nedenle, iki nokta belirlenip birleştirildiğinde, doğruyu tam olarak tanımlamak için yeterlidir. Bu iki nokta, genellikle x ve y kesim noktaları olarak seçilir."
+  },
+  {
+    "instruction": "X ve y kesim noktaları nasıl hesaplanır?",
+    "output": "X kesim noktası için y'yi sıfıra eşitleyip denklemi çözerek x değerini buluruz. Y kesim noktası için ise x'i sıfıra eşitleyip denklemi çözerek y değerini buluruz."
+  },
+  {
+    "instruction": "Bir doğrunun grafik üzerinde nasıl temsil edildiğini açıklayın.",
+    "output": "Bir doğru, grafik üzerinde iki nokta arasındaki düz bir çizgi olarak temsil edilir. Bu iki nokta genellikle doğrunun x ve y kesim noktalarıdır. Doğru, bu iki noktayı birleştirerek çizilir ve koordinat düzleminde sonsuza kadar uzanır."
+  }
+]

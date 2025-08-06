@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Pisagor Teoremi nedir?",
+    "output": "Pisagor Teoremi, bir dik üçgende iki dik kenarın karelerinin toplamının hipotenüsün karesine eşit olduğunu ifade eden bir geometrik teoremdir. Bu teorem, a² + b² = c² şeklinde ifade edilir, burada c hipotenüs, a ve b ise dik kenarlardır."
+  },
+  {
+    "instruction": "Dik üçgenin hipotenüsü nedir?",
+    "output": "Dik üçgenin hipotenüsü, üçgenin en uzun kenarıdır ve her zaman dik açının karşısında bulunur. Hipotenüs, Pisagor Teoremi'nde de önemli bir rol oynar, çünkü diğer iki kenarın karelerinin toplamı hipotenüsün karesine eşittir."
+  },
+  {
+    "instruction": "Pisagor Teoremi nasıl uygulanır?",
+    "output": "Pisagor Teoremi, bir dik üçgende iki dik kenarın uzunlukları bilindiğinde hipotenüsün uzunluğunu bulmak için uygulanır. Formül a² + b² = c² kullanılarak, bilinen kenarların kareleri toplanır ve bu toplamın karekökü alınarak hipotenüs hesaplanır."
+  },
+  {
+    "instruction": "Dik üçgenin özellikleri nelerdir?",
+    "output": "Dik üçgen, bir açısının 90 derece olduğu üçgendir. Dik üçgende, 90 derecelik açının karşısındaki kenar hipotenüs olarak adlandırılır ve en uzun kenardır. Diğer iki kenar ise dik kenarlar olarak bilinir. Dik üçgenlerde Pisagor Teoremi geçerlidir."
+  },
+  {
+    "instruction": "Bir sayının karesi nasıl alınır?",
+    "output": "Bir sayının karesi, sayının kendisiyle çarpılmasıyla elde edilir. Örneğin, 4'ün karesi 4 x 4 = 16'dır. Matematiksel olarak, bir sayının karesi, o sayının üs olarak 2 ile gösterilmesiyle ifade edilir, yani x²."
+  },
+  {
+    "instruction": "Karekök nedir?",
+    "output": "Karekök, bir sayının hangi sayının karesi olduğunu belirten bir değerdir. Örneğin, 9'un karekökü 3'tür çünkü 3 x 3 = 9. Karekök sembolü '√' ile gösterilir ve pozitif bir sayının karekökü genellikle pozitif bir değerdir."
+  },
+  {
+    "instruction": "Dik üçgen nasıl tanımlanır?",
+    "output": "Dik üçgen, bir açısının 90 derece olduğu üçgen olarak tanımlanır. Bu tür üçgenlerde, 90 derecelik açının karşısındaki kenar hipotenüs olarak adlandırılır ve diğer iki kenar dik kenarlar olarak bilinir. Dik üçgenler, Pisagor Teoremi'nin uygulanabildiği üçgenlerdir."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin tarihçesi nedir?",
+    "output": "Pisagor Teoremi, adını M.Ö. 6. yüzyılda yaşamış olan Yunan matematikçi Pisagor'dan alır. Ancak, teoremin Babil ve Hint matematikçileri tarafından da bilindiği düşünülmektedir. Pisagor Teoremi, matematik tarihinde önemli bir yere sahiptir ve geometri derslerinin temel konularından biridir."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin geometrik anlamı nedir?",
+    "output": "Pisagor Teoremi'nin geometrik anlamı, bir dik üçgende, dik kenarların karelerinin toplamının hipotenüsün karesine eşit olmasıdır. Bu, dik üçgenin alanları ve kenar uzunlukları arasındaki ilişkiyi ifade eder ve birçok geometrik problemde kullanılır."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin ispatı nasıl yapılır?",
+    "output": "Pisagor Teoremi'nin birçok ispatı bulunmaktadır. En yaygın ispat yöntemlerinden biri, dik üçgenin kenarlarıyla oluşturulan karelerin alanlarını karşılaştırmaktır. Bu yöntemle, dik kenarların karelerinin alanları toplamının hipotenüsün karesinin alanına eşit olduğu gösterilir. Ayrıca, teoremin cebirsel ve geometrik ispatları da mevcuttur."
+  }
+]

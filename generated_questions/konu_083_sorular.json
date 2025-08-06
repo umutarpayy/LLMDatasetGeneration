@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifade nedir?",
+    "output": "Cebirsel ifade, sayılar, değişkenler ve aritmetik işlemler kullanılarak oluşturulan matematiksel bir ifadedir. Örneğin, 2x + 3 bir cebirsel ifadedir ve burada x bir değişkendir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama işlemi nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde toplama işlemi, '+' sembolü ile gösterilir. Örneğin, a + b ifadesi, a ve b değişkenlerinin toplamını temsil eder."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi genellikle çarpı işareti yerine nokta (·) veya yan yana yazılarak gösterilir. Örneğin, 3x ifadesi 3 çarpı x anlamına gelir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çıkarma işlemi nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde çıkarma işlemi, '-' sembolü ile gösterilir. Örneğin, x - 5 ifadesi, x'ten 5'in çıkarılması anlamına gelir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde bölme işlemi nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde bölme işlemi, genellikle bölü işareti (/) veya kesir çizgisi ile gösterilir. Örneğin, a / b veya a ÷ b, a'nın b'ye bölünmesi anlamına gelir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde işlem önceliği nasıl belirlenir?",
+    "output": "Cebirsel ifadelerde işlem önceliği, parantez içindeki işlemler önce, ardından çarpma ve bölme, son olarak toplama ve çıkarma işlemleri yapılacak şekilde belirlenir. Bu kurallar, matematikte genel işlem önceliği kurallarına uygun olarak uygulanır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantez kullanımı ne işe yarar?",
+    "output": "Parantezler, cebirsel ifadelerde belirli işlemleri öncelikli olarak yapmak için kullanılır. Parantez içindeki işlemler, diğer işlemlerden önce yapılır, bu da işlem sırasını kontrol etmemizi sağlar."
+  },
+  {
+    "instruction": "Değişkenlerle işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Değişkenlerle işlem yaparken, değişkenlerin temsil ettiği değerlerin ne olduğuna dikkat edilmeli ve işlem önceliği kurallarına uyulmalıdır. Ayrıca, değişkenlerin sembollerinin karışmaması için uygun semboller seçilmelidir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde eşitlik nasıl sağlanır?",
+    "output": "Cebirsel ifadelerde eşitlik, iki ifadenin birbirine eşit olduğunu belirtmek için '=' sembolü kullanılarak sağlanır. Örneğin, 2x + 3 = 7 ifadesi, 2x + 3'ün 7'ye eşit olduğunu belirtir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin katsayıları nedir?",
+    "output": "Cebirsel ifadelerde değişkenlerin katsayıları, değişkenlerin önündeki sayılardır. Örneğin, 5x ifadesinde 5, x'in katsayısıdır ve x'in kaç katı olduğunu belirtir."
+  }
+]

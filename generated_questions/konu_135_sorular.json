@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikliğini veya eğim açısını ifade eden bir ölçüdür. Matematikte, genellikle 'm' harfiyle gösterilir ve y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır. Eğim, bir doğrunun ne kadar dik veya yatay olduğunu belirler."
+  },
+  {
+    "instruction": "Benzer üçgenler nedir?",
+    "output": "Benzer üçgenler, karşılıklı açıları eşit olan ve dolayısıyla kenar uzunlukları arasında sabit bir oran bulunan üçgenlerdir. Bu üçgenlerde, her bir kenar çifti arasındaki oran aynı olduğundan, benzer üçgenlerin şekli aynıdır ancak boyutları farklı olabilir."
+  },
+  {
+    "instruction": "Benzer üçgenler nasıl tanımlanır?",
+    "output": "Benzer üçgenler, iki üçgenin karşılıklı açıları eşit olduğunda tanımlanır. Bu durumda, üçgenlerin kenarları arasında sabit bir oran vardır. Benzerlik, genellikle 'AAA' (açı-açı-açı) kriteri ile doğrulanır, yani üç açının da eşitliği benzerliği kanıtlar."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun iki noktası arasındaki y eksenindeki değişimin (Δy) x eksenindeki değişime (Δx) oranı olarak hesaplanır. Formül olarak, eğim m = Δy / Δx şeklinde ifade edilir. Bu, doğrunun ne kadar dik veya yatay olduğunu belirler."
+  },
+  {
+    "instruction": "Eğim sabitliği ne anlama gelir?",
+    "output": "Eğim sabitliği, bir doğrunun eğiminin, üzerinde seçilen herhangi iki nokta için aynı kalması anlamına gelir. Bu, doğrunun her noktasında aynı diklikte olduğu ve doğrusal bir ilişkiyi temsil ettiği anlamına gelir."
+  },
+  {
+    "instruction": "Eğim ile benzer üçgenler arasındaki ilişki nedir?",
+    "output": "Eğim, bir doğrunun üzerinde seçilen herhangi iki nokta ile oluşturulan üçgenlerin benzer olması durumunda sabit kalır. Bu benzer üçgenler, karşılıklı kenarlarının oranlarının eşit olması nedeniyle eğimin sabit olduğunu kanıtlar."
+  },
+  {
+    "instruction": "Paralel doğruların eğimleri arasındaki ilişki nedir?",
+    "output": "Paralel doğruların eğimleri birbirine eşittir. Bu, iki doğrunun birbirine paralel olması durumunda, her iki doğrunun da aynı diklikte olduğunu ve aynı eğime sahip olduğunu gösterir."
+  },
+  {
+    "instruction": "Dik doğruların eğimleri arasındaki ilişki nedir?",
+    "output": "Dik doğruların eğimleri çarpımı -1'e eşittir. Bu, iki doğrunun birbirine dik olması durumunda, bir doğrunun eğiminin diğerinin negatif çarpmaya ters olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim neden önemlidir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikliğini ve yönünü belirlediği için önemlidir. Geometri, fizik ve mühendislik gibi alanlarda, eğim, eğimli yüzeylerin analizinde, grafiklerin yorumlanmasında ve hareketin yönünün belirlenmesinde kritik bir rol oynar."
+  },
+  {
+    "instruction": "Eğim kavramı hangi durumlarda kullanılır?",
+    "output": "Eğim kavramı, grafiklerin analizinde, yol eğimlerinin hesaplanmasında, ekonomik modellerdeki değişim oranlarının belirlenmesinde ve fiziksel hareketin yönü ve hızı gibi durumların analizinde kullanılır. Ayrıca, mühendislikte eğimli yüzeylerin tasarımında da önemli bir rol oynar."
+  }
+]

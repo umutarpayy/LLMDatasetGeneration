@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki değişkenli lineer denklem sistemi nedir?",
+    "output": "İki değişkenli lineer denklem sistemi, iki bilinmeyeni olan ve her biri doğrusal olan iki veya daha fazla denklemden oluşan bir sistemdir. Bu tür sistemler genellikle x ve y gibi iki değişken içerir ve bu değişkenlerin belirli bir çözüm kümesi vardır."
+  },
+  {
+    "instruction": "Yok etme yöntemi hangi durumlarda tercih edilir?",
+    "output": "Yok etme yöntemi, özellikle iki denklemdeki değişkenlerden birinin katsayıları eşit veya kolayca eşitlenebilir olduğunda tercih edilir. Bu yöntem, bir değişkeni yok ederek diğer değişkenin değerini bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde yok etme yönteminin avantajları nelerdir?",
+    "output": "Yok etme yönteminin avantajları arasında, bir değişkenin hızlıca yok edilmesi sayesinde sistemin daha basit hale getirilmesi ve çözümün daha hızlı bulunabilmesi sayılabilir. Ayrıca, bu yöntem genellikle sistematik ve adım adım ilerlemeyi sağlar."
+  },
+  {
+    "instruction": "Denklem sistemlerinde yok etme yöntemi nasıl uygulanır?",
+    "output": "Yok etme yöntemi, bir denklemdeki değişkenlerden birinin katsayısını diğer denklemdeki aynı değişkenin katsayısı ile eşitleyip, bu değişkeni yok etmek amacıyla iki denklemi toplama veya çıkarma işlemi yaparak uygulanır. Bu işlemler sonucunda bir değişken yok edilir ve diğer değişkenin değeri bulunur."
+  },
+  {
+    "instruction": "Yok etme yöntemi ile çözüm yaparken dikkat edilmesi gerekenler nelerdir?",
+    "output": "Yok etme yöntemi ile çözüm yaparken, denklemler üzerinde yapılan işlemlerin her iki tarafa da eşit şekilde uygulanmasına dikkat edilmelidir. Ayrıca, işlem hatalarından kaçınmak için adımlar dikkatlice takip edilmeli ve sonuçlar kontrol edilmelidir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde değişkenlerin katsayıları eşit değilse ne yapılır?",
+    "output": "Denklem sistemlerinde değişkenlerin katsayıları eşit değilse, katsayıları eşitlemek için denklemlerden birini veya her ikisini uygun bir sayı ile çarparak katsayıları eşit hale getirebiliriz. Bu, yok etme yöntemini uygulamamıza olanak tanır."
+  },
+  {
+    "instruction": "Yok etme yöntemi ve yerine koyma yöntemi arasındaki farklar nelerdir?",
+    "output": "Yok etme yöntemi, bir değişkeni yok ederek diğer değişkenin değerini bulmayı amaçlarken, yerine koyma yöntemi bir denklemi çözerek bir değişkeni diğerinin cinsinden ifade etmeyi ve bu ifadeyi diğer denklemde yerine koymayı içerir. Yok etme yöntemi daha sistematik olabilirken, yerine koyma yöntemi bazen daha basit ve doğrudan bir çözüm sunabilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde hangi durumlarda çözüm yoktur?",
+    "output": "Denklem sistemlerinde çözüm yoktur eğer denklemler paralel doğrulara karşılık geliyorsa, yani aynı eğime sahip olup farklı y kesişim noktalarına sahipse. Bu durumda, sistemin çözümü yoktur çünkü doğrular asla kesişmez."
+  },
+  {
+    "instruction": "Denklem sistemlerinde sonsuz çözüm ne anlama gelir?",
+    "output": "Denklem sistemlerinde sonsuz çözüm, iki denklemin aynı doğruyu temsil ettiği ve her iki denklemin de aynı çözüm kümesine sahip olduğu anlamına gelir. Bu durumda, sistemin her iki denklemi de aynı doğrular üzerinde yer alır ve bu nedenle sonsuz sayıda ortak çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kontrolü nasıl yapılır?",
+    "output": "Denklem sistemlerinde çözüm kontrolü, bulunan değişken değerlerinin her iki denklemi de sağladığından emin olmak için yapılır. Çözüm değerleri, her iki denklemde yerine konularak denklemlerin eşitliklerinin doğru olup olmadığı kontrol edilir."
+  }
+]

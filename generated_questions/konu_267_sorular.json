@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Öteleme işlemi sırasında bir şeklin boyutu değişir mi?",
+    "output": "Öteleme işlemi sırasında bir şeklin boyutu değişmez. Öteleme, bir şeklin konumunu değiştiren ama boyutunu, şeklini veya yönünü değiştirmeyen bir işlemdir. Bu nedenle, öteleme işlemi sonrasında şeklin orijinal boyutları korunur."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi koordinat sistemleri kullanılır?",
+    "output": "Öteleme işlemi genellikle Kartezyen koordinat sistemi kullanılarak gerçekleştirilir. Bu sistemde, bir şeklin her bir noktası x ve y koordinatları ile ifade edilir ve öteleme işlemi bu koordinatların belirli bir miktar artırılması veya azaltılması ile yapılır."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi matematiksel kavramlar kullanılır?",
+    "output": "Öteleme işlemi sırasında koordinatlar, vektörler ve yön kavramları kullanılır. Koordinatlar, şeklin konumunu belirlerken; vektörler, şeklin ne kadar ve hangi yönde hareket edeceğini gösterir. Yön ise, hareketin hangi eksende gerçekleşeceğini belirtir."
+  },
+  {
+    "instruction": "Öteleme işlemi ile benzerlik arasındaki fark nedir?",
+    "output": "Öteleme işlemi, bir şeklin konumunu değiştirirken boyutunu, şeklini veya yönünü değiştirmez. Benzerlik ise, şeklin boyutlarını belirli bir oranda büyütüp küçültebilir ancak şeklin orantılarını ve açılarının ölçülerini korur. Öteleme sadece konum değişikliğidir, benzerlik ise boyut değişikliği içerir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi eksenler kullanılır?",
+    "output": "Öteleme işlemi sırasında genellikle yatay (x) ve dikey (y) eksenler kullanılır. Yatay eksende yapılan hareketler sağa veya sola, dikey eksende yapılan hareketler ise yukarı veya aşağı yönlü olur."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi matematiksel işlemler gerçekleştirilir?",
+    "output": "Öteleme işlemi sırasında, şeklin her bir noktasının koordinatlarına belirli bir vektör eklenir veya çıkarılır. Bu, genellikle toplama ve çıkarma işlemleri ile gerçekleştirilir. Örneğin, x koordinatına bir sayı eklemek veya çıkarmak, şeklin yatay konumunu değiştirir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi geometrik özellikler korunur?",
+    "output": "Öteleme işlemi sırasında şeklin boyutu, biçimi ve yönü korunur. Bu, şeklin uzunlukları, açıları ve orantılarının değişmediği anlamına gelir. Sadece şeklin konumu değişir."
+  },
+  {
+    "instruction": "Öteleme işlemi hangi geometrik şekillerde uygulanabilir?",
+    "output": "Öteleme işlemi, herhangi bir geometrik şekle uygulanabilir. Bu, üçgenler, kareler, dikdörtgenler, daireler ve daha karmaşık şekiller için geçerlidir. Öteleme, şeklin yapısına bakılmaksızın, tüm şekillerin konumunu değiştirebilir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi yönlerde hareket edilebilir?",
+    "output": "Öteleme işlemi sırasında şekil, yatay eksende sağa veya sola, dikey eksende ise yukarı veya aşağı hareket edebilir. Bu hareketler, pozitif veya negatif yönde olabilir ve bu yönler, öteleme vektörünün bileşenleri ile belirlenir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında bir şeklin simetrisi nasıl korunur?",
+    "output": "Öteleme işlemi sırasında bir şeklin simetrisi korunur çünkü öteleme, şeklin boyutunu, şeklini veya yönünü değiştirmez. Sadece şeklin konumunu değiştirir. Dolayısıyla, bir şeklin simetrik özellikleri öteleme sonrasında da aynı kalır."
+  }
+]

@@ -1,0 +1,50 @@
+# 📁 Git dosyaları
+.git
+.gitignore
+
+# 🐍 Python dosyaları
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv
+.env
+env.example
+
+# 📊 Data dosyaları (büyük boyutlu olabilir)
+gpt_generated_questions/
+*.csv
+*.xlsx
+
+# 📝 Log dosyaları
+logs/
+*.log
+
+# 🔧 IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 📋 Temp dosyaları
+.tmp/
+temp/
+*.tmp
+
+# 🐳 Docker dosyaları
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# 📚 Dökümanlar
+*.md
+LICENSE
+
+# 🛠️ Script dosyaları
+run_server.sh
+run_server.bat
+konu.py

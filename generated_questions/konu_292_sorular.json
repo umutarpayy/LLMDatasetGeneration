@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Altın Oran nedir?",
+    "output": "Altın Oran, matematikte ve sanatta sıkça karşımıza çıkan, yaklaşık olarak 1.6180339887'ye eşit olan özel bir sayıdır. İki miktarın oranı, bu oranlardan biri diğerine oranla toplamına eşit olduğunda Altın Oran elde edilir. Bu oran, doğada, mimaride ve sanatta estetik bir denge ve uyum sağladığı için önemlidir."
+  },
+  {
+    "instruction": "Altın Oran nasıl hesaplanır?",
+    "output": "Altın Oran, iki miktarın oranı olarak tanımlanır. Eğer 'a' ve 'b' iki miktar ise ve a > b ise, a/b oranı (a+b)/a oranına eşit olduğunda Altın Oran elde edilir. Bu oran, genellikle yaklaşık 1.618 olarak hesaplanır ve matematiksel olarak (1 + √5)/2 formülü ile ifade edilir."
+  },
+  {
+    "instruction": "Altın Oran hangi özelliklere sahiptir?",
+    "output": "Altın Oran, kendine özgü birçok özelliğe sahiptir. Bunlardan biri, Altın Oran karesinin (yaklaşık 2.618) kendisinin bir fazlasına eşit olmasıdır. Ayrıca, Altın Oran'ın tersinin (yaklaşık 0.618) kendisinden bir eksik olması da dikkat çekicidir. Bu oran, doğada ve sanatta sıkça gözlemlenir ve estetik bir uyum sağlar."
+  },
+  {
+    "instruction": "Altın Oran ne işe yarar?",
+    "output": "Altın Oran, estetik ve simetriyi sağlamak için kullanılır. Sanatçılar ve mimarlar, eserlerinde Altın Oran'ı kullanarak görsel olarak hoş ve dengeli kompozisyonlar oluştururlar. Aynı zamanda, doğada birçok organizmanın yapısında Altın Oran gözlemlenebilir, bu da onun evrensel bir estetik ölçüt olduğunu gösterir."
+  },
+  {
+    "instruction": "Altın Oran ile Pisagor Teoremi arasındaki fark nedir?",
+    "output": "Altın Oran, iki miktarın estetik ve uyumlu bir oranda olmasını ifade ederken, Pisagor Teoremi, bir dik üçgende, dik kenarların kareleri toplamının hipotenüsün karesine eşit olduğunu belirtir. Altın Oran daha çok estetik ve oranlarla ilgilenirken, Pisagor Teoremi geometrik hesaplamalar ve uzunluklarla ilgilidir."
+  },
+  {
+    "instruction": "Altın Oran hangi durumlarda kullanılır?",
+    "output": "Altın Oran, sanat, mimari, tasarım ve doğa gözlemlerinde kullanılır. Sanatçılar ve tasarımcılar, eserlerinde Altın Oran'ı kullanarak estetik bir denge ve uyum sağlamayı hedeflerler. Ayrıca, doğada birçok bitki ve hayvanın yapısında Altın Oran gözlemlenir, bu da onun doğal bir estetik ölçüt olduğunu gösterir."
+  },
+  {
+    "instruction": "Altın Oran'ın doğadaki örnekleri nelerdir?",
+    "output": "Altın Oran doğada birçok yerde gözlemlenebilir. Örneğin, ayçiçeği tohumlarının dizilimi, deniz kabuklarının spiralleri ve bazı bitkilerin yaprak dizilimleri Altın Oran'ı takip eder. Bu doğal oluşumlar, Altın Oran'ın doğada estetik ve simetrik yapılar oluşturduğunu gösterir."
+  },
+  {
+    "instruction": "Altın Oran ile ilgili temel teoremler nelerdir?",
+    "output": "Altın Oran ile ilgili temel teoremler arasında, Altın Oran karesinin kendisinin bir fazlasına eşit olması ve tersinin kendisinden bir eksik olması bulunur. Ayrıca, Altın Oran'ın birçok geometrik şekil ve yapı ile ilişkilendirilmesi, onun matematiksel ve estetik önemini vurgular."
+  },
+  {
+    "instruction": "Altın Oran kullanılarak bir uzunluk nasıl hesaplanır?",
+    "output": "Altın Oran kullanılarak bir uzunluk hesaplamak için, bir miktarın Altın Oran ile çarpılması veya bölünmesi gerekir. Örneğin, bir uzunluk Altın Oran ile çarpıldığında, elde edilen yeni uzunluk orijinal uzunlukla estetik bir oran oluşturur. Bu hesaplamalar genellikle tasarım ve mimaride estetik uyum sağlamak için kullanılır."
+  },
+  {
+    "instruction": "Altın Oran'ın tarihçesi nedir?",
+    "output": "Altın Oran'ın tarihçesi, antik Yunan dönemine kadar uzanır. İlk olarak, Yunan matematikçi Öklid tarafından tanımlanmıştır. Rönesans döneminde, Altın Oran sanatçılar ve mimarlar tarafından estetik bir ölçüt olarak benimsenmiştir. Günümüzde, Altın Oran hâlâ sanat, tasarım ve doğa gözlemlerinde önemli bir rol oynamaktadır."
+  }
+]

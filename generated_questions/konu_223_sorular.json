@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bayes teoremi nedir?",
+    "output": "Bayes teoremi, bir olayın olasılığını, başka bir olayın gerçekleşmesi durumunda güncelleyerek hesaplamamıza olanak tanıyan bir matematiksel formüldür. Bu teorem, koşullu olasılıkların hesaplanmasında kullanılır ve özellikle istatistik ve veri bilimi alanlarında önemli bir yere sahiptir."
+  },
+  {
+    "instruction": "Koşullu olasılık nedir?",
+    "output": "Koşullu olasılık, bir olayın olasılığını, başka bir olayın gerçekleştiği bilgisi altında hesaplamaktır. Örneğin, A olayının B olayına bağlı olarak gerçekleşme olasılığı olarak ifade edilir ve P(A|B) şeklinde gösterilir."
+  },
+  {
+    "instruction": "Bayes teoremi nasıl uygulanır?",
+    "output": "Bayes teoremi, P(A|B) = [P(B|A) * P(A)] / P(B) formülüyle ifade edilir. Burada P(A|B), B gerçekleştiğinde A'nın olasılığını, P(B|A), A gerçekleştiğinde B'nin olasılığını, P(A) ve P(B) ise A ve B olaylarının genel olasılıklarını temsil eder. Teoremi uygulamak için bu değerlerin bilinmesi veya hesaplanması gerekir."
+  },
+  {
+    "instruction": "Koşullu olasılık hangi durumlarda kullanılır?",
+    "output": "Koşullu olasılık, özellikle bir olayın başka bir olayın gerçekleşmesi durumunda nasıl etkilendiğini anlamak istediğimiz durumlarda kullanılır. Örneğin, tıbbi teşhislerde bir hastalığın belirtilerine sahip olma durumunda hastalığın olasılığını hesaplamak için kullanılır."
+  },
+  {
+    "instruction": "Bayes teoremi ne işe yarar?",
+    "output": "Bayes teoremi, mevcut bilgileri güncelleyerek daha doğru olasılık tahminleri yapmamıza olanak tanır. Bu, özellikle veri analizi, makine öğrenimi ve karar verme süreçlerinde önemli bir rol oynar. Teorem, belirsizlik altında karar vermeyi ve tahmin yapmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Bayes teoremi ile klasik olasılık arasındaki fark nedir?",
+    "output": "Klasik olasılık, olayların olasılıklarını önceden belirlenmiş bir örneklem uzayına göre hesaplar. Bayes teoremi ise, mevcut bilgi veya kanıtlar ışığında bu olasılıkları günceller. Klasik olasılık statik iken, Bayes teoremi dinamik bir yaklaşım sunar."
+  },
+  {
+    "instruction": "Koşullu olasılığın özellikleri nelerdir?",
+    "output": "Koşullu olasılık, 0 ile 1 arasında bir değere sahiptir ve P(A|B) = P(A∩B) / P(B) formülüyle hesaplanır. Eğer B olayının olasılığı sıfırsa, koşullu olasılık tanımsız olur. Ayrıca, koşullu olasılık, olayların bağımsız olup olmadığını belirlemek için de kullanılabilir."
+  },
+  {
+    "instruction": "Bayes teoremi hangi alanlarda kullanılır?",
+    "output": "Bayes teoremi, istatistik, yapay zeka, makine öğrenimi, tıp, ekonomi ve mühendislik gibi birçok alanda kullanılır. Özellikle, veri analizi, tahmin modelleri, spam filtreleme, tıbbi teşhis ve risk analizi gibi uygulamalarda yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Koşullu olasılık nasıl hesaplanır?",
+    "output": "Koşullu olasılık, P(A|B) = P(A∩B) / P(B) formülüyle hesaplanır. Burada P(A∩B), A ve B olaylarının birlikte gerçekleşme olasılığı, P(B) ise B olayının gerçekleşme olasılığıdır. Bu formül, B olayının gerçekleştiği durumda A olayının olasılığını verir."
+  },
+  {
+    "instruction": "Bayes teoreminin görsel ifadesi nedir?",
+    "output": "Bayes teoreminin görsel ifadesi, genellikle Venn diyagramları veya olasılık ağaçları kullanılarak gösterilir. Bu diyagramlar, olayların ve alt olayların olasılıklarını ve ilişkilerini görselleştirerek, teoremin nasıl çalıştığını ve olasılıkların nasıl güncellendiğini anlamayı kolaylaştırır."
+  }
+]

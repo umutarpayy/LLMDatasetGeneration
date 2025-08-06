@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bir sayının katları nasıl bulunur?",
+    "output": "Bir sayının katları, o sayının pozitif tam sayılarla çarpılmasıyla elde edilen sayılardır. Örneğin, 3 sayısının katları 3, 6, 9, 12, 15, ... şeklinde devam eder. Herhangi bir sayının katlarını bulmak için, o sayıyı sırasıyla 1, 2, 3, 4, ... ile çarparız."
+  },
+  {
+    "instruction": "Bir sayının 9 ile bölünebilme kuralı nedir?",
+    "output": "Bir sayının 9 ile bölünebilmesi için, rakamlarının toplamının 9'a bölünebilir olması gerekir. Örneğin, 729 sayısının rakamları toplamı 7 + 2 + 9 = 18'dir ve 18, 9'a bölünebildiği için 729 da 9'a bölünebilir."
+  },
+  {
+    "instruction": "Bir sayının 14 ile bölünebilme kuralı var mıdır?",
+    "output": "14 ile bölünebilme için özel bir kural yoktur. Ancak, bir sayının 14 ile bölünebilmesi için hem 2'ye hem de 7'ye bölünebilmesi gerekir. Bu iki koşul sağlanıyorsa, sayı 14'e de bölünebilir."
+  },
+  {
+    "instruction": "Bölünebilme kuralları ne işe yarar?",
+    "output": "Bölünebilme kuralları, bir sayının başka bir sayıya kalansız olarak bölünüp bölünemeyeceğini hızlı bir şekilde belirlememizi sağlar. Bu kurallar, özellikle büyük sayılarla çalışırken hesaplamaları kolaylaştırır ve zaman kazandırır."
+  },
+  {
+    "instruction": "Katlar hangi durumlarda kullanılır?",
+    "output": "Katlar, genellikle problem çözmede, sayı dizileri oluştururken veya belirli bir sayının belirli bir çarpanla ilişkisini anlamaya çalışırken kullanılır. Ayrıca, katlar, ortak katları bulmak ve problemleri çözmek için de kullanılır."
+  },
+  {
+    "instruction": "Bir sayının 7 ile bölünebilme kuralı nedir?",
+    "output": "Bir sayının 7 ile bölünebilmesi için özel bir kural vardır: Sayının son rakamı iki katına çıkarılır ve bu değer, sayının geri kalanından çıkarılır. Sonuç 0 veya 7'nin bir katı ise, sayı 7'ye bölünebilir. Örneğin, 203 sayısını ele alalım. Son rakamı 3, iki katı 6 eder. 20 - 6 = 14, ve 14, 7'nin katıdır. Dolayısıyla, 203 sayısı 7'ye bölünebilir."
+  },
+  {
+    "instruction": "Bir sayının bölenleri nasıl bulunur?",
+    "output": "Bir sayının bölenlerini bulmak için, o sayıyı 1'den başlayarak kendisine kadar olan sayılarla bölmeyi deneriz. Eğer bölüm kalansız ise, o sayı bölenlerden biridir. Örneğin, 12 sayısının bölenleri 1, 2, 3, 4, 6 ve 12'dir."
+  },
+  {
+    "instruction": "Bölünebilme kuralları nasıl geliştirilmiştir?",
+    "output": "Bölünebilme kuralları, sayılar arasındaki ilişkilerin ve özelliklerin gözlemlenmesiyle geliştirilmiştir. Matematikçiler, sayıları belirli bir sayıya böldüklerinde ortaya çıkan kalıpları fark ederek bu kuralları oluşturmuşlardır. Bu kurallar, sayı teorisinin temel kavramlarından biridir."
+  },
+  {
+    "instruction": "Bir sayının 10 ile bölünebilme kuralı nedir?",
+    "output": "Bir sayının 10 ile bölünebilmesi için, birler basamağının 0 olması gerekir. Örneğin, 120 sayısının birler basamağı 0 olduğu için 10'a kalansız olarak bölünebilir."
+  },
+  {
+    "instruction": "Katlar ve bölenler arasındaki fark nedir?",
+    "output": "Katlar, bir sayının pozitif tam sayılarla çarpılmasıyla elde edilen sayılardır. Bölenler ise, bir sayıyı kalansız bölebilen sayılardır. Örneğin, 6'nın katları 6, 12, 18, ... iken; 6'nın bölenleri 1, 2, 3 ve 6'dır."
+  }
+]

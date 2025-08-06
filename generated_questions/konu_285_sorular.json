@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Pisagor Teoremi nedir?",
+    "output": "Pisagor Teoremi, bir dik üçgende, hipotenüsün karesinin diğer iki kenarın karelerinin toplamına eşit olduğunu ifade eder. Yani, c² = a² + b² formülüyle gösterilir. Burada c hipotenüs, a ve b ise dik kenarlardır."
+  },
+  {
+    "instruction": "Pisagor Teoremi nasıl ispatlanır?",
+    "output": "Pisagor Teoremi, birçok farklı yöntemle ispatlanabilir. Bunlardan biri, bir kare içine yerleştirilen dört eş dik üçgen kullanarak alan hesaplaması yapmaktır. Bu yöntemle, büyük karenin alanı ile içindeki küçük karenin ve dört üçgenin alanları karşılaştırılarak teorem ispatlanır."
+  },
+  {
+    "instruction": "Dik üçgen nedir?",
+    "output": "Dik üçgen, bir açısı 90 derece olan üçgendir. Bu tür üçgenlerde, 90 derecelik açının karşısındaki kenara hipotenüs denir ve bu kenar, üçgenin en uzun kenarıdır."
+  },
+  {
+    "instruction": "Bir karenin alanı nasıl hesaplanır?",
+    "output": "Bir karenin alanı, bir kenar uzunluğunun karesi alınarak hesaplanır. Eğer karenin bir kenar uzunluğu 's' ise, alanı s² olarak bulunur."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliği ne anlama gelir?",
+    "output": "Üçgenlerin benzerliği, iki üçgenin aynı şekle sahip olduğu ancak farklı boyutlarda olabileceği anlamına gelir. Benzer üçgenlerde, karşılıklı açıları eşittir ve karşılıklı kenarların oranları aynıdır."
+  },
+  {
+    "instruction": "Hipotenüs nedir?",
+    "output": "Hipotenüs, bir dik üçgende, dik açının karşısında yer alan en uzun kenardır. Pisagor Teoremi'nde bu kenarın karesi, diğer iki kenarın karelerinin toplamına eşittir."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin geometrik ispatı nasıl yapılır?",
+    "output": "Pisagor Teoremi'nin geometrik ispatı, genellikle bir kare içine dört eş dik üçgen yerleştirilerek yapılır. Bu yerleştirme sonucunda, büyük karenin alanı ile içindeki küçük karenin ve dört üçgenin alanları karşılaştırılarak teorem ispatlanır."
+  },
+  {
+    "instruction": "Kare ve dikdörtgen arasındaki fark nedir?",
+    "output": "Kare, tüm kenar uzunlukları eşit olan ve tüm iç açıları 90 derece olan bir dörtgendir. Dikdörtgen ise karşılıklı kenarları eşit olan ve tüm iç açıları 90 derece olan bir dörtgendir. Kare, dikdörtgenin özel bir halidir."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin önemi nedir?",
+    "output": "Pisagor Teoremi, geometri ve trigonometri alanlarında temel bir teoremdir. Özellikle üçgenlerin kenar uzunluklarını hesaplamada, mesafe ölçümlerinde ve birçok mühendislik uygulamasında kullanılır. Ayrıca, matematiksel ispatların ve problemlerin çözümünde kritik bir rol oynar."
+  },
+  {
+    "instruction": "Bir karenin içindeki dik üçgenler nasıl oluşturulur?",
+    "output": "Bir karenin içindeki dik üçgenler, karenin köşelerinden bir veya daha fazla köşegen çizilerek oluşturulabilir. Ayrıca, karenin kenarlarına paralel çizgiler çizilerek de dik üçgenler elde edilebilir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bilimsel gösterim nedir?",
+    "output": "Bilimsel gösterim, çok büyük veya çok küçük sayıları daha kolay ifade etmek için kullanılan bir yöntemdir. Bu yöntemde bir sayı, 10'un bir kuvveti ile çarpılan bir çarpan şeklinde yazılır. Çarpan genellikle 1 ile 10 arasında bir sayı olur. Örneğin, 29.029 sayısı bilimsel gösterimde 2.9029 x 10^4 olarak yazılabilir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayılar nasıl yuvarlanır?",
+    "output": "Bilimsel gösterimde sayılar yuvarlanırken, genellikle çarpan kısmı 1 ile 10 arasında olacak şekilde ayarlanır. Bu ayarlama sırasında, ondalık kısmın ilk basamağına göre yuvarlama yapılır. Eğer ondalık kısım 5 veya daha büyükse yukarı yuvarlanır, aksi takdirde aşağı yuvarlanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde x ve y tek haneli sayılar ne anlama gelir?",
+    "output": "Bilimsel gösterimde x ve y'nin tek haneli sayılar olması, çarpan kısmının (x) 1 ile 9 arasında bir tam sayı ve üssün (y) 0 ile 9 arasında bir tam sayı olması gerektiğini belirtir. Bu, sayının daha basit ve anlaşılır bir şekilde ifade edilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Bilimsel gösterim hangi durumlarda kullanılır?",
+    "output": "Bilimsel gösterim, genellikle çok büyük veya çok küçük sayılarla çalışırken kullanılır. Örneğin, astronomide yıldızlar arası mesafeleri veya fizik ve kimyada atomik boyutları ifade etmek için bilimsel gösterim kullanılır. Bu gösterim, hesaplamaları ve karşılaştırmaları daha kolay hale getirir."
+  },
+  {
+    "instruction": "Bir sayıyı bilimsel gösterimde yazarken dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Bir sayıyı bilimsel gösterimde yazarken, çarpan kısmının 1 ile 10 arasında olması gerektiğine dikkat edilmelidir. Ayrıca, 10'un kuvveti olan kısım, sayının büyüklüğünü doğru bir şekilde yansıtmalıdır. Ondalık noktası doğru bir şekilde yerleştirilmelidir ve yuvarlama kurallarına uygun olarak yapılmalıdır."
+  },
+  {
+    "instruction": "Bilimsel gösterim ile standart gösterim arasındaki fark nedir?",
+    "output": "Bilimsel gösterim, sayıları 10'un kuvvetleri ile çarpılarak daha kompakt bir şekilde ifade ederken, standart gösterim sayıyı tam olarak yazmayı içerir. Örneğin, 3000 sayısı standart gösterimde 3000 olarak yazılırken, bilimsel gösterimde 3 x 10^3 olarak ifade edilir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde üslü ifadeler neden kullanılır?",
+    "output": "Bilimsel gösterimde üslü ifadeler, sayının büyüklüğünü ve ölçeğini belirtmek için kullanılır. Üs, sayının kaç basamak kaydırılması gerektiğini gösterir. Bu, özellikle çok büyük veya çok küçük sayılarla çalışırken hesaplamaları ve karşılaştırmaları daha kolay hale getirir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde ondalık sayılar nasıl kullanılır?",
+    "output": "Bilimsel gösterimde, ondalık sayılar çarpan kısmında yer alır ve bu kısım 1 ile 10 arasında bir sayı olmalıdır. Ondalık sayının ardından 10'un bir kuvveti gelir. Bu gösterim, sayının büyüklüğünü ve hassasiyetini koruyarak daha kompakt bir şekilde ifade edilmesini sağlar."
+  },
+  {
+    "instruction": "Bilimsel gösterimde yuvarlama neden önemlidir?",
+    "output": "Bilimsel gösterimde yuvarlama, sayının çarpan kısmının 1 ile 10 arasında kalmasını sağlamak için önemlidir. Ayrıca, yuvarlama sayının hassasiyetini ve doğruluğunu korumak için kullanılır. Bu, özellikle hesaplamalarda ve sonuçların sunumunda tutarlılığı sağlamak açısından kritiktir."
+  },
+  {
+    "instruction": "Bilimsel gösterimdeki üslerin özellikleri nelerdir?",
+    "output": "Bilimsel gösterimdeki üsler, sayının büyüklüğünü ve ölçeğini belirler. Üs pozitifse, sayı büyük bir değeri temsil ederken, negatif bir üs sayının küçük bir değeri temsil ettiğini gösterir. Üs, sayının ondalık noktasının kaç basamak kaydırılması gerektiğini belirtir ve bu, sayının doğru bir şekilde ifade edilmesine yardımcı olur."
+  }
+]

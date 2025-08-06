@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadeler nedir?",
+    "output": "Üslü ifadeler, bir sayının kendisiyle belirli bir sayıda çarpılmasını ifade eden matematiksel ifadelerdir. Üslü ifadeler, bir taban ve bir üs olmak üzere iki bileşenden oluşur. Taban, çarpılan sayıyı; üs ise kaç kez çarpılacağını gösterir."
+  },
+  {
+    "instruction": "Üslü ifadeler nasıl yazılır?",
+    "output": "Üslü ifadeler, taban sayısının sağ üst köşesine küçük bir sayı (üs) yazılarak gösterilir. Örneğin, 6 üssü 8, 6^8 şeklinde yazılır ve bu ifade, 6'nın kendisiyle 8 kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerin özellikleri nelerdir?",
+    "output": "Üslü ifadelerin bazı temel özellikleri şunlardır: (a^m) * (a^n) = a^(m+n), (a^m) / (a^n) = a^(m-n), (a^m)^n = a^(m*n), a^0 = 1 (a ≠ 0), ve a^1 = a."
+  },
+  {
+    "instruction": "Üslü ifadeler hangi durumlarda kullanılır?",
+    "output": "Üslü ifadeler, genellikle büyüklükleri ifade etmek, bilimsel hesaplamalar yapmak, kompakt bir şekilde büyük sayıları göstermek ve matematiksel işlemleri kolaylaştırmak için kullanılır. Özellikle bilimsel notasyon ve mühendislik hesaplamalarında yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban ve üs arasındaki fark nedir?",
+    "output": "Üslü ifadelerde taban, çarpılan sayıyı temsil ederken, üs bu sayının kaç kez çarpılacağını belirtir. Örneğin, 6^8 ifadesinde 6 tabandır ve 8 üssü temsil eder."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerle ilgili yaygın yanlış anlamalar nelerdir?",
+    "output": "Üslü ifadelerle ilgili yaygın yanlış anlamalar arasında, üslü ifadelerin normal çarpma gibi düşünülmesi, üslü ifadelerde üslerin yanlış toplanması veya çıkarılması ve negatif üslerin yanlış yorumlanması yer alır."
+  },
+  {
+    "instruction": "Üslü ifadelerle toplama ve çıkarma işlemi yapılabilir mi?",
+    "output": "Üslü ifadelerle toplama ve çıkarma işlemi doğrudan yapılamaz. Üslü ifadelerle toplama veya çıkarma yapabilmek için ifadelerin aynı tabana ve aynı üslere sahip olması gerekir. Ancak bu durumda toplama veya çıkarma işlemi yapılabilir."
+  },
+  {
+    "instruction": "Üslü ifadeler günlük hayatta nasıl kullanılır?",
+    "output": "Üslü ifadeler günlük hayatta, özellikle büyük veya küçük sayıları ifade etmek için kullanılır. Örneğin, bilgisayar biliminde veri boyutlarını ifade ederken veya astronomide yıldızlar arası mesafeleri belirtirken üslü ifadeler kullanılır."
+  }
+]

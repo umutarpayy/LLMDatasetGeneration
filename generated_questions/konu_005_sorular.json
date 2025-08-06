@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çarpanlara ayırma nedir?",
+    "output": "Çarpanlara ayırma, bir polinomu veya sayıyı, çarpanlarının çarpımı şeklinde yazma işlemidir. Bu, genellikle daha karmaşık ifadeleri daha basit ifadelere ayırarak problemlerin çözümünü kolaylaştırır."
+  },
+  {
+    "instruction": "Gruplandırarak çarpanlara ayırma nasıl yapılır?",
+    "output": "Gruplandırarak çarpanlara ayırma, bir polinomun terimlerini iki veya daha fazla gruba ayırarak her grubu ortak çarpanlarına ayırma yöntemidir. Daha sonra bu ortak çarpanlar kullanılarak polinomun tamamı çarpanlarına ayrılır."
+  },
+  {
+    "instruction": "Bir polinomun çarpanlarına ayrılması hangi durumlarda kullanılır?",
+    "output": "Bir polinomun çarpanlarına ayrılması, denklemlerin çözümünde, kesirlerin sadeleştirilmesinde ve polinomların köklerinin bulunmasında kullanılır. Ayrıca, matematiksel ifadelerin daha basit formlara dönüştürülmesi için de önemlidir."
+  },
+  {
+    "instruction": "Çarpanlara ayırmada kullanılan yöntemler nelerdir?",
+    "output": "Çarpanlara ayırmada kullanılan yöntemler arasında ortak çarpan parantezine alma, gruplandırarak çarpanlara ayırma, iki kare farkı, tam kare açılımı ve çarpanlara ayırma formülleri gibi yöntemler bulunur."
+  },
+  {
+    "instruction": "Çarpanlara ayırma işlemi neden önemlidir?",
+    "output": "Çarpanlara ayırma işlemi, matematiksel ifadelerin daha basit ve anlaşılır hale getirilmesine yardımcı olur. Bu, özellikle denklemlerin çözümünde ve kesirlerin sadeleştirilmesinde büyük kolaylık sağlar."
+  },
+  {
+    "instruction": "Gruplandırarak çarpanlara ayırma hangi özelliklere sahiptir?",
+    "output": "Gruplandırarak çarpanlara ayırma, polinomun terimlerini stratejik olarak gruplandırarak her gruptaki ortak çarpanları belirleme esasına dayanır. Bu yöntem, özellikle dört terimli polinomlar için etkilidir."
+  },
+  {
+    "instruction": "Polinom nedir?",
+    "output": "Polinom, bir veya daha fazla terimin toplamı veya farkı olarak ifade edilen matematiksel bir ifadedir. Her terim, bir katsayı ve bir değişkenin pozitif tam sayı kuvveti çarpımı şeklindedir."
+  },
+  {
+    "instruction": "Çarpanlara ayırmada işaretlerin rolü nedir?",
+    "output": "Çarpanlara ayırmada işaretler, terimlerin çarpımının pozitif veya negatif olacağını belirler. Özellikle çarpımları negatif olan terimlerde, bir terimin pozitif diğerinin negatif olması gerekir."
+  },
+  {
+    "instruction": "Çarpanlara ayırma işlemi sırasında dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Çarpanlara ayırma sırasında, terimlerin ortak çarpanlarının doğru bir şekilde belirlenmesi, işaretlerin doğru kullanılması ve doğru gruplandırma yapılması önemlidir. Ayrıca, elde edilen çarpanların doğru olup olmadığını kontrol etmek de önemlidir."
+  },
+  {
+    "instruction": "Çarpanlara ayırma işlemi ile sadeleştirme arasındaki fark nedir?",
+    "output": "Çarpanlara ayırma, bir ifadenin çarpanlarının bulunması işlemidir, sadeleştirme ise bu çarpanları kullanarak ifadenin daha basit bir forma dönüştürülmesidir. Sadeleştirme genellikle çarpanlara ayırma sonrasında yapılır."
+  }
+]

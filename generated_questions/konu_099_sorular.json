@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifadelerde çıkarma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çıkarma işlemi, benzer terimlerin katsayılarının çıkarılmasıyla yapılır. Örneğin, '5x - 2x' ifadesinde benzer terimler 'x' terimleridir. Bu durumda, katsayılar olan 5 ve 2 çıkarılır ve sonuç '3x' olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terim nedir?",
+    "output": "Cebirsel ifadelerde terim, bir değişkenin veya değişkenlerin katsayılarıyla birlikte oluşturduğu ifadedir. Örneğin, '3x', '5y^2' ve '7' gibi ifadeler terim olarak adlandırılır. Her terim bir katsayı ve bir değişken içerebilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenler nasıl temsil edilir?",
+    "output": "Cebirsel ifadelerde değişkenler genellikle harflerle temsil edilir. Bu harfler, belirli bir sayıyı veya bir grup sayıyı temsil edebilir. Örneğin, 'x', 'y', 'z' gibi harfler yaygın olarak değişken olarak kullanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nasıl belirlenir?",
+    "output": "Cebirsel ifadelerde katsayı, bir terimin başındaki sayıdır ve değişkenin kaç katı olduğunu gösterir. Örneğin, '5x' teriminde '5' katsayıdır ve bu, 'x' teriminin 5 katı anlamına gelir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama ve çıkarma işlemleri hangi kurallara göre yapılır?",
+    "output": "Cebirsel ifadelerde toplama ve çıkarma işlemleri, sadece benzer terimler arasında yapılabilir. Benzer terimler, aynı değişken ve aynı değişken derecesine sahip terimlerdir. Bu terimlerin katsayıları toplanır veya çıkarılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin rolü nedir?",
+    "output": "Cebirsel ifadelerde değişkenler, bilinmeyen veya değişken değerleri temsil eder. Değişkenler, ifadelerin genel bir formda yazılmasına ve çeşitli durumlarda kullanılmasına olanak tanır. Matematiksel problemlerin çözümünde önemli bir rol oynarlar."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde hangi durumlarda sadeleştirme yapılır?",
+    "output": "Cebirsel ifadelerde sadeleştirme, ifadeyi daha basit ve anlaşılır hale getirmek için yapılır. Bu, genellikle benzer terimlerin birleştirilmesi veya ortak çarpanların çıkarılması yoluyla gerçekleştirilir. Sadeleştirme, ifadeyi daha kolay çözümlemeye yardımcı olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nedir?",
+    "output": "Cebirsel ifadelerde sabit terim, herhangi bir değişken içermeyen sayısal terimdir. Bu terim, cebirsel ifadenin bir parçası olarak sabit bir değeri temsil eder. Örneğin, '3x + 5' ifadesinde '5' sabit terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimlerin sıralaması önemli midir?",
+    "output": "Cebirsel ifadelerde terimlerin sıralaması genellikle toplama ve çıkarma işlemleri için önemli değildir, çünkü bu işlemler değişme özelliğine sahiptir. Ancak, standart bir formda yazmak veya belirli bir düzeni takip etmek için terimler genellikle azalan derecelerine göre sıralanır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde bir terimin derecesi nedir?",
+    "output": "Cebirsel ifadelerde bir terimin derecesi, terimdeki değişkenin üssü ile belirlenir. Örneğin, '3x^2' teriminde, 'x' in üssü 2 olduğu için bu terimin derecesi 2'dir. Bir sabit terimin derecesi ise 0'dır."
+  }
+]

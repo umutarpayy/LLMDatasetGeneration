@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dal-yaprak grafiğinde dal ve yaprak neyi temsil eder?",
+    "output": "Dal-yaprak grafiğinde 'dal', genellikle sayıların onlar basamağını temsil ederken, 'yaprak' ise birler basamağını temsil eder. Bu sayede veriler, sayısal büyüklüklerine göre gruplandırılarak kolayca okunabilir hale gelir."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği hangi tür veriler için uygundur?",
+    "output": "Dal-yaprak grafiği, özellikle küçük ve orta büyüklükteki veri setleri için uygundur. Sayısal verilerin dağılımını ve frekansını görsel olarak kolayca incelemek için kullanılır."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile veri dağılımı nasıl yorumlanır?",
+    "output": "Dal-yaprak grafiği, verilerin frekans dağılımını gösterir. Dallar, veri gruplarını temsil ederken, yapraklar bu gruplardaki bireysel verileri gösterir. Grafikteki yaprakların yoğunluğu, belirli bir aralıktaki verilerin sıklığını gösterir."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği kullanılarak merkezi eğilim ölçüleri nasıl belirlenir?",
+    "output": "Dal-yaprak grafiği kullanılarak merkezi eğilim ölçüleri, yani ortalama, medyan ve mod, kolayca belirlenebilir. Grafikteki yapraklar sıralanarak medyan bulunabilir, en sık tekrar eden yaprak mod olarak belirlenir ve tüm yaprakların toplamı ortalamayı hesaplamak için kullanılır."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile veri analizi yapmanın avantajları nelerdir?",
+    "output": "Dal-yaprak grafiği ile veri analizi yapmanın avantajları arasında verilerin hızlı ve kolay bir şekilde görselleştirilmesi, veri setinin frekans dağılımının net bir şekilde görülmesi ve verilerin sıralı bir şekilde sunulması sayılabilir. Ayrıca, verilerin sayısal değerleri korunarak gösterilmesi, detaylı analiz yapmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile çubuk grafiği arasındaki farklar nelerdir?",
+    "output": "Dal-yaprak grafiği, verilerin sayısal değerlerini koruyarak gösterirken, çubuk grafiği frekansları çubukların yüksekliği ile temsil eder. Dal-yaprak grafiği daha çok sayısal verilerin dağılımını ve frekansını gösterirken, çubuk grafiği kategorik verilerin karşılaştırılması için kullanılır."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile veri setinin simetrik olup olmadığı nasıl anlaşılır?",
+    "output": "Dal-yaprak grafiğinde yaprakların dağılımına bakarak veri setinin simetrik olup olmadığı anlaşılabilir. Yapraklar, dalın her iki tarafında eşit şekilde dağılmışsa veri seti simetriktir. Eğer yapraklar bir tarafa doğru yoğunlaşmışsa, veri seti asimetriktir."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile verilerin aritmetik ortalaması nasıl hesaplanır?",
+    "output": "Dal-yaprak grafiği ile verilerin aritmetik ortalaması, tüm yaprakların temsil ettiği sayısal değerlerin toplanarak, toplam yaprak sayısına bölünmesiyle hesaplanır. Bu işlem, veri setinin toplamının veri sayısına bölünmesiyle yapılır."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile verilerin varyansı nasıl hesaplanır?",
+    "output": "Dal-yaprak grafiği ile verilerin varyansını hesaplamak için önce her bir yaprağın temsil ettiği değerin aritmetik ortalamadan farkı bulunur, bu farklar karesel olarak toplanır ve daha sonra toplam yaprak sayısına bölünerek varyans elde edilir."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile verilerin modunu nasıl buluruz?",
+    "output": "Dal-yaprak grafiğinde mod, en sık tekrar eden yaprak değeridir. Yaprakların hangi dal üzerinde daha fazla yoğunlaştığını gözlemleyerek, en sık görülen yaprak değeri mod olarak belirlenir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Ağaç şeması nedir?",
+    "output": "Ağaç şeması, karmaşık bir problemde farklı seçenek ve sonuçları görselleştirmek için kullanılan bir diyagramdır. Her bir dal, bir seçim veya olayın olası sonuçlarını temsil eder ve bu şekilde tüm olasılıkların organize bir şekilde incelenmesini sağlar."
+  },
+  {
+    "instruction": "Ağaç şeması nasıl kullanılır?",
+    "output": "Ağaç şeması, bir olayın farklı aşamalarındaki seçimlerin ve sonuçların görselleştirilmesi için kullanılır. Her aşamada, her bir seçeneğin altına yeni dallar eklenerek tüm olası sonuçlar gösterilir. Bu, tüm olasılıkların sistematik bir şekilde hesaplanmasına yardımcı olur."
+  },
+  {
+    "instruction": "Bir olayın olasılığı nasıl hesaplanır?",
+    "output": "Bir olayın olasılığı, o olayın gerçekleşme sayısının toplam olası sonuç sayısına bölünmesiyle hesaplanır. Bu, genellikle P(A) = Favori sonuç sayısı / Toplam sonuç sayısı formülüyle ifade edilir."
+  },
+  {
+    "instruction": "Bağımsız olaylar nedir?",
+    "output": "Bağımsız olaylar, bir olayın gerçekleşmesinin diğer bir olayın gerçekleşmesini etkilemediği durumlardır. Örneğin, bir zar atışının sonucu, bir bozuk paranın yazı veya tura gelmesini etkilemez."
+  },
+  {
+    "instruction": "Bağımsız olayların olasılığı nasıl hesaplanır?",
+    "output": "Bağımsız olayların olasılığı, her bir olayın olasılıklarının çarpılmasıyla hesaplanır. Eğer A ve B bağımsız olaylarsa, P(A ve B) = P(A) × P(B) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Birden fazla olayın olasılığı nasıl hesaplanır?",
+    "output": "Birden fazla olayın olasılığı, olayların bağımlı veya bağımsız olmasına göre farklı yöntemlerle hesaplanır. Bağımsız olaylar için olasılıklar çarpılırken, bağımlı olaylar için koşullu olasılıklar kullanılır."
+  },
+  {
+    "instruction": "Koşullu olasılık nedir?",
+    "output": "Koşullu olasılık, bir olayın olasılığının, başka bir olayın gerçekleşmiş olduğu bilgisi altında hesaplanmasıdır. P(A|B), B olayının gerçekleştiği durumda A olayının olasılığını ifade eder."
+  },
+  {
+    "instruction": "Çarpma kuralı nedir?",
+    "output": "Çarpma kuralı, birden fazla olayın birlikte gerçekleşme olasılığını hesaplamak için kullanılır. Bağımsız olaylar için P(A ve B) = P(A) × P(B) formülü kullanılırken, bağımlı olaylar için P(A ve B) = P(A) × P(B|A) kullanılır."
+  },
+  {
+    "instruction": "Örnek uzay nedir?",
+    "output": "Örnek uzay, bir deney veya olayın tüm olası sonuçlarının kümesidir. Örneğin, bir zar atışında örnek uzay {1, 2, 3, 4, 5, 6} şeklindedir."
+  },
+  {
+    "instruction": "Eşit olasılıklı olaylar nedir?",
+    "output": "Eşit olasılıklı olaylar, her bir olayın gerçekleşme olasılığının aynı olduğu durumlardır. Örneğin, hilesiz bir zar atıldığında her bir yüzün gelme olasılığı eşittir ve 1/6'dır."
+  }
+]

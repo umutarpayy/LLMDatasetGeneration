@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dikdörtgenler prizması nedir?",
+    "output": "Dikdörtgenler prizması, altı yüzü dikdörtgen olan üç boyutlu bir geometrik şekildir. Her iki tabanı da birbirine paralel ve eşit olan dikdörtgenlerden oluşur."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının hacmi nasıl hesaplanır?",
+    "output": "Dikdörtgenler prizmasının hacmi, taban alanı ile yüksekliğin çarpımı ile bulunur. Taban alanı, tabanın uzun kenarı ile kısa kenarının çarpımıdır. Dolayısıyla hacim formülü: Hacim = uzunluk × genişlik × yükseklik şeklindedir."
+  },
+  {
+    "instruction": "Prizma nedir?",
+    "output": "Prizma, iki paralel ve eş çokgen tabana ve bu tabanları birleştiren dikdörtgensel yan yüzlere sahip olan üç boyutlu bir geometrik şekildir."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının yüzey alanı nasıl hesaplanır?",
+    "output": "Dikdörtgenler prizmasının yüzey alanı, tüm yüzeylerinin alanlarının toplamıdır. Bu, iki taban alanı ve dört yan yüz alanının toplamı olarak hesaplanır. Yüzey alanı formülü: Yüzey Alanı = 2(uzunluk × genişlik) + 2(uzunluk × yükseklik) + 2(genişlik × yükseklik) şeklindedir."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının özellikleri nelerdir?",
+    "output": "Dikdörtgenler prizmasının özellikleri arasında altı yüzünün dikdörtgen olması, karşılıklı yüzlerinin eşit ve paralel olması, 12 kenarının ve 8 köşesinin bulunması yer alır."
+  },
+  {
+    "instruction": "Dikdörtgenler prizması hangi durumlarda kullanılır?",
+    "output": "Dikdörtgenler prizması, genellikle hacim ve yüzey alanı hesaplamalarında, inşaat ve mühendislik projelerinde, ambalaj tasarımında ve birçok günlük yaşam uygulamasında kullanılır."
+  },
+  {
+    "instruction": "Dikdörtgenler prizması ile küp arasındaki fark nedir?",
+    "output": "Dikdörtgenler prizmasının tüm yüzleri dikdörtgen iken, küpün tüm yüzleri kare şeklindedir. Ayrıca, küpün tüm kenar uzunlukları eşittir, ancak dikdörtgenler prizmasında kenar uzunlukları farklı olabilir."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının taban alanı nasıl bulunur?",
+    "output": "Dikdörtgenler prizmasının taban alanı, tabanın uzun kenarı ile kısa kenarının çarpımı ile bulunur. Taban alanı = uzunluk × genişlik."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının yan yüzeyleri hangi şekildedir?",
+    "output": "Dikdörtgenler prizmasının yan yüzeyleri dikdörtgendir. Her biri prizmanın yüksekliği ile tabanın bir kenarının çarpımıyla elde edilen dikdörtgen alanlardır."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının hacmi ne işe yarar?",
+    "output": "Dikdörtgenler prizmasının hacmi, bu şeklin içindeki boşluğun miktarını ölçer. Bu, su depoları, kutular veya herhangi bir dikdörtgensel kapalı alanın kapasitesini belirlemek için kullanılır."
+  }
+]

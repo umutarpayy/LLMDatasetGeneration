@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Asal sayı nedir?",
+    "output": "Asal sayı, yalnızca iki pozitif böleni olan, yani sadece 1 ve kendisi tarafından bölünebilen bir doğal sayıdır. Örneğin, 2, 3, 5, 7 gibi sayılar asal sayılardır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma nedir?",
+    "output": "Asal çarpanlara ayırma, bir sayıyı asal sayıların çarpımı şeklinde ifade etme işlemidir. Bu yöntem, sayının asal çarpanlarını bulmak için kullanılır."
+  },
+  {
+    "instruction": "Bir sayıyı asal çarpanlarına nasıl ayırırız?",
+    "output": "Bir sayıyı asal çarpanlarına ayırmak için, en küçük asal sayıdan başlayarak sayıyı bölmeye çalışırız. Bölünebildiği asal sayılarla bölmeye devam ederiz ve her adımda bölünen sayıyı yazıp, kalan kısmı tekrar böleriz. İşlem, kalan sayı da asal olana kadar devam eder."
+  },
+  {
+    "instruction": "Çarpan ağacı nedir ve nasıl kullanılır?",
+    "output": "Çarpan ağacı, bir sayıyı asal çarpanlarına ayırırken kullanılan görsel bir yöntemdir. Sayı, dallar şeklinde asal çarpanlarına ayrılır ve bu dallar üzerinde çarpanlar yazılarak işlem tamamlanır."
+  },
+  {
+    "instruction": "Üslü sayılar nedir?",
+    "output": "Üslü sayılar, bir sayının kendisiyle tekrarlı olarak çarpılmasını ifade eden bir matematiksel gösterimdir. Örneğin, 5 üzeri 2 (5^2) ifadesi, 5'in kendisiyle iki kez çarpılması demektir, yani 5 x 5."
+  },
+  {
+    "instruction": "Asal sayılar ve tek sayılar arasındaki fark nedir?",
+    "output": "Asal sayılar, yalnızca 1 ve kendisi tarafından bölünebilen sayılardır. Tek sayılar ise 2 ile bölündüğünde kalan 1 olan sayılardır. Her asal sayı tek sayı değildir ve her tek sayı da asal değildir. Örneğin, 9 tek bir sayıdır ama asal değildir."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi ne işe yarar?",
+    "output": "Asal çarpanlara ayırma işlemi, bir sayının en küçük yapı taşlarına ayrılmasını sağlar. Bu işlem, sayıların bölünebilirliğini anlamak, EBOB ve EKOK gibi işlemleri yapmak için kullanışlıdır."
+  },
+  {
+    "instruction": "Bir sayının asal olup olmadığını nasıl anlarız?",
+    "output": "Bir sayının asal olup olmadığını anlamak için, 1 ve kendisi dışında başka bir sayıya bölünüp bölünmediğine bakılır. Eğer başka bir böleni yoksa, sayı asaldır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma hangi durumlarda kullanılır?",
+    "output": "Asal çarpanlara ayırma, sayıların bölünebilirlik analizlerinde, EBOB ve EKOK hesaplamalarında, kesirlerin sadeleştirilmesinde ve matematiksel problemlerin çözümünde kullanılır."
+  },
+  {
+    "instruction": "Üslü sayılar cinsinden yazımın avantajları nelerdir?",
+    "output": "Üslü sayılar cinsinden yazım, sayısal ifadelerin daha kısa ve anlaşılır bir şekilde gösterilmesini sağlar. Ayrıca, matematiksel işlemleri ve hesaplamaları daha kolay hale getirir."
+  }
+]

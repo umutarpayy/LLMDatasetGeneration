@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küpün hacmi nasıl hesaplanır?",
+    "output": "Küpün hacmi, bir kenar uzunluğunun küpü alınarak hesaplanır. Eğer küpün bir kenarı x birim uzunluğundaysa, hacmi x * x * x yani x^3 olur."
+  },
+  {
+    "instruction": "Üslü sayılar nedir?",
+    "output": "Üslü sayılar, bir sayının kendisiyle tekrarlı çarpımını ifade eden bir matematiksel gösterimdir. Örneğin, 5^3, 5'in kendisiyle üç kez çarpılması anlamına gelir ve 125'e eşittir."
+  },
+  {
+    "instruction": "Üslü ifadeler nasıl yazılır?",
+    "output": "Üslü ifadeler, bir taban ve bir üst sayıdan oluşur. Taban, çarpılan sayıyı, üst ise bu çarpımın kaç kez yapılacağını belirtir. Örneğin, 2^3 ifadesinde 2 taban, 3 ise üst sayıdır."
+  },
+  {
+    "instruction": "Küp şeklindeki bir cismin hacmi nasıl azalır?",
+    "output": "Küp şeklindeki bir cismin hacmi, bir parça kesilerek azaltılabilir. Kesilen parçanın hacmi hesaplanarak, başlangıçtaki hacimden çıkarılır. Örneğin, başlangıçta hacmi 5^3 olan bir küpten 2^3 hacminde bir parça kesilirse, kalan hacim 5^3 - 2^3 olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde üslü terimler nasıl hesaplanır?",
+    "output": "Cebirsel ifadelerde üslü terimler, tabanın üst sayısı kadar kendisiyle çarpılmasıyla hesaplanır. Örneğin, x^3 terimi, x'in kendisiyle üç kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerin özellikleri nelerdir?",
+    "output": "Üslü ifadelerin bazı temel özellikleri vardır: a^m * a^n = a^(m+n), (a^m)^n = a^(m*n), a^m / a^n = a^(m-n), ve a^0 = 1 (a ≠ 0). Bu özellikler, üslü ifadelerin işlemlerinde kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadeler hangi durumlarda kullanılır?",
+    "output": "Üslü ifadeler, büyük veya küçük sayıları daha kolay ifade etmek ve hesaplamak için kullanılır. Özellikle bilimsel çalışmalarda, mühendislikte ve finansal hesaplamalarda sıkça kullanılır."
+  },
+  {
+    "instruction": "Bir sayının küpü ne anlama gelir?",
+    "output": "Bir sayının küpü, o sayının kendisiyle üç kez çarpılması anlamına gelir. Örneğin, 3'ün küpü, 3 * 3 * 3 = 27'dir."
+  },
+  {
+    "instruction": "Küp ve kare arasındaki fark nedir?",
+    "output": "Küp, bir sayının kendisiyle üç kez çarpılması (x^3) iken, kare, bir sayının kendisiyle iki kez çarpılmasıdır (x^2). Küp, üç boyutlu bir hacmi temsil ederken, kare iki boyutlu bir alanı temsil eder."
+  },
+  {
+    "instruction": "Bir cismin hacmi nasıl azaltılır?",
+    "output": "Bir cismin hacmi, o cisimden bir parça kesilerek veya çıkarılarak azaltılabilir. Kesilen parçanın hacmi hesaplanarak, başlangıçtaki hacimden çıkarılır ve kalan hacim bulunur."
+  }
+]

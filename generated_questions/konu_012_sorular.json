@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "En büyük ortak bölen (EBOB) nedir?",
+    "output": "En büyük ortak bölen (EBOB), iki veya daha fazla sayının ortak bölenleri arasından en büyük olanıdır. EBOB, sayıları tam bölen en büyük sayıyı bulmak için kullanılır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma yöntemi nedir?",
+    "output": "Asal çarpanlara ayırma yöntemi, bir sayıyı asal sayıların çarpımı şeklinde yazma işlemidir. Bu yöntem, bir sayının asal çarpanlarını bulmak ve bu çarpanlar üzerinden çeşitli matematiksel işlemler yapmak için kullanılır."
+  },
+  {
+    "instruction": "Ortak bölen nedir?",
+    "output": "Ortak bölen, iki veya daha fazla sayıyı tam bölen sayılardır. Ortak bölenler, bu sayıların her birini kalansız bölebilen sayılardır."
+  },
+  {
+    "instruction": "EBOB hesaplamada asal çarpanlar nasıl kullanılır?",
+    "output": "EBOB hesaplamada asal çarpanlar, her iki sayının asal çarpanlarına ayrılmasıyla kullanılır. Ortak asal çarpanlar belirlenir ve bu ortak asal çarpanların en küçük üsleri alınarak çarpılır. Sonuç, EBOB değerini verir."
+  },
+  {
+    "instruction": "Asal sayı nedir?",
+    "output": "Asal sayı, yalnızca 1 ve kendisi dışında başka bir pozitif böleni olmayan, 1'den büyük pozitif tamsayıdır. Örneğin, 2, 3, 5, 7 asal sayılardır."
+  },
+  {
+    "instruction": "EBOB hangi durumlarda kullanılır?",
+    "output": "EBOB, iki veya daha fazla sayının ortak özelliklerini bulmak, kesirleri sadeleştirmek, paydaları eşitlemek veya sayıların en büyük ortak ölçüsünü bulmak gibi durumlarda kullanılır."
+  },
+  {
+    "instruction": "EBOB ile EKOK arasındaki fark nedir?",
+    "output": "EBOB, iki veya daha fazla sayının ortak bölenleri arasından en büyüğünü bulurken, EKOK (En Küçük Ortak Kat), bu sayıların ortak katları arasından en küçüğünü bulur. EBOB, bölenlerle ilgilenirken, EKOK katlarla ilgilenir."
+  },
+  {
+    "instruction": "EBOB hesaplamada tüm çarpanları yazma yöntemi nasıl kullanılır?",
+    "output": "EBOB hesaplamada tüm çarpanları yazma yöntemi, her iki sayının tüm çarpanlarının listelenmesi ve bu listelerden ortak olanların bulunmasıyla yapılır. Ortak çarpanlar arasından en büyüğü, EBOB olarak seçilir."
+  },
+  {
+    "instruction": "Çarpanlar ve bölenler arasındaki ilişki nedir?",
+    "output": "Çarpanlar ve bölenler, bir sayıyı tam olarak bölen sayılardır. Çarpanlar, bir sayının bölenleri olarak da adlandırılır ve bu sayının tam bölünebildiği sayılardır. Her çarpan bir bölen, her bölen de bir çarpandır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi hangi durumlarda faydalıdır?",
+    "output": "Asal çarpanlara ayırma işlemi, EBOB ve EKOK hesaplamalarında, sayılar arasındaki ortaklıkların bulunmasında, kesirlerin sadeleştirilmesinde ve problemler için en uygun çözüm yollarının belirlenmesinde faydalıdır."
+  }
+]

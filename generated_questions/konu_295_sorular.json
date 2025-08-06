@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgenlerde benzerlik kriterleri nelerdir?",
+    "output": "Üçgenlerde benzerlik kriterleri, iki üçgenin benzer olup olmadığını belirlemek için kullanılan kurallardır. Bunlar genellikle üç açı (AAA), iki kenar ve aralarındaki açı (SAS), ya da üç kenar (SSS) benzerlik kriterleridir. Bu kriterler, iki üçgenin benzer olduğunu kanıtlamak için yeterlidir."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliğinde içler-dışlar çarpımı nasıl kullanılır?",
+    "output": "Üçgenlerin benzerliğinde içler-dışlar çarpımı, benzer üçgenlerdeki karşılıklı kenarların oranlarını kullanarak bilinmeyen bir kenar uzunluğunu bulmak için kullanılır. Eğer iki üçgen benzerse, karşılıklı kenarların oranları eşittir ve bu oranlar kullanılarak bir denklem oluşturulabilir. Bu denklemde içler-dışlar çarpımı yapılarak bilinmeyen değer hesaplanabilir."
+  },
+  {
+    "instruction": "Üçgenlerde açıortay nedir ve nasıl kullanılır?",
+    "output": "Üçgenlerde açıortay, bir açının iç bölgesini iki eşit açıya bölen doğru parçasıdır. Açıortay, genellikle üçgenin iç açılarını böler ve karşı kenarı belirli bir oranda böler. Açıortay teoremi, bu oranı belirlemek için kullanılır ve üçgenin kenarları arasındaki ilişkileri incelemek için önemli bir araçtır."
+  },
+  {
+    "instruction": "Benzer üçgenlerde oranlar nasıl belirlenir?",
+    "output": "Benzer üçgenlerde oranlar, karşılıklı kenarların uzunluklarının oranı olarak belirlenir. Eğer iki üçgen benzerse, bu üçgenlerin karşılıklı kenarlarının uzunlukları aynı oranda artar veya azalır. Bu oranlar, benzerlik oranı olarak adlandırılır ve genellikle benzerlik kriterleri kullanılarak hesaplanır."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliğinde ortak açı nasıl tanımlanır?",
+    "output": "Üçgenlerin benzerliğinde ortak açı, iki üçgenin paylaştığı aynı ölçüdeki açı anlamına gelir. Eğer iki üçgen bir açıyı paylaşıyorsa ve diğer iki açıları da eşitse, bu iki üçgen benzer olarak kabul edilir. Ortak açı, benzerlik kanıtlamada kritik bir rol oynar."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliğinde kenar uzunlukları nasıl karşılaştırılır?",
+    "output": "Üçgenlerin benzerliğinde kenar uzunlukları, benzerlik oranı kullanılarak karşılaştırılır. Eğer iki üçgen benzerse, karşılıklı kenarların uzunlukları belirli bir oranda birbirine eşittir. Bu oranlar kullanılarak, bir üçgende bilinmeyen bir kenar uzunluğu diğer üçgenin bilinen kenar uzunlukları ile karşılaştırılarak bulunabilir."
+  },
+  {
+    "instruction": "Üçgenlerde dik açıların rolü nedir?",
+    "output": "Üçgenlerde dik açılar, genellikle üçgenin dik üçgen olup olmadığını belirlemek için kullanılır. Dik açı, 90 derece olan bir açıdır ve dik üçgenlerde hipotenüs ve diğer kenarlar arasındaki ilişkileri tanımlamak için kullanılır. Dik açılar, benzerlik ve eşlik kanıtlamalarında da önemli bir rol oynar."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliğinde açılar nasıl karşılaştırılır?",
+    "output": "Üçgenlerin benzerliğinde açılar, genellikle ölçüleri karşılaştırılarak değerlendirilir. Eğer iki üçgenin bir açısı eşitse ve diğer iki açıları da eşitlenebiliyorsa, bu üçgenler benzer kabul edilir. Açılar arasındaki bu eşitlik, benzerlik kanıtlamasında kritik bir rol oynar."
+  },
+  {
+    "instruction": "Üçgenlerde kenarların orantılılığı ne anlama gelir?",
+    "output": "Üçgenlerde kenarların orantılılığı, benzer üçgenlerde karşılıklı kenarların uzunluklarının sabit bir oranda olması anlamına gelir. Bu orantılılık, benzerlik oranı olarak adlandırılır ve benzer üçgenlerin karşılıklı kenarları arasında bu oranlar kullanılarak bilinmeyen kenar uzunlukları hesaplanabilir."
+  },
+  {
+    "instruction": "Üçgenlerde benzerlik ve eşlik arasındaki fark nedir?",
+    "output": "Üçgenlerde benzerlik, iki üçgenin şekil olarak aynı fakat boyut olarak farklı olduğu durumu ifade eder. Benzer üçgenlerde karşılıklı açıların ölçüleri eşittir ve kenar uzunlukları orantılıdır. Eşlik ise iki üçgenin hem şekil hem de boyut olarak tamamen aynı olduğu durumu tanımlar. Eş üçgenlerde hem açı ölçüleri eşittir hem de karşılıklı kenar uzunlukları birebir aynıdır."
+  }
+]

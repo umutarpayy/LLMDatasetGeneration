@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kare kök nedir?",
+    "output": "Kare kök, bir sayının kendisiyle çarpıldığında verilen sayıyı veren değerdir. Örneğin, 100'ün kare kökü 10'dur çünkü 10 x 10 = 100'dür."
+  },
+  {
+    "instruction": "Pozitif kare kök ne anlama gelir?",
+    "output": "Pozitif kare kök, bir sayının kare kökünün pozitif olan değerini ifade eder. Her pozitif sayının iki kare kökü vardır: biri pozitif, diğeri negatif. Ancak genellikle kare kök sembolü pozitif kare kökü belirtir."
+  },
+  {
+    "instruction": "Negatif kare kök nasıl ifade edilir?",
+    "output": "Negatif kare kök, bir sayının negatif kare kökünü belirtmek için genellikle negatif işaretle birlikte yazılır. Örneğin, -√100 = -10, çünkü (-10) x (-10) = 100."
+  },
+  {
+    "instruction": "Kare kök sembolü neyi ifade eder?",
+    "output": "Kare kök sembolü (√), bir sayının kare kökünü belirtir. Bu sembol, bir sayının hangi değerin karesi olduğunu bulmak için kullanılır."
+  },
+  {
+    "instruction": "Kare kök nasıl hesaplanır?",
+    "output": "Kare kök hesaplamak için sayının hangi sayının karesi olduğuna bakılır. Tam kare sayılar için bu işlem kolaydır. Örneğin, 16'nın kare kökü 4'tür çünkü 4 x 4 = 16'dır."
+  },
+  {
+    "instruction": "Tam kare sayı nedir?",
+    "output": "Tam kare sayı, bir tam sayının karesi olan sayıdır. Örneğin, 1, 4, 9, 16, 25 gibi sayılar tam kare sayılardır çünkü sırasıyla 1x1, 2x2, 3x3, 4x4 ve 5x5'e eşittirler."
+  },
+  {
+    "instruction": "Kare kök işareti nasıl okunur?",
+    "output": "Kare kök işareti 'kare kök' olarak okunur. Örneğin, √9 ifadesi 'dokuzun kare kökü' şeklinde okunur."
+  },
+  {
+    "instruction": "Kare kök ve üslü sayılar arasındaki ilişki nedir?",
+    "output": "Kare kök, üslü sayılarla ilişkilidir çünkü bir sayının kare kökü, o sayının üssünün 1/2'sine eşittir. Örneğin, 9'un kare kökü 3'tür ve bu, 9'un 1/2 üssüne eşittir."
+  },
+  {
+    "instruction": "Kare köklerin günlük hayatta kullanımı nedir?",
+    "output": "Kare kökler, mühendislik, fizik, istatistik ve finans gibi birçok alanda kullanılır. Örneğin, bir alanın kenar uzunluğunu bulmak veya standart sapmayı hesaplamak için kare kökler kullanılır."
+  },
+  {
+    "instruction": "Kare kök hesaplamada hangi yöntemler kullanılır?",
+    "output": "Kare kök hesaplamada, tam kare sayılar için doğrudan çarpma yöntemi kullanılırken, tam kare olmayan sayılar için tahmin ve yakınlaştırma yöntemleri veya hesap makineleri kullanılır."
+  }
+]

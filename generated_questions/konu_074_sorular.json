@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Köklü ifadeler nedir?",
+    "output": "Köklü ifadeler, bir sayının veya ifadenin kökünü alarak ifade edilen matematiksel ifadelerdir. Genellikle karekök, küpkök gibi kök sembolleriyle gösterilirler ve bir sayının karesini veya küpünü almak yerine, bu sayının hangi sayının karesi veya küpü olduğunu bulmaya çalışırız."
+  },
+  {
+    "instruction": "Köklü ifadeler nasıl sadeleştirilir?",
+    "output": "Köklü ifadeler sadeleştirilirken, kök içindeki sayıyı çarpanlarına ayırarak tam kare olan çarpanları kök dışına çıkarmak gerekir. Örneğin, kök 50 ifadesi 50'nin çarpanları olan 25 ve 2'ye ayrılabilir. 25 tam kare olduğu için kök dışına 5 olarak çıkar ve ifade 5 kök 2 olur."
+  },
+  {
+    "instruction": "Köklü ifadelerin özellikleri nelerdir?",
+    "output": "Köklü ifadelerin bazı temel özellikleri vardır: 1) Kök içindeki çarpanlar ayrı ayrı kök dışına çıkarılabilir. 2) Kök içindeki ifadeler çarpılabilir veya bölünebilir. 3) Kök içindeki negatif sayılar reel sayılar kümesinde tanımsızdır, ancak karmaşık sayılarla tanımlanabilir."
+  },
+  {
+    "instruction": "Mutlak değer nedir?",
+    "output": "Mutlak değer, bir sayının sıfıra olan uzaklığını ifade eden bir değerdir ve negatif olamaz. Matematikte, bir sayının mutlak değeri, o sayının pozitif hali olarak tanımlanır. Örneğin, -3'ün mutlak değeri 3'tür, çünkü -3'ün sıfıra olan uzaklığı 3 birimdir."
+  },
+  {
+    "instruction": "Mutlak değer hangi durumlarda kullanılır?",
+    "output": "Mutlak değer, genellikle bir sayının büyüklüğünü negatif veya pozitif işaretinden bağımsız olarak ifade etmek gerektiğinde kullanılır. Fizikte, mesafeler ve büyüklükler hesaplanırken, istatistikte sapma hesaplamalarında ve matematiksel analizde sıklıkla kullanılır."
+  },
+  {
+    "instruction": "Köklü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde çarpma işlemi, kök içindeki ifadelerin çarpılmasıyla yapılır. Örneğin, kök a çarpı kök b ifadesi kök (a*b) olarak yazılabilir. Bu, kök içindeki ifadelerin çarpımının kök dışına çıkabileceği anlamına gelir."
+  },
+  {
+    "instruction": "Köklü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde bölme işlemi, kök içindeki ifadelerin bölünmesiyle yapılır. Örneğin, kök a bölü kök b ifadesi kök (a/b) olarak yazılabilir. Bu, kök içindeki ifadelerin bölünmesinin kök dışına çıkabileceği anlamına gelir."
+  },
+  {
+    "instruction": "Reel sayılar nedir?",
+    "output": "Reel sayılar, sayı doğrusu üzerinde yer alan tüm sayıları kapsayan bir sayı kümesidir. Tam sayılar, rasyonel sayılar ve irrasyonel sayılar bu kümenin elemanlarıdır. Reel sayılar, negatif, pozitif ve sıfır dahil olmak üzere tüm kesirli ve tam sayıları içerir."
+  },
+  {
+    "instruction": "Reel sayılar ile karmaşık sayılar arasındaki fark nedir?",
+    "output": "Reel sayılar, sayı doğrusu üzerinde yer alan tüm sayıları içerirken, karmaşık sayılar reel ve sanal kısımlardan oluşur. Karmaşık sayılar, reel sayıların ötesinde, negatif sayıların kareköklerini de kapsar ve 'i' birimi ile ifade edilir. Reel sayılar karmaşık sayıların bir alt kümesidir."
+  },
+  {
+    "instruction": "Karmaşık sayılar nedir?",
+    "output": "Karmaşık sayılar, bir reel sayı ve bir sanal sayı bileşenine sahip olan sayılardır. Genellikle a + bi şeklinde ifade edilirler, burada a reel kısmı ve b sanal kısmı temsil eder. 'i' birimi, -1'in karekökü olarak tanımlanır ve sanal kısmı oluşturur."
+  }
+]

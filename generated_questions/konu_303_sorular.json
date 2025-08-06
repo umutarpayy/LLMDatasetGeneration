@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İkizkenar üçgen nedir?",
+    "output": "İkizkenar üçgen, en az iki kenarı eşit uzunlukta olan bir üçgendir. Bu tür üçgenlerde, eşit kenarların karşısındaki açılar da eşittir."
+  },
+  {
+    "instruction": "Paralel doğrular nedir?",
+    "output": "Paralel doğrular, aynı düzlemde bulunan ve kesişmeyen doğrulardır. Paralel doğrular arasında her zaman eşit mesafe bulunur ve sonsuza kadar uzatıldıklarında birbirleriyle kesişmezler."
+  },
+  {
+    "instruction": "İç açıların toplamı nedir?",
+    "output": "Bir üçgenin iç açıları toplamı her zaman 180 derecedir. Bu, üçgenin temel bir özelliğidir ve üçgenin türüne bakılmaksızın geçerlidir."
+  },
+  {
+    "instruction": "Düşey açılar nedir?",
+    "output": "Düşey açılar, iki doğru kesiştiğinde oluşan ve karşılıklı olarak birbirine eşit olan açılardır. Bu açılar, kesişen doğruların oluşturduğu dört açıdan ikisini oluşturur ve her zaman eşittirler."
+  },
+  {
+    "instruction": "İç ters açılar nedir?",
+    "output": "İç ters açılar, iki paralel doğruyu kesen bir üçüncü doğru (kesen) tarafından oluşturulan ve birbirine eşit olan açılardır. Bu açılar, kesen doğruların aynı tarafında ve paralel doğruların içinde yer alır."
+  },
+  {
+    "instruction": "Yöndeş açılar nedir?",
+    "output": "Yöndeş açılar, iki paralel doğruyu kesen bir doğru tarafından oluşturulan ve aynı konumda bulunan açılardır. Yöndeş açılar her zaman birbirine eşittir."
+  },
+  {
+    "instruction": "Üçgenin taban açıları nedir?",
+    "output": "Üçgenin taban açıları, bir üçgenin taban olarak kabul edilen kenarına komşu olan iki açıdır. İkizkenar üçgenlerde, bu taban açıları birbirine eşittir."
+  },
+  {
+    "instruction": "Çapraz açı nedir?",
+    "output": "Çapraz açılar, iki paralel doğruyu kesen bir doğru tarafından oluşturulan ve karşılıklı olarak birbirine eşit olan açılardır. Bu açılar, kesen doğrunun paralel doğruların dışında kalan kısımlarında yer alır."
+  },
+  {
+    "instruction": "Açıların toplamı ile üçgenin türü arasında nasıl bir ilişki vardır?",
+    "output": "Bir üçgenin iç açıları toplamı her zaman 180 derecedir. Ancak, üçgenin türü (eşkenar, ikizkenar, çeşitkenar) bu açıların bireysel büyüklüklerini etkiler. Örneğin, eşkenar üçgende tüm açılar eşit ve 60 derece iken, ikizkenar üçgende iki açı eşit olabilir."
+  },
+  {
+    "instruction": "Bir üçgende x açısının değeri nasıl bulunur?",
+    "output": "Bir üçgende x açısının değeri, diğer açıların ve varsa açıların birbirine eşitlik durumlarının bilinmesiyle bulunabilir. Üçgenin iç açıları toplamının 180 derece olduğu bilgisi kullanılarak, diğer açılar biliniyorsa x açısı hesaplanabilir."
+  }
+]

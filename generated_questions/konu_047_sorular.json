@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadeler nedir?",
+    "output": "Üslü ifadeler, bir sayının kendisiyle tekrarlı çarpımını daha kısa bir şekilde ifade etmek için kullanılır. Bir taban ve bu tabanın kaç kez çarpılacağını belirten bir üstten oluşur. Örneğin, 2^3 ifadesi, 2'nin kendisiyle 3 kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde ifade edilir. Tabanlar farklıysa, çarpma işlemi normal çarpma kurallarına göre yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde ifade edilir. Tabanlar farklıysa, bölme işlemi normal bölme kurallarına göre yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti nasıl alınır?",
+    "output": "Bir üslü ifadenin tekrar üssü alındığında, üsler çarpılır. Örneğin, (a^m)^n = a^(m*n) şeklinde ifade edilir. Bu özellik, bir ifadenin üssünün tekrar üssü alındığında kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanların çarpımı nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanların çarpımı yapılırken, her taban kendi üssüyle çarpılır ve sonuçlar birleştirilir. Örneğin, (a*b)^n = a^n * b^n şeklinde ifade edilir. Bu, kuvvetin dağıtma özelliği olarak bilinir."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler nasıl yorumlanır?",
+    "output": "Negatif üsler, bir sayının tersini almak anlamına gelir. Yani, a^-n = 1/a^n şeklinde ifade edilir. Negatif üs, sayının paydada yer almasını gösterir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sıfır üssü ne anlama gelir?",
+    "output": "Herhangi bir sayının sıfırıncı kuvveti 1'e eşittir. Yani, a^0 = 1 olarak tanımlanır. Bu kural, a'nın sıfırdan farklı olduğu durumlar için geçerlidir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpanlara ayırma nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpanlara ayırma, ortak tabanları ve üsleri kullanarak ifadeyi daha basit bir hale getirmeyi içerir. Örneğin, a^m + a^n ifadesi a^k(a^(m-k) + a^(n-k)) şeklinde yazılabilir, burada k en küçük üs değeridir."
+  },
+  {
+    "instruction": "Üslü ifadelerde eşitlik nasıl sağlanır?",
+    "output": "Üslü ifadelerde eşitlik sağlamak için tabanlar ve üsler arasında ilişki kurulur. İki üslü ifadenin eşit olması için tabanların aynı ve üslerin de aynı olması gerekir. Örneğin, a^m = a^n ise m = n olmalıdır."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme neden önemlidir?",
+    "output": "Üslü ifadelerde sadeleştirme, karmaşık ifadeleri daha basit ve anlaşılır hale getirir. Bu, hesaplamaları kolaylaştırır ve hataları azaltır. Özellikle büyük sayılarla çalışırken sadeleştirme, işlemleri daha yönetilebilir kılar."
+  }
+]

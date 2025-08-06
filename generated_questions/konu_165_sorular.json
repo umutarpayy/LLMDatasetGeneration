@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Sonsuz sayıda çözümü olan bir denklem sistemi nedir?",
+    "output": "Sonsuz sayıda çözümü olan bir denklem sistemi, iki veya daha fazla denklemin aynı doğruda yer aldığı ve bu nedenle sonsuz sayıda (x, y) çözüm çiftine sahip olduğu bir sistemdir. Bu, her iki denklemin de aynı eğim ve y-kesişim noktasına sahip olması durumunda gerçekleşir."
+  },
+  {
+    "instruction": "Denklem sistemlerinin çözümsüz olması ne anlama gelir?",
+    "output": "Denklem sistemlerinin çözümsüz olması, sistemdeki denklemlerin grafiklerinin paralel olması ve dolayısıyla kesişim noktalarının olmaması anlamına gelir. Bu durumda, denklemler aynı eğime sahip fakat farklı y-kesişim noktalarına sahiptir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, doğrusal bir denklemin y = mx + b şeklinde yazıldığı bir formattır. Burada m, doğrunun eğimini, b ise y-eksenini kestiği noktayı temsil eder. Bu form, doğruların grafiklerini çizmek ve karşılaştırmak için kullanışlıdır."
+  },
+  {
+    "instruction": "Bir denklem sisteminin sonsuz çözümü olması için ne gereklidir?",
+    "output": "Bir denklem sisteminin sonsuz çözümü olması için, sistemdeki tüm denklemlerin aynı doğruda yer alması gerekir. Bu, denklemlerin aynı eğime ve y-kesişim noktasına sahip olması anlamına gelir."
+  },
+  {
+    "instruction": "Paralel doğruların özellikleri nelerdir?",
+    "output": "Paralel doğrular, aynı eğime sahip fakat farklı y-kesişim noktalarına sahip doğrulardır. Bu doğrular asla kesişmez ve sonsuz uzunlukta uzandıkları varsayılır."
+  },
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik olduğunu belirten bir ölçüdür ve genellikle m harfi ile gösterilir. İki nokta arasındaki eğim, (y2 - y1) / (x2 - x1) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çakışık doğrular ne anlama gelir?",
+    "output": "Denklem sistemlerinde çakışık doğrular, aynı doğruyu temsil eden ve her noktada kesişen doğrulardır. Bu durumda, sistem sonsuz sayıda çözüm içerir çünkü her iki denklem de aynı çözüm kümesini tanımlar."
+  },
+  {
+    "instruction": "Denklem sistemlerinde 'eşitlik' ne anlama gelir?",
+    "output": "Denklem sistemlerinde 'eşitlik', iki denklemin aynı çözüm kümesine sahip olduğu anlamına gelir. Bu, denklemlerin grafiklerinin tamamen çakıştığı ve dolayısıyla sonsuz sayıda ortak çözüm noktası olduğu durumdur."
+  },
+  {
+    "instruction": "Doğrusal denklemler neden önemlidir?",
+    "output": "Doğrusal denklemler, birçok gerçek dünya probleminin modellenmesinde kullanılır. İki değişkenli doğrusal denklemler, düzlemde bir doğruyu temsil eder ve bu doğrular arasındaki ilişkiler, kesişim veya paralellik gibi durumlar, çeşitli problemlerin çözümüne yardımcı olur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde 'çözüm kümesi' nedir?",
+    "output": "Denklem sistemlerinde 'çözüm kümesi', sistemdeki tüm denklemleri sağlayan (x, y) çiftlerinin toplamıdır. Çözüm kümesi, sistemin türüne bağlı olarak tek bir nokta, sonsuz sayıda nokta veya hiç nokta içermeyebilir."
+  }
+]

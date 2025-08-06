@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Koni nedir?",
+    "output": "Koni, dairesel bir tabana ve bu tabandan bir noktaya doğru uzanan bir yüzeye sahip üç boyutlu bir geometrik şekildir. Genellikle bir cadı şapkası veya dondurma külahı gibi düşünülür."
+  },
+  {
+    "instruction": "Koninin hacmi nasıl hesaplanır?",
+    "output": "Koninin hacmi, taban alanı ile yüksekliğin çarpımının üçte biri olarak hesaplanır. Formül olarak, V = (1/3) * π * r² * h şeklinde ifade edilir. Burada r tabanın yarıçapı, h ise koninin yüksekliğidir."
+  },
+  {
+    "instruction": "Silindir ile koni arasındaki fark nedir?",
+    "output": "Silindir ve koni arasındaki temel fark, şekillerinin ve hacim hesaplamalarının farklı olmasıdır. Silindirin tabanı ve üstü paralel dairelerden oluşurken, koninin yalnızca bir dairesel tabanı vardır ve bu tabandan bir noktaya doğru daralır. Ayrıca, silindirin hacmi taban alanı ile yüksekliğin çarpımı iken, koninin hacmi bu çarpımın üçte biridir."
+  },
+  {
+    "instruction": "Koninin hacmi hangi durumlarda kullanılır?",
+    "output": "Koninin hacmi, koni şeklindeki nesnelerin kapasitesini veya içerdikleri miktarı belirlemek için kullanılır. Örneğin, koni şeklindeki bir su bardağının ne kadar sıvı alabileceğini hesaplamak için koninin hacmi kullanılır."
+  },
+  {
+    "instruction": "Taban alanı nedir ve nasıl hesaplanır?",
+    "output": "Taban alanı, bir geometrik şeklin tabanının yüzey alanıdır. Dairesel bir taban için, taban alanı π * r² formülü ile hesaplanır, burada r tabanın yarıçapıdır."
+  },
+  {
+    "instruction": "Yarıçap ve yükseklik koninin hacmini nasıl etkiler?",
+    "output": "Koninin hacmi, tabanın yarıçapının karesi ve yüksekliğin çarpımı ile doğru orantılıdır. Yani, yarıçap veya yükseklik arttıkça koninin hacmi de artar. Formülde yarıçapın karesi olduğu için yarıçaptaki değişiklikler hacmi daha fazla etkiler."
+  },
+  {
+    "instruction": "Koni hacmi hesaplanırken neden üçe bölünür?",
+    "output": "Koni hacmi hesaplanırken üçe bölünmesinin nedeni, koninin hacminin aynı taban alanı ve yüksekliğe sahip bir silindirin hacminin üçte biri olmasıdır. Bu, koninin geometrik yapısından kaynaklanan bir özelliktir."
+  },
+  {
+    "instruction": "Geometri neden önemlidir?",
+    "output": "Geometri, şekillerin, boyutların ve uzayın özelliklerini inceleyen bir matematik dalıdır. Mühendislik, mimarlık, bilgisayar grafikleri gibi birçok alanda temel bir rol oynar ve günlük yaşamda birçok problem çözümünde kullanılır."
+  },
+  {
+    "instruction": "Koninin yüzey alanı nasıl hesaplanır?",
+    "output": "Koninin yüzey alanı, taban alanı ile yan yüzey alanının toplamıdır. Taban alanı π * r² ile, yan yüzey alanı ise π * r * l (l, koninin eğik yüksekliği) ile hesaplanır. Toplam yüzey alanı = π * r² + π * r * l formülü ile bulunur."
+  },
+  {
+    "instruction": "Koni hangi özelliklere sahiptir?",
+    "output": "Koni, dairesel bir tabana ve bu tabandan bir noktaya doğru daralan bir yüzeye sahiptir. Yüksekliği, tabandan tepe noktasına olan dik mesafedir. Tabanın yarıçapı ve yüksekliği, koninin hacmini ve yüzey alanını belirlemede kullanılır. Koniler simetrik şekillerdir ve birçok doğal ve yapay yapıda bulunurlar."
+  }
+]

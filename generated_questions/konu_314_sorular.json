@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Medyan nedir?",
+    "output": "Medyan, bir üçgenin bir köşesinden karşı kenarın orta noktasına çizilen doğru parçasıdır. Her üçgende üç medyan bulunur ve bu medyanlar üçgenin ağırlık merkezi olarak bilinen noktada kesişir."
+  },
+  {
+    "instruction": "Sentroid nedir ve nasıl bulunur?",
+    "output": "Sentroid, bir üçgenin medyanlarının kesişim noktasıdır. Bu nokta, üçgenin ağırlık merkezi olarak da bilinir ve üçgenin her yerine eşit kütle dağıldığında, üçgenin dengede kalacağı noktadır. Sentroid, üçgenin köşelerinin koordinatlarının ortalaması alınarak da bulunabilir."
+  },
+  {
+    "instruction": "Medyanların özellikleri nelerdir?",
+    "output": "Medyanlar, bir üçgenin köşesinden karşı kenarın orta noktasına çizilir ve her üçgenin üç medyanı vardır. Medyanlar, üçgenin ağırlık merkezi olan sentroidde kesişir. Ayrıca, medyanlar bir üçgeni altı eşit alanlı küçük üçgene böler."
+  },
+  {
+    "instruction": "Üçgenin medyanları ile alanı arasında nasıl bir ilişki vardır?",
+    "output": "Üçgenin medyanları, üçgeni altı eşit alanlı küçük üçgene böler. Bu, medyanların üçgenin alanını eşit parçalara böldüğü anlamına gelir. Bu özellik, medyanların taban ve yüksekliklerinin eşit olmasından kaynaklanır."
+  },
+  {
+    "instruction": "Bir üçgenin medyanlarının kesişim noktası nasıl belirlenir?",
+    "output": "Bir üçgenin medyanlarının kesişim noktası, yani sentroid, medyanların her birinin karşı kenarın orta noktasına çizilmesiyle bulunur. Bu üç medyanın kesiştiği nokta, sentroidi oluşturur."
+  },
+  {
+    "instruction": "Medyanların üçgenin alanına etkisi nedir?",
+    "output": "Medyanlar, üçgeni altı eşit alanlı üçgene böler. Bu, medyanların üçgenin alanını eşit parçalara ayırdığı anlamına gelir, bu da medyanların geometrik özelliklerinden biridir."
+  },
+  {
+    "instruction": "Medyanlar hangi durumlarda kullanılır?",
+    "output": "Medyanlar, üçgenin ağırlık merkezi olan sentroidin bulunmasında, üçgenin alanının eşit parçalara bölünmesinde ve üçgenin simetrik özelliklerinin incelenmesinde kullanılır. Ayrıca, medyanlar geometri problemlerinde üçgenin özelliklerini incelemek için sıkça kullanılır."
+  },
+  {
+    "instruction": "Medyanlar ile kenarortaylar arasındaki fark nedir?",
+    "output": "Medyanlar ve kenarortaylar genellikle aynı kavramı ifade eder. Her iki terim de bir üçgenin köşesinden karşı kenarın orta noktasına çizilen doğru parçasını tanımlar. Bu nedenle, medyan ve kenarortay terimleri eş anlamlı olarak kullanılır."
+  },
+  {
+    "instruction": "Üçgenin medyanları nasıl çizilir?",
+    "output": "Üçgenin medyanlarını çizmek için, her köşeden karşı kenarın orta noktasına bir doğru parçası çizilir. Bu işlem üçgenin her köşesi için tekrarlanır, böylece üç medyan elde edilir."
+  },
+  {
+    "instruction": "Medyanların kesişim noktasının üçgenin dengesine etkisi nedir?",
+    "output": "Medyanların kesişim noktası olan sentroid, üçgenin ağırlık merkezi olarak işlev görür. Eğer üçgenin kütlesi her yerine eşit olarak dağılmışsa, sentroid üçgenin dengede kalmasını sağlar. Bu nedenle, sentroid üçgenin fiziksel dengesi açısından önemli bir noktadır."
+  }
+]

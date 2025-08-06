@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Tek adımlı denklemler nasıl çözülür?",
+    "output": "Tek adımlı denklemler, bir değişkenin katsayısı ile çarpıldığı veya toplandığı bir sayıdan oluşan denklemlerdir. Bu tür denklemleri çözmek için, değişkenin katsayısını veya eklenen sayıyı denklemin her iki tarafından çıkararak veya bölerek değişkeni yalnız bırakırız. Örneğin, 7x = 14 denklemini çözmek için, her iki tarafı da 7'ye böleriz ve x = 2 sonucunu elde ederiz."
+  },
+  {
+    "instruction": "Çarpma işlemi cebirsel ifadelerde nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi genellikle çarpı işareti (×) kullanılmadan gösterilir. İki sayının veya bir sayı ile bir değişkenin yan yana yazılması çarpma işlemini ifade eder. Örneğin, 7x ifadesi 7 çarpı x anlamına gelir. Çarpma işlemini göstermek için bazen nokta (·) da kullanılabilir, ancak bu da genellikle tercih edilmez."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafını aynı sayı ile bölmenin amacı nedir?",
+    "output": "Bir denklemin her iki tarafını aynı sayı ile bölmenin amacı, denklemin eşitliğini bozmadan değişkeni yalnız bırakmaktır. Bu işlem, değişkenin katsayısını 1 yaparak, değişkenin değerini doğrudan bulmamızı sağlar. Örneğin, 3x = 15 denklemini çözmek için her iki tarafı da 3'e böleriz ve x = 5 sonucunu elde ederiz."
+  },
+  {
+    "instruction": "Katsayı nedir ve nasıl kullanılır?",
+    "output": "Katsayı, bir cebirsel ifadede bir değişkenin önündeki sayıdır ve değişkenin kaç katı olduğunu belirtir. Örneğin, 4x ifadesinde 4 katsayıdır ve x'in 4 katı anlamına gelir. Katsayılar, denklemleri çözmede ve cebirsel ifadeleri sadeleştirmede önemli bir rol oynar."
+  },
+  {
+    "instruction": "Denklemlerde eşitlik neden önemlidir?",
+    "output": "Denklemlerde eşitlik, iki ifadenin birbirine eşit olduğunu belirtir ve denklemin her iki tarafında yapılan işlemlerin eşitliği bozmadan yapılmasını sağlar. Eşitlik sayesinde, bir denklemin her iki tarafına aynı işlemi uygulayarak denklemi çözebiliriz. Bu, denklemin doğru çözüme ulaşması için kritik bir kuraldır."
+  },
+  {
+    "instruction": "Bir değişkenin yalnız bırakılması ne anlama gelir?",
+    "output": "Bir değişkenin yalnız bırakılması, denklemin bir tarafında sadece o değişkenin kalması anlamına gelir. Bu genellikle, değişkenin katsayısını veya eklenen/çıkarılan sayıyı denklemin her iki tarafından çıkararak veya bölerek yapılır. Böylece, değişkenin değeri doğrudan bulunabilir."
+  },
+  {
+    "instruction": "Çarpma işleminin tanımı nedir?",
+    "output": "Çarpma işlemi, bir sayının belirli bir sayıda tekrar edilerek toplandığı bir işlemdir. Örneğin, 4 × 3 işlemi, 4'ün üç kez toplanması anlamına gelir ve toplamı 12 eder. Cebirsel ifadelerde, çarpma işlemi genellikle çarpı işareti kullanılmadan ifade edilir."
+  },
+  {
+    "instruction": "Denklemlerde sistematik çözümleme neden gereklidir?",
+    "output": "Denklemlerde sistematik çözümleme, denklemleri daha karmaşık hale geldiğinde doğru bir şekilde çözebilmek için gereklidir. Sistematik çözümleme, denklemin her iki tarafında aynı işlemleri yaparak değişkeni yalnız bırakmayı ve doğru çözüme ulaşmayı sağlar. Bu yöntem, denklemleri zihinsel olarak çözmenin zor olduğu durumlarda özellikle önemlidir."
+  },
+  {
+    "instruction": "Çarpım tablosu denklemler çözülürken nasıl kullanılır?",
+    "output": "Çarpım tablosu, çarpma işlemini hızlı bir şekilde yapmamıza yardımcı olan bir araçtır. Denklemler çözülürken, özellikle tek adımlı çarpma veya bölme denklemlerinde, çarpım tablosu kullanılarak hangi sayıların çarpıldığında veya bölündüğünde verilen sonuca ulaşıldığı hızlıca bulunabilir. Örneğin, 7x = 14 denklemini çözmek için, çarpım tablosunda 7'nin hangi sayı ile çarpıldığında 14 elde edildiğine bakılır."
+  },
+  {
+    "instruction": "Değişken nedir ve nasıl kullanılır?",
+    "output": "Değişken, matematikte genellikle bir harf ile temsil edilen ve farklı değerler alabilen bir semboldür. Değişkenler, denklemlerde bilinmeyen değerleri temsil eder ve bu değerleri bulmak için denklemler çözülür. Örneğin, x değişkeni 2x + 3 = 7 denkleminde bilinmeyen bir değeri temsil eder ve denklemi çözerek x'in değerini bulabiliriz."
+  }
+]

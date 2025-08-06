@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemi nedir?",
+    "output": "Denklem sistemi, birden fazla bilinmeyeni içeren ve bu bilinmeyenler arasında birden fazla denklemin yer aldığı bir matematiksel yapıdır. Bu sistemler, genellikle iki veya daha fazla denklemin aynı anda sağlanması gereken durumlarda kullanılır."
+  },
+  {
+    "instruction": "İki bilinmeyenli lineer denklem sistemi nasıl çözülür?",
+    "output": "İki bilinmeyenli lineer denklem sistemi, genellikle yerine koyma, yok etme veya grafik yöntemleri kullanılarak çözülür. Yerine koyma yönteminde bir denklemden bir bilinmeyen diğer bilinmeyenin cinsinden ifade edilir ve bu ifade diğer denklemde yerine konur. Yok etme yönteminde ise denklemlerden birini veya her ikisini çarparak aynı katsayıya sahip terimler elde edilir ve bu terimler birbirinden çıkarılarak bir bilinmeyen yok edilir."
+  },
+  {
+    "instruction": "Yok etme yöntemi nedir?",
+    "output": "Yok etme yöntemi, iki veya daha fazla denklemden oluşan bir denklem sistemini çözmek için kullanılan bir yöntemdir. Bu yöntemde, denklemlerden birini veya her ikisini çarparak aynı katsayıya sahip terimler elde edilir ve bu terimler birbirinden çıkarılarak bir bilinmeyen yok edilir. Böylece, sistem tek bilinmeyenli bir denkleme indirgenir."
+  },
+  {
+    "instruction": "Yok etme yöntemi nasıl uygulanır?",
+    "output": "Yok etme yönteminde, ilk olarak denklemlerden birinin veya her ikisinin katsayıları uygun bir şekilde çarpılır, böylece aynı katsayıya sahip terimler elde edilir. Daha sonra bu terimler birbirinden çıkarılır veya toplanır, böylece bir bilinmeyen yok edilir. Elde edilen yeni denklem, kalan bilinmeyeni bulmak için çözülür. Son olarak, bulunan değer diğer denklemlerde yerine konarak diğer bilinmeyenler de hesaplanır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde yok etme yöntemi hangi durumlarda daha etkilidir?",
+    "output": "Yok etme yöntemi, özellikle denklemlerdeki bilinmeyenlerin katsayıları uygun bir şekilde çarpılarak kolaylıkla yok edilebiliyorsa daha etkilidir. Ayrıca, katsayılar arasında basit bir oran varsa veya bir bilinmeyenin katsayısı sıfırsa, yok etme yöntemi hızlı ve etkili bir çözüm sunar."
+  },
+  {
+    "instruction": "Lineer denklem sistemleri hangi durumlarda çözüm içermez?",
+    "output": "Lineer denklem sistemleri, denklemler birbirine paralel doğrulara karşılık geliyorsa çözüm içermez. Bu durumda, sistemin çözümü yoktur çünkü doğrular kesişmezler ve bu da sistemin tutarsız olduğunu gösterir."
+  },
+  {
+    "instruction": "Çiftlik problemleri matematikte neyi ifade eder?",
+    "output": "Çiftlik problemleri, genellikle belirli bir kaynak veya ürünün miktarını ve bu kaynakların toplam değerini belirlemek için kullanılan matematiksel problemlerdir. Bu tür problemler, birden fazla bilinmeyeni içeren denklem sistemleri kurarak çözülür ve genellikle cebirsel yöntemler kullanılarak analiz edilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün varlığı nasıl kontrol edilir?",
+    "output": "Denklem sistemlerinde çözümün varlığı, denklemlerin grafikleri incelenerek veya cebirsel yöntemlerle kontrol edilebilir. Eğer denklemler aynı noktada kesişiyorsa, sistemin bir çözümü vardır. Eğer denklemler paralel ise çözüm yoktur. Eğer denklemler çakışıyorsa, sonsuz sayıda çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde sonsuz çözüm ne anlama gelir?",
+    "output": "Denklem sistemlerinde sonsuz çözüm, denklemlerin aynı doğrulara karşılık geldiği ve bu doğruların tüm noktalarının sistemin çözümü olduğu anlamına gelir. Bu durumda, denklemler birbirinin katı veya aynısıdır ve her iki denklem de aynı çözüm kümesine sahiptir."
+  },
+  {
+    "instruction": "Denklem sistemleri hangi alanlarda kullanılır?",
+    "output": "Denklem sistemleri, mühendislik, ekonomi, fizik, kimya ve biyoloji gibi birçok alanda kullanılır. Özellikle, kaynak tahsisi, optimizasyon problemleri, elektrik devreleri analizi ve kimyasal denge hesaplamaları gibi konularda yaygın olarak uygulanır."
+  }
+]

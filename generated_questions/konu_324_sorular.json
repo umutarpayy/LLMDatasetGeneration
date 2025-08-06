@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bir nokta ile bir doğru arasındaki mesafe nasıl tanımlanır?",
+    "output": "Bir nokta ile bir doğru arasındaki mesafe, o noktadan doğruya indirilen dikmenin uzunluğu olarak tanımlanır. Bu mesafe, noktadan doğruya olan en kısa mesafedir."
+  },
+  {
+    "instruction": "Açıortay nedir?",
+    "output": "Açıortay, bir açıyı iki eş açıya bölen doğru, doğru parçası veya ışındır. Açıortay, açının tepe noktasından başlayarak açının iki kolunu eşit açılarla böler."
+  },
+  {
+    "instruction": "Dik üçgenin özellikleri nelerdir?",
+    "output": "Dik üçgen, bir açısının 90 derece olduğu bir üçgendir. Dik üçgende, 90 derecelik açının karşısındaki kenar hipotenüs olarak adlandırılır ve üçgenin en uzun kenarıdır. Diğer iki kenar ise dik kenarlardır."
+  },
+  {
+    "instruction": "Açıortay teoremi nedir?",
+    "output": "Açıortay teoremi, bir üçgende bir açıortayın karşı kenarı iki parçaya ayırdığını ve bu parçaların oranının, açıortayın ayırdığı iki kenarın oranına eşit olduğunu belirtir."
+  },
+  {
+    "instruction": "Bir üçgenin eş üçgenlerle ilişkisi nasıl tanımlanır?",
+    "output": "İki üçgenin eş olması, tüm açıları ve kenarlarının birebir aynı ölçülere sahip olması anlamına gelir. Eş üçgenler, aynı şekil ve büyüklüğe sahiptir ancak konumları farklı olabilir."
+  },
+  {
+    "instruction": "Dikme indirme işlemi ne işe yarar?",
+    "output": "Dikme indirme işlemi, bir noktadan bir doğruya en kısa mesafeyi bulmak için kullanılır. Bu işlem, geometri problemlerinde mesafelerin ve açıların hesaplanmasında sıkça kullanılır."
+  },
+  {
+    "instruction": "Açıortay ile bir açının kenarları arasındaki mesafe nasıl hesaplanır?",
+    "output": "Açıortay üzerindeki herhangi bir noktadan açının kenarlarına indirilen dikmelerin uzunlukları eşittir. Bu mesafeler, açıortay üzerindeki noktanın açının kenarlarına olan eşit uzaklığını temsil eder."
+  },
+  {
+    "instruction": "Hipotenüs nedir ve nasıl bulunur?",
+    "output": "Hipotenüs, dik üçgende 90 derecelik açının karşısındaki en uzun kenardır. Pisagor teoremi kullanılarak hipotenüsün uzunluğu, diğer iki kenarın karelerinin toplamının karekökü alınarak bulunabilir."
+  },
+  {
+    "instruction": "Pisagor teoremi nedir?",
+    "output": "Pisagor teoremi, bir dik üçgende, hipotenüsün karesinin, diğer iki kenarın karelerinin toplamına eşit olduğunu ifade eder. Matematiksel olarak, c² = a² + b² şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Açı Kenar Kenar (AKK) eşlik kriteri nedir?",
+    "output": "Açı Kenar Kenar (AKK) eşlik kriteri, iki üçgenin bir açısı ve bu açının oluşturduğu iki kenarının uzunluklarının eşit olması durumunda, bu üçgenlerin eş olduğunu belirtir. Bu kriter, üçgenlerin eşliğini kanıtlamak için kullanılır."
+  }
+]

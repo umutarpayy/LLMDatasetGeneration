@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun dikey değişiminin yatay değişimine oranıdır. Matematiksel olarak, iki nokta arasındaki y koordinatlarındaki değişim ile x koordinatlarındaki değişim arasındaki oran olarak ifade edilir. Eğim, bir doğrunun ne kadar dik veya yatay olduğunu belirtir."
+  },
+  {
+    "instruction": "Yatay bir doğrunun eğimi nasıl hesaplanır?",
+    "output": "Yatay bir doğrunun eğimi, y koordinatlarının değişimi sıfır olduğundan, sıfırdır. Bu, y değerinin değişmediği ve sadece x değerinin değiştiği anlamına gelir. Bu nedenle, eğim formülünde payda sıfır olur ve eğim sıfır olarak hesaplanır."
+  },
+  {
+    "instruction": "Eğim formülü nedir?",
+    "output": "Eğim formülü, iki nokta arasındaki y koordinatlarındaki değişimin x koordinatlarındaki değişime oranı olarak ifade edilir. Formül olarak m = (y2 - y1) / (x2 - x1) şeklinde yazılır. Burada (x1, y1) ve (x2, y2) iki noktayı temsil eder."
+  },
+  {
+    "instruction": "Eğimin sıfır olması ne anlama gelir?",
+    "output": "Eğimin sıfır olması, doğrunun yatay olduğunu ve y ekseninde hiçbir değişim olmadığını gösterir. Bu, doğrunun x eksenine paralel olduğunu ve herhangi bir dikey yükselme veya alçalma olmadığını belirtir."
+  },
+  {
+    "instruction": "Eğim ile doğrusal fonksiyonun grafiği arasında nasıl bir ilişki vardır?",
+    "output": "Eğim, doğrusal bir fonksiyonun grafiğinin eğimini belirler. Pozitif eğim, grafiğin yukarı doğru eğimli olduğunu, negatif eğim ise aşağı doğru eğimli olduğunu gösterir. Sıfır eğim, grafiğin yatay olduğunu ve eğimin olmaması durumunu ifade eder."
+  },
+  {
+    "instruction": "Eğim hesaplamasında başlangıç ve bitiş noktalarının seçimi sonucu etkiler mi?",
+    "output": "Eğim hesaplamasında başlangıç ve bitiş noktalarının yer değiştirmesi sonucu etkilemez. Çünkü eğim, y ve x koordinatlarındaki değişimlerin oranı olduğundan, bu oran başlangıç ve bitiş noktalarının değişmesiyle değişmez. Ancak, x ve y koordinatlarındaki değişimlerin işaretleri değişebilir."
+  },
+  {
+    "instruction": "Eğim hesaplamasında hangi durumlarda sıfır değer elde edilir?",
+    "output": "Eğim hesaplamasında sıfır değer, y koordinatlarındaki değişimin sıfır olduğu yani y değerinin sabit kaldığı durumlarda elde edilir. Bu, doğrunun yatay olduğu ve x eksenine paralel olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Eğim neden y eksenindeki değişim bölü x eksenindeki değişim olarak tanımlanır?",
+    "output": "Eğim, y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır çünkü bu oran, doğrunun dikey olarak ne kadar yükseldiğini veya alçaldığını yatay olarak ne kadar ilerlediğiyle ilişkilendirir. Bu, doğrunun eğim açısını ve yönünü belirler."
+  },
+  {
+    "instruction": "Eğim hesaplamasında negatif değer neyi ifade eder?",
+    "output": "Eğim hesaplamasında negatif bir değer, doğrunun sola doğru eğimli olduğunu ve y değerinin x değerine göre azaldığını ifade eder. Bu, grafiğin sol üstten sağ alta doğru eğimli olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Koordinat düzleminde yatay ve dikey doğruların eğimleri nasıl karşılaştırılır?",
+    "output": "Koordinat düzleminde yatay doğruların eğimi sıfırdır çünkü y değerinde değişim yoktur. Dikey doğruların eğimi ise tanımsızdır çünkü x değerinde değişim yoktur ve bu durumda eğim formülü sıfıra bölme içerir."
+  }
+]

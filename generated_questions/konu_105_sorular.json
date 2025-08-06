@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifadelerde benzer terimler nedir?",
+    "output": "Benzer terimler, değişken ve değişkenin katsayısı aynı olan terimlerdir. Örneğin, 3x ve 5x benzer terimlerdir çünkü her ikisi de x değişkenine sahiptir. Benzer terimler, toplama ve çıkarma işlemleri sırasında birleştirilebilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde toplama işlemi, benzer terimlerin katsayılarının toplanmasıyla yapılır. Öncelikle benzer terimler belirlenir, ardından bu terimlerin katsayıları toplanarak sonuç elde edilir. Örneğin, 2x + 3x ifadesinde benzer terimlerin katsayıları toplanarak 5x elde edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çıkarma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çıkarma işlemi, benzer terimlerin katsayılarının çıkarılmasıyla yapılır. İlk olarak benzer terimler belirlenir, ardından bu terimlerin katsayıları çıkarılarak sonuç bulunur. Örneğin, 5x - 2x ifadesinde benzer terimlerin katsayıları çıkarılarak 3x elde edilir."
+  },
+  {
+    "instruction": "Bir cebirsel ifadenin katsayısı nedir?",
+    "output": "Bir cebirsel ifadenin katsayısı, değişkenin önündeki sayıdır. Örneğin, 7y ifadesinde 7 katsayıdır. Katsayı, terimin büyüklüğünü veya yönünü belirler."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde rasyonel sayılar nasıl toplanır?",
+    "output": "Cebirsel ifadelerde rasyonel sayılar toplanırken, paydalar eşitlenir ve ardından paylar toplanır. Örneğin, 2/3 + 1/6 işlemi yapılırken, paydalar 6'da eşitlenir ve sonuç 5/6 olarak bulunur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezler nasıl kullanılır?",
+    "output": "Cebirsel ifadelerde parantezler, işlemlerin önceliğini belirtmek ve gruplandırma yapmak için kullanılır. Parantez içindeki işlemler, dışındaki işlemlerden önce yapılır. Ayrıca, dağılma özelliği kullanılarak parantez içindeki terimler dağıtılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişken nedir?",
+    "output": "Değişken, cebirsel ifadelerde yer alan ve genellikle harflerle temsil edilen bilinmeyen veya değişebilen bir değerdir. Değişkenler, cebirsel denklemlerde ve ifadelerde farklı değerler alabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nedir?",
+    "output": "Cebirsel ifadelerde sabit terim, değişken içermeyen ve yalnızca bir sayı olan terimdir. Örneğin, 3x + 5 ifadesinde 5 sabit terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimlerin sıralaması nasıl yapılır?",
+    "output": "Cebirsel ifadelerde terimler genellikle değişkenin derecesine göre sıralanır. En yüksek dereceli terim en başta yer alır. Örneğin, 3x^2 + 2x + 1 ifadesinde terimler, x^2, x ve sabit terim sırasıyla sıralanmıştır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama ve çıkarma işlemleri neden önemlidir?",
+    "output": "Cebirsel ifadelerde toplama ve çıkarma işlemleri, ifadelerin sadeleştirilmesi ve çözülmesi için önemlidir. Bu işlemler, daha karmaşık problemlerin çözümünde temel adımlardır ve ifadelerin daha anlaşılır hale gelmesini sağlar."
+  }
+]

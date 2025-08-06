@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzer üçgenler nedir?",
+    "output": "Benzer üçgenler, şekil olarak aynı olup, boyutları farklı olan üçgenlerdir. İki üçgenin benzer olabilmesi için karşılıklı açıları eşit ve karşılıklı kenar uzunluklarının oranlarının eşit olması gerekmektedir."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliği nasıl kanıtlanır?",
+    "output": "Üçgenlerin benzerliğini kanıtlamak için genellikle üç açıdan ikisinin eşit olduğunu göstermek yeterlidir. Ayrıca, iki üçgenin benzer olduğunu göstermek için, iki üçgenin karşılıklı kenarlarının oranlarının eşit olduğunu veya iki üçgenin bir açı ve bu açının iki yanında bulunan kenarlarının oranlarının eşit olduğunu göstermek de yeterlidir."
+  },
+  {
+    "instruction": "Benzer üçgenlerin özellikleri nelerdir?",
+    "output": "Benzer üçgenlerin temel özellikleri, karşılıklı açıların eşit olması ve karşılıklı kenarların oranlarının eşit olmasıdır. Ayrıca, benzer üçgenlerde, çevre ve alan oranları da benzerlik oranının kareleriyle ilişkilidir."
+  },
+  {
+    "instruction": "Üçgen benzerliği hangi durumlarda kullanılır?",
+    "output": "Üçgen benzerliği, geometri problemlerinde bilinmeyen uzunlukları bulmak, haritalama ve modelleme yapmak, perspektif çizimlerinde ve mühendislik uygulamalarında kullanılır."
+  },
+  {
+    "instruction": "Benzerlik oranı nedir ve nasıl hesaplanır?",
+    "output": "Benzerlik oranı, iki benzer üçgenin karşılıklı kenarlarının uzunluklarının oranıdır. Bu oran, aynı zamanda iki üçgenin çevrelerinin ve alanlarının oranlarının karekökü ile de ilişkilidir. Benzerlik oranı, bir üçgenin bir kenarının diğer üçgenin karşılık gelen kenarına bölünmesiyle hesaplanır."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliğinde hangi teoremler kullanılır?",
+    "output": "Üçgenlerin benzerliğinde genellikle AA (Açı-Açı), SSS (Kenar-Kenar-Kenar) ve SAS (Kenar-Açı-Kenar) benzerlik teoremleri kullanılır. AA teoremi, iki açının eşit olması durumunda üçgenlerin benzer olduğunu belirtir. SSS teoremi, üç kenar oranlarının eşit olması durumunda benzerliği belirtir. SAS teoremi ise bir açı ve bu açının iki yanında bulunan kenarların oranlarının eşit olması durumunda benzerliği belirtir."
+  },
+  {
+    "instruction": "Benzer üçgenler ve eş üçgenler arasındaki fark nedir?",
+    "output": "Benzer üçgenler, şekil olarak aynı olup, boyutları farklı olan üçgenlerdir. Eş üçgenler ise, hem şekil hem de boyut olarak tamamen aynı olan üçgenlerdir. Eş üçgenlerde tüm kenarlar ve açılar eşittir, benzer üçgenlerde ise sadece açıların eşitliği ve kenar oranlarının eşitliği söz konusudur."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliğini kullanarak bilinmeyen bir kenar nasıl bulunur?",
+    "output": "Üçgenlerin benzerliğini kullanarak bilinmeyen bir kenarı bulmak için, benzer üçgenlerdeki karşılıklı kenarların oranlarından yararlanılır. Bilinen kenar uzunlukları ve benzerlik oranı kullanılarak, bilinmeyen kenar uzunluğu hesaplanabilir."
+  },
+  {
+    "instruction": "Üçgenlerin benzerliği geometride neden önemlidir?",
+    "output": "Üçgenlerin benzerliği, geometride önemli bir kavramdır çünkü bu kavram, çeşitli geometrik problemlerin çözümünde kullanılabilir. Benzerlik, özellikle oranlar ve ölçeklendirme ile ilgilidir ve bu nedenle haritalar, modeller ve mühendislik uygulamaları gibi birçok alanda kullanılır."
+  },
+  {
+    "instruction": "Benzer üçgenlerin çevre ve alanları arasındaki ilişki nedir?",
+    "output": "Benzer üçgenlerin çevreleri arasındaki oran, kenar uzunluklarının oranına eşittir. Alanları arasındaki oran ise, kenar uzunluklarının oranının karesine eşittir. Örneğin, benzerlik oranı 2 olan iki üçgenin çevre oranı 2, alan oranı ise 4 olacaktır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal denklem nedir?",
+    "output": "Doğrusal denklem, iki değişken arasında doğrusal bir ilişkiyi temsil eden bir cebirsel ifadedir. Genellikle y = mx + b formunda yazılır ve bu, bir doğruyu temsil eder. Burada m eğimi, b ise y-eksenini kestiği noktayı belirtir."
+  },
+  {
+    "instruction": "Nokta-eğim formu nedir?",
+    "output": "Nokta-eğim formu, bir doğrunun denklemini yazmak için kullanılan bir yöntemdir ve y - y₁ = m(x - x₁) şeklindedir. Burada m eğimi, (x₁, y₁) ise doğrunun üzerinde bir noktayı temsil eder."
+  },
+  {
+    "instruction": "Bir denklemi nokta-eğim formuna dönüştürme nasıl yapılır?",
+    "output": "Bir denklemi nokta-eğim formuna dönüştürmek için, öncelikle doğrunun eğimini ve üzerinde bir noktayı belirlemek gerekir. Eğim m ve nokta (x₁, y₁) belirlendikten sonra, bu değerler y - y₁ = m(x - x₁) formülüne yerleştirilerek denklem oluşturulur."
+  },
+  {
+    "instruction": "Eğim hangi durumlarda kullanılır?",
+    "output": "Eğim, bir doğrunun ne kadar dik veya yatay olduğunu belirlemek için kullanılır. İki nokta arasındaki değişimi veya bir yolun eğimini hesaplamak gibi durumlarda kullanılır. Ayrıca, ekonomik analizlerde ve fiziksel olayların modellenmesinde de eğim önemli bir rol oynar."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin grafiksel temsili nasıl yapılır?",
+    "output": "Doğrusal denklemlerin grafiksel temsili, genellikle bir koordinat düzleminde bir doğru çizerek yapılır. Eğim ve y-eksenini kesim noktası kullanılarak doğru çizilir. Eğim, doğrunun eğimini belirlerken, kesim noktası başlangıç noktasını belirler."
+  },
+  {
+    "instruction": "Nokta-eğim formu ile eğim-kesişim formu arasındaki fark nedir?",
+    "output": "Nokta-eğim formu, bir doğrunun eğimini ve üzerinde bir noktayı kullanarak denklemi oluştururken, eğim-kesişim formu doğrunun eğimini ve y-eksenini kestiği noktayı kullanır. Nokta-eğim formu y - y₁ = m(x - x₁) şeklinde, eğim-kesişim formu ise y = mx + b şeklindedir."
+  },
+  {
+    "instruction": "Eğim-kesişim formundan nokta-eğim formuna dönüşüm nasıl yapılır?",
+    "output": "Eğim-kesişim formundan nokta-eğim formuna dönüşüm yapmak için, eğim (m) ve y-eksenini kesim noktası (b) bilinir. Bu bilgileri kullanarak, doğrunun üzerinde bir nokta seçilir ve bu nokta ile eğim kullanılarak y - y₁ = m(x - x₁) formu elde edilir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin çözüm kümesi nedir?",
+    "output": "Doğrusal denklemlerin çözüm kümesi, denklemi sağlayan tüm (x, y) çiftlerinin kümesidir. Bu çiftler, genellikle bir doğru üzerinde yer alır ve grafiksel olarak bu doğru, çözüm kümesini temsil eder."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi alanlarda kullanılır?",
+    "output": "Doğrusal denklemler, mühendislik, ekonomi, fizik ve sosyal bilimler gibi birçok alanda kullanılır. Özellikle iki değişken arasındaki ilişkileri modellemek, tahmin yapmak ve analizlerde doğrusal trendleri belirlemek için yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin eğimi nasıl hesaplanır?",
+    "output": "Doğrusal denklemin eğimi, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Eğer iki nokta (x₁, y₁) ve (x₂, y₂) verilmişse, eğim m = (y₂ - y₁) / (x₂ - x₁) formülü ile bulunur."
+  }
+]

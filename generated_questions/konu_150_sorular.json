@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikey eksende ne kadar değiştiğini ifade eden bir ölçüdür. Matematiksel olarak, eğim (m) iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Formül olarak, m = (y2 - y1) / (x2 - x1) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Nokta-eğim formu nasıl kullanılır?",
+    "output": "Nokta-eğim formu, bir doğru denklemini belirli bir noktadan ve eğimden yararlanarak yazmak için kullanılır. Formül, y - y1 = m(x - x1) şeklindedir. Burada (x1, y1) doğru üzerindeki bir noktayı, m ise doğrunun eğimini temsil eder."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nokta-eğim formuna nasıl dönüştürülür?",
+    "output": "Bir doğrunun denklemini nokta-eğim formuna dönüştürmek için, doğrunun eğimini ve üzerindeki bir noktayı bilmek gerekir. Eğim m ve nokta (x1, y1) biliniyorsa, denklemi y - y1 = m(x - x1) şeklinde yazabilirsiniz."
+  },
+  {
+    "instruction": "Nokta-eğim formunun avantajları nelerdir?",
+    "output": "Nokta-eğim formunun avantajları, bir doğru üzerindeki belirli bir noktayı ve eğimi kullanarak denklemi hızlı bir şekilde yazabilmektir. Bu form, özellikle bir doğrunun belirli bir noktadan geçtiği ve eğiminin bilindiği durumlarda kullanışlıdır."
+  },
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eder. Burada m eğimi, b ise y eksenini kestiği noktayı temsil eder. Bu form, doğrunun grafiğini kolayca çizebilmek için kullanışlıdır."
+  },
+  {
+    "instruction": "Nokta-eğim formu hangi durumlarda daha kullanışlıdır?",
+    "output": "Nokta-eğim formu, bir doğrunun belirli bir noktadan geçtiği ve eğiminin bilindiği durumlarda daha kullanışlıdır. Bu form, doğrunun üzerinde belirli bir noktanın ve eğiminin bilindiği durumlarda denklemi hızlı bir şekilde yazmayı sağlar."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi pozitif olduğunda grafikte ne gözlemlenir?",
+    "output": "Bir doğrunun eğimi pozitif olduğunda, grafik sağa doğru yükselir. Bu, x değerleri arttıkça y değerlerinin de arttığı anlamına gelir. Pozitif eğim, doğrunun yukarıya doğru eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi sıfır olduğunda ne anlama gelir?",
+    "output": "Bir doğrunun eğimi sıfır olduğunda, bu doğru yataydır ve y ekseni boyunca herhangi bir değişim göstermez. Yani, x değerleri değişirken y değerleri sabit kalır. Bu, doğrunun yatay bir çizgi olduğunu ifade eder."
+  },
+  {
+    "instruction": "Nokta-eğim formu ile eğim-kesişim formu arasında nasıl dönüşüm yapılır?",
+    "output": "Nokta-eğim formunu (y - y1 = m(x - x1)) eğim-kesişim formuna (y = mx + b) dönüştürmek için, nokta-eğim formunu açarak ve y'yi yalnız bırakacak şekilde düzenleyerek eğim-kesişim formuna ulaşabilirsiniz. Bu işlem, cebirsel manipülasyonlar gerektirir."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl belirlenir?",
+    "output": "Bir doğrunun denklemi, genellikle iki nokta arasındaki eğimi hesaplayarak veya bir nokta ve eğim kullanılarak belirlenir. Eğim hesaplandıktan sonra, nokta-eğim formu veya eğim-kesişim formu kullanılarak doğru denklemi yazılabilir."
+  }
+]

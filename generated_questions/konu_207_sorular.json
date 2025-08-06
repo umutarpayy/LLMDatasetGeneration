@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bileşik eşitsizlik nedir?",
+    "output": "Bileşik eşitsizlik, birden fazla eşitsizlik ifadesinin bir arada bulunduğu ve bu eşitsizliklerin aynı anda sağlanması gereken bir matematiksel ifadedir. Genellikle 've' veya 'veya' bağlaçları ile birbirine bağlanırlar."
+  },
+  {
+    "instruction": "Eşitsizliklerde negatif bir sayıyla çarpma veya bölme işlemi nasıl yapılır?",
+    "output": "Eşitsizliklerde negatif bir sayıyla çarpma veya bölme işlemi yapıldığında, eşitsizlik işareti yön değiştirir. Örneğin, 'a < b' ifadesi negatif bir sayı ile çarpılırsa veya bölünürse, eşitsizlik 'a > b' şeklinde değişir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözüm kümesi nasıl belirlenir?",
+    "output": "Bileşik eşitsizliklerin çözüm kümesi, her bir eşitsizliğin ayrı ayrı çözülmesi ve elde edilen çözüm kümelerinin 've' veya 'veya' bağlaçlarına göre birleştirilmesiyle belirlenir. 'Ve' bağlacı kullanıldığında, her iki eşitsizliği de sağlayan ortak çözüm kümesi alınır. 'Veya' bağlacı kullanıldığında, herhangi birini sağlayan çözüm kümelerinin birleşimi alınır."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin sayı doğrusunda gösterimi nasıl yapılır?",
+    "output": "Bileşik eşitsizliklerin sayı doğrusunda gösterimi, her bir eşitsizliğin çözüm aralığının sayı doğrusunda işaretlenmesiyle yapılır. Kapalı aralıklar dolu daire ile, açık aralıklar ise boş daire ile gösterilir. 'Ve' bağlacı varsa, kesişim alanı gölgelenir; 'veya' bağlacı varsa, her iki aralık da gölgelenir."
+  },
+  {
+    "instruction": "Eşitsizliklerde 've' ve 'veya' bağlaçlarının farkı nedir?",
+    "output": "'Ve' bağlacı, iki eşitsizliğin aynı anda sağlanması gerektiğini belirtir ve çözüm kümesi bu iki eşitsizliğin kesişimidir. 'Veya' bağlacı ise, iki eşitsizlikten en az birinin sağlanması gerektiğini ifade eder ve çözüm kümesi bu iki eşitsizliğin birleşimidir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi durumlarda parantez kullanılır?",
+    "output": "Eşitsizlik çözümünde parantez, açık aralıkları belirtmek için kullanılır. Örneğin, 'x > a' veya 'x < b' gibi eşitsizliklerde parantez kullanılır çünkü bu sınır değerler çözüm kümesine dahil değildir. Kapalı aralıklar için köşeli parantez kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerde çözüm kümesi neden boş olabilir?",
+    "output": "Eşitsizliklerde çözüm kümesi, iki eşitsizliğin aynı anda sağlanamayacağı durumlarda boş olabilir. Örneğin, 'x > 5 ve x < 3' gibi bir bileşik eşitsizlikte, x'in aynı anda hem 5'ten büyük hem de 3'ten küçük olması mümkün değildir, bu yüzden çözüm kümesi boştur."
+  },
+  {
+    "instruction": "Eşitsizliklerde çözüm aralığı nasıl belirlenir?",
+    "output": "Eşitsizliklerde çözüm aralığı, eşitsizliğin her iki tarafına aynı işlemler uygulanarak ve eşitsizlik işareti yön değiştirme kurallarına dikkat edilerek belirlenir. Çözüm aralığı, sayısal olarak hangi değerlerin eşitsizliği sağladığını gösterir."
+  },
+  {
+    "instruction": "Bir eşitsizlik çözümünün doğruluğu nasıl kontrol edilir?",
+    "output": "Bir eşitsizlik çözümünün doğruluğu, çözüm kümesindeki değerlerin orijinal eşitsizlikte yerine konularak kontrol edilir. Eğer bu değerler eşitsizliği sağlıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Eşitsizliklerde 've' bağlacı ile 'veya' bağlacının çözüm kümeleri nasıl birleşir?",
+    "output": "'Ve' bağlacı kullanıldığında, çözüm kümeleri kesişim kümesi olarak birleşir, yani her iki eşitsizliğin de sağlandığı değerler çözüm kümesine dahil edilir. 'Veya' bağlacı kullanıldığında, çözüm kümeleri birleşim kümesi olarak birleşir, yani herhangi bir eşitsizliği sağlayan tüm değerler çözüm kümesine dahil edilir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynı olduğunda çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynı olduğunda çarpma işlemi yapılırken üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde ifade edilir. Bu kural, tabanların aynı olması durumunda geçerlidir ve işlemi basitleştirmeye yardımcı olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynı olduğunda bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynı olduğunda bölme işlemi yapılırken üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde ifade edilir. Bu kural, tabanların aynı olması durumunda geçerlidir ve işlemi basitleştirmeye yardımcı olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, ifadeyi daha basit bir forma dönüştürmek amacıyla yapılır. Bu, genellikle tabanlar aynı olduğunda üslerin toplanması veya çıkarılması yoluyla gerçekleştirilir. Ayrıca, katsayılar da çarpılarak veya bölünerek sadeleştirilebilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde katsayı nedir ve nasıl kullanılır?",
+    "output": "Üslü ifadelerde katsayı, tabanın önünde yer alan çarpan sayıdır. Örneğin, 3a^2 ifadesinde 3 katsayıdır. Katsayılar, üslü ifadelerin çarpılması veya bölünmesi sırasında diğer katsayılarla çarpılır veya bölünür."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi neden yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi, ifadeleri daha kompakt ve yönetilebilir hale getirmek için yapılır. Bu işlem, özellikle büyük sayıların veya çok sayıda çarpanın olduğu durumlarda hesaplamaları kolaylaştırır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı olduğunda çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı olduğunda çarpma işlemi, tabanlar ayrı ayrı çarpılarak yapılır ve her tabanın üssü korunur. Örneğin, a^m * b^n = (a * b)^(m+n) şeklinde birleştirilemez; ayrı ayrı hesaplanmalıdır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bir sayının birinci kuvveti ne anlama gelir?",
+    "output": "Üslü ifadelerde bir sayının birinci kuvveti, sayının kendisini ifade eder. Yani, a^1 = a'dır. Bu, üslü ifadelerin temel özelliklerinden biridir ve herhangi bir sayının birinci kuvveti, sayının kendisine eşittir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi sırasında katsayılar nasıl etkilenir?",
+    "output": "Üslü ifadelerde çarpma işlemi sırasında katsayılar, birbirleriyle çarpılır. Örneğin, 3a^m * 2a^n ifadesinde katsayılar 3 ve 2 çarpılarak 6 elde edilir ve sonuç 6a^(m+n) olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde toplama ve çarpma işlemleri arasındaki fark nedir?",
+    "output": "Üslü ifadelerde toplama işlemi, yalnızca tabanlar ve üsler tamamen aynı olduğunda yapılabilir ve katsayılar toplanır. Çarpma işleminde ise tabanlar aynı olduğunda üsler toplanır. Çarpma işlemi, tabanlar farklı olsa bile yapılabilir, ancak toplama işlemi için bu mümkün değildir."
+  },
+  {
+    "instruction": "Üslü ifadelerde işlemlerin doğruluğunu nasıl kontrol edebiliriz?",
+    "output": "Üslü ifadelerde işlemlerin doğruluğunu kontrol etmek için kuralları doğru uyguladığınızdan emin olmalısınız. Tabanlar aynı olduğunda üslerin toplanması veya çıkarılması, katsayıların doğru bir şekilde çarpılması veya bölünmesi gibi kuralları kontrol ederek işlemin doğruluğunu teyit edebilirsiniz. Ayrıca, işlemi farklı bir yöntemle tekrar yaparak sonuçların tutarlı olup olmadığını kontrol edebilirsiniz."
+  }
+]

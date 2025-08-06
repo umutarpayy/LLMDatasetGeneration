@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki değişkenli eşitsizlik nedir?",
+    "output": "İki değişkenli eşitsizlik, iki farklı değişkenin yer aldığı ve bu değişkenler arasında bir eşitsizlik ilişkisi kuran matematiksel bir ifadedir. Örneğin, y < 4x - 3 gibi ifadeler iki değişkenli eşitsizliklerdir. Bu tür eşitsizlikler genellikle bir koordinat düzleminde grafikle gösterilir."
+  },
+  {
+    "instruction": "Eğim-kesim formu nedir ve nasıl kullanılır?",
+    "output": "Eğim-kesim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eden bir formattır. Burada m, doğrunun eğimini temsil ederken, b ise doğrunun y eksenini kestiği noktayı ifade eder. Bu form, doğrusal denklemleri ve eşitsizlikleri grafik üzerinde kolayca çizebilmek için kullanılır."
+  },
+  {
+    "instruction": "Bir eşitsizliği grafik üzerinde gösterirken nelere dikkat edilmelidir?",
+    "output": "Bir eşitsizliği grafik üzerinde gösterirken, eşitsizliğin türüne dikkat edilmelidir. Eğer eşitsizlik 'küçüktür' veya 'büyüktür' şeklindeyse, sınır çizgisi noktalı olarak çizilir. Eğer 'küçük eşittir' veya 'büyük eşittir' şeklindeyse, sınır çizgisi kesintisiz çizilir. Ayrıca, eşitsizliğin belirttiği çözüm kümesi taranarak gösterilmelidir."
+  },
+  {
+    "instruction": "Koordinat düzleminde sınır çizgisi nasıl belirlenir?",
+    "output": "Koordinat düzleminde sınır çizgisi, eşitsizliğin eşitlik kısmı alınarak belirlenir. Örneğin, y < 4x - 3 eşitsizliği için sınır çizgisi y = 4x - 3 doğrusu olur. Bu doğru, eşitsizliğin çözüm kümesini belirlerken referans alınır."
+  },
+  {
+    "instruction": "Doğrusal eşitsizliklerin grafiğinde hangi alanlar taranır?",
+    "output": "Doğrusal eşitsizliklerin grafiğinde, eşitsizliğin sağlandığı çözüm kümesi taranır. Örneğin, y < 4x - 3 eşitsizliği için, y'nin 4x - 3'ten küçük olduğu alan taranır. Bu, genellikle sınır çizgisinin bir tarafında kalan bölgedir."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde hangi durumlarda noktalı çizgi kullanılır?",
+    "output": "Eşitsizlik grafiğinde noktalı çizgi, eşitsizlik 'küçüktür' veya 'büyüktür' şeklindeyse kullanılır. Noktalı çizgi, sınır çizgisinin çözüm kümesine dahil olmadığını belirtir."
+  },
+  {
+    "instruction": "Bir eşitsizlik grafiğinde sınır çizgisinin altı veya üstü nasıl belirlenir?",
+    "output": "Bir eşitsizlik grafiğinde sınır çizgisinin altı veya üstü, eşitsizliğin işaretine göre belirlenir. Örneğin, y < 4x - 3 eşitsizliği için, y'nin 4x - 3'ten küçük olduğu alan, sınır çizgisinin alt tarafında kalır. Bu tür durumlarda, test noktaları kullanılarak hangi bölgenin çözüm kümesine dahil olduğu doğrulanabilir."
+  },
+  {
+    "instruction": "Eşitsizlik grafiği çizerken test noktaları nasıl kullanılır?",
+    "output": "Eşitsizlik grafiği çizerken, test noktaları belirli bir bölgenin çözüm kümesine dahil olup olmadığını kontrol etmek için kullanılır. Genellikle sınır çizgisinin bir tarafında kalan bir nokta seçilir ve bu nokta eşitsizlikte yerine konularak denklemin doğru olup olmadığı kontrol edilir."
+  },
+  {
+    "instruction": "Bir eşitsizlik grafiğinde çözüm kümesi neden taranır?",
+    "output": "Bir eşitsizlik grafiğinde çözüm kümesi taranarak, eşitsizliği sağlayan tüm noktaların hangi bölgede yer aldığı görsel olarak gösterilir. Bu, çözüm kümesinin sınırlarını ve hangi noktaların eşitsizliği sağladığını belirginleştirir."
+  },
+  {
+    "instruction": "Eğimin bir doğrusal eşitsizlikteki rolü nedir?",
+    "output": "Eğimin bir doğrusal eşitsizlikteki rolü, doğrunun eğimini ve dolayısıyla grafikteki doğrultusunu belirlemektir. Eğim, x ekseni boyunca bir birim hareket edildiğinde y ekseninde ne kadar değişiklik olduğunu gösterir. Bu, eşitsizliğin çözüm kümesinin hangi doğrultuda genişleyeceğini belirler."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Sıklık tablosu nedir?",
+    "output": "Sıklık tablosu, bir veri setindeki farklı kategorilerin veya değerlerin ne sıklıkta ortaya çıktığını gösteren bir tablodur. Genellikle iki sütundan oluşur; birinci sütun kategorileri veya değerleri, ikinci sütun ise bu kategorilerin veya değerlerin frekansını gösterir."
+  },
+  {
+    "instruction": "Sıklık tablosu nasıl oluşturulur?",
+    "output": "Sıklık tablosu oluşturmak için öncelikle veri setindeki her bir farklı değeri veya kategoriyi belirleyin. Ardından, her bir değerin veya kategorinin veri setinde kaç kez geçtiğini sayarak frekanslarını belirleyin. Bu bilgileri iki sütunlu bir tabloya yerleştirin; bir sütunda değerler veya kategoriler, diğer sütunda ise frekanslar yer alır."
+  },
+  {
+    "instruction": "Nokta grafiği nedir?",
+    "output": "Nokta grafiği, veri noktalarını bir eksen boyunca işaretleyerek verinin dağılımını görselleştiren bir grafik türüdür. Her bir veri noktası, belirli bir değeri temsil eden bir nokta olarak gösterilir. Nokta grafikleri, verilerin frekanslarını ve dağılımlarını görselleştirmek için kullanılır."
+  },
+  {
+    "instruction": "Nokta grafiği nasıl oluşturulur?",
+    "output": "Nokta grafiği oluşturmak için öncelikle verilerinizi belirleyin ve her bir değeri eksen üzerinde işaretleyin. Her bir veri değeri için, o değerin frekansına göre bir veya daha fazla nokta çizin. Noktalar, genellikle yatay bir çizgi üzerinde, aynı değere sahip diğer noktalarla hizalanır."
+  },
+  {
+    "instruction": "Sıklık tablosu ile nokta grafiği arasındaki fark nedir?",
+    "output": "Sıklık tablosu, verilerin frekanslarını tablo şeklinde gösterirken, nokta grafiği bu frekansları görsel olarak temsil eder. Sıklık tablosu sayısal bilgiler sunarken, nokta grafiği bu bilgileri daha hızlı ve kolay anlaşılır bir şekilde görselleştirir."
+  },
+  {
+    "instruction": "Veri aralığı nedir ve nasıl hesaplanır?",
+    "output": "Veri aralığı, bir veri setindeki en büyük ve en küçük değer arasındaki farktır. Aralığı hesaplamak için, veri setindeki en büyük değerden en küçük değeri çıkarırsınız. Bu, verilerin yayılımını anlamak için kullanılır."
+  },
+  {
+    "instruction": "Hangi durumlarda sıklık tablosu kullanılır?",
+    "output": "Sıklık tablosu, bir veri setindeki kategorilerin veya değerlerin frekanslarını hızlı ve düzenli bir şekilde görmek istediğinizde kullanılır. Özellikle, verilerin ne kadar yaygın olduğunu analiz etmek ve karşılaştırmak için idealdir."
+  },
+  {
+    "instruction": "Nokta grafikleri hangi özelliklere sahiptir?",
+    "output": "Nokta grafikleri, verilerin frekanslarını görsel olarak temsil eder ve veri noktalarının dağılımını hızlıca görmeyi sağlar. Her bir nokta, belirli bir değeri temsil eder ve bu grafik türü, verilerin yoğunluğunu veya yayılımını kolayca gösterir."
+  },
+  {
+    "instruction": "Nokta grafikleri veri analizi için neden önemlidir?",
+    "output": "Nokta grafikleri, verilerin frekanslarını ve dağılımlarını hızlı ve görsel bir şekilde anlamanızı sağlar. Bu grafikler, verilerin hangi değerlerde yoğunlaştığını ve hangi değerlerin daha nadir olduğunu kolayca görmenize yardımcı olur, bu da veri analizi sürecini hızlandırır."
+  },
+  {
+    "instruction": "Veri setinde en sık görülen değer nasıl belirlenir?",
+    "output": "Veri setinde en sık görülen değer, mod olarak adlandırılır. Modu belirlemek için, veri setindeki her bir değerin frekansını hesaplayın ve en yüksek frekansa sahip olan değeri bulun. Bu değer, veri setinde en sık karşılaşılan değerdir."
+  }
+]

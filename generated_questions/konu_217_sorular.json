@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki değişkenli doğrusal eşitsizlik nedir?",
+    "output": "İki değişkenli doğrusal eşitsizlik, iki değişken arasındaki ilişkiyi bir eşitsizlik ifadesi ile tanımlayan matematiksel bir ifadedir. Genellikle ax + by < c, ax + by > c, ax + by ≤ c veya ax + by ≥ c şeklinde ifade edilir. Bu tür eşitsizlikler, bir düzlemde bir bölgeyi temsil eder."
+  },
+  {
+    "instruction": "Sayı doğrusunda eşitsizlik nasıl gösterilir?",
+    "output": "Sayı doğrusunda eşitsizlik göstermek için, eşitsizlikteki sayının konumuna bağlı olarak bir daire çizilir. Eğer eşitsizlik 'büyüktür' veya 'küçüktür' şeklindeyse, dairenin içi boş bırakılır. Eğer 'büyük eşittir' veya 'küçük eşittir' şeklindeyse, dairenin içi doldurulur. Daha sonra, eşitsizlik yönüne göre sayı doğrusunda uygun taraf taranır."
+  },
+  {
+    "instruction": "Koordinat düzleminde doğrusal eşitsizlik nasıl gösterilir?",
+    "output": "Koordinat düzleminde doğrusal eşitsizlik göstermek için, önce eşitsizliğin eşitlik halini temsil eden bir doğru çizilir. Eğer eşitsizlik 'büyüktür' veya 'küçüktür' şeklindeyse, doğru kesikli çizgi ile gösterilir. Eğer 'büyük eşittir' veya 'küçük eşittir' şeklindeyse, doğru düz çizgi ile gösterilir. Daha sonra, eşitsizliğin sağlandığı bölge taranarak gösterilir."
+  },
+  {
+    "instruction": "Kesikli çizgi neyi ifade eder?",
+    "output": "Kesikli çizgi, bir eşitsizlik grafiğinde, eşitsizlik ifadesinde 'büyüktür' veya 'küçüktür' işaretlerinin kullanıldığını ve bu nedenle eşitlik durumunun dahil edilmediğini ifade eder. Bu, çizginin üzerinde yer alan noktaların eşitsizliği sağlamadığını gösterir."
+  },
+  {
+    "instruction": "Doğrusal eşitsizlik grafiğinde taralı alan neyi gösterir?",
+    "output": "Doğrusal eşitsizlik grafiğinde taralı alan, eşitsizlik ifadesinin sağlandığı tüm noktaları gösterir. Bu alan, eşitsizliğin çözüm kümesini temsil eder ve genellikle eşitsizliğin yönüne göre doğru çizgisinin bir tarafında yer alır."
+  },
+  {
+    "instruction": "Doğrusal eşitsizliklerin çözüm kümesi nasıl belirlenir?",
+    "output": "Doğrusal eşitsizliklerin çözüm kümesi, eşitsizliği sağlayan tüm (x, y) koordinatlarının kümesidir. Bu, grafikte taralı alan ile temsil edilir. Çözüm kümesini belirlemek için öncelikle eşitsizliğin eşitlik hali çizilir ve ardından eşitsizliğin yönüne göre doğru çizgisinin hangi tarafının taranacağına karar verilir."
+  },
+  {
+    "instruction": "Y eksenine paralel bir doğru nasıl çizilir?",
+    "output": "Y eksenine paralel bir doğru, x sabit bir değer alırken y'nin herhangi bir değer alabileceği bir doğruyu ifade eder. Bu, x = a şeklinde bir eşitlikle tanımlanır ve grafikte dikey bir çizgi olarak gösterilir."
+  },
+  {
+    "instruction": "Bir eşitsizlikte 'büyüktür' ve 'büyük eşittir' işaretleri arasındaki fark nedir?",
+    "output": "'Büyüktür' işareti (>) bir değerin diğerinden büyük olduğunu belirtir ve eşitlik durumunu içermez. 'Büyük eşittir' işareti (≥) ise bir değerin diğerine eşit olabileceğini veya ondan büyük olabileceğini ifade eder. Grafiksel olarak, 'büyüktür' işareti kesikli çizgi ile, 'büyük eşittir' işareti ise düz çizgi ile gösterilir."
+  },
+  {
+    "instruction": "Doğrusal eşitsizliklerin grafikle gösterimi neden önemlidir?",
+    "output": "Doğrusal eşitsizliklerin grafikle gösterimi, çözüm kümesinin görsel olarak anlaşılmasını sağlar. Bu, hangi bölgelerin eşitsizliği sağladığını kolayca görmeyi mümkün kılar ve karmaşık sistemlerin çözümünde görsel bir rehber sunar."
+  },
+  {
+    "instruction": "Eşitsizlik grafiğinde x eksenini kesen noktalar nasıl bulunur?",
+    "output": "Eşitsizlik grafiğinde x eksenini kesen noktaları bulmak için, y'yi sıfıra eşitleyerek eşitsizliği çözmek gerekir. Bu, x eksenini kestiği noktaları verir ve bu noktalar grafikteki çözüm kümesinin sınırlarını belirlemede yardımcı olur."
+  }
+]

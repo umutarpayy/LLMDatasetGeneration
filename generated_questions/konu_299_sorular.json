@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgen eşliği nedir?",
+    "output": "Üçgen eşliği, iki üçgenin tüm açıları ve kenar uzunluklarının birebir aynı olması durumudur. Eş üçgenler, şekil ve boyut olarak tamamen aynıdır, ancak konumları farklı olabilir."
+  },
+  {
+    "instruction": "Açı-Kenar-Açı (AKA) eşlik teoremi nasıl uygulanır?",
+    "output": "Açı-Kenar-Açı (AKA) eşlik teoremi, iki üçgenin eşitliğini ispatlamak için kullanılır. Eğer bir üçgende bir açı, ardından bir kenar ve başka bir açı diğer üçgendeki karşılık gelen açı, kenar ve açıya eşitse, bu iki üçgen eşittir. Bu teorem, bir üçgenin belirli elemanlarının diğer üçgenle aynı olduğunu göstererek eşliği kanıtlar."
+  },
+  {
+    "instruction": "Yansıma özelliği nedir ve nasıl kullanılır?",
+    "output": "Yansıma özelliği, bir matematiksel varlığın kendine eşit olduğunu ifade eder. Örneğin, bir doğru parçası veya sayı, kendisiyle eşittir. Bu özellik, matematiksel ispatlarda, özellikle eşlik ve benzerlik ispatlarında sıkça kullanılır."
+  },
+  {
+    "instruction": "Geometride eşlik ispatı neden önemlidir?",
+    "output": "Geometride eşlik ispatı, şekillerin birebir aynı olduğunu kanıtlamak için kullanılır. Bu, tasarım, mühendislik ve mimarlık gibi alanlarda kritik öneme sahiptir çünkü eşlik, yapıların ve bileşenlerin uyumlu ve doğru bir şekilde bir araya gelmesini sağlar."
+  },
+  {
+    "instruction": "Açı-Kenar-Açı (AKA) eşlik teoremi hangi durumlarda geçerlidir?",
+    "output": "Açı-Kenar-Açı (AKA) eşlik teoremi, iki üçgenin birer açısı, bu açılar arasındaki kenar ve diğer açısı birbirine eşit olduğunda geçerlidir. Bu koşullar sağlandığında, üçgenler eşittir."
+  },
+  {
+    "instruction": "Geometride ispat yaparken nelere dikkat edilmelidir?",
+    "output": "Geometride ispat yaparken, verilen bilgilerin doğru bir şekilde kullanılması, teoremlerin ve postülatların uygun şekilde uygulanması, mantıksal bir akışın izlenmesi ve her adımın açıkça belirtilmesi önemlidir. Ayrıca, şekillerin doğru bir şekilde etiketlenmesi ve gösterilmesi de ispatın doğruluğunu artırır."
+  },
+  {
+    "instruction": "Üçgen eşliği ile benzerlik arasındaki fark nedir?",
+    "output": "Üçgen eşliği, iki üçgenin tüm açıları ve kenarlarının birebir aynı olmasıdır. Benzerlik ise, iki üçgenin açıları aynı, ancak kenar uzunluklarının orantılı olması durumudur. Eş üçgenler aynı boyutta ve şekildeyken, benzer üçgenler aynı şekildedir ancak boyutları farklı olabilir."
+  },
+  {
+    "instruction": "Açı-Kenar-Açı (AKA) eşlik teoremi dışında başka hangi eşlik teoremleri vardır?",
+    "output": "Açı-Kenar-Açı (AKA) eşlik teoremi dışında, Kenar-Açı-Kenar (KAK) ve Kenar-Kenar-Kenar (KKK) eşlik teoremleri de vardır. KAK teoremine göre, iki üçgenin bir kenarı, bu kenarın bitişiğindeki açı ve diğer kenarı eşitse, üçgenler eşittir. KKK teoremine göre ise, üç kenarı da diğer üçgenin üç kenarına eşit olan üçgenler eşittir."
+  },
+  {
+    "instruction": "Açı-Kenar-Açı (AKA) eşlik teoremi ile Kenar-Kenar-Kenar (KKK) eşlik teoremi arasındaki fark nedir?",
+    "output": "Açı-Kenar-Açı (AKA) eşlik teoremi, iki üçgenin birer açısı, bu açılar arasındaki kenar ve diğer açısı eşit olduğunda kullanılırken, Kenar-Kenar-Kenar (KKK) eşlik teoremi, üçgenlerin tüm kenarlarının karşılıklı olarak eşit olması durumunda kullanılır. AKA, bir açı ve kenar bilgisine dayanırken, KKK sadece kenar uzunluklarına dayanır."
+  },
+  {
+    "instruction": "Geometride Açı-Kenar-Açı (AKA) eşlik teoremi nasıl ispatlanır?",
+    "output": "Açı-Kenar-Açı (AKA) eşlik teoremi, iki üçgenin birer açısı, bu açılar arasındaki kenar ve diğer açısı eşit olduğunda, bu üçgenlerin eşit olduğunu gösterir. İspat, bu eşitliklerin var olduğu bir durumda, başka bir üçgen çizmenin olanaksız olduğunu göstermekle yapılır. Bu, üçgenin belirli elemanlarının diğer üçgenle aynı olduğunu göstererek ispatlanır."
+  }
+]

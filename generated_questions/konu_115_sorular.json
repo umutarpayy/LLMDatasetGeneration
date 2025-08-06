@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dikdörtgenin çevresi nasıl hesaplanır?",
+    "output": "Dikdörtgenin çevresi, iki uzun kenar ve iki kısa kenarın toplam uzunluğudur. Matematiksel olarak, çevre = 2 * (uzunluk + genişlik) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Dikdörtgenin özellikleri nelerdir?",
+    "output": "Dikdörtgenin dört kenarı ve dört köşesi vardır. Karşılıklı kenarları eşit uzunluktadır ve her iç açısı 90 derecedir. Dikdörtgen, bir paralelkenar türüdür."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafını aynı sayıya bölmek neden geçerlidir?",
+    "output": "Bir denklemin her iki tarafını aynı sayıya bölmek, eşitliğin korunmasını sağlar. Bu işlem, denklemin her iki tarafında aynı değişikliği yaparak denklemin çözümünü etkilemez."
+  },
+  {
+    "instruction": "Dikdörtgenin alanı nasıl hesaplanır?",
+    "output": "Dikdörtgenin alanı, uzun kenar ile kısa kenarın çarpımı ile bulunur. Matematiksel olarak, alan = uzunluk * genişlik formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Bir denklemi çözmek için hangi adımlar izlenir?",
+    "output": "Bir denklemi çözmek için öncelikle bilinmeyen terimi izole etmek gerekir. Bunun için denklemin her iki tarafına aynı işlemler uygulanarak bilinmeyen tek başına bırakılır. Ardından, denklemdeki işlemler tersine çevrilerek çözüm bulunur."
+  },
+  {
+    "instruction": "Dikdörtgenin çevresi ve alanı arasındaki fark nedir?",
+    "output": "Dikdörtgenin çevresi, şeklin etrafındaki toplam uzunluğu ifade ederken, alanı şeklin kapladığı yüzeyin büyüklüğünü ifade eder. Çevre uzunluk birimiyle, alan ise kare birimlerle ölçülür."
+  },
+  {
+    "instruction": "Dikdörtgenin uzunluğu ve genişliği nasıl belirlenir?",
+    "output": "Dikdörtgenin uzunluğu ve genişliği, verilen çevre veya alan bilgisi ve diğer geometrik ilişkiler kullanılarak belirlenebilir. Örneğin, çevresi ve bir kenar uzunluğu biliniyorsa, diğer kenar uzunluğu hesaplanabilir."
+  },
+  {
+    "instruction": "Bir denklemi çözmek için ters işlemler nasıl kullanılır?",
+    "output": "Bir denklemi çözmek için ters işlemler, bilinmeyeni izole etmek amacıyla kullanılır. Örneğin, toplama işlemi uygulanmışsa çıkarma, çarpma işlemi uygulanmışsa bölme işlemi yapılarak bilinmeyen yalnız bırakılır."
+  },
+  {
+    "instruction": "Dikdörtgenin çevresine dair bir problem nasıl çözülür?",
+    "output": "Dikdörtgenin çevresine dair bir problem çözülürken, çevre formülü kullanılarak bilinmeyen kenar uzunlukları hesaplanabilir. Verilen bilgilerden çevre formülüne uygun bir denklem kurularak çözüm bulunur."
+  },
+  {
+    "instruction": "Dikdörtgenin uzunluk ve genişlik oranı nasıl belirlenir?",
+    "output": "Dikdörtgenin uzunluk ve genişlik oranı, verilen uzunluk ve genişlik değerleri kullanılarak hesaplanır. Örneğin, uzunluk genişliğin iki katıysa, oran 2:1 olarak ifade edilir."
+  }
+]

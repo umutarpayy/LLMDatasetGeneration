@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Açıortay teoremi nedir?",
+    "output": "Açıortay teoremi, bir üçgende bir açıortayın karşı kenarı iki parçaya ayırdığında, bu parçaların uzunluklarının oranının, açıortayın kollarının uzunluklarının oranına eşit olduğunu ifade eder. Yani, bir açıortay, karşı kenarı iki parçaya bölerken, bu parçaların uzunlukları, açıortayın oluşturduğu iki kenarın uzunluklarının oranına eşittir."
+  },
+  {
+    "instruction": "Açıortay nasıl çizilir?",
+    "output": "Bir üçgende bir açının açıortayını çizmek için, önce açının tepe noktasından başlayarak açının iki kolunu eşit açılarla bölen bir çizgi çizilir. Bu çizgi, karşı kenara kadar uzanır ve karşı kenarı iki eşit parçaya böler."
+  },
+  {
+    "instruction": "Açıortay teoremi hangi durumlarda kullanılır?",
+    "output": "Açıortay teoremi, bir üçgende açıortayın karşı kenarı iki parçaya ayırdığı durumlarda, bu parçaların uzunlukları veya açıortayın oluşturduğu kenarların uzunlukları bilindiğinde kullanılır. Özellikle, üçgenlerde oranlar ve uzunluklar arasında ilişki kurarken bu teoremden yararlanılır."
+  },
+  {
+    "instruction": "Açıortay teoreminin özellikleri nelerdir?",
+    "output": "Açıortay teoremi, bir üçgende bir açıortayın karşı kenarı iki parçaya böldüğünde, bu parçaların uzunluklarının, açıortayın oluşturduğu kenarların uzunluklarının oranına eşit olduğunu belirtir. Ayrıca, bu teorem, üçgenin iç açıları ve kenarları arasında bir denge kurar."
+  },
+  {
+    "instruction": "Açıortay ile yükseklik arasındaki fark nedir?",
+    "output": "Açıortay, bir açıyı iki eşit açıya bölen çizgidir ve karşı kenarı iki orantılı parçaya ayırır. Yükseklik ise, bir üçgenin bir köşesinden karşı kenara dik olarak inen çizgidir ve genellikle alan hesaplamalarında kullanılır. Açıortay, açıları bölerken, yükseklik diklik sağlar."
+  },
+  {
+    "instruction": "Üçgende açıortay nasıl hesaplanır?",
+    "output": "Üçgende açıortayın uzunluğu, genellikle açıortay teoremi kullanılarak hesaplanır. Eğer bir üçgende açıortayın böldüğü kenar parçalarının uzunlukları ve diğer iki kenarın uzunlukları biliniyorsa, bu oranlar kullanılarak açıortayın uzunluğu hesaplanabilir."
+  },
+  {
+    "instruction": "Açıortay teoremi ne işe yarar?",
+    "output": "Açıortay teoremi, bir üçgende açıortayın karşı kenarı iki orantılı parçaya böldüğünü gösterir. Bu, üçgenin iç yapısını anlamak, kenar uzunluklarını hesaplamak ve üçgenin diğer özelliklerini belirlemek için kullanılır. Özellikle, üçgenin iç açıları ve kenarları arasındaki ilişkileri çözümlemek için önemlidir."
+  },
+  {
+    "instruction": "Açıortay teoremi nasıl uygulanır?",
+    "output": "Açıortay teoremi, bir üçgende bir açıortayın karşı kenarı iki parçaya böldüğünde, bu parçaların uzunluklarının, açıortayın oluşturduğu kenarların uzunluklarının oranına eşit olduğu bilgisiyle uygulanır. Bu oranlar kullanılarak bilinmeyen kenar uzunlukları veya oranlar hesaplanabilir."
+  },
+  {
+    "instruction": "Açıortay teoremi ile benzerlik teoremi arasındaki fark nedir?",
+    "output": "Açıortay teoremi, bir üçgende açıortayın karşı kenarı iki orantılı parçaya böldüğünü ifade ederken, benzerlik teoremi, iki üçgenin benzer olup olmadığını belirler. Benzerlik teoremi, üçgenlerin açıları ve kenarları arasındaki oranların eşitliğine dayanır. Açıortay teoremi ise, bir üçgenin içindeki açıortayın özelliklerine odaklanır."
+  },
+  {
+    "instruction": "Bir üçgende açıortay nasıl bulunur?",
+    "output": "Bir üçgende açıortayı bulmak için, genellikle açıortay teoremi kullanılır. Eğer bir üçgende açıortayın böldüğü kenar parçalarının uzunlukları ve diğer iki kenarın uzunlukları biliniyorsa, bu oranlar kullanılarak açıortayın uzunluğu hesaplanabilir. Ayrıca, açıortay, açıları eşit böldüğü için, açı ölçümleri de kullanılabilir."
+  }
+]

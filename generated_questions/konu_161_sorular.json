@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Lineer denklem nedir?",
+    "output": "Lineer denklem, bir veya daha fazla bilinmeyeni içeren ve bu bilinmeyenlerin yalnızca birinci dereceden olduğu bir cebirsel ifadedir. Genel formu ax + by + c = 0 şeklindedir, burada a, b ve c sabit katsayılardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kontrolü nasıl yapılır?",
+    "output": "Denklem sistemlerinde çözüm kontrolü, bulduğunuz çözüm değerlerini her iki denkleme de yerine koyarak yapılır. Eğer her iki denklem de sağlanıyorsa, çözüm doğrudur. Aksi takdirde, çözüm yanlış veya eksiktir."
+  },
+  {
+    "instruction": "Bir denklem sisteminin çözümü neyi ifade eder?",
+    "output": "Bir denklem sisteminin çözümü, sistemdeki tüm denklemleri aynı anda sağlayan bilinmeyenlerin değerleridir. Bu değerler, sistemin kesişim noktasını veya ortak çözümünü temsil eder."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün tek olması ne anlama gelir?",
+    "output": "Denklem sistemlerinde çözümün tek olması, sistemdeki denklemlerin yalnızca bir ortak noktada kesiştiği anlamına gelir. Bu durumda sistem, tutarlı ve bağımsızdır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün olmaması ne anlama gelir?",
+    "output": "Çözümün olmaması, sistemdeki denklemlerin hiçbir ortak noktada kesişmediği, yani paralel oldukları anlamına gelir. Bu tür sistemler tutarsız olarak adlandırılır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kontrolü neden önemlidir?",
+    "output": "Çözüm kontrolü, bulduğunuz çözümün doğruluğunu teyit etmek için önemlidir. Yanlış bir çözüm, hatalı sonuçlara ve yanlış yorumlara yol açabilir, bu nedenle her iki denklemi de sağladığından emin olmak gerekir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde grafik yöntemi ne işe yarar?",
+    "output": "Grafik yöntemi, denklemleri grafik üzerinde çizerek kesişim noktalarını bulmayı sağlar. Bu yöntem, çözümün varlığını ve doğasını görsel olarak anlamak için kullanışlıdır."
+  },
+  {
+    "instruction": "Bir denklem sisteminin tutarlı olması ne demektir?",
+    "output": "Bir denklem sisteminin tutarlı olması, sistemin en az bir çözümünün olduğu anlamına gelir. Tutarlı sistemler, ya tek bir çözüm ya da sonsuz sayıda çözüm içerebilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bağımsız denklemler ne anlama gelir?",
+    "output": "Bağımsız denklemler, her bir denklemin diğerinden farklı bilgi sağladığı ve sistemin tek bir çözümü olduğu anlamına gelir. Bu tür sistemler genellikle tek bir kesişim noktası içerir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bağımlı denklemler ne anlama gelir?",
+    "output": "Bağımlı denklemler, bir denklemin diğerinin bir katı olduğu ve sistemin sonsuz sayıda çözümü olduğu anlamına gelir. Bu durumda, denklemler aynı doğruyu temsil eder."
+  }
+]

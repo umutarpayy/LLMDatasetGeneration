@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "EBOB nedir?",
+    "output": "EBOB, 'En Büyük Ortak Bölen' anlamına gelir. İki veya daha fazla sayının ortak bölenleri arasında en büyük olanıdır. Matematikte, sayıları veya ifadeleri sadeleştirmek veya ortak bir payda bulmak için kullanılır."
+  },
+  {
+    "instruction": "EBOB nasıl bulunur?",
+    "output": "EBOB'u bulmak için, her sayının veya ifadenin çarpanlarına ayrılması gerekir. Ardından, bu çarpanlar arasında ortak olanlar belirlenir ve bu ortak çarpanların en büyüğü seçilir. Sayılar için asal çarpanlar kullanılırken, ifadeler için değişkenler de dikkate alınır."
+  },
+  {
+    "instruction": "Tek terimli ifadelerin çarpanlara ayrılması nasıl yapılır?",
+    "output": "Tek terimli ifadelerin çarpanlara ayrılması, sayısal katsayıların asal çarpanlarına ayrılması ve değişkenlerin üslerinin çarpanlarına bölünmesi ile gerçekleştirilir. Örneğin, 10cd² ifadesi 2, 5, c ve d çarpanlarına ayrılır."
+  },
+  {
+    "instruction": "Asal sayı nedir?",
+    "output": "Asal sayı, yalnızca 1 ve kendisi olmak üzere iki pozitif tam böleni olan bir sayıdır. Örneğin, 2, 3, 5, 7 gibi sayılar asal sayılardır."
+  },
+  {
+    "instruction": "Dağılma özelliği nedir?",
+    "output": "Dağılma özelliği, bir sayının veya ifadenin, parantez içindeki terimlerle çarpılması durumunda, her bir terime ayrı ayrı dağıtılması gerektiğini ifade eder. Örneğin, a(b + c) = ab + ac şeklinde uygulanır."
+  },
+  {
+    "instruction": "Çarpan ağacı nedir ve nasıl kullanılır?",
+    "output": "Çarpan ağacı, bir sayıyı asal çarpanlarına ayırmak için kullanılan görsel bir yöntemdir. Sayı, dallar halinde asal çarpanlarına bölünerek gösterilir. Bu yöntem, özellikle büyük sayılar için asal çarpanları bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "En büyük ortak bölen hangi durumlarda kullanılır?",
+    "output": "En büyük ortak bölen, kesirleri sadeleştirmek, ortak payda bulmak veya iki sayının birbirine oranını en basit hale getirmek gibi durumlarda kullanılır. Ayrıca, problemleri daha basit hale getirmek için de faydalıdır."
+  },
+  {
+    "instruction": "Çarpanlar ve katlar arasındaki fark nedir?",
+    "output": "Çarpanlar, bir sayıyı tam olarak bölen sayılardır. Katlar ise, bir sayının diğer sayılarla çarpılması sonucu elde edilen sayılardır. Örneğin, 6'nın çarpanları 1, 2, 3 ve 6 iken, katları 6, 12, 18 gibi sayılardır."
+  },
+  {
+    "instruction": "Ortak çarpan nedir?",
+    "output": "Ortak çarpan, iki veya daha fazla sayının veya ifadenin çarpanları arasında ortak olan çarpandır. Ortak çarpanlar, EBOB hesaplamalarında temel rol oynar ve sayılar arasında benzerlikleri bulmak için kullanılır."
+  },
+  {
+    "instruction": "Bir ifadenin çarpanlarına ayrılması neden önemlidir?",
+    "output": "Bir ifadenin çarpanlarına ayrılması, ifadeyi sadeleştirmek, eşitlikleri çözmek ve matematiksel işlemleri daha kolay hale getirmek için önemlidir. Çarpanlara ayırma, aynı zamanda polinomların köklerini bulmak ve faktörleme yapmak için de kullanılır."
+  }
+]

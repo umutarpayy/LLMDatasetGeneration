@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çizgi grafiği nedir?",
+    "output": "Çizgi grafiği, belirli bir zaman dilimi boyunca bir değişkenin değişimini göstermek için kullanılan bir grafik türüdür. Genellikle zaman ekseni yatayda, ölçülen değişken ise dikey eksende gösterilir. Veriler, noktalarla temsil edilir ve bu noktalar bir çizgi ile birleştirilir."
+  },
+  {
+    "instruction": "Çizgi grafiği nasıl okunur?",
+    "output": "Çizgi grafiği okurken, yatay eksen genellikle zaman dilimini temsil ederken, dikey eksen ölçülen değişkenin değerlerini gösterir. Grafikteki çizgi, verinin zaman içindeki değişimini gösterir. Çizginin yukarı doğru hareketi artışı, aşağı doğru hareketi ise azalmayı ifade eder."
+  },
+  {
+    "instruction": "Çizgi grafiği hangi durumlarda kullanılır?",
+    "output": "Çizgi grafikleri, bir değişkenin zaman içerisindeki değişimini izlemek için kullanılır. Özellikle finansal veriler, sıcaklık değişimleri, nüfus artışı gibi zamanla değişen verilerin analizi için uygundur."
+  },
+  {
+    "instruction": "Çizgi grafiği ile çubuk grafik arasındaki fark nedir?",
+    "output": "Çizgi grafiği, verilerin zaman içerisindeki değişimini göstermek için kullanılırken, çubuk grafik genellikle kategorik verilerin karşılaştırılması için kullanılır. Çizgi grafiğinde veriler bir çizgi ile birleştirilirken, çubuk grafikte her veri noktası bir çubuk ile temsil edilir."
+  },
+  {
+    "instruction": "Çizgi grafiklerinin hangi özellikleri vardır?",
+    "output": "Çizgi grafiklerinin temel özellikleri arasında verilerin zamanla değişimini gösterebilmesi, eğilimleri ve desenleri kolayca görselleştirebilmesi ve birden fazla veri setini aynı grafik üzerinde karşılaştırabilme yeteneği bulunur."
+  },
+  {
+    "instruction": "Çizgi grafikleri ne işe yarar?",
+    "output": "Çizgi grafikleri, zaman içerisindeki eğilimleri ve desenleri görselleştirmek, değişkenler arasındaki ilişkileri analiz etmek ve gelecekteki eğilimleri tahmin etmek için kullanılır."
+  },
+  {
+    "instruction": "Çizgi grafikleri nasıl oluşturulur?",
+    "output": "Çizgi grafikleri oluşturulurken, öncelikle veriler toplanır ve düzenlenir. Daha sonra yatay eksene zaman dilimi, dikey eksene ise ölçülen değişken yerleştirilir. Her veri noktası bir nokta ile gösterilir ve bu noktalar bir çizgi ile birleştirilir."
+  },
+  {
+    "instruction": "Çizgi grafiklerinin avantajları nelerdir?",
+    "output": "Çizgi grafiklerinin avantajları arasında verilerin zamanla değişimini net bir şekilde göstermesi, eğilimlerin ve desenlerin kolayca fark edilebilmesi ve birden fazla veri setinin aynı grafik üzerinde karşılaştırılabilmesi bulunur."
+  },
+  {
+    "instruction": "Çizgi grafiklerinin dezavantajları nelerdir?",
+    "output": "Çizgi grafiklerinin dezavantajları arasında karmaşık verilerde okunabilirliğin azalması, çok fazla veri noktası olduğunda karışıklık yaratabilmesi ve kategorik verilerin gösteriminde yetersiz kalabilmesi sayılabilir."
+  },
+  {
+    "instruction": "Çizgi grafiklerinde veri doğruluğu nasıl sağlanır?",
+    "output": "Çizgi grafiklerinde veri doğruluğunu sağlamak için verilerin doğru bir şekilde toplanması ve düzenlenmesi gerekir. Ayrıca, eksenlerin doğru bir şekilde ölçeklendirilmesi ve etiketlenmesi, verilerin doğru bir şekilde temsil edilmesini sağlar."
+  }
+]

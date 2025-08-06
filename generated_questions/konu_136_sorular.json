@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Negatif eğim nedir?",
+    "output": "Negatif eğim, bir doğrunun x ekseni boyunca sağa doğru hareket ettikçe y ekseni boyunca aşağıya doğru hareket etmesi durumunda ortaya çıkar. Bu, x değerleri arttıkça y değerlerinin azalması anlamına gelir. Negatif eğimli bir doğru, grafik üzerinde sola yatık bir şekilde aşağıya doğru eğim gösterir."
+  },
+  {
+    "instruction": "Pozitif eğim nedir?",
+    "output": "Pozitif eğim, bir doğrunun x ekseni boyunca sağa doğru hareket ettikçe y ekseni boyunca yukarıya doğru hareket etmesi durumunda ortaya çıkar. Bu, x değerleri arttıkça y değerlerinin de artması anlamına gelir. Pozitif eğimli bir doğru, grafik üzerinde sağa yatık bir şekilde yukarıya doğru eğim gösterir."
+  },
+  {
+    "instruction": "Sıfır eğim nedir?",
+    "output": "Sıfır eğim, bir doğrunun yatay olduğu ve y değerinin x değerine bağlı olarak değişmediği anlamına gelir. Bu durumda, x ekseni boyunca herhangi bir değişiklik y ekseninde bir değişiklik yaratmaz. Sıfır eğimli bir doğru, grafik üzerinde yatay bir çizgi olarak görünür."
+  },
+  {
+    "instruction": "Eğimin büyüklüğü neyi ifade eder?",
+    "output": "Eğimin büyüklüğü, doğrunun ne kadar dik olduğunu ifade eder. Eğimin mutlak değeri ne kadar büyükse, doğru o kadar dik olur. Örneğin, eğimi 5 olan bir doğru, eğimi 1 olan bir doğrudan daha diktir."
+  },
+  {
+    "instruction": "Eğimin işareti neyi ifade eder?",
+    "output": "Eğimin işareti, doğrunun yönünü belirtir. Pozitif bir eğim, doğrunun sağa doğru yukarıya eğildiğini, negatif bir eğim ise sağa doğru aşağıya eğildiğini gösterir. Sıfır eğim ise doğrunun yatay olduğunu belirtir."
+  },
+  {
+    "instruction": "Eğim nasıl yorumlanır?",
+    "output": "Eğim, bir doğrunun eğilme derecesini ve yönünü belirler. Pozitif eğim, artan bir ilişkiyi, negatif eğim ise azalan bir ilişkiyi temsil eder. Sıfır eğim, değişmeyen bir ilişkiyi gösterir. Eğimin mutlak değeri, bu ilişkinin ne kadar güçlü olduğunu belirtir."
+  },
+  {
+    "instruction": "Negatif eğimli bir doğrunun grafiği nasıl çizilir?",
+    "output": "Negatif eğimli bir doğrunun grafiğini çizerken, doğruyu x ekseni boyunca sağa doğru hareket ettikçe y ekseni boyunca aşağıya doğru eğimli bir şekilde çizin. Bu, x değerleri arttıkça y değerlerinin azalmasını sağlar."
+  },
+  {
+    "instruction": "Eğim ve y ekseni kesişimi arasındaki ilişki nedir?",
+    "output": "Eğim, bir doğrunun eğilme derecesini belirtirken, y ekseni kesişimi (y-intercept), doğrunun y eksenini kestiği noktayı belirtir. Bu iki kavram, doğrunun genel denklemi olan y = mx + b'de yer alır; burada m eğimi ve b y ekseni kesişimini temsil eder."
+  },
+  {
+    "instruction": "Eğim ile doğrusal denklemler arasındaki ilişki nedir?",
+    "output": "Eğim, doğrusal bir denklemin y = mx + b formunda ifade edilmesini sağlar. Bu formda, m eğimi ve b y ekseni kesişimini temsil eder. Eğim, doğrunun eğilimini ve yönünü belirlerken, doğrusal denklemler bu eğim ve kesişim noktası kullanılarak tanımlanır."
+  },
+  {
+    "instruction": "Eğim ve eğrilik arasındaki fark nedir?",
+    "output": "Eğim, bir doğrunun eğilme derecesini ve yönünü belirten bir ölçüdür ve doğrusal (düz) bir ilişkiyi ifade eder. Eğrilik ise, bir eğrinin ne kadar kıvrımlı olduğunu belirten bir ölçüdür ve doğrusal olmayan (kavisli) bir ilişkiyi ifade eder. Eğrilik, eğimden farklı olarak, bir eğrinin farklı noktalarındaki değişiklikleri de dikkate alır."
+  }
+]

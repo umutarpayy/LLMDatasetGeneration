@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde negatif üs nedir?",
+    "output": "Negatif üs, bir sayının tersini almak anlamına gelir. Bir sayının negatif üssü, o sayının pozitif üssünün tersine eşittir. Örneğin, a üzeri -n, 1 bölü a üzeri n olarak ifade edilir."
+  },
+  {
+    "instruction": "Negatif üsler nasıl pozitif üslere dönüştürülür?",
+    "output": "Negatif üsler pozitif üslere, üslü ifadenin tabanını ters çevirerek dönüştürülür. Örneğin, a üzeri -n ifadesi, 1 bölü a üzeri n şeklinde yazılarak pozitif üslü hale getirilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar nasıl gruplandırılır?",
+    "output": "Üslü ifadelerde tabanlar, aynı tabana sahip terimler bir araya getirilerek gruplandırılır. Bu işlem, üslü ifadelerin çarpma veya bölme işlemlerinde kolaylık sağlar. Örneğin, a üzeri m çarpı a üzeri n ifadesi, a üzeri (m+n) olarak gruplandırılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl sadeleştirilir?",
+    "output": "Üslü ifadelerde çarpma işlemi, aynı tabana sahip üslü sayıların üslerinin toplanmasıyla sadeleştirilir. Örneğin, a üzeri m çarpı a üzeri n ifadesi, a üzeri (m+n) şeklinde sadeleştirilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi, aynı tabana sahip üslü sayıların üslerinin çıkarılmasıyla yapılır. Örneğin, a üzeri m bölü a üzeri n ifadesi, a üzeri (m-n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde pozitif üslerin avantajları nelerdir?",
+    "output": "Pozitif üsler, ifadelerin daha kolay anlaşılmasını ve hesaplanmasını sağlar. Ayrıca, pozitif üsler, matematiksel işlemlerde daha yaygın olarak kullanılır ve standart formda sonuçlar elde edilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpanlar nasıl belirlenir?",
+    "output": "Üslü ifadelerde çarpanlar, ifadenin tabanları ve üsleri dikkate alınarak belirlenir. Aynı tabana sahip ifadeler bir araya getirilerek çarpanlar oluşturulur. Örneğin, a üzeri m çarpı b üzeri n ifadesinde, a ve b çarpan olarak kabul edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerin sadeleştirilmesi ne işe yarar?",
+    "output": "Üslü ifadelerin sadeleştirilmesi, ifadelerin daha basit ve anlaşılır hale gelmesini sağlar. Bu, işlemlerin daha hızlı ve hatasız bir şekilde yapılmasına yardımcı olur. Ayrıca, sadeleştirilmiş ifadeler, matematiksel problemlerin çözümünde daha kolay kullanılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde ortak tabanlar nasıl kullanılır?",
+    "output": "Üslü ifadelerde ortak tabanlar, ifadelerin çarpma veya bölme işlemlerinde kullanılır. Aynı tabana sahip terimler bir araya getirilerek işlemler daha kolay hale getirilir. Örneğin, a üzeri m çarpı a üzeri n ifadesi, a üzeri (m+n) olarak yazılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin toplamı nasıl hesaplanır?",
+    "output": "Üslü ifadelerde üslerin toplamı, aynı tabana sahip ifadelerin çarpılması durumunda hesaplanır. Üsler toplanarak yeni bir üs elde edilir. Örneğin, a üzeri m çarpı a üzeri n ifadesinde, üsler m ve n toplanarak a üzeri (m+n) elde edilir."
+  }
+]

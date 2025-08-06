@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Rasyonel üs nedir?",
+    "output": "Rasyonel üs, bir sayının üssünün bir kesir olarak ifade edilmesidir. Örneğin, x üzeri 1/2 ifadesi, x'in karekökünü temsil eder. Rasyonel üsler, kök alma işlemlerini üslü ifadelerle ifade etmenin bir yoludur."
+  },
+  {
+    "instruction": "Rasyonel üslerle işlemler nasıl yapılır?",
+    "output": "Rasyonel üslerle işlemler yapılırken, üslerin kurallarını kullanarak ifadeleri sadeleştirebiliriz. Örneğin, bir çarpımın rasyonel üssü alınırken her bir çarpanın üssü ayrı ayrı alınır ve sonuçlar çarpılır. Ayrıca, rasyonel üsleri çarparken üsler toplama, bölerken ise üsler çıkarma işlemi yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n). Eğer tabanlar farklıysa, ifadeler ayrı ayrı hesaplanır ve sonuçlar çarpılır."
+  },
+  {
+    "instruction": "Kök alma işlemi nasıl üslü ifadelerle gösterilir?",
+    "output": "Kök alma işlemi, üslü ifadelerle kesirli üsler kullanılarak gösterilir. Örneğin, karekök x, x üzeri 1/2 olarak yazılır. Benzer şekilde, küpkök x, x üzeri 1/3 olarak ifade edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, aynı tabana sahip ifadelerin üslerini toplayarak veya çıkararak yapılır. Ayrıca, bir ifadenin üssü bir kesir olduğunda, bu kesir sadeleştirilerek ifade daha basit bir hale getirilebilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpanlara ayırma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpanlara ayırma, ifadeyi daha küçük bileşenlere bölerek yapılır. Örneğin, bir sayının asal çarpanlarına ayrılması, üslü ifadelerle daha kolay hesaplamalar yapmayı sağlar. Bu, özellikle sayının bir üssü olduğunda, üssün daha kolay yönetilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti nasıl hesaplanır?",
+    "output": "Üslü ifadelerde bir kuvvetin kuvveti hesaplanırken, üsler çarpılır. Örneğin, (a^m)^n = a^(m*n). Bu kural, bir ifadenin üssünün tekrar üssü alındığında kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar nasıl sadeleştirilir?",
+    "output": "Üslü ifadelerde tabanlar sadeleştirilirken, aynı üsse sahip ifadeler çarpılır veya bölünür. Örneğin, a^n * b^n = (a*b)^n. Bu, üslü ifadelerin daha basit bir formda yazılmasına yardımcı olur."
+  },
+  {
+    "instruction": "Rasyonel üslerin özellikleri nelerdir?",
+    "output": "Rasyonel üslerin özellikleri arasında, kök alma işlemlerinin üslü ifadelerle ifade edilmesi, çarpma ve bölme işlemlerinde üslerin toplanıp çıkarılması ve kuvvetin kuvveti kuralının uygulanması yer alır. Ayrıca, rasyonel üsler, ifadelerin daha kolay sadeleştirilmesine olanak tanır."
+  },
+  {
+    "instruction": "Rasyonel üsler hangi durumlarda kullanılır?",
+    "output": "Rasyonel üsler, kök alma işlemlerinin üslü ifadelerle ifade edilmesi gerektiğinde, karmaşık ifadelerin sadeleştirilmesinde ve üslü denklemlerin çözülmesinde kullanılır. Bu, özellikle cebirsel ifadelerin daha basit bir formda yazılmasına ve hesaplamaların kolaylaştırılmasına yardımcı olur."
+  }
+]

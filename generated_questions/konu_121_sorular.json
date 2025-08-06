@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal denklem nedir?",
+    "output": "Doğrusal denklem, birinci dereceden iki değişkenli bir denklemdir ve grafiği bir doğru oluşturur. Bu denklemler genellikle y = mx + b formunda yazılır, burada m doğrunun eğimini ve b y eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Doğrusal denklemin grafiği nasıl çizilir?",
+    "output": "Doğrusal denklemin grafiğini çizmek için öncelikle denklemi y = mx + b formuna getirin. Ardından, y eksenini kestiği noktayı (b) işaretleyin. Eğimi (m) kullanarak, y ekseni üzerindeki noktadan başlayarak doğruyu çizin. Eğim, y'nin x'e göre değişim oranını temsil eder."
+  },
+  {
+    "instruction": "Doğrusal ve doğrusal olmayan denklemler arasındaki fark nedir?",
+    "output": "Doğrusal denklemler, birinci dereceden iki değişkenli denklemler olup grafikleri bir doğru oluşturur. Doğrusal olmayan denklemler ise değişkenlerin daha yüksek dereceli terimlerini içerir ve grafikleri genellikle eğri veya farklı şekillerde olur."
+  },
+  {
+    "instruction": "Bir denklemin doğrusal olup olmadığını nasıl anlarız?",
+    "output": "Bir denklemin doğrusal olup olmadığını anlamak için denklemin her teriminin ya sabit ya da bir sabit ile çarpılmış birinci dereceden bir değişken olması gerekir. Ayrıca, değişkenlerin çarpımı veya değişkenlerin üstlü ifadeleri bulunmamalıdır."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde eğim nedir ve nasıl bulunur?",
+    "output": "Doğrusal denklemlerde eğim, doğrunun yatay eksene göre dikey eksendeki değişim oranını ifade eder. Eğim, y = mx + b formundaki m terimi ile temsil edilir ve genellikle (y2-y1)/(x2-x1) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde y eksenini kesme noktası nedir?",
+    "output": "Doğrusal denklemlerde y eksenini kesme noktası, doğrunun y eksenini kestiği noktadır. Bu nokta, y = mx + b formundaki b terimi ile temsil edilir ve x = 0 olduğunda y'nin değeridir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda kullanılır?",
+    "output": "Doğrusal denklemler, iki değişken arasındaki doğrusal ilişkiyi modellemek için kullanılır. Örneğin, maliyet hesaplamaları, hız-zaman ilişkileri ve diğer birçok bilimsel ve mühendislik uygulamalarında yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi özelliklere sahiptir?",
+    "output": "Doğrusal denklemler, birinci dereceden terimler içerir, grafikleri bir doğru oluşturur ve değişkenlerin çarpımı veya üstlü ifadeleri bulunmaz. Ayrıca, sabit terimler ve bir sabit ile çarpılmış birinci dereceden değişkenler içerirler."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir doğru nasıl tanımlanır?",
+    "output": "Koordinat düzleminde bir doğru, y = mx + b formunda bir doğrusal denklemle tanımlanır. Burada m eğimi, b ise y eksenini kestiği noktayı temsil eder. Doğru, bu denklemi sağlayan tüm x ve y değerlerini içerir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde x ve y'nin çarpımı neden olamaz?",
+    "output": "Doğrusal denklemlerde x ve y'nin çarpımı bulunamaz çünkü bu, denklemi doğrusal olmayan bir hale getirir. Doğrusal denklemler sadece birinci dereceden terimler içerir ve değişkenlerin çarpımı, denklemin derecesini artırır, bu da grafiğin bir doğru yerine eğri olmasına neden olur."
+  }
+]

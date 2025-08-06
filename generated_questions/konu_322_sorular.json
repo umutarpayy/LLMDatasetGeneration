@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İç teğet çember nedir?",
+    "output": "İç teğet çember, bir üçgenin içindeki tüm kenarlara teğet olan çemberdir. Üçgenin açıortaylarının kesişim noktasında bulunan bu çember, üçgenin iç kısmında yer alır ve her bir kenara eşit uzaklıktadır."
+  },
+  {
+    "instruction": "Bir üçgenin iç teğet çemberinin yarıçapı nasıl bulunur?",
+    "output": "Bir üçgenin iç teğet çemberinin yarıçapı, üçgenin alanının çevresinin yarısına (yarı çevre) bölünmesiyle bulunur. Formül olarak, r = A/s şeklinde ifade edilir; burada A üçgenin alanı, s ise yarı çevredir."
+  },
+  {
+    "instruction": "Üçgenin çevresi nasıl hesaplanır?",
+    "output": "Üçgenin çevresi, üçgenin üç kenar uzunluğunun toplamı ile hesaplanır. Eğer üçgenin kenar uzunlukları a, b ve c ise, çevresi P = a + b + c formülü ile bulunur."
+  },
+  {
+    "instruction": "Üçgenin alanı iç teğet çember yarıçapı ve çevre cinsinden nasıl ifade edilir?",
+    "output": "Üçgenin alanı, iç teğet çember yarıçapı (r) ve çevre (p) cinsinden A = r * s formülü ile ifade edilir. Burada s, üçgenin yarı çevresidir ve s = p/2 olarak hesaplanır."
+  },
+  {
+    "instruction": "Açıortay nedir ve nasıl çizilir?",
+    "output": "Açıortay, bir açıyı iki eşit parçaya bölen doğru parçasıdır. Bir üçgende, her bir köşe açısının açıortayı çizildiğinde, bu açıortaylar iç teğet çemberin merkezinde kesişir. Açıortay çizmek için, açıya ait iki kenarın eşit uzaklıkta bir noktasını bulup bu noktayı köşe noktası ile birleştirmek gerekir."
+  },
+  {
+    "instruction": "Yarı çevre nedir ve nasıl hesaplanır?",
+    "output": "Yarı çevre, bir üçgenin çevresinin yarısıdır. Eğer üçgenin çevresi P ise, yarı çevre s = P/2 formülü ile hesaplanır. Yarı çevre, iç teğet çemberin yarıçapını bulmak için kullanılır."
+  },
+  {
+    "instruction": "İç teğet çemberin merkezi nasıl bulunur?",
+    "output": "İç teğet çemberin merkezi, bir üçgenin açıortaylarının kesişim noktasıdır. Üçgenin her bir köşe açısının açıortayını çizerek, bu açıortayların kesiştiği noktayı bulabiliriz. Bu nokta, iç teğet çemberin merkezidir ve tüm kenarlara eşit uzaklıktadır."
+  },
+  {
+    "instruction": "Üçgenin alanı nasıl hesaplanır?",
+    "output": "Üçgenin alanı, taban uzunluğu ile yüksekliğinin çarpımının yarısı olarak hesaplanır. Eğer taban uzunluğu b ve yükseklik h ise, alan A = (b * h) / 2 formülü ile bulunur. Dik üçgenlerde, iki dik kenar çarpımının yarısı da alanı verir."
+  },
+  {
+    "instruction": "İç teğet çemberin yarıçapı ve üçgenin alanı arasındaki ilişki nedir?",
+    "output": "İç teğet çemberin yarıçapı (r) ve üçgenin alanı (A) arasında doğrudan bir ilişki vardır. Üçgenin alanı, bu yarıçap ve yarı çevre (s) kullanılarak A = r * s formülü ile hesaplanabilir. Bu ilişki, üçgenin alanını veya yarıçapını bulmak için kullanılabilir."
+  },
+  {
+    "instruction": "Dik üçgende iç teğet çemberin yarıçapı nasıl hesaplanır?",
+    "output": "Dik üçgende iç teğet çemberin yarıçapı, alanın yarı çevreye bölünmesiyle bulunur. Dik üçgenin alanı, dik kenarların çarpımının yarısıdır. Yarı çevre ise dik kenarların ve hipotenüsün toplamının yarısıdır. Bu değerler kullanılarak yarıçap r = A/s formülü ile hesaplanır."
+  }
+]

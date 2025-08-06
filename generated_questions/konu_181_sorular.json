@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yaş problemleri hangi matematiksel kavramları içerir?",
+    "output": "Yaş problemleri genellikle cebirsel ifadeler ve denklemler içerir. Bu tür problemler, bir veya daha fazla kişinin yaşları arasındaki ilişkileri belirlemek için değişkenler kullanarak denklemler kurmayı gerektirir. Ayrıca, bu problemler zaman kavramını da içerir, çünkü genellikle geçmiş veya gelecekteki yaşlar arasındaki ilişkileri çözümlemeyi gerektirir."
+  },
+  {
+    "instruction": "Denklem kurarken nelere dikkat edilmelidir?",
+    "output": "Denklem kurarken, problemin verilenlerini dikkatlice okumak ve anlamak önemlidir. Her bir bilinmeyen için uygun bir değişken tanımlanmalı ve problemdeki ilişkiler bu değişkenler cinsinden ifade edilmelidir. Ayrıca, eşitliklerin doğru bir şekilde kurulması ve matematiksel işlemlerin kurallara uygun olarak yapılması gereklidir."
+  },
+  {
+    "instruction": "Bir problemin çözümünde değişken seçimi neden önemlidir?",
+    "output": "Değişken seçimi, problemin çözüm sürecini basitleştirebilir veya karmaşıklaştırabilir. Uygun bir değişken seçimi, problemi daha anlaşılır hale getirir ve çözümü kolaylaştırır. Ayrıca, değişkenlerin anlamlı ve problemle ilgili olması, çözümün doğruluğunu kontrol etmeyi kolaylaştırır."
+  },
+  {
+    "instruction": "Cebirsel ifadeler nasıl sadeleştirilir?",
+    "output": "Cebirsel ifadeler, benzer terimlerin birleştirilmesi ve dağıtma özelliği kullanılarak sadeleştirilir. Benzer terimler, aynı değişkenlerin aynı kuvvetlerine sahip olan terimlerdir. Bu terimler toplanabilir veya çıkarılabilir. Dağıtma özelliği ise, bir çarpanın parantez içindeki her terimle çarpılması ile uygulanır."
+  },
+  {
+    "instruction": "Bir denklemin çözümünü kontrol etmek neden önemlidir?",
+    "output": "Bir denklemin çözümünü kontrol etmek, çözümün doğruluğunu ve problemin verilenlerine uygun olup olmadığını doğrulamak için önemlidir. Çözüm kontrolü, yapılan hataların fark edilmesini sağlar ve böylece yanlış sonuçların önüne geçilir. Ayrıca, kontrol işlemi, çözüm sürecinin mantığını kavramaya da yardımcı olur."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi temel işlemler kullanılır?",
+    "output": "Denklem çözümünde temel işlemler; toplama, çıkarma, çarpma ve bölme işlemleridir. Bu işlemler, eşitliğin her iki tarafına da uygulanarak denklemin her iki tarafının eşitliği korunur. Amaç, bilinmeyeni tek başına bırakmak ve onun değerini bulmaktır."
+  },
+  {
+    "instruction": "Yaş problemlerinde sıkça kullanılan stratejiler nelerdir?",
+    "output": "Yaş problemlerinde sıkça kullanılan stratejiler arasında, her kişi için bir değişken tanımlamak, zaman dilimlerini belirlemek ve bu zaman dilimlerine göre denklemler kurmak bulunur. Ayrıca, problemin geçmiş veya gelecekteki durumlarını ifade eden denklemler kurarak, bu denklemleri çözmek de yaygın bir stratejidir."
+  },
+  {
+    "instruction": "Bilinmeyen sayıda değişken içeren denklemler nasıl çözülür?",
+    "output": "Bilinmeyen sayıda değişken içeren denklemler genellikle sistematik bir yaklaşım gerektirir. Genellikle, birden fazla denklem kurularak bu denklemler bir sistem olarak ele alınır. Bu sistem, yerine koyma veya eleme yöntemleri kullanılarak çözülür. Amaç, her bir değişkenin değerini bulmaktır."
+  },
+  {
+    "instruction": "Eşitliklerin korunması ilkesi nedir?",
+    "output": "Eşitliklerin korunması ilkesi, bir denklemin her iki tarafına da aynı işlemi uyguladığınızda, denklemin eşitliğinin bozulmayacağını ifade eder. Bu ilke, denklemleri çözme sürecinde yapılan işlemlerin geçerliliğini ve doğruluğunu sağlar. Örneğin, bir denklemin her iki tarafına aynı sayıyı eklemek veya çıkarmak, denklemin çözümünü değiştirmez."
+  },
+  {
+    "instruction": "Yaş problemleri gerçek hayatta hangi durumlarda kullanılır?",
+    "output": "Yaş problemleri, genellikle aile bireyleri arasındaki yaş farklarını hesaplamak, geçmişte veya gelecekte belirli bir yaşa ulaşılacak zamanı belirlemek gibi durumlarda kullanılır. Ayrıca, demografik analizlerde ve nüfus araştırmalarında da yaş problemleri benzeri hesaplamalar yapılabilir."
+  }
+]

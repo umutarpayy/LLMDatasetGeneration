@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dikdörtgen nedir?",
+    "output": "Dikdörtgen, karşılıklı kenarları eşit ve dört dik açısı olan dörtgendir. Tüm iç açıları 90 derecedir ve paralelkenarın özel bir türüdür."
+  },
+  {
+    "instruction": "Dikdörtgenin köşegenleri hangi özelliklere sahiptir?",
+    "output": "Dikdörtgenin köşegenleri eşit uzunluktadır ve birbirlerini dik kesmezler. Köşegenler, dikdörtgenin karşılıklı köşelerini birleştirir ve dikdörtgeni iki eş üçgene böler."
+  },
+  {
+    "instruction": "Üçgenin alanı nasıl hesaplanır?",
+    "output": "Üçgenin alanı, taban uzunluğu ile yükseklik uzunluğunun çarpımının yarısına eşittir. Yani, alan = 1/2 × taban × yükseklik formülü kullanılır."
+  },
+  {
+    "instruction": "Köşegenlerin oluşturduğu üçgenler neden eş alanlıdır?",
+    "output": "Dikdörtgenin köşegenleri, dikdörtgeni dört eş üçgene böler. Bu üçgenlerin taban ve yükseklikleri simetrik olduğundan, alanları da birbirine eşittir."
+  },
+  {
+    "instruction": "Dikdörtgenin alanı nasıl hesaplanır?",
+    "output": "Dikdörtgenin alanı, uzun kenar ve kısa kenarın çarpımı ile bulunur. Yani, alan = uzun kenar × kısa kenar formülü kullanılır."
+  },
+  {
+    "instruction": "Köşegenlerin kesişim noktası hangi özelliklere sahiptir?",
+    "output": "Dikdörtgende köşegenlerin kesişim noktası, dikdörtgenin merkezidir ve bu nokta köşegenleri iki eşit parçaya böler."
+  },
+  {
+    "instruction": "Simetrik üçgenler nedir?",
+    "output": "Simetrik üçgenler, bir eksene veya noktaya göre birbirinin aynası olan üçgenlerdir. Dikdörtgenin köşegenleri tarafından oluşturulan üçgenler, simetrik üçgenlerdir."
+  },
+  {
+    "instruction": "Dikdörtgende köşegen uzunluğu nasıl bulunur?",
+    "output": "Dikdörtgende köşegen uzunluğu, Pisagor teoremi kullanılarak bulunur. Eğer dikdörtgenin kenar uzunlukları a ve b ise, köşegen uzunluğu √(a² + b²) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Dikdörtgenin köşegenleri neden eşittir?",
+    "output": "Dikdörtgenin köşegenleri, dikdörtgenin simetrik yapısı nedeniyle eşittir. Köşegenler, dikdörtgenin köşelerini birleştirir ve aynı uzunlukta olur."
+  },
+  {
+    "instruction": "Dikdörtgenin köşegenleri ile alan arasında nasıl bir ilişki vardır?",
+    "output": "Dikdörtgenin köşegenleri, alanı dört eşit üçgene böler. Her üçgenin alanı, dikdörtgenin toplam alanının dörtte birine eşittir."
+  }
+]

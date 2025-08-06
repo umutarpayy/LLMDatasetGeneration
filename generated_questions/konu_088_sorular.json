@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifadelerde üs nedir?",
+    "output": "Cebirsel ifadelerde üs, bir sayının veya değişkenin kendisiyle çarpılma sayısını gösteren küçük bir sayıdır. Örneğin, a^2 ifadesinde '2' üssü temsil eder ve a'nın kendisiyle iki kez çarpılacağını belirtir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde üslü terimler nasıl hesaplanır?",
+    "output": "Cebirsel ifadelerde üslü terimler, tabanın üslü sayısı kadar kendisiyle çarpılmasıyla hesaplanır. Örneğin, a^3 ifadesi, a'nın üç kez kendisiyle çarpılması anlamına gelir: a * a * a."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde işlem önceliği kuralları nelerdir?",
+    "output": "Cebirsel ifadelerde işlem önceliği, matematiksel işlemlerin doğru sırayla yapılmasını sağlar. Öncelik sırası parantez içindeki işlemler, üslü ifadeler, çarpma ve bölme (soldan sağa), toplama ve çıkarma (soldan sağa) şeklindedir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde sabit terim, değişken içermeyen, sadece bir sayıdan oluşan terimdir. Örneğin, 3x + 5 ifadesinde '5' sabit terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, katsayıların ve aynı değişkenlerin üslerinin çarpılmasıyla yapılır. Örneğin, 3x * 4x = 12x^2 olur, çünkü katsayılar çarpılır ve x'lerin üsleri toplanır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde negatif sayıların çarpımı nasıl yapılır?",
+    "output": "Cebirsel ifadelerde negatif sayıların çarpımı, iki negatif sayının çarpımının pozitif, bir negatif ve bir pozitif sayının çarpımının ise negatif olacağı kuralına göre yapılır. Örneğin, (-3) * (-4) = 12 ve (-3) * 4 = -12."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişken nedir?",
+    "output": "Cebirsel ifadelerde değişken, genellikle bir harf ile temsil edilen ve farklı değerler alabilen bilinmeyen bir sayıdır. Değişkenler, matematiksel ifadelerde sayılar yerine kullanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terim nedir?",
+    "output": "Cebirsel ifadelerde terim, çarpma veya bölme işlemleriyle birbirine bağlı olan sayı ve değişken gruplarıdır. Örneğin, 3x + 2y - 5 ifadesinde 3x, 2y ve -5 ayrı terimlerdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde katsayı, bir terimdeki değişkenin önündeki sayıdır. Katsayı, değişkenin kaç katı olduğunu gösterir. Örneğin, 5x ifadesinde '5' katsayıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezlerin rolü nedir?",
+    "output": "Cebirsel ifadelerde parantezler, işlemlerin öncelikli olarak yapılması gereken kısımlarını belirtir. Parantez içindeki işlemler, diğer işlemlerden önce yapılır, bu da işlem sırasını etkiler ve doğru sonuçlar elde edilmesini sağlar."
+  }
+]

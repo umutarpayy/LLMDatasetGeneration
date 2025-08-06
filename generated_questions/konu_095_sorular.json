@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem nedir?",
+    "output": "Denklem, iki matematiksel ifadenin eşit olduğunu belirten bir ifadedir. Genellikle bir veya daha fazla bilinmeyen içerir ve bu bilinmeyenlerin belirli değerlerini bulmak için çözülür."
+  },
+  {
+    "instruction": "Denklem nasıl çözülür?",
+    "output": "Denklem çözme, bilinmeyeni izole ederek ve eşitliğin her iki tarafında aynı işlemleri uygulayarak gerçekleştirilir. Amaç, bilinmeyenin değerini bulmaktır. Bu, toplama, çıkarma, çarpma veya bölme gibi işlemlerle yapılabilir."
+  },
+  {
+    "instruction": "Denklemlerin doğruluğu nasıl kontrol edilir?",
+    "output": "Bir denklemin doğruluğunu kontrol etmek için, bulduğunuz bilinmeyen değerini denkleme geri koyarak her iki tarafın eşit olup olmadığını kontrol edersiniz. Eğer eşitse, çözüm doğrudur."
+  },
+  {
+    "instruction": "Eşitlik nedir?",
+    "output": "Eşitlik, iki ifadenin eşit olduğunu belirten matematiksel bir ifadedir. Eşitlik, '=' sembolü ile gösterilir ve iki tarafın birbirine eşit olduğunu ifade eder."
+  },
+  {
+    "instruction": "Bir denklemi çözmek için hangi adımlar izlenir?",
+    "output": "Bir denklemi çözmek için öncelikle bilinmeyen terimleri bir tarafa, bilinen terimleri diğer tarafa toplamalısınız. Ardından, bilinmeyeni izole etmek için uygun matematiksel işlemleri uygulayın. Son olarak, bulduğunuz değeri denkleme geri koyarak doğruluğunu kontrol edin."
+  },
+  {
+    "instruction": "Denklemlerde çarpma işlemi nasıl yapılır?",
+    "output": "Denklemlerde çarpma işlemi, her iki tarafı aynı sayı ile çarparak yapılır. Bu işlem, denklemin eşitliğini bozmaz ve bilinmeyeni izole etmeye yardımcı olabilir."
+  },
+  {
+    "instruction": "Denklemlerde çıkarma işlemi nasıl yapılır?",
+    "output": "Denklemlerde çıkarma işlemi, her iki taraftan aynı sayıyı çıkararak yapılır. Bu işlem, denklemin eşitliğini korur ve bilinmeyeni izole etmeye yardımcı olabilir."
+  },
+  {
+    "instruction": "Bir denklemin çözümü ne anlama gelir?",
+    "output": "Bir denklemin çözümü, denklemi doğru yapan bilinmeyen değerdir. Bu, denklemin her iki tarafını eşit yapan sayıdır."
+  },
+  {
+    "instruction": "Denklemlerde bilinmeyen nedir?",
+    "output": "Denklemlerde bilinmeyen, genellikle bir harfle temsil edilen ve değerini bulmamız gereken değişkendir. Bu değişken, denklemi doğru yapan belirli bir değere sahiptir."
+  },
+  {
+    "instruction": "Denklemlerde hangi durumlarda kontrol yapılır?",
+    "output": "Denklemlerde kontrol, çözülen denklemin doğruluğunu teyit etmek için yapılır. Çözüm bulunduktan sonra, bu değeri denkleme geri koyarak her iki tarafın eşit olup olmadığını kontrol etmek önemlidir."
+  }
+]

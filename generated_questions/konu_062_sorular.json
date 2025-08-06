@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Asal çarpan nedir?",
+    "output": "Asal çarpan, bir sayının sadece 1 ve kendisi dışında başka bir sayıya bölünemeyen çarpanlarıdır. Asal çarpanlar, bir sayının asal sayıların çarpımı şeklinde ifade edilmesini sağlar."
+  },
+  {
+    "instruction": "Bir sayıyı asal çarpanlarına ayırma nasıl yapılır?",
+    "output": "Bir sayıyı asal çarpanlarına ayırmak için, sayıyı en küçük asal sayıdan başlayarak bölmeye çalışırız. Sayı asal sayıya bölünüyorsa, bölümü alır ve aynı işlemi kalan bölümle tekrarlarız. Bu işlem, sayı 1 olana kadar devam eder."
+  },
+  {
+    "instruction": "Karekök sadeleştirme nedir?",
+    "output": "Karekök sadeleştirme, bir sayının karekökü içinde bulunan çarpanları tam kare olacak şekilde ayırarak, karekök dışına çıkarmaktır. Bu işlem, karekök içindeki sayıyı daha basit bir forma dönüştürür."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanları nasıl bulunur?",
+    "output": "Bir sayının asal çarpanlarını bulmak için, sayıyı en küçük asal sayılardan başlayarak bölmeye çalışırız. Her başarılı bölme işleminden sonra, bölünen sayıyı tekrar asal sayılarla bölmeye devam ederiz. Bu işlem, sayıyı tamamen asal çarpanlarına ayırana kadar sürer."
+  },
+  {
+    "instruction": "Karekök sadeleştirme hangi durumlarda kullanılır?",
+    "output": "Karekök sadeleştirme, genellikle bir ifadenin daha basit bir forma dönüştürülmesi gerektiğinde kullanılır. Bu, matematiksel işlemleri daha kolay hale getirmek veya sonuçları daha anlaşılır kılmak için yapılır."
+  },
+  {
+    "instruction": "Tam kare sayı nedir ve nasıl tanımlanır?",
+    "output": "Tam kare sayı, bir sayının kendisiyle çarpılması sonucu elde edilen sayıdır. Örneğin, 4 bir tam kare sayıdır çünkü 2 x 2 = 4. Tam kare sayılar, karekökleri tam sayı olan sayılardır."
+  },
+  {
+    "instruction": "Karekök sadeleştirme işlemi hangi özelliklere sahiptir?",
+    "output": "Karekök sadeleştirme işlemi, bir sayının karekökü içindeki çarpanları tam kare olacak şekilde ayırarak dışarı çıkarmayı içerir. Bu işlem, bir ifadenin daha basit ve anlaşılır hale gelmesini sağlar ve matematiksel işlemleri kolaylaştırır."
+  },
+  {
+    "instruction": "Karekök sadeleştirme işlemi ne işe yarar?",
+    "output": "Karekök sadeleştirme işlemi, bir ifadenin daha basit bir forma dönüştürülmesine yardımcı olur. Bu, matematiksel işlemleri daha kolay hale getirir ve sonuçların daha anlaşılır olmasını sağlar."
+  },
+  {
+    "instruction": "Karekök sadeleştirme ile çarpanlara ayırma arasındaki fark nedir?",
+    "output": "Karekök sadeleştirme, bir sayının karekökü içinde bulunan çarpanları dışarı çıkarmayı hedeflerken, çarpanlara ayırma bir sayıyı asal çarpanlarına ayırmayı amaçlar. Karekök sadeleştirme, özellikle köklü ifadelerde kullanılırken, çarpanlara ayırma genel olarak tüm sayılar için uygulanabilir."
+  },
+  {
+    "instruction": "Karekök sadeleştirme işlemi sırasında nelere dikkat edilmelidir?",
+    "output": "Karekök sadeleştirme işlemi sırasında, karekök içindeki sayının asal çarpanlarına ayrılması ve tam kare olan çarpanların dışarı çıkarılması önemlidir. Ayrıca, sadeleştirme işlemi tamamlandığında ifadenin en basit formda olduğundan emin olunmalıdır."
+  }
+]

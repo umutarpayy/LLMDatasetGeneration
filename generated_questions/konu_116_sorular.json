@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem nedir?",
+    "output": "Denklem, iki matematiksel ifadenin eşit olduğunu belirten bir ifadedir. Genellikle bir veya daha fazla bilinmeyeni içerir ve bu bilinmeyenleri bulmak için çözülür."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafına aynı sayıyı eklemek neden geçerlidir?",
+    "output": "Bir denklemin her iki tarafına aynı sayıyı eklemek, denklemin eşitliğini bozmadan bilinmeyeni izole etmeye yardımcı olur. Bu işlem, denklemin her iki tarafını eşit tutar ve denklemin çözümünü değiştirmez."
+  },
+  {
+    "instruction": "Çarpan nedir?",
+    "output": "Çarpan, bir sayıyı böldüğünde kalansız sonuç veren sayıdır. Örneğin, 6'nın çarpanları 1, 2, 3 ve 6'dır."
+  },
+  {
+    "instruction": "Bir denklemi çözmek için hangi adımlar izlenir?",
+    "output": "Bir denklemi çözmek için genellikle şu adımlar izlenir: 1) Bilinmeyenleri bir tarafa, sabit terimleri diğer tarafa toplamak; 2) Bilinmeyeni izole etmek için denklemin her iki tarafına aynı işlemleri uygulamak; 3) Bilinmeyenin katsayısını 1 yapmak için gerekirse bölme işlemi uygulamak."
+  },
+  {
+    "instruction": "Bilinmeyen nedir?",
+    "output": "Bilinmeyen, genellikle bir harfle temsil edilen ve denklemin çözülmesiyle değeri bulunacak olan değişkendir. Matematikte en sık kullanılan bilinmeyen sembolü 'x'tir."
+  },
+  {
+    "instruction": "Katsayı nedir?",
+    "output": "Katsayı, bir terimdeki bilinmeyeni çarpan sayıdır. Örneğin, 3x teriminde, 3 katsayıdır ve x bilinmeyendir."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafını aynı sayıya bölmek neden geçerlidir?",
+    "output": "Bir denklemin her iki tarafını aynı sayıya bölmek, denklemin eşitliğini bozmadan bilinmeyeni izole etmeye yardımcı olur. Bu işlem, denklemin her iki tarafını eşit tutar ve denklemin çözümünü değiştirmez."
+  },
+  {
+    "instruction": "Tam sayılı kesir nedir?",
+    "output": "Tam sayılı kesir, bir tam sayı ve bir basit kesirden oluşan bir sayıdır. Örneğin, 1 tam 2/3, bir tam sayılı kesirdir."
+  },
+  {
+    "instruction": "Kesirli sayılar nasıl sadeleştirilir?",
+    "output": "Kesirli sayılar, pay ve paydasını aynı sayıya bölerek sadeleştirilir. Bu işlem, kesirin değerini değiştirmeden daha basit bir formda yazılmasını sağlar."
+  },
+  {
+    "instruction": "Bilinmeyeni izole etmek ne anlama gelir?",
+    "output": "Bilinmeyeni izole etmek, denklemin bir tarafında sadece bilinmeyeni bırakmak ve diğer tarafında ise sayısal bir değer elde etmek anlamına gelir. Bu, denklemi çözmenin önemli bir adımıdır."
+  }
+]

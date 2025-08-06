@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki ifadeyi karşılaştıran ve bu ifadelerden birinin diğerinden büyük, küçük veya eşit olmadığını belirten matematiksel bir ifadedir. Eşitsizlikler genellikle <, >, ≤, ve ≥ sembolleri ile gösterilir."
+  },
+  {
+    "instruction": "Tek adımlı eşitsizlikler hangi durumlarda kullanılır?",
+    "output": "Tek adımlı eşitsizlikler, genellikle bir değişkenin değerini bulmak için kullanılır. Bu tür eşitsizlikler, bir işlemin tersini uygulayarak çözülür ve günlük hayatta bütçe sınırlamaları veya miktar kısıtlamaları gibi durumlarda sıkça kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözüm kümesi nasıl ifade edilir?",
+    "output": "Eşitsizliklerin çözüm kümesi, eşitsizliği sağlayan tüm olası değerlerin bir kümesi olarak ifade edilir. Bu küme genellikle sayı doğrusunda bir aralık veya belirli bir değerler kümesi şeklinde gösterilir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi işlemler yapılabilir?",
+    "output": "Eşitsizlik çözümünde toplama, çıkarma, çarpma ve bölme işlemleri yapılabilir. Ancak çarpma veya bölme işlemi negatif bir sayı ile yapıldığında eşitsizlik işaretinin yönü değiştirilmelidir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Eşitsizlik çözümünde dikkat edilmesi gereken en önemli nokta, negatif bir sayı ile çarpma veya bölme yapıldığında eşitsizlik işaretinin yönünün değiştirilmesidir. Ayrıca, her iki tarafa aynı sayıyı eklemek veya çıkarmak eşitsizliği etkilemez."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafikle gösteriminde nelere dikkat edilmelidir?",
+    "output": "Eşitsizliklerin grafikle gösteriminde, eşitsizlik işaretine bağlı olarak açık veya kapalı noktalar kullanılır. Örneğin, < veya > işaretleri için açık nokta, ≤ veya ≥ işaretleri için kapalı nokta kullanılır. Çözüm aralığı ise sayı doğrusunda bir ok ile gösterilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin gerçek hayat uygulamaları nelerdir?",
+    "output": "Eşitsizlikler, bütçe planlaması, kaynak sınırlamaları, üretim kapasiteleri ve zaman yönetimi gibi birçok gerçek hayat senaryosunda kullanılır. Örneğin, bir projeye ayrılan bütçenin aşılmaması gerektiği durumlarda eşitsizlikler kullanılarak maksimum harcama sınırı belirlenir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi matematiksel kavramlar kullanılır?",
+    "output": "Eşitsizliklerin çözümünde temel cebirsel kavramlar kullanılır. Bunlar arasında toplama, çıkarma, çarpma, bölme işlemleri ve bu işlemlerin tersleri yer alır. Ayrıca, eşitsizlik işaretinin yönü ve çözüm kümesi kavramları da önemlidir."
+  },
+  {
+    "instruction": "Eşitsizlikler ve denklemler arasındaki fark nedir?",
+    "output": "Eşitsizlikler ve denklemler arasındaki temel fark, denklemlerin iki ifadenin eşit olduğunu belirtirken eşitsizliklerin bir ifadenin diğerinden büyük, küçük veya eşit olmadığını belirtmesidir. Denklemler genellikle tek bir çözüm sunarken, eşitsizlikler bir çözüm aralığı sunar."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde kullanılan semboller nelerdir?",
+    "output": "Eşitsizliklerin çözümünde kullanılan temel semboller <, >, ≤ ve ≥'dir. Bu semboller, iki ifadenin birbirine göre büyüklük veya küçüklük ilişkisini belirtir. Ayrıca, eşitsizliklerin grafiksel gösteriminde açık ve kapalı noktalar da kullanılır."
+  }
+]

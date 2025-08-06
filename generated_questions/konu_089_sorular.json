@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küpün yüzey alanı nedir?",
+    "output": "Küpün yüzey alanı, küpün dış yüzeylerinin toplam alanıdır. Bir küpün her bir yüzeyi kare şeklindedir ve toplamda altı yüzeyi vardır. Eğer küpün bir kenar uzunluğu x ise, bir yüzeyin alanı x^2 olur. Dolayısıyla, küpün toplam yüzey alanı 6x^2 olarak hesaplanır."
+  },
+  {
+    "instruction": "Küpün yüzey alanı nasıl hesaplanır?",
+    "output": "Küpün yüzey alanını hesaplamak için öncelikle bir yüzeyin alanını bulmalıyız. Bir yüzeyin alanı, kenar uzunluğunun karesine eşittir. Eğer küpün kenar uzunluğu x ise, bir yüzeyin alanı x^2 olur. Küpün toplam altı yüzeyi olduğu için, toplam yüzey alanı 6x^2 olarak hesaplanır."
+  },
+  {
+    "instruction": "Küpün yüzey alanı formülü ne işe yarar?",
+    "output": "Küpün yüzey alanı formülü, bir küpün dış yüzeylerinin toplam alanını hesaplamamıza yarar. Bu formül, boyama, kaplama veya paketleme gibi uygulamalarda gerekli olan malzeme miktarını belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Küp ile kare prizma arasındaki fark nedir?",
+    "output": "Küp, tüm kenar uzunlukları eşit olan bir prizmadır ve her yüzeyi kare şeklindedir. Kare prizma ise tabanları kare olan ancak yükseklikleri taban kenar uzunluğuna eşit olmayan prizmalardır. Yani, kare prizmanın yükseklik uzunluğu, taban kenar uzunluğundan farklı olabilir."
+  },
+  {
+    "instruction": "Bir küpün hacmi nasıl hesaplanır?",
+    "output": "Bir küpün hacmi, kenar uzunluğunun küpü alınarak hesaplanır. Eğer küpün kenar uzunluğu x ise, hacmi x^3 olur. Bu, küpün içindeki toplam üç boyutlu alanı ifade eder."
+  },
+  {
+    "instruction": "Küpün yüzey alanı hangi durumlarda kullanılır?",
+    "output": "Küpün yüzey alanı, boyama, kaplama, paketleme gibi işlemlerde gereklidir. Örneğin, bir kutunun dış yüzeyini boyamak için ne kadar boya gerektiğini hesaplamak için yüzey alanı kullanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenin rolü nedir?",
+    "output": "Cebirsel ifadelerde değişken, bir veya birden fazla sayının yerine kullanılabilen sembollerdir. Değişkenler, genellikle x, y, z gibi harflerle gösterilir ve bu ifadelerin genel formüller veya denklemler halinde yazılmasına olanak tanır."
+  },
+  {
+    "instruction": "Küpün yüzey alanı ve hacmi arasındaki fark nedir?",
+    "output": "Küpün yüzey alanı, küpün dış yüzeylerinin toplam alanıdır ve birim kare cinsinden ölçülür. Hacim ise küpün içindeki üç boyutlu alanı ifade eder ve birim küp cinsinden ölçülür. Yüzey alanı 6x^2 formülüyle, hacim ise x^3 formülüyle hesaplanır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde üslü terimler nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde üslü terimler, bir değişkenin belirli bir kuvvetine yükseltilmiş haliyle ifade edilen terimlerdir. Örneğin, x^2 ifadesi, x değişkeninin karesini temsil eder. Üslü terimler, polinomların ve diğer cebirsel ifadelerin önemli bir parçasıdır."
+  },
+  {
+    "instruction": "Küpün yüzey alanı hesaplamasında dikkat edilmesi gerekenler nelerdir?",
+    "output": "Küpün yüzey alanı hesaplanırken, tüm kenar uzunluklarının eşit olduğundan emin olunmalıdır. Ayrıca, yüzey alanı hesaplanırken bir yüzeyin alanı x^2 olarak bulunmalı ve toplam altı yüzeyin alanı 6x^2 olarak hesaplanmalıdır. Hesaplamalarda birimlerin tutarlılığına da dikkat edilmelidir."
+  }
+]

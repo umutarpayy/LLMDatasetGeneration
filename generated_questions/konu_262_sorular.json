@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Koordinat düzleminde genişletme nedir?",
+    "output": "Koordinat düzleminde genişletme, bir şeklin belirli bir merkez noktasına göre tüm noktalarının belirli bir oranla uzaklaştırılması işlemidir. Bu işlem sonucunda şeklin boyutları orantılı olarak büyür, ancak şeklin biçimi değişmez."
+  },
+  {
+    "instruction": "Genişletme işlemi nasıl yapılır?",
+    "output": "Genişletme işlemi, bir şeklin her bir noktasının belirli bir merkez noktasına olan uzaklığının belirli bir ölçek faktörü ile çarpılmasıyla yapılır. Bu işlem sonucunda, şeklin her noktasının merkezden olan uzaklığı ölçek faktörü kadar artar."
+  },
+  {
+    "instruction": "Pisagor teoremi nedir ve nasıl kullanılır?",
+    "output": "Pisagor teoremi, bir dik üçgende, dik kenarların karelerinin toplamının hipotenüsün karesine eşit olduğunu ifade eder. Matematiksel olarak, a² + b² = c² şeklinde ifade edilir. Bu teorem, dik üçgenlerde kenar uzunluklarını bulmak için kullanılır."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir şeklin genişletilmesi hangi özelliklere sahiptir?",
+    "output": "Koordinat düzleminde bir şeklin genişletilmesi, şeklin her noktasının belirli bir merkezden eşit oranda uzaklaştırılması anlamına gelir. Bu işlem şeklin boyutlarını artırır ancak biçimini değiştirmez. Genişletme oranı, şeklin yeni boyutlarını belirler."
+  },
+  {
+    "instruction": "Bir üçgenin koordinat düzleminde genişletilmesi ne işe yarar?",
+    "output": "Bir üçgenin koordinat düzleminde genişletilmesi, üçgenin boyutlarını belirli bir oranda artırarak daha büyük bir üçgen elde etmeyi sağlar. Bu işlem, benzerlik ve ölçekleme kavramlarını anlamak için kullanılabilir."
+  },
+  {
+    "instruction": "Koordinat düzleminde genişletme işlemi ile döndürme işlemi arasındaki fark nedir?",
+    "output": "Genişletme işlemi, bir şeklin boyutlarını belirli bir merkezden orantılı olarak artırırken, döndürme işlemi bir şeklin belirli bir merkez etrafında belirli bir açıyla dönmesini sağlar. Genişletme şeklin boyutlarını değiştirirken, döndürme şeklin boyutlarını değiştirmez, sadece konumunu değiştirir."
+  },
+  {
+    "instruction": "Genişletme işlemi hangi durumlarda kullanılır?",
+    "output": "Genişletme işlemi, şekillerin boyutlarını artırarak daha büyük ölçekli modeller oluşturmak, benzerlik kavramını öğretmek ve grafiksel ölçekleme yapmak gibi durumlarda kullanılır. Ayrıca, mühendislik ve mimarlık gibi alanlarda da ölçekli modeller oluşturmak için kullanılır."
+  },
+  {
+    "instruction": "Bir üçgenin kenar uzunlukları genişletme sonrası nasıl hesaplanır?",
+    "output": "Bir üçgenin kenar uzunlukları genişletme sonrası, orijinal kenar uzunluklarının genişletme ölçeği ile çarpılmasıyla hesaplanır. Örneğin, bir kenar uzunluğu 5 birim olan bir üçgen, 2 kat genişletildiğinde, yeni kenar uzunluğu 10 birim olur."
+  },
+  {
+    "instruction": "Genişletme işlemi sırasında sabit nokta seçimi neden önemlidir?",
+    "output": "Genişletme işlemi sırasında sabit nokta seçimi önemlidir çünkü bu nokta, genişletme işleminin merkezini belirler. Tüm diğer noktalar bu merkeze göre uzaklaştırılır. Sabit noktanın seçimi, genişletilmiş şeklin konumunu ve boyutlarını doğrudan etkiler."
+  },
+  {
+    "instruction": "Genişletme işlemi ile benzerlik arasındaki ilişki nedir?",
+    "output": "Genişletme işlemi, benzerlik kavramının bir uygulamasıdır. Bir şeklin belirli bir oranla genişletilmesi, orijinal şeklin benzeri olan daha büyük bir şekil oluşturur. Bu işlem, benzer şekillerin orantılı olarak büyümesi veya küçülmesi prensibine dayanır."
+  }
+]

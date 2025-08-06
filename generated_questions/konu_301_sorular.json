@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzer üçgenler nedir?",
+    "output": "Benzer üçgenler, karşılıklı açıları eşit ve karşılıklı kenarları orantılı olan üçgenlerdir. Bu özellikler sayesinde, benzer üçgenlerin şekli aynıdır ancak boyutları farklı olabilir."
+  },
+  {
+    "instruction": "Açı-Kenar-Açı (AKA) benzerlik teoremi nedir?",
+    "output": "Açı-Kenar-Açı (AKA) benzerlik teoremi, iki üçgenin birer açıları ve bu açılar arasındaki kenarları eşit olduğunda, bu üçgenlerin benzer olduğunu ifade eder. Bu teorem, iki üçgenin benzerliğini ispatlamak için kullanılır."
+  },
+  {
+    "instruction": "Yansıma özelliği nedir?",
+    "output": "Yansıma özelliği, bir geometrik şeklin veya açının kendi üzerine eşit olması durumudur. Örneğin, bir açının ölçüsü kendisine eşittir, yani A açısı A açısına eşittir."
+  },
+  {
+    "instruction": "Karşılıklı kenarlar nedir ve ne anlama gelir?",
+    "output": "Karşılıklı kenarlar, benzer veya eş üçgenlerde aynı konumda bulunan ve birbirine karşılık gelen kenarlardır. Benzer üçgenlerde bu kenarlar orantılıdır, eş üçgenlerde ise eşittir."
+  },
+  {
+    "instruction": "Geometrik ispatlarda iki kolon yöntemi nedir?",
+    "output": "İki kolon yöntemi, geometrik ispatlarda kullanılan bir tekniktir. Bir kolon ifadelere, diğer kolon ise bu ifadelerin gerekçelerine ayrılır. Bu yöntem, ispatın adım adım ve mantıklı bir şekilde yapılmasını sağlar."
+  },
+  {
+    "instruction": "Açı-Açı-Kenar (AAK) benzerlik teoremi nedir?",
+    "output": "Açı-Açı-Kenar (AAK) benzerlik teoremi, iki üçgenin iki açıları ve bu açılardan biri arasındaki kenarları eşit olduğunda, bu üçgenlerin benzer olduğunu ifade eder. Bu teorem, üçgenlerin benzerliğini ispatlamak için kullanılır."
+  },
+  {
+    "instruction": "Benzer üçgenlerin özellikleri nelerdir?",
+    "output": "Benzer üçgenlerin özellikleri arasında karşılıklı açıların eşit olması ve karşılıklı kenarların orantılı olması bulunur. Bu özellikler, benzer üçgenlerin aynı şekle sahip olmasını sağlar, ancak boyutları farklı olabilir."
+  },
+  {
+    "instruction": "Geometride 'verilenler' nasıl kullanılır?",
+    "output": "Geometride 'verilenler', bir problemin çözümünde başlangıç noktası olarak kullanılır. Verilen bilgiler, ispat veya çözüm sürecinde kullanılacak temel bilgileri sağlar ve bu bilgiler üzerinden mantıklı sonuçlara ulaşılır."
+  },
+  {
+    "instruction": "Üçgenlerde açı kenar açı benzerliği nasıl kullanılır?",
+    "output": "Üçgenlerde açı kenar açı benzerliği, iki üçgenin birer açıları ve bu açılar arasındaki kenarları eşit olduğunda kullanılır. Bu durumda, üçgenlerin benzer olduğu sonucuna varılır ve bu benzerlik, üçgenlerin diğer özelliklerini belirlemek için kullanılabilir."
+  },
+  {
+    "instruction": "Geometrik şekillerde karşılıklı açılar nasıl belirlenir?",
+    "output": "Geometrik şekillerde karşılıklı açılar, genellikle iki şeklin benzer veya eş olduğunu belirlemek için kullanılır. Bu açılar, şekillerin aynı konumunda bulunan ve ölçüleri eşit olan açılardır. Karşılıklı açılar, şekillerin simetrik veya benzer olduğunu göstermek için önemlidir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Sütun grafiği nedir?",
+    "output": "Sütun grafiği, kategorik verileri görselleştirmek için kullanılan bir grafik türüdür. Her bir kategori, dikey veya yatay sütunlarla temsil edilir ve sütunların yüksekliği veya uzunluğu, o kategorinin frekansını veya miktarını gösterir."
+  },
+  {
+    "instruction": "Sütun grafiği nasıl oluşturulur?",
+    "output": "Sütun grafiği oluşturmak için öncelikle kategorik veriler belirlenir. Her kategori için bir sütun çizilir ve sütunların yüksekliği, o kategorinin frekansına veya miktarına göre ayarlanır. Sütunlar genellikle eşit aralıklarla yerleştirilir ve grafik üzerinde eksenler, etiketler ve başlıklar eklenerek tamamlanır."
+  },
+  {
+    "instruction": "Sütun grafiği hangi durumlarda kullanılır?",
+    "output": "Sütun grafikleri, kategorik verilerin karşılaştırılması gerektiğinde kullanılır. Özellikle farklı kategoriler arasındaki miktar veya frekans farklarını görselleştirmek için idealdir. Ayrıca, zaman içindeki değişiklikleri veya eğilimleri göstermek için de kullanılabilir."
+  },
+  {
+    "instruction": "Sütun grafiği ile histogram arasındaki fark nedir?",
+    "output": "Sütun grafiği, kategorik verileri temsil ederken, histogram sürekli verilerin dağılımını gösterir. Sütun grafiğinde sütunlar arasında boşluklar bulunurken, histogramda sütunlar bitişiktir ve sürekli veri aralıklarını temsil eder."
+  },
+  {
+    "instruction": "Sütun grafiği yorumlarken nelere dikkat edilmelidir?",
+    "output": "Sütun grafiği yorumlarken sütunların yüksekliği veya uzunluğu dikkatlice incelenmelidir. Bu, kategoriler arasındaki farkları anlamaya yardımcı olur. Ayrıca, eksenlerin ölçeklendirilmesi ve etiketlerin doğruluğu da önemlidir."
+  },
+  {
+    "instruction": "Sütun grafiğinin avantajları nelerdir?",
+    "output": "Sütun grafiği, verileri görselleştirmenin ve karşılaştırmanın kolay bir yolunu sunar. Kategorik veriler arasındaki farkları hızlı bir şekilde anlamamızı sağlar ve görsel olarak çekici ve anlaşılırdır."
+  },
+  {
+    "instruction": "Sütun grafiği nasıl yorumlanır?",
+    "output": "Sütun grafiğini yorumlamak için her bir sütunun yüksekliğine bakarak hangi kategorinin daha fazla veya daha az olduğunu belirleyebilirsiniz. Sütunların sıralaması ve aralarındaki farklar, verinin genel eğilimi hakkında bilgi verir."
+  },
+  {
+    "instruction": "Sütun grafiğinde eksenler nasıl belirlenir?",
+    "output": "Sütun grafiğinde yatay eksen genellikle kategorileri temsil ederken, dikey eksen miktar veya frekansı gösterir. Eksenler, verilerin doğru bir şekilde temsil edilmesi için uygun bir ölçekle etiketlenmelidir."
+  },
+  {
+    "instruction": "Sütun grafiği ile çizgi grafiği arasındaki fark nedir?",
+    "output": "Sütun grafiği kategorik verileri temsil ederken, çizgi grafiği genellikle zaman içindeki değişiklikleri veya sürekli verileri gösterir. Çizgi grafiğinde veriler noktalarla gösterilir ve bu noktalar bir çizgi ile birleştirilir."
+  },
+  {
+    "instruction": "Sütun grafiği hangi tür veriler için uygun değildir?",
+    "output": "Sütun grafiği, sürekli verilerin dağılımını göstermek için uygun değildir. Sürekli veriler için histogram veya çizgi grafiği gibi grafik türleri daha uygun olacaktır."
+  }
+]

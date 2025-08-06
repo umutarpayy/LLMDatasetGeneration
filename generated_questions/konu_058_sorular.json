@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bilimsel gösterim nedir?",
+    "output": "Bilimsel gösterim, çok büyük veya çok küçük sayıları daha kolay ifade etmek için kullanılan bir yöntemdir. Bu gösterimde bir sayı, 1 ile 10 arasında bir sayı ile 10'un bir kuvvetinin çarpımı şeklinde yazılır. Örneğin, 4500 sayısı bilimsel gösterimle 4.5 x 10^3 şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m x a^n = a^(m+n) şeklinde hesaplanır. Bu kural, üslü ifadelerin çarpılmasını kolaylaştırır ve işlemleri daha hızlı yapmamızı sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde hesaplanır. Bu kural, üslü ifadelerin sadeleştirilmesini ve daha basit bir forma dönüştürülmesini sağlar."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayının 1 ile 10 arasında olması neden önemlidir?",
+    "output": "Bilimsel gösterimde sayının 1 ile 10 arasında olması, standardizasyon sağlar ve sayının büyüklüğünü daha kolay anlamamıza yardımcı olur. Bu aralık, sayının büyüklüğünü temsil ederken, 10'un kuvveti sayının ölçeğini belirtir."
+  },
+  {
+    "instruction": "Ondalık sayılar bilimsel gösterimle nasıl ifade edilir?",
+    "output": "Ondalık sayılar bilimsel gösterimle ifade edilirken, sayı 1 ile 10 arasında olacak şekilde yeniden düzenlenir ve uygun bir 10'un kuvveti ile çarpılır. Örneğin, 0.002 sayısı bilimsel gösterimle 2 x 10^-3 şeklinde yazılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde negatif üsler neyi ifade eder?",
+    "output": "Bilimsel gösterimde negatif üsler, sayının 1'den küçük olduğunu ve ondalık bir sayı olduğunu belirtir. Örneğin, 10^-2 ifadesi, 1'in 100'e bölünmesi anlamına gelir, yani 0.01 sayısını temsil eder."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi nasıl yapılır?",
+    "output": "Bilimsel gösterimde çarpma işlemi yapılırken, katsayılar çarpılır ve 10'un kuvvetleri toplanır. Örneğin, (2 x 10^3) x (3 x 10^4) işlemi, 2 x 3 x 10^(3+4) = 6 x 10^7 olarak hesaplanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde bölme işlemi nasıl yapılır?",
+    "output": "Bilimsel gösterimde bölme işlemi yapılırken, katsayılar bölünür ve 10'un kuvvetleri çıkarılır. Örneğin, (6 x 10^7) / (2 x 10^3) işlemi, 6/2 x 10^(7-3) = 3 x 10^4 olarak hesaplanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayıların sıralaması nasıl yapılır?",
+    "output": "Bilimsel gösterimde sayıların sıralaması, öncelikle 10'un kuvvetlerine göre yapılır. Kuvvetler eşitse, katsayılar karşılaştırılır. Daha büyük kuvvet veya katsayıya sahip olan sayı daha büyüktür."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma ve bölme işlemlerinin kuralları nelerdir?",
+    "output": "Bilimsel gösterimde çarpma işlemi yapılırken katsayılar çarpılır ve 10'un kuvvetleri toplanır. Bölme işlemi yapılırken ise katsayılar bölünür ve 10'un kuvvetleri çıkarılır. Bu kurallar, işlemleri daha sistematik ve kolay hale getirir."
+  }
+]

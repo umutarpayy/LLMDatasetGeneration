@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki ifadenin birbirine eşit olmadığını belirten matematiksel bir ifade türüdür. Genellikle '>', '<', '≥', '≤' sembolleri kullanılarak ifade edilir. Eşitsizlikler, bir ifadenin diğerinden büyük, küçük, büyük veya eşit, küçük veya eşit olduğunu gösterir."
+  },
+  {
+    "instruction": "Bir eşitsizliğin grafiği nasıl çizilir?",
+    "output": "Bir eşitsizliğin grafiğini çizmek için öncelikle eşitsizliği bir denklem gibi ele alarak grafiğini çizeriz. Ardından, eşitsizlik sembolüne göre doğru çizgisinin hangi tarafının çözüme dahil olduğunu belirleriz. Eğer eşitsizlik '≤' veya '≥' ise doğru çizgisi dolu çizilir, '<' veya '>' ise kesik çizgi kullanılır. Çözüme dahil olan bölge taranır."
+  },
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikey eksende ne kadar yükseldiğini veya alçaldığını gösteren bir ölçüdür. Matematiksel olarak, eğim 'm' ile gösterilir ve iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır: m = (y2 - y1) / (x2 - x1)."
+  },
+  {
+    "instruction": "Kesim noktası nedir?",
+    "output": "Kesim noktası, bir doğrunun koordinat eksenlerinden biriyle kesiştiği noktadır. Y-eksenini kestiği nokta 'y-kesim noktası' olarak adlandırılır ve genellikle b ile gösterilir. Bu nokta, x=0 olduğunda doğrunun y değeridir."
+  },
+  {
+    "instruction": "Bir eşitsizlikte çözüm kümesi nasıl belirlenir?",
+    "output": "Bir eşitsizlikte çözüm kümesi, eşitsizliği sağlayan tüm x ve y değerlerinin oluşturduğu kümedir. Çözüm kümesi, eşitsizliğin grafiği üzerinde taranan bölgeyi temsil eder ve bu bölgedeki tüm noktalar eşitsizliği sağlar."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde neden işaret değiştiririz?",
+    "output": "Eşitsizlik çözümünde her iki tarafı negatif bir sayı ile çarptığımızda veya böldüğümüzde, eşitsizliğin yönü değişir. Bu, negatif sayıların çarpma ve bölme işlemlerinde yön değiştirme kuralından kaynaklanır."
+  },
+  {
+    "instruction": "Eşitsizlikler hangi durumlarda kullanılır?",
+    "output": "Eşitsizlikler, günlük hayatta karşılaştırma ve sınırlama gerektiren durumlarda kullanılır. Örneğin, bütçe hesaplamaları, hız sınırları, kapasite sınırlamaları, zaman yönetimi gibi konularda eşitsizlikler kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde grafiksel yöntemlerin avantajları nelerdir?",
+    "output": "Grafiksel yöntemler, eşitsizliklerin çözümünü görsel olarak anlamayı kolaylaştırır. Çözüm kümesinin hangi bölgede olduğunu net bir şekilde gösterir ve birden fazla eşitsizlik içeren sistemlerde çözüm kümesinin kesişim noktalarını belirlemeyi sağlar."
+  },
+  {
+    "instruction": "Bir eşitsizlik sisteminin çözümü nasıl yapılır?",
+    "output": "Bir eşitsizlik sisteminin çözümü, her bir eşitsizliğin çözüm kümesinin kesişim kümesini bulmakla yapılır. Grafiksel olarak, her bir eşitsizliğin grafiği çizilir ve tüm eşitsizlikleri aynı anda sağlayan bölge belirlenir."
+  },
+  {
+    "instruction": "Doğrusal bir eşitsizliğin eğimi neyi ifade eder?",
+    "output": "Doğrusal bir eşitsizliğin eğimi, doğrunun yatay eksene göre dikey eksende ne kadar yükseldiğini veya alçaldığını gösterir. Eğim, doğrunun dikliğini ve yönünü belirler; pozitif eğim yukarı doğru, negatif eğim aşağı doğru eğimli bir doğruyu ifade eder."
+  }
+]

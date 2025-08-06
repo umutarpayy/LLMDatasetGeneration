@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikey eksende ne kadar yükseldiğini veya alçaldığını belirten bir ölçüdür. Matematiksel olarak, eğim 'm' ile gösterilir ve iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl bulunur?",
+    "output": "Bir doğrunun eğimi, iki nokta arasındaki dikey değişimin (y değerlerindeki fark) yatay değişime (x değerlerindeki fark) oranı olarak hesaplanır. Formül olarak, eğim m = (y2 - y1) / (x2 - x1) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Y eksenini kesen nokta nedir?",
+    "output": "Y eksenini kesen nokta, bir doğrunun y ekseniyle kesiştiği noktadır. Bu nokta, x'in sıfır olduğu durumda y'nin aldığı değeri gösterir ve genellikle 'b' ile ifade edilir. Doğrunun denklemi y = mx + b formunda yazıldığında, b değeri y eksenini kesen noktayı temsil eder."
+  },
+  {
+    "instruction": "Doğrusal bir denklem grafiği nasıl çizilir?",
+    "output": "Doğrusal bir denklem grafiği çizmek için önce y eksenini kesen noktayı belirleyin ve bu noktayı grafiğe işaretleyin. Ardından, eğimi kullanarak bu noktadan başlayarak doğruyu çizin. Eğim, sağa doğru belirli bir yatay mesafe hareket ettiğinizde ne kadar dikey hareket edeceğinizi belirtir. Bu iki adımı takip ederek doğruyu çizebilirsiniz."
+  },
+  {
+    "instruction": "Denklem sistemlerinde grafik yöntemi neden kullanılır?",
+    "output": "Grafik yöntemi, denklem sistemlerini çözmek için görsel bir yaklaşım sunar. Bu yöntem, iki veya daha fazla doğrunun grafiklerini çizerek kesişim noktalarını belirlemeyi sağlar. Kesişim noktası, denklem sisteminin çözümünü temsil eder. Bu yöntem, özellikle çözümü görselleştirmek ve anlamak için faydalıdır."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl yazılır?",
+    "output": "Bir doğrunun denklemi genellikle y = mx + b formunda yazılır. Burada 'm' eğimi, 'b' ise y eksenini kesen noktayı temsil eder. Eğim ve y eksenini kesen nokta bilindiğinde, bu formül kullanılarak doğrunun denklemi oluşturulabilir."
+  },
+  {
+    "instruction": "Grafik üzerinde iki doğrunun kesişim noktası nasıl bulunur?",
+    "output": "Grafik üzerinde iki doğrunun kesişim noktası, her iki doğrunun da üzerinde geçtiği ortak noktadır. Bu noktayı bulmak için her iki doğrunun grafiklerini çizin ve kesiştikleri noktayı belirleyin. Bu noktadaki x ve y değerleri, denklem sisteminin çözümünü temsil eder."
+  },
+  {
+    "instruction": "Eğim ve y eksenini kesen nokta arasındaki ilişki nedir?",
+    "output": "Eğim ve y eksenini kesen nokta, bir doğrunun y = mx + b şeklindeki denkleminin iki önemli bileşenidir. Eğim, doğrunun ne kadar dik olduğunu belirlerken, y eksenini kesen nokta doğrunun y ekseniyle kesiştiği noktayı gösterir. Bu iki bileşen, doğrunun grafiğini tam olarak belirlemek için yeterlidir."
+  },
+  {
+    "instruction": "Doğrunun eğimi pozitif, negatif veya sıfır olduğunda ne anlama gelir?",
+    "output": "Bir doğrunun eğimi pozitifse, doğru yukarı doğru eğimlidir ve x arttıkça y de artar. Eğer eğim negatifse, doğru aşağı doğru eğimlidir ve x arttıkça y azalır. Eğim sıfır olduğunda, doğru yataydır ve y sabit kalır."
+  },
+  {
+    "instruction": "Grafik yöntemiyle çözüm bulmanın dezavantajları nelerdir?",
+    "output": "Grafik yöntemiyle çözüm bulmanın dezavantajları arasında, grafiklerin elle çizilmesi durumunda kesin çözüm elde etmenin zor olması ve özellikle kesişim noktalarının tam sayı olmadığı durumlarda doğruluk sorunları yaşanması yer alır. Ayrıca, büyük ölçekli veya karmaşık sistemler için grafik yöntemi pratik olmayabilir."
+  }
+]

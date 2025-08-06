@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde negatif üsler nasıl sadeleştirilir?",
+    "output": "Negatif üsler, tabanın tersini alarak pozitif üs haline getirilebilir. Örneğin, a üzeri eksi n ifadesi, 1 bölü a üzeri n olarak yazılır. Bu, negatif üslerin pozitif hale getirilmesi için kullanılan temel bir yöntemdir."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanları aynı olan ifadeler nasıl sadeleştirilir?",
+    "output": "Tabanları aynı olan üslü ifadeler çarpılırken, üsler toplanır. Örneğin, a üzeri m çarpı a üzeri n ifadesi, a üzeri m artı n olarak sadeleştirilir. Bölme işlemlerinde ise üsler çıkarılır, yani a üzeri m bölü a üzeri n ifadesi a üzeri m eksi n olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, x üzeri a çarpı x üzeri b ifadesi, x üzeri a artı b olarak yazılır. Eğer tabanlar farklıysa, ifadeler ayrı ayrı çarpılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde parantezlerin önemi nedir?",
+    "output": "Üslü ifadelerde parantezler, işlemlerin sırasını ve hangi ifadelerin birlikte ele alınacağını belirlemek için kullanılır. Parantez içindeki ifadelerin üssü alınırken, parantez dışındaki üssün tüm paranteze uygulanması gerekir. Örneğin, (x çarpı y) üzeri n ifadesi, x üzeri n çarpı y üzeri n olarak açılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetlerin dağıtılması nasıl yapılır?",
+    "output": "Üslü ifadelerde kuvvetlerin dağıtılması, parantez içindeki her terime üssün ayrı ayrı uygulanması ile yapılır. Örneğin, (a çarpı b) üzeri n ifadesi, a üzeri n çarpı b üzeri n olarak yazılır. Bu işlem, her bir terimin üssünün alınması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sıfır üssü nasıl yorumlanır?",
+    "output": "Üslü ifadelerde herhangi bir sayının sıfır üssü, 1'e eşittir. Bu, a üzeri 0 = 1 şeklinde ifade edilir. Bu kural, sıfır olmayan tüm sayılar için geçerlidir ve üslü ifadelerin temel özelliklerinden biridir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpanlara ayırma işlemi ne zaman yapılır?",
+    "output": "Üslü ifadelerde çarpanlara ayırma, ifadeyi daha basit hale getirmek veya belirli bir faktörle bölünebilirliğini kontrol etmek için yapılır. Örneğin, polinomların çarpanlarına ayrılması, köklerin bulunması veya ifadelerin sadeleştirilmesi amacıyla kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin toplamı ve farkı nasıl hesaplanır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken üsler toplanır, bölme işlemi yapılırken üsler çıkarılır. Örneğin, a üzeri m çarpı a üzeri n ifadesi a üzeri m artı n olurken, a üzeri m bölü a üzeri n ifadesi a üzeri m eksi n olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı olduğunda işlemler nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı olduğunda, her bir ifade ayrı ayrı ele alınır. Çarpma veya bölme işlemi yapılırken, tabanlar aynı olmadığı sürece doğrudan üsleri toplayamaz veya çıkaramazsınız. Her bir terim kendi içinde işleme tabi tutulur."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üslerin pozitif hale getirilmesi ne işe yarar?",
+    "output": "Negatif üslerin pozitif hale getirilmesi, ifadelerin daha kolay anlaşılmasını ve hesaplanmasını sağlar. Negatif üsler, tabanın tersini alarak pozitif üs haline getirilir, bu da işlemleri basitleştirir ve sadeleştirilmiş bir form elde edilmesine yardımcı olur."
+  }
+]

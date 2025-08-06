@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bileşik eşitsizlik nedir?",
+    "output": "Bileşik eşitsizlik, iki veya daha fazla eşitsizliğin bir arada ele alındığı ve genellikle 've' veya 'veya' bağlaçları ile birbirine bağlandığı bir matematiksel ifadedir. 'Ve' bağlacı, her iki eşitsizliğin de aynı anda sağlanması gerektiğini belirtirken, 'veya' bağlacı, eşitsizliklerden en az birinin sağlanmasının yeterli olduğunu belirtir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözüm kümesi nasıl belirlenir?",
+    "output": "Bileşik eşitsizliklerin çözüm kümesi, her bir eşitsizlik ayrı ayrı çözüldükten sonra, bu çözümlerin 've' veya 'veya' bağlaçlarına göre birleştirilmesiyle belirlenir. 'Ve' bağlacı kullanılıyorsa, her iki eşitsizliğin de sağlandığı ortak değerler çözüm kümesini oluşturur. 'Veya' bağlacı kullanılıyorsa, herhangi bir eşitsizliğin sağlandığı değerler çözüm kümesini oluşturur."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerde 've' bağlacı nasıl çalışır?",
+    "output": "'Ve' bağlacı, bileşik eşitsizliklerde her iki eşitsizliğin de aynı anda sağlanması gerektiğini ifade eder. Bu durumda, çözüm kümesi her iki eşitsizliğin kesişimini, yani ortak çözüm kümesini temsil eder. Eğer iki eşitsizliğin kesişimi yoksa, çözüm kümesi boştur."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerde 'veya' bağlacı nasıl çalışır?",
+    "output": "'Veya' bağlacı, bileşik eşitsizliklerde eşitsizliklerden en az birinin sağlanmasının yeterli olduğunu ifade eder. Bu durumda, çözüm kümesi her iki eşitsizliğin birleşimini, yani herhangi bir eşitsizliği sağlayan tüm değerleri kapsar."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözümünde hangi durumlarda çözüm kümesi boş olur?",
+    "output": "Bileşik eşitsizliklerde çözüm kümesi, 've' bağlacı kullanıldığında ve iki eşitsizliğin kesişimi olmadığında boş olur. Bu, her iki eşitsizliğin aynı anda sağlanabileceği hiçbir değer olmadığı anlamına gelir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerde çözüm kümesi nasıl gösterilir?",
+    "output": "Bileşik eşitsizliklerin çözüm kümesi genellikle sayı doğrusu üzerinde veya küme gösterimi ile ifade edilir. Sayı doğrusu üzerinde, çözüm kümesi bir aralık veya aralıklar olarak gösterilir. Küme gösteriminde ise çözüm kümesi, uygun aralıklar veya birleşimlerle ifade edilir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözümünde hangi işlemler yapılır?",
+    "output": "Bileşik eşitsizliklerin çözümünde her bir eşitsizlik ayrı ayrı ele alınır ve çözülür. Bu süreçte, eşitsizliklerin her iki tarafına aynı sayıyı eklemek veya çıkarmak, her iki tarafı aynı pozitif sayıyla çarpmak veya bölmek gibi işlemler yapılır. Negatif bir sayıyla çarpma veya bölme durumunda eşitsizliğin yönü değiştirilir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözümünde dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Bileşik eşitsizliklerin çözümünde, her bir eşitsizliğin ayrı ayrı doğru bir şekilde çözülmesi önemlidir. Özellikle negatif bir sayıyla çarpma veya bölme durumunda eşitsizliğin yönünün değiştirilmesi gerektiği unutulmamalıdır. Ayrıca, 've' ve 'veya' bağlaçlarının doğru bir şekilde uygulanması, çözüm kümesinin doğru belirlenmesi açısından kritiktir."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözümünde sayı doğrusu nasıl kullanılır?",
+    "output": "Bileşik eşitsizliklerin çözümünde sayı doğrusu, çözüm kümesinin görsel olarak temsil edilmesi için kullanılır. Her bir eşitsizlik için belirlenen aralıklar sayı doğrusu üzerinde işaretlenir ve 've' veya 'veya' bağlaçlarına göre bu aralıkların kesişimi veya birleşimi belirlenir. Bu, çözüm kümesinin görsel olarak anlaşılmasını sağlar."
+  },
+  {
+    "instruction": "Bileşik eşitsizliklerin çözümünde hangi stratejiler uygulanabilir?",
+    "output": "Bileşik eşitsizliklerin çözümünde, her bir eşitsizliği ayrı ayrı çözmek ve ardından 've' veya 'veya' bağlaçlarına göre bu çözümleri birleştirmek temel stratejidir. Ayrıca, sayı doğrusu üzerinde görselleştirme yaparak çözüm kümesini belirlemek, çözümün doğruluğunu kontrol etmek için etkili bir yöntemdir. Eşitsizliklerin çözümünde dikkatli bir şekilde işlem yaparak hata yapmaktan kaçınılmalıdır."
+  }
+]

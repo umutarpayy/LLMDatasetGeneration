@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bir olayın olasılığı nasıl hesaplanır?",
+    "output": "Bir olayın olasılığı, o olayın gerçekleşme sayısının, tüm mümkün sonuçların sayısına bölünmesiyle hesaplanır. Matematiksel olarak, bir olay A'nın olasılığı P(A) = (A'nın gerçekleşme sayısı) / (Toplam mümkün sonuç sayısı) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Olasılıkta bağımsız olaylar nasıl tanımlanır?",
+    "output": "Olasılıkta bağımsız olaylar, bir olayın gerçekleşmesinin diğer olayın gerçekleşmesini etkilemediği durumları ifade eder. Yani, olaylardan biri gerçekleştiğinde diğerinin olasılığı değişmez. Matematiksel olarak, iki olay A ve B bağımsızsa, P(A ve B) = P(A) * P(B) eşitliği sağlanır."
+  },
+  {
+    "instruction": "Bir olayın tamamlayıcısı nedir ve nasıl hesaplanır?",
+    "output": "Bir olayın tamamlayıcısı, o olayın gerçekleşmediği durumları temsil eder. Eğer A bir olay ise, A'nın tamamlayıcısı A' değil olarak gösterilir ve P(A') = 1 - P(A) formülü ile hesaplanır. Bu, bir olayın ve tamamlayıcısının toplam olasılığının 1 olması gerektiği anlamına gelir."
+  },
+  {
+    "instruction": "Permütasyon ve kombinasyon arasındaki fark nedir?",
+    "output": "Permütasyon ve kombinasyon, farklı düzenleme ve seçim yöntemleridir. Permütasyon, belirli bir sırayla yapılan düzenlemeleri ifade ederken, kombinasyon sıranın önemli olmadığı seçimleri ifade eder. Örneğin, 'ABC' ve 'CBA' farklı permütasyonlardır, ancak aynı kombinasyon olarak kabul edilirler."
+  },
+  {
+    "instruction": "Koşullu olasılık nedir?",
+    "output": "Koşullu olasılık, bir olayın gerçekleşme olasılığının, başka bir olayın gerçekleştiği bilindiğinde hesaplanmasıdır. Eğer B olayının gerçekleştiği biliniyorsa, A olayının koşullu olasılığı P(A|B) = P(A ve B) / P(B) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Deneysel olasılık ile teorik olasılık arasındaki fark nedir?",
+    "output": "Deneysel olasılık, bir olayın gerçekleşme olasılığını gerçek deneyler veya gözlemler sonucunda elde edilen verilere dayanarak hesaplar. Teorik olasılık ise, olayların olasılıklarını matematiksel modeller ve varsayımlar kullanarak hesaplar. Deneysel olasılık, gözlemlere dayanırken teorik olasılık mantıksal çıkarımlara dayanır."
+  },
+  {
+    "instruction": "Bir olayın örnek uzayı nasıl tanımlanır?",
+    "output": "Örnek uzayı, bir deneyin tüm olası sonuçlarının kümesidir. Örnek uzayı genellikle S harfi ile gösterilir ve her bir elemanı, deneyin olası bir sonucunu temsil eder. Örneğin, bir zar atışında örnek uzayı {1, 2, 3, 4, 5, 6} şeklindedir."
+  },
+  {
+    "instruction": "Bir olayın olasılık ağacı nedir ve nasıl kullanılır?",
+    "output": "Olasılık ağacı, birden fazla aşamadan oluşan olayların olasılıklarını görselleştirmek ve hesaplamak için kullanılan bir diyagramdır. Her dal, bir olayın olasılığını temsil eder ve dalların çarpımı, olayların birleşik olasılığını verir. Olasılık ağaçları, karmaşık olasılık problemlerini çözmek için etkili bir araçtır."
+  },
+  {
+    "instruction": "Örnek uzayın eleman sayısı nasıl hesaplanır?",
+    "output": "Örnek uzayın eleman sayısı, deneyin tüm olası sonuçlarının sayısını ifade eder. Bu, genellikle deneyin yapısına bağlı olarak hesaplanır. Örneğin, bir zar atışında örnek uzayın eleman sayısı 6'dır çünkü 6 olası sonuç vardır. Bir paranın atılması durumunda ise örnek uzayın eleman sayısı 2'dir (yazı veya tura)."
+  },
+  {
+    "instruction": "Bir olayın gerçekleşme olasılığı neden 0 ile 1 arasında olmalıdır?",
+    "output": "Bir olayın gerçekleşme olasılığı, 0 ile 1 arasında bir değer alır çünkü olasılık, bir olayın kesinlikle gerçekleşmeyeceği (0) ile kesinlikle gerçekleşeceği (1) arasındaki durumu ifade eder. Olasılığın bu aralıkta olması, matematiksel tutarlılık ve mantık gereği zorunludur."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bir sayının bilimsel gösterimi nasıl yapılır?",
+    "output": "Bir sayının bilimsel gösterimi, sayının 10'un bir kuvveti ile çarpılması şeklinde ifade edilmesidir. Bu gösterimde, sayı 1 ile 10 arasında bir ondalık sayı olarak yazılır ve 10'un bir üssü ile çarpılır. Örneğin, 5,200,000 sayısı bilimsel gösterimde 5.2 x 10^6 olarak yazılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayılar nasıl karşılaştırılır?",
+    "output": "Bilimsel gösterimde sayıları karşılaştırmak için öncelikle üsleri karşılaştırılır. Üsler eşitse, ondalık kısımlar karşılaştırılır. Daha büyük üs, daha büyük sayıyı temsil eder. Eğer üsler aynıysa, ondalık kısmı büyük olan sayı daha büyüktür."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi nasıl yapılır?",
+    "output": "Bilimsel gösterimde çarpma işlemi yapılırken, sayının ondalık kısımları çarpılır ve üsler toplanır. Örneğin, (2 x 10^3) x (3 x 10^4) işlemi 6 x 10^(3+4) = 6 x 10^7 olarak hesaplanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde bölme işlemi nasıl yapılır?",
+    "output": "Bilimsel gösterimde bölme işlemi yapılırken, sayının ondalık kısımları bölünür ve üsler çıkarılır. Örneğin, (8 x 10^5) / (2 x 10^3) işlemi 4 x 10^(5-3) = 4 x 10^2 olarak hesaplanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde yuvarlama nasıl yapılır?",
+    "output": "Bilimsel gösterimde yuvarlama, sayının ondalık kısmını belirli bir basamağa yuvarlayarak yapılır. Yuvarlama yapılırken, yuvarlanacak basamağın sağındaki rakam 5 veya daha büyükse yukarı yuvarlanır, aksi halde aşağı yuvarlanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimdeki üslerin çıkarılması nasıl yapılır?",
+    "output": "Bilimsel gösterimde üslerin çıkarılması, iki sayıyı bölerken üsleri birbirinden çıkarmak suretiyle yapılır. Örneğin, 10^7 / 10^3 işlemi 10^(7-3) = 10^4 olarak hesaplanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimdeki üslerin toplanması nasıl yapılır?",
+    "output": "Bilimsel gösterimde üslerin toplanması, iki sayıyı çarparken üsleri toplamak suretiyle yapılır. Örneğin, 10^2 x 10^5 işlemi 10^(2+5) = 10^7 olarak hesaplanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde ondalık sayılar nasıl ifade edilir?",
+    "output": "Bilimsel gösterimde ondalık sayılar, 1 ile 10 arasında bir sayı olarak ifade edilerek ve 10'un bir kuvveti ile çarpılarak yazılır. Örneğin, 0.0034 sayısı bilimsel gösterimde 3.4 x 10^-3 olarak yazılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde negatif üsler ne anlama gelir?",
+    "output": "Bilimsel gösterimde negatif üsler, sayının 1'den küçük olduğunu ve 10'un negatif bir kuvveti ile çarpıldığını gösterir. Bu, sayının payda olarak ifade edilmesi anlamına gelir. Örneğin, 10^-2, 1/100 anlamına gelir."
+  },
+  {
+    "instruction": "Bilimsel gösterim neden kullanılır?",
+    "output": "Bilimsel gösterim, çok büyük veya çok küçük sayıları daha kolay ve okunabilir bir şekilde ifade etmek için kullanılır. Bu gösterim, özellikle bilimsel hesaplamalarda ve mühendislikte, verilerin daha hızlı ve hatasız işlenmesine olanak tanır."
+  }
+]

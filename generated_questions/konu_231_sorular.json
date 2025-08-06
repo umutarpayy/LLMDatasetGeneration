@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kombinasyon nedir?",
+    "output": "Kombinasyon, belirli bir kümeden elemanların seçilmesi işlemidir ve seçilen elemanların sırası önemli değildir. Matematikte kombinasyon, genellikle 'n' elemanlı bir kümeden 'r' elemanlı alt kümelerin sayısını ifade eder ve C(n, r) veya 'n üzeri r'nin kombinasyonu' şeklinde gösterilir."
+  },
+  {
+    "instruction": "Çarpma ilkesi nedir?",
+    "output": "Çarpma ilkesi, iki veya daha fazla bağımsız olayın birlikte gerçekleşme olasılığını hesaplamak için kullanılan bir yöntemdir. Eğer bir olay 'm' farklı şekilde, başka bir olay 'n' farklı şekilde gerçekleşebiliyorsa, bu iki olay birlikte 'm x n' farklı şekilde gerçekleşebilir."
+  },
+  {
+    "instruction": "Olasılık nedir?",
+    "output": "Olasılık, bir olayın gerçekleşme ihtimalini ölçen bir değerdir ve genellikle 0 ile 1 arasında bir sayı olarak ifade edilir. 0, olayın kesinlikle gerçekleşmeyeceğini, 1 ise olayın kesinlikle gerçekleşeceğini belirtir. Olasılık, istenen sonuçların sayısının, tüm olası sonuçların sayısına bölünmesiyle hesaplanır."
+  },
+  {
+    "instruction": "Bir olayın olasılığı nasıl hesaplanır?",
+    "output": "Bir olayın olasılığı, olayın istenen sonuçlarının sayısının, tüm olası sonuçların sayısına bölünmesiyle hesaplanır. Bu, genellikle P(A) = İstenen sonuçlar / Toplam sonuçlar formülü ile ifade edilir."
+  },
+  {
+    "instruction": "Bağımsız olaylar nedir?",
+    "output": "Bağımsız olaylar, bir olayın gerçekleşmesinin diğer bir olayın gerçekleşmesini etkilemediği durumları ifade eder. İki olay bağımsızsa, birinin gerçekleşmesi diğerinin olasılığını değiştirmez."
+  },
+  {
+    "instruction": "Permütasyon nedir?",
+    "output": "Permütasyon, belirli bir kümeden elemanların belirli bir sırayla seçilmesi işlemidir. Sıra önemlidir ve genellikle 'n' elemanlı bir kümeden 'r' elemanlı sıralı dizilerin sayısını ifade eder. Matematikte P(n, r) ile gösterilir."
+  },
+  {
+    "instruction": "Kombinasyon ile permütasyon arasındaki fark nedir?",
+    "output": "Kombinasyon ve permütasyon arasındaki temel fark, elemanların sırasının önemli olup olmamasıdır. Permütasyonda sıra önemlidir, kombinasyonda ise sıra önemsizdir. Bu nedenle, permütasyonlar genellikle kombinasyonlardan daha fazla sayıda olur."
+  },
+  {
+    "instruction": "Örnek uzay nedir?",
+    "output": "Örnek uzay, bir deneyin tüm olası sonuçlarını içeren kümedir. Genellikle 'S' harfi ile gösterilir ve her bir elemanı, deneyin bir olası sonucunu temsil eder."
+  },
+  {
+    "instruction": "Olasılık dağılımı nedir?",
+    "output": "Olasılık dağılımı, bir rastgele değişkenin alabileceği her bir değere karşılık gelen olasılıkları tanımlayan bir fonksiyondur. Dağılım, tüm olasılıkların toplamının 1 olduğu bir şekilde tanımlanır."
+  },
+  {
+    "instruction": "Kombinasyonlar hangi durumlarda kullanılır?",
+    "output": "Kombinasyonlar, elemanların sırasının önemli olmadığı durumlarda kullanılır. Örneğin, bir takım oluştururken veya bir grup içinden belirli sayıda eleman seçerken kombinasyonlar kullanılır."
+  }
+]

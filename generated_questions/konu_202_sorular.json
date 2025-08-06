@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki adımlı eşitsizlik nedir?",
+    "output": "İki adımlı eşitsizlik, bir değişkenin çözümünü bulmak için iki temel matematiksel işlem gerektiren eşitsizliklerdir. Genellikle, bir eşitsizliği çözmek için toplama/çıkarma ve çarpma/bölme işlemleri yapılır."
+  },
+  {
+    "instruction": "Eşitsizliklerde değişkenleri izole etme nasıl yapılır?",
+    "output": "Eşitsizliklerde değişkenleri izole etmek için, değişkenin bulunduğu terimi yalnız bırakmak amacıyla eşitsizliğin her iki tarafında aynı matematiksel işlemler uygulanır. Bu işlemler toplama, çıkarma, çarpma veya bölme olabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde toplama ve çıkarma işlemleri nasıl uygulanır?",
+    "output": "Eşitsizliklerin çözümünde toplama ve çıkarma işlemleri, eşitsizliğin her iki tarafına aynı sayıyı ekleyerek veya çıkararak uygulanır. Bu işlemler eşitsizliğin yönünü değiştirmez."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde çarpma ve bölme işlemleri nasıl uygulanır?",
+    "output": "Eşitsizliklerin çözümünde çarpma ve bölme işlemleri, eşitsizliğin her iki tarafını aynı pozitif sayı ile çarparak veya bölerek uygulanır. Ancak, negatif bir sayı ile çarpma veya bölme işlemi yapıldığında eşitsizliğin yönü ters çevrilmelidir."
+  },
+  {
+    "instruction": "Eşitsizliklerde sabit terimler nasıl hesaplanır?",
+    "output": "Eşitsizliklerde sabit terimler, eşitsizliğin her iki tarafındaki sabit sayılar toplanarak veya çıkarılarak hesaplanır. Bu işlem, eşitsizliğin çözümüne yardımcı olur ve değişkenin izole edilmesini kolaylaştırır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi stratejiler kullanılabilir?",
+    "output": "Eşitsizliklerin çözümünde kullanılabilecek stratejiler arasında, değişkeni izole etmek için toplama, çıkarma, çarpma veya bölme işlemleri yapmak, sabit terimleri bir araya toplamak ve eşitsizliğin her iki tarafını aynı sayıyla çarpmak veya bölmek yer alır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde karşılaştırma nasıl yapılır?",
+    "output": "Eşitsizliklerin çözümünde karşılaştırma, çözüm kümesinin sınırlarını belirlemek için yapılır. Bu, eşitsizliğin her iki tarafındaki ifadelerin büyüklüklerini karşılaştırarak hangi tarafın daha büyük veya küçük olduğunu belirlemeyi içerir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizliklerin çözümünde sınır değerler, eşitsizliğin eşitlik durumunu sağlayan değerlerdir. Bu değerler, eşitsizliğin çözüm kümesinin başlangıç veya bitiş noktalarını belirler ve genellikle eşitsizliğin eşitlik durumunda sınanarak bulunur."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafiksel çözümü nasıl yapılır?",
+    "output": "Eşitsizliklerin grafiksel çözümü, sayı doğrusu üzerinde çözüm kümesinin görselleştirilmesiyle yapılır. Çözüm kümesi, eşitsizliği sağlayan tüm değerleri kapsar ve genellikle açık veya kapalı aralıklarla gösterilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde çözüm kümesi nedir?",
+    "output": "Eşitsizliklerde çözüm kümesi, eşitsizliği sağlayan tüm olası değerlerin bir araya gelmesiyle oluşan kümedir. Bu küme, eşitsizliğin çözümünü temsil eder ve genellikle aralık notasyonu veya sayı doğrusu üzerinde gösterilir."
+  }
+]

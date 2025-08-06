@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik olduğunu belirten bir ölçüdür. Matematiksel olarak, iki nokta arasındaki y değişiminin x değişimine oranı olarak tanımlanır. Eğim, genellikle 'm' harfi ile gösterilir ve y = mx + b formülünde yer alır."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, iki nokta arasındaki y değişiminin x değişimine oranı olarak hesaplanır. Eğer iki nokta (x1, y1) ve (x2, y2) olarak verilmişse, eğim m = (y2 - y1) / (x2 - x1) formülü ile bulunur."
+  },
+  {
+    "instruction": "Doğrunun eğimi neyi ifade eder?",
+    "output": "Doğrunun eğimi, doğrunun yatay eksene göre ne kadar dik veya yatık olduğunu ifade eder. Pozitif eğim, doğrunun sağa doğru yükseldiğini, negatif eğim ise sağa doğru alçaldığını gösterir. Eğim sıfırsa, doğru yataydır ve eğim tanımsızsa, doğru dikeydir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu neden kullanılır?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eder ve bu form, doğrunun eğimini (m) ve y-eksenini kestiği noktayı (b) kolayca görselleştirmeyi sağlar. Bu form, doğrunun grafiğini çizerken veya iki nokta arasındaki ilişkiyi anlamak için kullanışlıdır."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda 'm' ve 'b' neyi temsil eder?",
+    "output": "Eğim-kesişim formunda, 'm' eğimi temsil eder ve doğrunun yatay eksene göre ne kadar dik olduğunu gösterir. 'b' ise doğrunun y-eksenini kestiği noktayı temsil eder ve bu nokta, x = 0 olduğunda y'nin değeridir."
+  },
+  {
+    "instruction": "Bir doğrunun y-eksenini kestiği nokta nedir?",
+    "output": "Bir doğrunun y-eksenini kestiği nokta, doğrunun x = 0 olduğunda y'nin aldığı değerdir. Bu nokta, eğim-kesişim formundaki 'b' değeriyle ifade edilir ve doğrunun grafiğinde y-eksenini kestiği noktayı belirtir."
+  },
+  {
+    "instruction": "Eğim negatif olduğunda doğrunun grafiği nasıl görünür?",
+    "output": "Eğim negatif olduğunda, doğrunun grafiği sağa doğru alçalır. Bu, y değerlerinin x değerleri arttıkça azaldığı anlamına gelir. Negatif eğim, doğrunun yatay eksene göre aşağıya doğru eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim ve y-kesen kullanılarak bir doğru nasıl tanımlanır?",
+    "output": "Eğim ve y-kesen kullanılarak bir doğru, y = mx + b formülü ile tanımlanır. Burada 'm' eğimi, 'b' ise y-eksenini kestiği noktayı temsil eder. Bu formül, doğrunun grafiğini çizmek ve denklemini belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Eğim değerinin 0 olması ne anlama gelir?",
+    "output": "Eğim değerinin 0 olması, doğrunun yatay olduğunu ve y değerlerinin x değerleri değiştikçe sabit kaldığını gösterir. Bu durumda, doğru yatay eksene paraleldir ve y = b şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Eğim tanımsız olduğunda doğrunun grafiği nasıl görünür?",
+    "output": "Eğim tanımsız olduğunda, doğrunun grafiği dikeydir. Bu, x değerlerinin sabit olduğu ve y değerlerinin değiştiği anlamına gelir. Dikey doğrular x = c (c sabit bir sayı) şeklinde ifade edilir ve eğimleri tanımsızdır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizliklerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Eşitsizliklerde toplama ve çıkarma işlemleri, eşitsizliğin her iki tarafına da aynı sayıyı ekleyerek veya çıkararak yapılır. Bu işlemler eşitsizliğin yönünü değiştirmez, çünkü her iki tarafa aynı miktar eklenmiş veya çıkarılmış olur. Örneğin, eğer a > b ise ve her iki tarafa c eklersek, sonuç a + c > b + c olur."
+  },
+  {
+    "instruction": "Eşitsizliklerde çarpma ve bölme işlemleri nasıl yapılır?",
+    "output": "Eşitsizliklerde çarpma ve bölme işlemleri, eşitsizliğin her iki tarafını aynı pozitif sayı ile çarparak veya bölerek yapılır. Bu işlemler eşitsizliğin yönünü değiştirmez. Ancak, negatif bir sayı ile çarpma veya bölme durumunda eşitsizliğin yönü tersine çevrilmelidir. Örneğin, eğer a > b ise ve her iki tarafı negatif bir sayı olan -c ile çarparsak, sonuç -ac < -bc olur."
+  },
+  {
+    "instruction": "Kesirli eşitsizlikler nasıl çözülür?",
+    "output": "Kesirli eşitsizlikler, eşitsizliğin her iki tarafını kesirlerin paydalarından kurtulmak için ortak bir payda ile çarparak çözülür. Bu, kesirleri tam sayılara dönüştürerek eşitsizliğin çözümünü kolaylaştırır. Ancak, bu işlemi yaparken çarpılan sayının negatif olup olmadığına dikkat edilmelidir, çünkü negatif bir sayı ile çarpıldığında eşitsizliğin yönü değişir."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafiksel gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin grafiksel gösterimi, sayı doğrusu üzerinde yapılır. Çözüm kümesi, eşitsizliğin sağladığı tüm değerleri içerir. Örneğin, x > 3 eşitsizliği, sayı doğrusunda 3'ün sağındaki tüm sayıları kapsar ve 3'te açık bir daire ile gösterilir. Eğer eşitsizlik x ≥ 3 şeklindeyse, 3 dahil edilir ve kapalı bir daire ile gösterilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde mutlak değer nasıl ele alınır?",
+    "output": "Mutlak değer içeren eşitsizlikler, mutlak değerin tanımına göre iki ayrı eşitsizlik şeklinde ele alınır. Örneğin, |x| < a eşitsizliği, -a < x < a şeklinde iki eşitsizlik olarak yazılır. Eğer eşitsizlik |x| > a şeklindeyse, x < -a veya x > a şeklinde iki ayrı eşitsizlik olarak çözülür."
+  },
+  {
+    "instruction": "Eşitsizliklerde değişkenlerin önemi nedir?",
+    "output": "Eşitsizliklerde değişkenler, bilinmeyen değerleri temsil eder ve eşitsizliğin çözüm sürecinde bu değişkenlerin değer aralıkları bulunur. Değişkenlerin doğru bir şekilde izole edilmesi ve eşitsizliğin her iki tarafında yapılan işlemlerin dikkatlice uygulanması, doğru çözüm kümesine ulaşmak için önemlidir."
+  },
+  {
+    "instruction": "Eşitsizliklerde karşılaştırma nasıl yapılır?",
+    "output": "Eşitsizliklerde karşılaştırma, iki veya daha fazla ifadenin büyüklük veya küçüklük ilişkilerini belirlemek için yapılır. Bu, genellikle eşitsizlik sembolleri (> , < , ≥ , ≤) kullanılarak gerçekleştirilir. Karşılaştırma, verilen ifadelerin hangi koşullar altında birbirine eşit veya farklı olduğunu anlamaya yardımcı olur."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi stratejiler kullanılabilir?",
+    "output": "Eşitsizliklerin çözümünde, değişkenleri izole etmek, eşitsizliğin her iki tarafına aynı işlemi uygulamak, kesirlerden kurtulmak için paydaları eşitlemek ve eşitsizliğin yönünü değiştirmemek için dikkatli olmak gibi stratejiler kullanılır. Ayrıca, eşitsizlikleri grafiksel olarak göstererek çözüm kümesini görselleştirmek de faydalı olabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde dikkat edilmesi gereken kurallar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde dikkat edilmesi gereken kurallar arasında, eşitsizliğin her iki tarafına aynı sayı ekleme veya çıkarma işleminin eşitsizliği değiştirmemesi, pozitif bir sayı ile çarpma veya bölmenin eşitsizliğin yönünü değiştirmemesi, ancak negatif bir sayı ile çarpma veya bölmenin eşitsizliğin yönünü tersine çevirmesi gibi kurallar yer alır."
+  },
+  {
+    "instruction": "Eşitsizliklerin gerçek hayatta kullanımı nasıldır?",
+    "output": "Eşitsizlikler, gerçek hayatta çeşitli durumları modellemek için kullanılır. Örneğin, bütçe kısıtlamaları, üretim kapasiteleri, hız sınırları gibi durumlar eşitsizliklerle ifade edilebilir. Bu tür matematiksel modeller, karar verme süreçlerini destekler ve belirli koşullar altında en iyi çözümü bulmaya yardımcı olur."
+  }
+]

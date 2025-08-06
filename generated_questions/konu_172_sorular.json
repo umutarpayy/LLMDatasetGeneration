@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemi nedir?",
+    "output": "Denklem sistemi, birden fazla denklemin bir arada bulunduğu ve bu denklemleri aynı anda sağlayan değişken değerlerini bulmayı amaçlayan bir matematiksel yapıdır. Denklem sistemleri, genellikle iki veya daha fazla bilinmeyenli denklemlerden oluşur ve bu denklemler aynı değişkenleri içerir. Denklem sistemlerinin çözümü, bu denklemleri aynı anda sağlayan değişken değerlerini bulmaktır."
+  },
+  {
+    "instruction": "Denklem sistemleri nasıl çözülür?",
+    "output": "Denklem sistemleri, çeşitli yöntemlerle çözülebilir. En yaygın yöntemler arasında yerine koyma (substitution), yok etme (elimination) ve grafik çizme yöntemleri bulunur. Yerine koyma yönteminde, bir denklemdeki bir değişken diğer denklemde yerine konur. Yok etme yönteminde, bir değişkenin katsayıları eşitlenerek bu değişken yok edilir. Grafik yöntemiyle ise her denklem bir koordinat düzleminde çizilir ve kesişim noktası çözüm olarak bulunur."
+  },
+  {
+    "instruction": "Yerine koyma yöntemi nedir?",
+    "output": "Yerine koyma yöntemi, bir denklem sistemini çözmek için kullanılan bir yöntemdir. Bu yöntemde, bir denklemdeki bir değişkenin ifadesi diğer denklemde yerine konur. Böylece, tek bir denklemde bir değişkenin çözümü bulunur ve bu çözüm diğer denklemde yerine konarak diğer değişkenin değeri hesaplanır. Bu yöntem, özellikle bir denklemin kolayca bir değişken cinsinden ifade edilebildiği durumlarda kullanışlıdır."
+  },
+  {
+    "instruction": "Grafik yöntemiyle denklem sistemi nasıl çözülür?",
+    "output": "Grafik yöntemiyle denklem sistemi çözmek için, her denklem bir koordinat düzleminde grafik olarak çizilir. Her bir denklem bir doğru olarak temsil edilir. İki doğrunun kesişim noktası, denklem sisteminin çözümünü verir. Eğer doğrular paralel ise sistemin çözümü yoktur, eğer doğrular çakışıyorsa sonsuz sayıda çözüm vardır."
+  },
+  {
+    "instruction": "Paralel doğruların denklem sisteminde ne anlama gelir?",
+    "output": "Paralel doğrular, denklem sisteminde çözümün olmadığını gösterir. İki doğru paralel olduğunda, bu doğrular aynı eğime sahip ancak farklı y ekseni kesen noktalarına sahiptir. Bu durumda, iki doğru hiçbir noktada kesişmez ve dolayısıyla denklem sistemini sağlayan ortak bir çözüm yoktur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde tutarsızlık nedir?",
+    "output": "Denklem sistemlerinde tutarsızlık, denklemlerin birbiriyle çeliştiği ve bu nedenle ortak bir çözümün olmadığı durumu ifade eder. Bu genellikle, iki doğrunun paralel olması durumunda ortaya çıkar. Tutarsız bir denklem sistemi, verilen denklemlerin aynı anda sağlanabileceği herhangi bir değişken değeri kombinasyonuna sahip değildir."
+  },
+  {
+    "instruction": "Eğim-kesen formu nedir?",
+    "output": "Eğim-kesen formu, bir doğrunun denklemini ifade etmenin bir yoludur ve genellikle y = mx + b şeklinde yazılır. Burada m, doğrunun eğimini (yani, x eksenine göre y'nin değişim oranını) ve b, doğrunun y eksenini kestiği noktayı temsil eder. Bu form, bir doğrunun grafiğini çizmek veya iki doğrunun eğim ve kesişim noktalarını karşılaştırmak için kullanışlıdır."
+  },
+  {
+    "instruction": "Denklem sistemlerinin çözüm sayısı nasıl belirlenir?",
+    "output": "Denklem sistemlerinin çözüm sayısı, denklemlerin grafiklerinin durumuna bağlıdır. Eğer iki doğru kesişiyorsa, sistemin bir çözümü vardır. Eğer doğrular paralel ise sistemin çözümü yoktur. Eğer doğrular çakışıyorsa, sistemin sonsuz sayıda çözümü vardır. Bu durumlar, denklemlerin eğim ve y kesen değerleri incelenerek belirlenebilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün varlığı nasıl kontrol edilir?",
+    "output": "Denklem sistemlerinde çözümün varlığı, denklemlerin grafiklerinin kesişim durumuna bakılarak kontrol edilir. İki doğru kesişiyorsa, sistemin bir çözümü vardır. Doğrular paralelse, sistemin çözümü yoktur. Doğrular çakışıyorsa, sistemin sonsuz çözümü vardır. Bu, denklemlerin eğimleri ve y kesen noktaları karşılaştırılarak belirlenebilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde grafik yöntemi hangi durumlarda kullanılır?",
+    "output": "Denklem sistemlerinde grafik yöntemi, özellikle iki denklemli sistemlerde, çözümün görsel olarak belirlenmesi gerektiğinde kullanılır. Bu yöntem, denklemlerin grafiklerini çizerek kesişim noktalarını bulmayı içerir. Grafik yöntemi, çözümün varlığını ve sayısını görsel olarak belirlemek için kullanışlıdır, ancak çok sayıda denklem veya değişken içeren sistemlerde pratik olmayabilir."
+  }
+]

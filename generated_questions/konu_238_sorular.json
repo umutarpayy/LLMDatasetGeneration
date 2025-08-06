@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Mod nedir?",
+    "output": "Mod, bir veri setinde en sık rastlanan değerdir. Yani, veri setinde en çok tekrar eden sayıdır. Bir veri seti birden fazla moda sahip olabilir veya hiç moda sahip olmayabilir."
+  },
+  {
+    "instruction": "Mod nasıl bulunur?",
+    "output": "Modu bulmak için veri setindeki her bir değerin kaç kez tekrar ettiğini sayarız. En fazla tekrar eden değer veya değerler mod olarak belirlenir."
+  },
+  {
+    "instruction": "Modun özellikleri nelerdir?",
+    "output": "Mod, bir veri setinde en sık rastlanan değeri gösterir. Mod, veri setindeki tüm değerler arasında en fazla tekrar eden değerdir. Bir veri seti birden fazla moda sahip olabilir (çok modlu) veya hiç moda sahip olmayabilir. Mod, veri setindeki aşırı uç değerlerden etkilenmez."
+  },
+  {
+    "instruction": "Mod ne işe yarar?",
+    "output": "Mod, veri setinde en sık rastlanan değeri belirlemeye yarar. Özellikle nominal verilerde merkezi eğilimi göstermek için kullanışlıdır. Mod, veri setindeki eğilimleri ve en yaygın değerleri anlamamıza yardımcı olabilir."
+  },
+  {
+    "instruction": "Aritmetik ortalama ile mod arasındaki fark nedir?",
+    "output": "Aritmetik ortalama, veri setindeki tüm değerlerin toplamının, değer sayısına bölünmesiyle elde edilen bir merkezi eğilim ölçüsüdür. Mod ise, veri setinde en sık rastlanan değerdir. Aritmetik ortalama, veri setinin genel eğilimini gösterirken, mod en yaygın değeri gösterir. Aritmetik ortalama aşırı uç değerlerden etkilenebilirken, mod etkilenmez."
+  },
+  {
+    "instruction": "Mod hangi durumlarda kullanılır?",
+    "output": "Mod, özellikle nominal verilerde veya kategorik verilerde merkezi eğilimi göstermek için kullanılır. Ayrıca, çok tekrarlanan değerlerin önemli olduğu durumlarda, örneğin bir mağazada en çok satılan ürünün belirlenmesi gibi, mod kullanışlıdır."
+  },
+  {
+    "instruction": "Veri setinde mod değiştiğinde aritmetik ortalama neden değişmeyebilir?",
+    "output": "Mod, veri setindeki en sık rastlanan değeri gösterir ve bu değer değiştiğinde, veri setinin genel toplamı ve dolayısıyla aritmetik ortalama aynı kalabilir. Çünkü aritmetik ortalama, tüm değerlerin toplamına bağlıdır ve bir veya birkaç değerin sıklığının değişmesi, toplamı veya ortalamayı her zaman etkilemeyebilir."
+  },
+  {
+    "instruction": "Modun bir veri setinde bulunamamasının sebebi nedir?",
+    "output": "Bir veri setinde mod bulunamaması, tüm değerlerin eşit sıklıkta ortaya çıkması durumunda gerçekleşir. Yani, her değer aynı sayıda tekrar ediyorsa, veri setinin modu yoktur."
+  },
+  {
+    "instruction": "Çok modlu veri seti nedir?",
+    "output": "Çok modlu bir veri seti, birden fazla mod içeren veri setidir. Bu, veri setinde birden fazla değerin aynı en yüksek sıklıkta tekrar ettiği anlamına gelir. Örneğin, bir veri setinde iki farklı değer aynı sayıda ve en sık tekrar ediyorsa, bu veri seti iki modludur."
+  },
+  {
+    "instruction": "Modun eksiklikleri nelerdir?",
+    "output": "Mod, veri setinin merkezi eğilimini her zaman iyi bir şekilde temsil etmeyebilir, özellikle de veri setinde çok sayıda farklı değer varsa. Ayrıca, mod, veri setinin genel dağılımı hakkında bilgi vermez ve veri seti çok modlu olduğunda, hangi modun daha önemli olduğunu belirlemek zor olabilir."
+  }
+]

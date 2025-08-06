@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzer terimler nedir?",
+    "output": "Benzer terimler, aynı değişkenlere ve aynı üsse sahip olan terimlerdir. Örneğin, 3x ve 5x benzer terimlerdir çünkü her ikisi de x değişkenine sahiptir ve x'in üssü her iki terimde de aynıdır."
+  },
+  {
+    "instruction": "Benzer terimler nasıl toplanır?",
+    "output": "Benzer terimler toplanırken, terimlerin katsayıları toplanır ve ortak değişken ve üs aynı kalır. Örneğin, 2x + 3x = 5x şeklinde toplanır."
+  },
+  {
+    "instruction": "Katsayı nedir?",
+    "output": "Katsayı, bir terimde değişkenin önündeki sabit sayıdır. Örneğin, 4x teriminde 4 katsayıdır."
+  },
+  {
+    "instruction": "Değişken nedir?",
+    "output": "Değişken, matematiksel ifadelerde sayısal bir değeri temsil eden semboldür. Genellikle x, y, z gibi harflerle gösterilir ve farklı değerler alabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Cebirsel ifadelerde sadeleştirme, benzer terimlerin birleştirilmesi ve gereksiz parantezlerin kaldırılması gibi adımlarla yapılır. Bu işlem, ifadeyi daha basit ve anlaşılır hale getirir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama işlemi nasıl uygulanır?",
+    "output": "Cebirsel ifadelerde toplama işlemi, benzer terimlerin katsayılarının toplanması yoluyla yapılır. Farklı terimler ise ayrı ayrı yazılır ve toplama işlemi bu şekilde tamamlanır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, terimlerin katsayılarının çarpılması ve değişkenlerin üslerinin toplanması yoluyla yapılır. Örneğin, (2x) * (3x) = 6x^2 olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde farklı terimler nasıl işlenir?",
+    "output": "Cebirsel ifadelerde farklı terimler, farklı değişkenlere veya aynı değişkene fakat farklı üslere sahip terimlerdir. Bu terimler doğrudan toplanamaz veya çıkarılamaz, sadece ayrı ayrı yazılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerin amacı nedir?",
+    "output": "Cebirsel ifadeler, matematiksel problemleri soyut bir şekilde ifade etmeye ve çözmeye yardımcı olur. Değişkenler ve katsayılar kullanarak gerçek dünya problemlerinin modellenmesini sağlar."
+  },
+  {
+    "instruction": "Cebirsel terimlerin özellikleri nelerdir?",
+    "output": "Cebirsel terimler, katsayı ve değişkenlerden oluşur. Değişkenler harflerle temsil edilir ve katsayılar bu harflerin önünde yer alır. Aynı değişken ve üslere sahip terimler benzer terimler olarak adlandırılır ve toplanabilirler."
+  }
+]

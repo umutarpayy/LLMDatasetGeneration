@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kesirli üslü ifadeler nedir?",
+    "output": "Kesirli üslü ifadeler, bir sayının üssünün kesirli bir sayı olduğu ifadelerdir. Bu tür ifadelerde, pay üssün kuvvetini, payda ise kök derecesini belirtir. Örneğin, a^(m/n) ifadesi, a sayısının n. dereceden kökünün m. kuvvetini ifade eder."
+  },
+  {
+    "instruction": "Köklü ifadeler nasıl sadeleştirilir?",
+    "output": "Köklü ifadeler sadeleştirilirken, kök içindeki sayılar asal çarpanlarına ayrılır ve tam kare olan çarpanlar kök dışına çıkarılır. Örneğin, √72 ifadesi 72'nin asal çarpanlarına ayrılmasıyla (2^3 * 3^2) √(2^3 * 3^2) = 3√8 olarak sadeleştirilebilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, aynı tabana sahip ifadelerin üsleri birbirinden çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Köklü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde çarpma işlemi yapılırken, kök içindeki sayılar çarpılır ve sonuç tek bir kök içinde yazılır. Örneğin, √a * √b = √(a*b) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Kesirli üslü ifadeler hangi durumlarda kullanılır?",
+    "output": "Kesirli üslü ifadeler, özellikle kök alma işlemlerini daha kolay ifade etmek için kullanılır. Matematiksel analizlerde, mühendislik ve fizik problemlerinde sıkça karşılaşılır."
+  },
+  {
+    "instruction": "Köklü ifadelerin hangi özellikleri vardır?",
+    "output": "Köklü ifadeler, negatif sayılar için tanımlı değildir (gerçek sayılar kümesinde), kök içindeki çarpanlar kök dışına çıkarılabilir ve kökler arasında çarpma ve bölme işlemleri yapılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üs ne anlama gelir?",
+    "output": "Üslü ifadelerde negatif üs, sayının tersinin üssü olarak ifade edilir. Örneğin, a^(-n) = 1/a^n şeklinde tanımlanır."
+  },
+  {
+    "instruction": "Köklü ifadelerle üslü ifadeler arasındaki dönüşüm nasıl yapılır?",
+    "output": "Köklü ifadeler, üslü ifadeler olarak yazılabilir. Örneğin, n. dereceden kök a, a^(1/n) şeklinde ifade edilir. Bu dönüşüm, köklü ifadelerin üslü ifadelerle daha kolay işlem yapılabilmesini sağlar."
+  },
+  {
+    "instruction": "Köklü ifadelerle işlem yaparken dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Köklü ifadelerle işlem yaparken, kök içindeki sayıları mümkün olduğunca sadeleştirmek, kök derecelerini eşitlemek ve işlemleri doğru bir şekilde uygulamak önemlidir. Ayrıca, negatif sayıların karekökü alınamaz (gerçek sayılar kümesinde)."
+  },
+  {
+    "instruction": "Kesirli üslü ifadelerle köklü ifadeler arasındaki ilişki nedir?",
+    "output": "Kesirli üslü ifadeler, köklü ifadelerin farklı bir gösterim şeklidir. Kesirli üs, kök derecesini ve kuvveti aynı anda ifade eder. Örneğin, a^(1/n) ifadesi, n. dereceden kök a'ya eşittir."
+  }
+]

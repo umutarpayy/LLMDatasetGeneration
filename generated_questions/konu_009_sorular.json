@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Asal çarpan nedir?",
+    "output": "Asal çarpan, bir sayıyı bölen ve kendisi dışında başka çarpanları olmayan asal sayılardır. Örneğin, 30 sayısının asal çarpanları 2, 3 ve 5'tir."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma neden önemlidir?",
+    "output": "Asal çarpanlarına ayırma, bir sayının en temel bileşenlerine ayrılmasıdır. Bu yöntem, EKOK ve EBOB gibi kavramların hesaplanmasında, sayıların bölünebilirlik özelliklerinin incelenmesinde ve matematiksel problemlerin çözümünde önemli bir rol oynar."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma işlemi hangi durumlarda kullanılır?",
+    "output": "Asal çarpanlarına ayırma işlemi, EKOK ve EBOB hesaplamalarında, sayıların bölünebilirlik özelliklerini incelemede, kesirleri sadeleştirmede ve bazı denklemlerin çözümünde kullanılır."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanlarını bulmak için hangi yöntemler kullanılır?",
+    "output": "Bir sayının asal çarpanlarını bulmak için genellikle bölme yöntemi kullanılır. Bu yöntemde, sayıyı en küçük asal sayıdan başlayarak bölmeye çalışırız ve bölünebildiği sürece bölmeye devam ederiz. Bölme işlemi, sayı 1 olana kadar devam eder."
+  },
+  {
+    "instruction": "Asal çarpanlar ve çarpanlar arasındaki fark nedir?",
+    "output": "Çarpanlar, bir sayıyı bölen tüm sayılardır. Asal çarpanlar ise, bu çarpanlar arasında asal olanlardır. Örneğin, 12'nin çarpanları 1, 2, 3, 4, 6 ve 12 iken, asal çarpanları sadece 2 ve 3'tür."
+  },
+  {
+    "instruction": "Asal çarpanlar hangi özelliklere sahiptir?",
+    "output": "Asal çarpanlar, sadece 1 ve kendisi dışında başka bir sayıya bölünemeyen asal sayılardır. Herhangi bir pozitif tam sayının asal çarpanları, o sayıyı oluşturan en küçük asal bileşenlerdir."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma ile ilgili yaygın hatalar nelerdir?",
+    "output": "Asal çarpanlarına ayırma sırasında yapılan yaygın hatalar arasında, asal olmayan sayıları asal çarpan olarak kabul etmek, bölme işlemlerini yanlış yapmak veya asal çarpanların tamamını bulamamak yer alır."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma işlemi neden sistematik bir yöntemdir?",
+    "output": "Asal çarpanlarına ayırma işlemi, sistematik bir yöntemdir çünkü belirli bir sırayla, en küçük asal sayıdan başlayarak sayıyı böleriz ve bu işlem, sayının asal çarpanları tamamen bulunana kadar devam eder. Bu sistematik yaklaşım, hataları minimize eder ve doğru sonuca ulaşmayı sağlar."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi sırasında hangi asal sayılar kullanılır?",
+    "output": "Asal çarpanlara ayırma işlemi sırasında, 2, 3, 5, 7, 11 gibi en küçük asal sayılardan başlanarak sayıyı bölen asal sayılar kullanılır. Her bir asal sayı, sayıyı tam böldüğü sürece kullanılır."
+  },
+  {
+    "instruction": "Asal çarpanlar kullanılarak EKOK nasıl kontrol edilir?",
+    "output": "Asal çarpanlar kullanılarak EKOK kontrol edilirken, her iki sayının asal çarpanları listelenir ve ortak olan çarpanlar en büyük üsleriyle birlikte alınarak çarpılır. Bu çarpım, EKOK'un doğru hesaplanıp hesaplanmadığını kontrol etmemizi sağlar."
+  }
+]

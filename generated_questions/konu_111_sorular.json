@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklemlerde çarpma ve bölme işlemleri nasıl uygulanır?",
+    "output": "Denklemlerde çarpma ve bölme işlemleri, bilinmeyeni izole etmek için kullanılır. Bir denklemin her iki tarafını aynı sayıyla çarpmak veya bölmek, denklemin eşitliğini bozmadan bilinmeyeni tek başına bırakmamıza yardımcı olur. Örneğin, 7x = 21 denklemini çözmek için her iki tarafı 7'ye bölebiliriz, böylece x = 3 elde ederiz."
+  },
+  {
+    "instruction": "Denklemlerde katsayı nedir ve nasıl kullanılır?",
+    "output": "Katsayı, bir değişkenin önündeki sayıdır ve değişkenle çarpılır. Denklemlerde katsayı, değişkenin değerini belirlemek için kullanılır. Örneğin, 5x = 10 denkleminde 5, x'in katsayısıdır. Katsayıyı izole etmek için denklemin her iki tarafını katsayının tersiyle çarparız veya böleriz."
+  },
+  {
+    "instruction": "Kesirli denklemler nasıl çözülür?",
+    "output": "Kesirli denklemler, pay ve payda içeren denklemlerdir. Bu tür denklemleri çözmek için genellikle paydan kurtulmak amacıyla her iki tarafı paydanın çarpmaya göre tersiyle çarparız. Böylece kesirler sadeleşir ve daha basit bir denklem elde ederiz."
+  },
+  {
+    "instruction": "Bir denklemin sağlamasını yapmak neden önemlidir?",
+    "output": "Bir denklemin sağlamasını yapmak, elde edilen çözümün doğru olup olmadığını kontrol etmek için önemlidir. Bu, denklemin sol tarafına ve sağ tarafına çözüm yerine konularak eşitliğin sağlanıp sağlanmadığını kontrol etmek anlamına gelir. Sağlama, hataların tespit edilmesine ve çözümün doğruluğunun teyit edilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Denklem çözümünde 'ters işlem' nedir?",
+    "output": "Denklem çözümünde 'ters işlem', bir işlemi geri almak için kullanılan işlemdir. Örneğin, toplamanın tersi çıkarma, çarpmanın tersi bölmedir. Denklemlerde, bir işlemi geri almak için ters işlemi uygulayarak bilinmeyeni izole ederiz."
+  },
+  {
+    "instruction": "Denklemlerde değişkenin yalnız bırakılması ne anlama gelir?",
+    "output": "Denklemlerde değişkenin yalnız bırakılması, bilinmeyeni tek başına bir tarafta bırakmak anlamına gelir. Bu, denklemi çözmenin ana hedefidir, çünkü bilinmeyenin değerini bulmamızı sağlar. Bunu başarmak için denklemin her iki tarafında eşit işlemler uygulanır."
+  },
+  {
+    "instruction": "Denklemlerde eşitliğin korunması neden kritiktir?",
+    "output": "Denklemlerde eşitliğin korunması, denklemin her iki tarafına aynı işlemleri uygulayarak eşitliği bozmamayı sağlar. Bu, doğru çözüme ulaşmak için gereklidir. Eşitliğin korunması, denklemin mantıksal bütünlüğünü korur ve çözüm sürecinde hataların önüne geçer."
+  },
+  {
+    "instruction": "Denklem çözme sürecinde sistematik yaklaşımın faydaları nelerdir?",
+    "output": "Sistematik bir yaklaşım, denklemleri adım adım çözmek için bir yol haritası sunar. Bu, hata yapma olasılığını azaltır ve çözüm sürecini daha anlaşılır hale getirir. Sistematik yaklaşım, her adımda ne yapılması gerektiğini belirler ve karmaşık problemleri daha basit hale getirir."
+  },
+  {
+    "instruction": "Denklem çözümünde negatif sayılar nasıl ele alınır?",
+    "output": "Denklem çözümünde negatif sayılar, pozitif sayılarla aynı kurallara göre ele alınır. Ancak, negatif bir sayıyı çıkarmak, onu eklemek gibi işlemler tersine çevrilerek yapılır. Örneğin, x - 5 = 3 denklemini çözmek için her iki tarafa 5 ekleriz, böylece x = 8 elde ederiz."
+  },
+  {
+    "instruction": "Denklem çözümünde 'sadeleştirme' nedir ve nasıl yapılır?",
+    "output": "Denklem çözümünde sadeleştirme, denklemi daha basit bir forma indirgemek için kullanılan bir işlemdir. Bu, genellikle kesirlerin pay ve paydalarının ortak bölenleri ile bölünmesiyle yapılır. Sadeleştirme, denklemin çözümünü daha kolay hale getirir ve işlemleri basitleştirir."
+  }
+]

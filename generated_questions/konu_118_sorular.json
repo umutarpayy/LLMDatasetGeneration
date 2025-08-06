@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem nedir?",
+    "output": "Denklem, iki matematiksel ifadenin eşit olduğunu belirten bir ifadedir. Genellikle bir veya daha fazla bilinmeyeni içeren denklemler, bu bilinmeyenlerin hangi değerler aldığında eşitliğin doğru olduğunu bulmayı amaçlar."
+  },
+  {
+    "instruction": "İki tarafı da değişken içeren denklemler nasıl çözülür?",
+    "output": "İki tarafı da değişken içeren denklemler, değişkenleri bir tarafta, sabit terimleri diğer tarafta toplamak suretiyle çözülür. Değişkenleri izole etmek için, her iki tarafa aynı işlemler uygulanarak denklemin denge durumu korunur. Son adımda, değişkenin katsayısı 1 olacak şekilde her iki taraf uygun bir sayıya bölünür."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafına aynı işlemi uygulamanın önemi nedir?",
+    "output": "Bir denklemin her iki tarafına aynı işlemi uygulamak, denklemin eşitliğini bozmadan manipüle edilmesini sağlar. Bu, denklemin çözümü sırasında dengeyi korumak ve doğru sonuca ulaşmak için kritik bir adımdır."
+  },
+  {
+    "instruction": "Negatif bir sayıyı negatif bir sayıya bölmenin sonucu nedir?",
+    "output": "Negatif bir sayıyı negatif bir sayıya bölmek, pozitif bir sonuç verir. Matematiksel olarak, iki negatif sayının çarpımı veya bölümü pozitif bir sayıdır çünkü negatif işaretler birbirini götürür."
+  },
+  {
+    "instruction": "Denklem çözümünde sağlamanın önemi nedir?",
+    "output": "Denklem çözümünde sağlamanın önemi, bulunan çözümün doğru olup olmadığını kontrol etmektir. Çözüm yerine konduğunda, denklemin her iki tarafının eşit olduğunu doğrulamak, hatalı işlemleri tespit edip düzeltmeye yardımcı olur."
+  },
+  {
+    "instruction": "Denklem çözümünde sabit terimleri bir tarafta toplamanın amacı nedir?",
+    "output": "Sabit terimleri bir tarafta toplamak, denklemi daha basit hale getirir ve değişkeni izole etmeyi kolaylaştırır. Bu, çözüm sürecinde adımların daha düzenli ve anlaşılır olmasını sağlar."
+  },
+  {
+    "instruction": "Bir denklemi çözmenin adımları nelerdir?",
+    "output": "Bir denklemi çözmenin adımları şunlardır: 1) Değişkenleri bir tarafta, sabit terimleri diğer tarafta toplayın. 2) Değişkenin katsayısını 1 yapmak için her iki tarafı bu katsayıya bölün. 3) Çözümü sağlamasını yaparak doğruluğunu kontrol edin."
+  },
+  {
+    "instruction": "Değişkenin katsayısının negatif olması çözümü nasıl etkiler?",
+    "output": "Değişkenin katsayısının negatif olması, çözüm sürecinde dikkat gerektirir çünkü değişkeni izole ederken negatif katsayıyı pozitif yapmak için ek işlemler yapılması gerekir. Bu, genellikle her iki tarafı negatif katsayıya bölerek gerçekleştirilir."
+  },
+  {
+    "instruction": "Denklem çözümünde izole etmek ne anlama gelir?",
+    "output": "Denklem çözümünde izole etmek, değişkeni tek başına bırakmak anlamına gelir. Bu, denklemin bir tarafında sadece değişkenin kalması ve diğer tüm terimlerin karşı tarafa taşınması ile sağlanır. Bu adım, değişkenin değerini bulmak için gereklidir."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi işlemler sıklıkla kullanılır?",
+    "output": "Denklem çözümünde sıklıkla kullanılan işlemler, toplama, çıkarma, çarpma ve bölmedir. Bu işlemler, denklemin iki tarafına aynı şekilde uygulanarak değişkenin izole edilmesi ve denklemin çözülmesi sağlanır."
+  }
+]

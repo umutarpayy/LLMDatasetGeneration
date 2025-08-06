@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzer terimler nedir?",
+    "output": "Benzer terimler, aynı değişkenlere ve aynı değişken derecelerine sahip olan terimlerdir. Örneğin, '5x' ve '3x' benzer terimlerdir çünkü her ikisi de 'x' değişkenine sahiptir ve bu değişkenin derecesi aynıdır."
+  },
+  {
+    "instruction": "Benzer terimler nasıl bir araya getirilir?",
+    "output": "Benzer terimler, katsayıları toplanarak bir araya getirilir. Örneğin, '5x' ve '3x' benzer terimlerdir ve birleştirildiğinde '8x' olur. Bu işlem, benzer terimlerin katsayılarının toplanmasıyla gerçekleştirilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sadeleştirme neden önemlidir?",
+    "output": "Cebirsel ifadelerde sadeleştirme, ifadeyi daha basit ve anlaşılır hale getirir. Bu, ifadeyi çözmeyi veya manipüle etmeyi kolaylaştırır ve hataları azaltır. Ayrıca, sadeleştirilmiş ifadeler genellikle daha az terim içerir, bu da hesaplamaları hızlandırır."
+  },
+  {
+    "instruction": "Katsayı nedir ve nasıl bulunur?",
+    "output": "Katsayı, bir cebirsel terimde değişkenin önündeki sayıdır. Değişkenin kaç katı olduğunu belirtir. Örneğin, '5x' teriminde, '5' katsayıdır. Katsayı, terimdeki değişkenin önündeki sayıyı okuyarak bulunur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde hangi işlemler yapılabilir?",
+    "output": "Cebirsel ifadelerde toplama, çıkarma, çarpma ve bölme gibi temel aritmetik işlemler yapılabilir. Ayrıca, ifadeler sadeleştirilebilir ve çarpanlarına ayrılabilir. Bu işlemler, ifadeleri çözmek veya manipüle etmek için kullanılır."
+  },
+  {
+    "instruction": "Değişken nedir ve ne işe yarar?",
+    "output": "Değişken, cebirsel ifadelerde sayıları temsil eden sembollerdir. Genellikle harflerle gösterilir (örneğin, x, y, z). Değişkenler, bilinmeyen değerleri temsil eder ve cebirsel denklemleri çözmemizi sağlar."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nedir?",
+    "output": "Sabit terim, bir cebirsel ifadede değişken içermeyen sayıdır. Örneğin, '3x + 5' ifadesinde '5' sabit terimdir. Sabit terimler, ifade içindeki değişkenlerden bağımsızdır ve genellikle ifadeyi tanımlayan sabit bir miktarı temsil eder."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimlerin sıralaması nasıl yapılır?",
+    "output": "Cebirsel ifadelerde terimler genellikle değişkenlerin derecelerine göre sıralanır. En yüksek dereceli terim en başta, en düşük dereceli terim en sonda yer alır. Bu sıralama, ifadeyi daha düzenli ve anlaşılır hale getirir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenlerin katsayıları nasıl toplanır?",
+    "output": "Cebirsel ifadelerde benzer terimlerin katsayıları toplanarak birleştirilir. Örneğin, '5x' ve '3x' terimlerinin katsayıları toplanarak '8x' elde edilir. Aynı değişken ve dereceye sahip terimlerin katsayıları toplanabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sadeleştirme işlemi hangi kurallara göre yapılır?",
+    "output": "Cebirsel ifadelerde sadeleştirme, benzer terimlerin bir araya getirilmesi ve katsayılarının toplanmasıyla yapılır. Ayrıca, ifadede ortak çarpanlar varsa, bu çarpanlar dışarı alınarak ifade sadeleştirilebilir. İşlemler, matematiksel işlem kurallarına uygun olarak yapılmalıdır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, benzer tabanlı ifadelerin üslerinin toplanması veya çıkarılması yoluyla yapılır. Örneğin, a^m * a^n = a^(m+n) ve a^m / a^n = a^(m-n) şeklinde sadeleştirilir. Ayrıca, kesirli üslü ifadeler köklü ifadelere dönüştürülerek de sadeleştirilebilir."
+  },
+  {
+    "instruction": "Kesirli üslü ifadelerin özellikleri nelerdir?",
+    "output": "Kesirli üslü ifadeler, bir sayının kökünü ve kuvvetini aynı anda ifade eder. Örneğin, a^(m/n) ifadesi, a'nın n. dereceden kökünün m. kuvveti anlamına gelir. Bu ifadeler, köklü ifadelerle eşdeğer olup, çarpma ve bölme işlemlerinde kolaylık sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi, aynı tabana sahip ifadelerin üslerinin toplanmasıyla yapılır. Örneğin, a^m * a^n = a^(m+n) şeklinde gerçekleştirilir. Farklı tabanlara sahip ifadeler çarpılırken, her bir ifade ayrı ayrı çarpılır ve sonuçlar birleştirilir."
+  },
+  {
+    "instruction": "Karekök nedir ve nasıl hesaplanır?",
+    "output": "Karekök, bir sayının karesini veren sayıyı ifade eder. Örneğin, 9'un karekökü 3'tür çünkü 3^2 = 9'dur. Karekök genellikle '√' sembolü ile gösterilir ve pozitif bir sayının karekökü pozitif bir sonuç verir."
+  },
+  {
+    "instruction": "Üslü ifadelerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Üslü ifadelerde toplama ve çıkarma işlemleri, sadece aynı taban ve aynı üsse sahip terimler arasında yapılabilir. Örneğin, 3a^2 + 5a^2 = 8a^2 şeklinde toplanır. Farklı üs veya tabana sahip ifadeler doğrudan toplanamaz veya çıkarılamaz."
+  },
+  {
+    "instruction": "Köklü ifadelerin sadeleştirilmesi nasıl yapılır?",
+    "output": "Köklü ifadelerin sadeleştirilmesi, kök içindeki sayının çarpanlarına ayrılması ve tam kare çarpanların kök dışına çıkarılması ile yapılır. Örneğin, √18 ifadesi, √(9*2) = 3√2 olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Kesirli üslü ifadelerle köklü ifadeler nasıl dönüştürülür?",
+    "output": "Kesirli üslü ifadeler köklü ifadelere, a^(m/n) = n√(a^m) şeklinde dönüştürülür. Bu dönüşüm, kesirli üslü ifadelerin köklü ifadelerle eşdeğer olduğunu gösterir ve işlemler arasında geçiş yapmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti nasıl alınır?",
+    "output": "Üslü ifadelerde kuvvetin kuvveti, üslerin çarpılmasıyla alınır. Örneğin, (a^m)^n = a^(m*n) şeklinde hesaplanır. Bu kural, bir üslü ifadenin tekrar üslü hale getirilmesi durumunda kullanılır."
+  },
+  {
+    "instruction": "Köklü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde bölme işlemi, kök içindeki sayıların bölünmesiyle yapılır. Örneğin, √(a) / √(b) = √(a/b) şeklinde ifade edilir. Bölme işlemi, köklerin aynı derecede olması durumunda geçerlidir."
+  },
+  {
+    "instruction": "Kesirli üslü ifadelerin sadeleştirilmesi neden önemlidir?",
+    "output": "Kesirli üslü ifadelerin sadeleştirilmesi, matematiksel işlemleri daha basit ve anlaşılır hale getirir. Sadeleştirme, ifadelerin daha kolay hesaplanmasını sağlar ve özellikle karmaşık denklemlerin çözümünde önemli bir rol oynar."
+  }
+]

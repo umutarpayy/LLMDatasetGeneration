@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki adımlı denklemler nedir?",
+    "output": "İki adımlı denklemler, çözüm sürecinde iki temel adım gerektiren denklemlerdir. Genellikle bir toplama veya çıkarma işlemi ve ardından bir çarpma veya bölme işlemi içerirler. Örneğin, 3x + 5 = 17 denklemi, önce 5'in çıkarılması ve ardından 3'e bölünmesi gereken bir iki adımlı denklemdir."
+  },
+  {
+    "instruction": "Denklemlerde toplama ve çıkarma işlemleri nasıl uygulanır?",
+    "output": "Denklemlerde toplama ve çıkarma işlemleri, bir denklemin her iki tarafına aynı sayıyı ekleyerek veya çıkararak uygulanır. Bu, denklemin eşitliğini bozmadan bir terimi izole etmek için kullanılır. Örneğin, 3x + 5 = 17 denklemini çözmek için her iki taraftan 5 çıkarılır."
+  },
+  {
+    "instruction": "Denklemlerde terimlerin yer değiştirmesi nasıl yapılır?",
+    "output": "Denklemlerde terimlerin yer değiştirmesi, bir terimi denklemin bir tarafından diğer tarafına taşımak için kullanılır. Bu işlem, terimin işaretinin değiştirilmesiyle gerçekleştirilir. Örneğin, 3x + 5 = 17 denkleminde 5'i sağ tarafa taşımak için, 5'i çıkararak 3x = 17 - 5 şeklinde yazılır."
+  },
+  {
+    "instruction": "Denklem çözümünde çarpma ve bölme işlemleri neden önemlidir?",
+    "output": "Çarpma ve bölme işlemleri, denklemlerde bir değişkeni izole etmek için kullanılır. Bir değişkenin katsayısını 1 yapmak için bu işlemler uygulanır. Örneğin, 3x = 12 denkleminde x'i bulmak için her iki tarafı da 3'e böleriz."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafına aynı işlemi uygulamak neden gereklidir?",
+    "output": "Bir denklemin her iki tarafına aynı işlemi uygulamak, eşitliğin korunmasını sağlamak için gereklidir. Bu, denklemin iki tarafının her zaman eşit kalmasını ve doğru çözüm elde edilmesini sağlar. Bu prensip, denklemi çözmek için yapılan tüm işlemlerde uygulanmalıdır."
+  },
+  {
+    "instruction": "Negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Negatif sayılarla işlem yaparken, toplama ve çıkarma işlemlerinde sayı doğrusu üzerinde hareket etmeye dikkat edilmelidir. Negatif bir sayıya pozitif bir sayı eklemek, sayı doğrusunda sağa doğru hareket etmek anlamına gelir. Ayrıca, çarpma ve bölme işlemlerinde iki negatif sayı birbiriyle çarpıldığında veya bölündüğünde sonuç pozitif olur."
+  },
+  {
+    "instruction": "Denklem çözümünde sayı doğrusu nasıl kullanılır?",
+    "output": "Sayı doğrusu, denklemlerde toplama ve çıkarma işlemlerini görselleştirmek için kullanılır. Sayı doğrusunda bir sayı eklemek sağa, çıkarmak ise sola doğru hareket etmeyi temsil eder. Bu, özellikle negatif sayılarla işlem yaparken daha iyi bir kavrayış sağlar."
+  },
+  {
+    "instruction": "Denklemlerde bir terimi izole etmek ne anlama gelir?",
+    "output": "Denklemlerde bir terimi izole etmek, o terimi denklemin bir tarafında tek başına bırakmak anlamına gelir. Bu, genellikle bir değişkenin değerini bulmak için yapılır. İzolasyon, diğer terimleri denklemin karşı tarafına taşıyarak ve gerekli işlemleri uygulayarak gerçekleştirilir."
+  },
+  {
+    "instruction": "Denklemlerde sembolik gösterimler neden kullanılır?",
+    "output": "Denklemlerde sembolik gösterimler, matematiksel işlemleri ve kavramları daha net ve anlaşılır bir şekilde ifade etmek için kullanılır. Semboller, işlemlerin ve terimlerin hızlı ve etkili bir şekilde temsil edilmesini sağlar. Bu, özellikle karmaşık denklemlerle çalışırken önemlidir."
+  },
+  {
+    "instruction": "Denklem çözüm sürecinde görselleştirmenin faydaları nelerdir?",
+    "output": "Denklem çözüm sürecinde görselleştirme, işlemlerin daha iyi anlaşılmasını ve takip edilmesini sağlar. Görselleştirme, özellikle karmaşık denklemler veya negatif sayılarla çalışırken, işlemlerin mantığını kavramayı kolaylaştırır. Bu, hataları azaltır ve çözüm sürecini daha etkili hale getirir."
+  }
+]

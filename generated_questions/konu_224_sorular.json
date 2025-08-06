@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Olasılık nedir?",
+    "output": "Olasılık, bir olayın gerçekleşme şansını ölçen bir matematiksel kavramdır. 0 ile 1 arasında bir değer alır; 0, olayın kesinlikle gerçekleşmeyeceğini, 1 ise olayın kesinlikle gerçekleşeceğini belirtir."
+  },
+  {
+    "instruction": "Bir olayın olasılığı nasıl hesaplanır?",
+    "output": "Bir olayın olasılığı, o olayın gerçekleştiği durumların sayısının, tüm olası durumların sayısına bölünmesiyle hesaplanır. Matematiksel olarak P(A) = n(A) / n(S) şeklinde ifade edilir; burada n(A), olay A'nın gerçekleştiği durumların sayısı, n(S) ise tüm olası durumların sayısıdır."
+  },
+  {
+    "instruction": "Kesişim olasılığı nedir?",
+    "output": "Kesişim olasılığı, iki veya daha fazla olayın aynı anda gerçekleşme olasılığıdır. İki olay A ve B için kesişim olasılığı P(A ∩ B) şeklinde gösterilir ve bu, A ve B olaylarının her ikisinin de gerçekleştiği durumların olasılığıdır."
+  },
+  {
+    "instruction": "Birleşim olasılığı nedir?",
+    "output": "Birleşim olasılığı, iki veya daha fazla olaydan en az birinin gerçekleşme olasılığıdır. İki olay A ve B için birleşim olasılığı P(A ∪ B) şeklinde gösterilir ve bu, A veya B olaylarından en az birinin gerçekleştiği durumların olasılığıdır."
+  },
+  {
+    "instruction": "Bağımsız olaylar nedir?",
+    "output": "Bağımsız olaylar, bir olayın gerçekleşmesinin diğer olayın gerçekleşmesini etkilemediği olaylardır. İki olay A ve B bağımsızsa, P(A ∩ B) = P(A) * P(B) eşitliği sağlanır."
+  },
+  {
+    "instruction": "Bağımlı olaylar nedir?",
+    "output": "Bağımlı olaylar, bir olayın gerçekleşmesinin diğer olayın gerçekleşmesini etkilediği olaylardır. İki olay A ve B bağımlıysa, birinin gerçekleşme olasılığı diğerinin gerçekleşme durumuna bağlı olarak değişir."
+  },
+  {
+    "instruction": "Tam olasılık nedir?",
+    "output": "Tam olasılık, bir olayın olasılığını, o olayın farklı koşullar altında gerçekleşme olasılıklarının toplamı olarak hesaplayan bir yöntemdir. Bu, özellikle bir olayın farklı yollarla gerçekleşebileceği durumlarda kullanılır."
+  },
+  {
+    "instruction": "Olasılık dağılımı nedir?",
+    "output": "Olasılık dağılımı, bir rastgele değişkenin alabileceği değerler ve bu değerlere karşılık gelen olasılıklar arasındaki ilişkiyi tanımlar. Olasılık dağılımı, olasılık kütle fonksiyonu (discrete) veya olasılık yoğunluk fonksiyonu (continuous) ile ifade edilebilir."
+  },
+  {
+    "instruction": "Deneysel olasılık nedir?",
+    "output": "Deneysel olasılık, bir olayın olasılığını belirlemek için yapılan deneylerin sonuçlarına dayanan bir olasılık türüdür. Deneysel olasılık, bir olayın gerçekleşme sayısının, toplam deney sayısına bölünmesiyle hesaplanır."
+  },
+  {
+    "instruction": "Teorik olasılık nedir?",
+    "output": "Teorik olasılık, bir olayın olasılığını belirlemek için matematiksel model ve varsayımlara dayanan bir olasılık türüdür. Teorik olasılık, olayın gerçekleşme durumlarının tüm olası durumlara oranı olarak hesaplanır."
+  }
+]

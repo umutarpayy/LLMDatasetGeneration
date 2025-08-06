@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bilimsel gösterim nedir?",
+    "output": "Bilimsel gösterim, çok büyük veya çok küçük sayıları daha kolay ifade edebilmek için kullanılan bir yöntemdir. Bu gösterimde bir sayı, 10'un bir kuvveti ile çarpılan bir katsayı şeklinde yazılır. Katsayı genellikle 1 ile 10 arasında bir sayı olur."
+  },
+  {
+    "instruction": "Çarpma işleminin değişme özelliği nedir?",
+    "output": "Çarpma işleminin değişme özelliği, çarpanların yer değiştirmesi durumunda sonucun değişmemesi anlamına gelir. Yani a × b = b × a eşitliği her zaman doğrudur."
+  },
+  {
+    "instruction": "Çarpma işleminin birleşme özelliği nedir?",
+    "output": "Çarpma işleminin birleşme özelliği, çarpma işlemi sırasının değiştirilmesinin sonucu etkilememesi anlamına gelir. Yani (a × b) × c = a × (b × c) eşitliği her zaman doğrudur."
+  },
+  {
+    "instruction": "Bilimsel gösterimde üsler nasıl toplanır?",
+    "output": "Bilimsel gösterimde çarpma işlemi yapılırken, aynı tabana sahip üsler toplanır. Örneğin, 10^a × 10^b = 10^(a+b) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayının 10'dan küçük olması neden önemlidir?",
+    "output": "Bilimsel gösterimde, katsayının 10'dan küçük olması standart bir formattır. Bu, sayının daha kolay okunmasını ve karşılaştırılmasını sağlar. Ayrıca, bilimsel hesaplamalarda tutarlılığı korur."
+  },
+  {
+    "instruction": "Bir sayıyı bilimsel gösterime nasıl çevirirsiniz?",
+    "output": "Bir sayıyı bilimsel gösterime çevirmek için, sayının ondalık noktasını kaydırarak 1 ile 10 arasında bir katsayı elde edilir ve bu kaydırma işlemi sırasında yapılan hareketler kadar 10'un kuvveti belirlenir. Örneğin, 1500 sayısı 1.5 × 10^3 olarak yazılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi yaparken birimler nasıl ele alınır?",
+    "output": "Bilimsel gösterimde çarpma işlemi yaparken birimler, katsayıların çarpılması sırasında aynı tür birimlerin birbirini götürmesiyle sadeleştirilir. Örneğin, metre/saniye ile saniye çarpıldığında saniyeler sadeleşir ve sonuç metre olur."
+  },
+  {
+    "instruction": "Bilimsel gösterimde bir sayının ondalık kısmı nasıl ayarlanır?",
+    "output": "Bilimsel gösterimde bir sayının ondalık kısmı, katsayının 1 ile 10 arasında kalacak şekilde ayarlanır. Bu, ondalık virgülün kaydırılması ve buna bağlı olarak 10'un kuvvetinin ayarlanması ile yapılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi sonucunda sayı nasıl düzenlenir?",
+    "output": "Bilimsel gösterimde çarpma işlemi sonucunda elde edilen sayı, katsayı ve üslerin uygun şekilde düzenlenmesiyle standart formata getirilir. Katsayı 1 ile 10 arasında olmalı ve üsler toplanarak tek bir üs olarak yazılmalıdır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde üslü ifadeler neden kullanılır?",
+    "output": "Bilimsel gösterimde üslü ifadeler, çok büyük veya çok küçük sayıları daha kolay ve okunabilir bir şekilde ifade etmek için kullanılır. Bu, hesaplamaların ve karşılaştırmaların daha basit ve hızlı yapılmasına olanak tanır."
+  }
+]

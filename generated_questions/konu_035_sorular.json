@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Ondalık sayı nedir?",
+    "output": "Ondalık sayı, bir tam sayı ve bir kesir kısmından oluşan bir sayıdır. Kesir kısmı, ondalık işareti veya virgül ile ayrılır ve genellikle 10'un kuvvetleri cinsinden ifade edilir."
+  },
+  {
+    "instruction": "Ondalık sayılar nasıl okunur?",
+    "output": "Ondalık sayılar, tam sayı kısmı normal bir sayı gibi okunur, ardından 'virgül' denir ve kesir kısmı tek tek okunur. Örneğin, 3,4 sayısı 'üç virgül dört' olarak okunur."
+  },
+  {
+    "instruction": "Kesir nedir?",
+    "output": "Kesir, bir bütünün parçasını ifade eden bir sayıdır. İki sayıdan oluşur: pay (üstteki sayı) ve payda (alttaki sayı). Pay, kaç parça olduğunu, payda ise bu parçaların neye bölündüğünü gösterir."
+  },
+  {
+    "instruction": "Bir kesir ondalık sayıya nasıl çevrilir?",
+    "output": "Bir kesir, payın paydaya bölünmesiyle ondalık sayıya çevrilebilir. Ondalık işareti, bölme işlemi sırasında elde edilen sonucun tam sayı ve kesir kısmını ayırır."
+  },
+  {
+    "instruction": "Ondalık işareti nasıl kullanılır?",
+    "output": "Ondalık işareti, tam sayı ile kesir kısmını ayırmak için kullanılır. Bir sayının ondalık kısmını belirtir ve sayının büyüklüğünü daha hassas bir şekilde ifade etmeye olanak tanır."
+  },
+  {
+    "instruction": "Ondalık basamaklar nasıl belirlenir?",
+    "output": "Ondalık basamaklar, ondalık işaretinin sağında yer alır ve her basamak, 10'un bir kuvveti olarak ifade edilir. İlk basamak onda birler, ikinci basamak yüzde birler, üçüncü basamak binde birler şeklindedir."
+  },
+  {
+    "instruction": "Ondalık sayılarda basamak kaydırma nasıl yapılır?",
+    "output": "Ondalık sayılarda basamak kaydırma, sayıyı 10'un kuvvetleri ile çarparken veya bölerken ondalık işaretinin sağa veya sola kaydırılması ile yapılır. Çarparken sağa, bölerken sola kaydırılır."
+  },
+  {
+    "instruction": "Ondalık sayılarla çarpma işlemi nasıl yapılır?",
+    "output": "Ondalık sayılarla çarpma işlemi yapılırken, sayılar virgülsüz olarak çarpılır ve sonuçtaki ondalık basamak sayısı, çarpılan sayıların ondalık basamaklarının toplamı kadar olur."
+  },
+  {
+    "instruction": "Ondalık sayılarla bölme işlemi nasıl yapılır?",
+    "output": "Ondalık sayılarla bölme işlemi yapılırken, bölünen ve bölen sayılar ondalık işaretlerinden kurtulacak şekilde aynı sayıda basamak kaydırılır ve ardından normal bölme işlemi yapılır."
+  },
+  {
+    "instruction": "Ondalık sayılar hangi durumlarda kullanılır?",
+    "output": "Ondalık sayılar, ölçüm, para hesaplamaları, bilimsel hesaplamalar gibi hassasiyet gerektiren durumlarda kullanılır. Kesirlerin daha kolay anlaşılmasını ve hesaplanmasını sağlar."
+  }
+]

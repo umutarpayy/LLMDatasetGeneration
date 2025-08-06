@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşdeğer denklem sistemleri nedir?",
+    "output": "Eşdeğer denklem sistemleri, aynı çözüm kümesine sahip olan denklem sistemleridir. Yani, bu sistemlerdeki tüm denklemler, aynı değişken değerleri için doğru sonuç verir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde paralel doğrular ne anlama gelir?",
+    "output": "Denklem sistemlerinde paralel doğrular, aynı eğime sahip ancak farklı kesim noktalarına sahip doğrular olarak tanımlanır. Bu doğrular asla kesişmez ve dolayısıyla ortak bir çözüm kümesine sahip olamazlar."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eğim nedir ve nasıl bulunur?",
+    "output": "Eğim, bir doğrunun yatay eksene göre eğilimini ifade eder ve genellikle 'm' ile gösterilir. İki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Doğrusal bir denklemde y = mx + b formülünde, 'm' eğimi temsil eder."
+  },
+  {
+    "instruction": "Paralel doğruların özellikleri nelerdir?",
+    "output": "Paralel doğrular, aynı düzlemde olup asla kesişmeyen doğrulardır. Eğimleri aynıdır, ancak y ekseni üzerindeki kesim noktaları farklıdır. Bu nedenle, paralel doğruların ortak bir çözüm kümesi yoktur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde kesim noktası nedir ve nasıl bulunur?",
+    "output": "Kesim noktası, bir doğrunun y eksenini kestiği noktadır ve genellikle 'b' ile gösterilir. Doğrusal bir denklemde y = mx + b formülünde, 'b' kesim noktasını temsil eder. Bu değer, x'in 0 olduğu durumda y'nin aldığı değerdir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kümesi nedir?",
+    "output": "Çözüm kümesi, bir denklem sistemini sağlayan tüm olası değer çiftlerini içerir. Eğer iki denklem sistemi eşdeğer ise, çözüm kümeleri aynıdır."
+  },
+  {
+    "instruction": "Paralel doğruların denklemleri nasıl tanımlanır?",
+    "output": "Paralel doğruların denklemleri, aynı eğime sahip ancak farklı y ekseni kesim noktalarına sahip doğrular olarak tanımlanır. Bu nedenle, iki paralel doğrunun denklemleri y = mx + b1 ve y = mx + b2 şeklinde yazılabilir, burada b1 ≠ b2'dir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde sabit terim nedir ve önemi nedir?",
+    "output": "Sabit terim, bir doğrunun y eksenini kestiği noktayı belirler ve genellikle y = mx + b formülünde 'b' ile gösterilir. Sabit terim, doğrunun grafikteki konumunu belirler ve paralel doğruların farklı kesim noktalarına sahip olmasına neden olur."
+  },
+  {
+    "instruction": "Bir denklem sisteminin çözüm kümesinin boş olması ne anlama gelir?",
+    "output": "Bir denklem sisteminin çözüm kümesinin boş olması, sistemdeki denklemlerin hiçbir ortak çözümünün olmadığını gösterir. Bu durum genellikle paralel doğrularla temsil edilen sistemlerde görülür."
+  },
+  {
+    "instruction": "Denklem sistemlerinde doğruların kesişimi nasıl belirlenir?",
+    "output": "Denklem sistemlerinde doğruların kesişimi, sistemdeki denklemleri çözerek bulunur. İki doğru kesişiyorsa, bu kesişim noktası denklemlerin ortak çözümüdür. Paralel doğrular ise asla kesişmez ve dolayısıyla ortak bir çözüm noktası yoktur."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "En küçük ortak kat (EKOK) nedir?",
+    "output": "En küçük ortak kat, iki veya daha fazla sayının ortak katları arasında en küçük olanıdır. Başka bir deyişle, bu sayı her iki sayının da tam katı olan en küçük sayıdır."
+  },
+  {
+    "instruction": "En küçük ortak kat nasıl bulunur?",
+    "output": "En küçük ortak katı bulmak için sayıları asal çarpanlarına ayırırız ve her asal çarpandan en yüksek kuvvetini alırız. Bu asal çarpanların çarpımı bize en küçük ortak katı verir."
+  },
+  {
+    "instruction": "En küçük ortak kat hangi durumlarda kullanılır?",
+    "output": "En küçük ortak kat, eşit aralıklarla tekrarlanan olayların aynı anda gerçekleştiği noktaları bulmak için kullanılır. Örneğin, iki farklı zaman diliminde çalışan makinelerin aynı anda çalışmaya başladığı zamanı bulmak için EKOK kullanılır."
+  },
+  {
+    "instruction": "En büyük ortak bölen (EBOB) ile en küçük ortak kat (EKOK) arasındaki fark nedir?",
+    "output": "En büyük ortak bölen, iki veya daha fazla sayının ortak bölenleri arasında en büyük olanıdır. En küçük ortak kat ise, bu sayıların ortak katları arasında en küçük olanıdır. EBOB, sayıları bölebilen en büyük sayı iken, EKOK, sayılara bölünebilen en küçük sayıdır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma nedir?",
+    "output": "Asal çarpanlara ayırma, bir sayıyı asal sayıların çarpımı şeklinde yazma işlemidir. Bu işlem, sayının bölünebildiği en küçük asal sayılar kullanılarak yapılır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma nasıl yapılır?",
+    "output": "Bir sayıyı asal çarpanlara ayırmak için, sayıyı en küçük asal sayıdan başlayarak bölmeye çalışırız. Bölme işlemi sonucunda kalan sayı asal olana kadar bu işlemi devam ettiririz. Elde edilen asal sayıların çarpımı, sayının asal çarpanlara ayrılmış halidir."
+  },
+  {
+    "instruction": "Ortak kat nedir?",
+    "output": "Ortak kat, iki veya daha fazla sayının her birine tam olarak bölünebilen sayılardır. Bu katlar arasında en küçük olanı en küçük ortak kat (EKOK) olarak adlandırılır."
+  },
+  {
+    "instruction": "Bir sayının katları nasıl bulunur?",
+    "output": "Bir sayının katları, o sayının pozitif tam sayıların çarpımı ile elde edilen sayılardır. Örneğin, 3 sayısının katları 3, 6, 9, 12, 15, ... şeklindedir ve bu dizi sonsuza kadar devam eder."
+  },
+  {
+    "instruction": "En küçük ortak katın özellikleri nelerdir?",
+    "output": "En küçük ortak katın özellikleri şunlardır: (1) EKOK, her iki sayıya da tam bölünür. (2) EKOK, iki sayının çarpımının en büyük ortak bölenine bölünmesiyle elde edilebilir. (3) EKOK, iki sayının katları arasında en küçük olanıdır."
+  },
+  {
+    "instruction": "EKOK'un EBOB ile ilişkisi nedir?",
+    "output": "EKOK ve EBOB arasındaki ilişki, iki sayının çarpımının, bu sayıların EBOB'u ile EKOK'unun çarpımına eşit olmasıdır. Yani, a ve b sayıları için a * b = EBOB(a, b) * EKOK(a, b) eşitliği geçerlidir."
+  }
+]

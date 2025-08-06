@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Basit olasılık nedir?",
+    "output": "Basit olasılık, bir olayın gerçekleşme şansını ifade eden bir matematiksel kavramdır. Olasılık, istenen olayın tüm olası olaylara oranı olarak hesaplanır. Örneğin, bir çantadan sarı bir bilye çekme olasılığı, sarı bilyelerin sayısının toplam bilye sayısına bölünmesiyle bulunur."
+  },
+  {
+    "instruction": "Olasılık nasıl hesaplanır?",
+    "output": "Olasılık, istenen olayın sayısının tüm olası olayların sayısına bölünmesiyle hesaplanır. Eğer bir deneyde tüm sonuçlar eşit derecede olasıysa, olasılık formülü P(A) = (istenen sonuçların sayısı) / (tüm olası sonuçların sayısı) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Olasılık hangi durumlarda kullanılır?",
+    "output": "Olasılık, belirsizlik içeren durumlarda gelecekteki olayların tahmin edilmesinde kullanılır. Örneğin, hava durumu tahminleri, kumar oyunları, sigorta hesaplamaları ve stokastik süreçler gibi birçok alanda olasılık hesaplamaları yapılır."
+  },
+  {
+    "instruction": "Örnek uzay nedir?",
+    "output": "Örnek uzay, bir olasılık deneyinde tüm olası sonuçların kümesidir. Örneğin, bir zar atıldığında, örnek uzay {1, 2, 3, 4, 5, 6} şeklindedir. Örnek uzay, olasılık hesaplamalarının temelini oluşturur."
+  },
+  {
+    "instruction": "Eşit olasılıklı olaylar nedir?",
+    "output": "Eşit olasılıklı olaylar, her bir olayın gerçekleşme şansının aynı olduğu durumlardır. Örneğin, adil bir zar atıldığında her bir yüzün gelme olasılığı eşittir ve 1/6'dır."
+  },
+  {
+    "instruction": "Olay nedir?",
+    "output": "Olay, bir olasılık deneyinde meydana gelmesi istenen veya beklenen sonuçlar kümesidir. Örneğin, bir zar atıldığında çift sayı gelmesi olayı, {2, 4, 6} olarak tanımlanabilir."
+  },
+  {
+    "instruction": "Deney nedir?",
+    "output": "Deney, belirli bir olasılık problemi bağlamında gerçekleştirilen ve sonucunda bir veya daha fazla olayın gözlemlendiği süreçtir. Örneğin, bir zar atmak veya bir çantadan bilye çekmek birer deneydir."
+  },
+  {
+    "instruction": "Olasılık kuramının amacı nedir?",
+    "output": "Olasılık kuramının amacı, belirsizlik içeren durumları matematiksel olarak modellemek ve bu durumların sonuçlarını tahmin etmektir. Bu kuram, rastgele olayların analiz edilmesine ve gelecekteki olayların olasılıklarının hesaplanmasına olanak sağlar."
+  },
+  {
+    "instruction": "Bir olayın olasılığı 1 ise bu ne anlama gelir?",
+    "output": "Bir olayın olasılığı 1 ise, bu olayın kesinlikle gerçekleşeceği anlamına gelir. Örneğin, bir zar atıldığında 1 ile 6 arasında bir sayı gelmesi olayı, kesin bir olaydır ve olasılığı 1'dir."
+  },
+  {
+    "instruction": "Bir olayın olasılığı 0 ise bu ne anlama gelir?",
+    "output": "Bir olayın olasılığı 0 ise, bu olayın gerçekleşmesinin imkansız olduğu anlamına gelir. Örneğin, adil bir zar atıldığında 7 gelmesi imkansızdır ve bu olayın olasılığı 0'dır."
+  }
+]

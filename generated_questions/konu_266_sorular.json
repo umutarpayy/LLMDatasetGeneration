@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Öteleme nedir?",
+    "output": "Öteleme, bir şeklin belirli bir doğrultuda ve belirli bir mesafede yer değiştirmesi işlemidir. Bu işlem sırasında şeklin boyutu, yönü ve biçimi değişmez, sadece konumu değişir."
+  },
+  {
+    "instruction": "Öteleme işlemi nasıl yapılır?",
+    "output": "Öteleme işlemi, bir şeklin her bir noktasının belirli bir vektör kadar hareket ettirilmesiyle yapılır. Bu vektör, x ve y eksenleri boyunca ne kadar hareket edileceğini belirtir. Örneğin, x ekseninde 8 birim sağa ve y ekseninde 1 birim aşağıya öteleme, her noktanın x koordinatına 8 eklemek ve y koordinatından 1 çıkarmak anlamına gelir."
+  },
+  {
+    "instruction": "Öteleme işleminin özellikleri nelerdir?",
+    "output": "Öteleme işlemi sırasında şeklin boyutu, biçimi ve yönü değişmez. Sadece konumu değişir. Ayrıca, öteleme işlemi tersinirdir; yani, şekli başlangıç konumuna geri getirmek için ötelemenin tersi uygulanabilir."
+  },
+  {
+    "instruction": "Öteleme işlemi hangi durumlarda kullanılır?",
+    "output": "Öteleme işlemi, bir şeklin veya nesnenin konumunu değiştirmek gerektiğinde kullanılır. Bu, mühendislik, grafik tasarım, bilgisayar oyunları ve animasyon gibi alanlarda yaygın olarak uygulanır."
+  },
+  {
+    "instruction": "Öteleme ile döndürme arasındaki fark nedir?",
+    "output": "Öteleme, bir şeklin konumunu değiştiren ancak yönünü değiştirmeyen bir işlemdir. Döndürme ise, şeklin bir nokta etrafında belirli bir açıyla dönmesini sağlar ve şeklin yönünü değiştirir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında koordinatlar nasıl değiştirilir?",
+    "output": "Öteleme işlemi sırasında, her bir noktanın x koordinatına öteleme vektörünün x bileşeni eklenir ve y koordinatına öteleme vektörünün y bileşeni eklenir. Örneğin, bir nokta (x, y) koordinatları ile tanımlanıyorsa ve vektör (a, b) ise, yeni koordinatlar (x+a, y+b) olur."
+  },
+  {
+    "instruction": "Öteleme işlemi geometri derslerinde neden önemlidir?",
+    "output": "Öteleme işlemi, öğrencilerin şekillerin konumlarını ve ilişkilerini anlamalarına yardımcı olur. Ayrıca, simetri, eş şekiller ve koordinat sistemleri gibi temel geometrik kavramların anlaşılmasını sağlar."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi matematiksel araçlar kullanılır?",
+    "output": "Öteleme işlemi sırasında genellikle koordinat sistemi ve vektörler kullanılır. Bu araçlar, şeklin her noktasının yeni konumunu belirlemek için gereklidir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi özellikler korunur?",
+    "output": "Öteleme işlemi sırasında şeklin boyutu, biçimi ve yönü korunur. Bu, şeklin sadece konumunun değiştiği anlamına gelir."
+  },
+  {
+    "instruction": "Öteleme işlemi ile simetri nasıl sağlanır?",
+    "output": "Öteleme işlemi, bir şeklin simetrik bir konuma taşınmasını sağlayabilir. Örneğin, bir şekli bir eksen boyunca öteleyerek, bu eksene göre simetrik bir konum elde edilebilir."
+  }
+]

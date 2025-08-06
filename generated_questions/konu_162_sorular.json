@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemleri nasıl çözülür?",
+    "output": "Denklem sistemleri, birden fazla denklemin aynı anda çözüldüğü problemlerdir. Çözüm yöntemleri arasında grafik yöntemi, yerine koyma (substitution) yöntemi ve eleme (elimination) yöntemi bulunur. Grafik yönteminde, her denklem bir düzlemde bir doğru olarak çizilir ve doğruların kesişim noktası sistemin çözümünü verir. Yerine koyma yönteminde, bir denklemden bir değişkenin değeri çekilir ve bu değer diğer denklemde yerine konur. Eleme yönteminde ise, denklemlerden birini veya her ikisini manipüle ederek bir değişkeni ortadan kaldırırız, böylece diğer değişkenin değeri bulunabilir."
+  },
+  {
+    "instruction": "Grafik yöntemiyle denklem sistemleri nasıl çözülür?",
+    "output": "Grafik yönteminde, her denklem bir koordinat düzleminde doğru olarak çizilir. Doğruların kesişim noktası, sistemin çözümünü verir. Bu yöntem, özellikle iki değişkenli sistemlerde görsel bir çözüm sunar. Doğrular paralel ise sistemin çözümü yoktur, eğer doğrular çakışıyorsa sonsuz çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde kesişim noktası neyi ifade eder?",
+    "output": "Denklem sistemlerinde kesişim noktası, her iki denklemi de sağlayan değişken değerlerini ifade eder. Bu noktada, sistemdeki tüm denklemler aynı anda doğru olur. Kesişim noktası, sistemin çözümünü temsil eder ve genellikle (x, y) koordinatları ile gösterilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde yerine koyma yöntemi nedir?",
+    "output": "Yerine koyma yöntemi, bir denklemi kullanarak bir değişkenin değerini bulup bu değeri diğer denklemde yerine koyma işlemidir. Bu yöntem, özellikle bir değişkenin kolayca izole edilebildiği durumlarda kullanışlıdır. İlk adımda bir denklemden bir değişkenin değeri çekilir ve bu değer diğer denklemde yerine konarak diğer değişkenin değeri bulunur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eleme yöntemi nedir?",
+    "output": "Eleme yöntemi, denklem sistemlerinde bir değişkeni ortadan kaldırarak diğer değişkenin değerini bulma yöntemidir. Bu, genellikle iki denklemden birini veya her ikisini de manipüle ederek yapılır. Amaç, bir değişkenin katsayılarını eşit yaparak toplama veya çıkarma işlemiyle o değişkeni yok etmektir. Böylece diğer değişkenin değeri kolayca bulunabilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde tutarlılık ne anlama gelir?",
+    "output": "Denklem sistemlerinde tutarlılık, sistemin en az bir çözümünün olması durumunu ifade eder. Tutarlı sistemler, bir veya daha fazla çözüm içerebilir. Eğer sistemin çözümü yoksa, bu sistem tutarsız olarak adlandırılır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bağımsız ve bağımlı denklemler arasındaki fark nedir?",
+    "output": "Bağımsız denklemler, birbirinden farklı ve sistemin çözümünü etkileyen denklemlerdir. Bağımlı denklemler ise, birinin diğerinin bir katı olduğu ve sistemin çözümünü etkilemeyen denklemlerdir. Bağımlı denklemler, sistemde fazladan bilgi sağlamaz."
+  },
+  {
+    "instruction": "Denklem sistemlerinde sonsuz çözüm ne anlama gelir?",
+    "output": "Denklem sistemlerinde sonsuz çözüm, sistemdeki denklemlerin aynı doğruyu temsil ettiği ve bu nedenle tüm noktaların çözüm olduğu durumu ifade eder. Bu, denklemlerin birbirinin katı olduğu veya aynı olduğu durumlarda meydana gelir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kümesi nedir?",
+    "output": "Çözüm kümesi, bir denklem sistemini sağlayan tüm değişken değerlerinin toplandığı kümedir. Bu küme, sistemin tüm denklemlerini aynı anda doğru kılan tüm (x, y) çiftlerini içerir. Çözüm kümesi, tek bir çözüm, sonsuz çözüm veya hiç çözüm içermeyebilir."
+  },
+  {
+    "instruction": "Grafik yöntemiyle çözüm bulmanın avantajları nelerdir?",
+    "output": "Grafik yöntemi, özellikle görsel olarak çözüm bulmayı kolaylaştırır ve sistemin çözümünün var olup olmadığını hızlıca gösterir. İki değişkenli sistemlerde, kesişim noktası net bir şekilde görülebilir. Ayrıca, bu yöntem, denklemlerin paralel veya çakışık olup olmadığını belirlemeye yardımcı olur."
+  }
+]

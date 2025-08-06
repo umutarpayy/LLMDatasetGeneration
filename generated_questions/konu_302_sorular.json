@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Özdeş üçgenler nedir?",
+    "output": "Özdeş üçgenler, tüm açıları ve kenar uzunlukları birbirine eşit olan üçgenlerdir. İki üçgenin özdeş olması, birinin diğerine tam olarak üst üste oturabilmesi anlamına gelir. Özdeş üçgenler, genellikle eşlik sembolü (≅) ile gösterilir."
+  },
+  {
+    "instruction": "Paralel doğruların özellikleri nelerdir?",
+    "output": "Paralel doğrular, aynı düzlemde bulunan ve kesişmeyen iki doğrudur. Paralel doğrular arasında eşit uzaklık bulunur ve bu uzaklık her noktada aynıdır. Paralel doğrular üzerinde bir kesen geçtiğinde, iç ters açılar, dış ters açılar ve yöndeş açılar gibi belirli açı ilişkileri oluşur."
+  },
+  {
+    "instruction": "Ters açılar nedir?",
+    "output": "Ters açılar, iki doğrunun kesiştiği noktada oluşan ve karşılıklı olarak birbirine eşit olan açılardır. Ters açılar, genellikle 'X' şeklinde bir kesişim noktasında görülür ve bu açılar birbirine eşittir."
+  },
+  {
+    "instruction": "İç ters açılar nedir?",
+    "output": "İç ters açılar, iki paralel doğruyu kesen bir kesen tarafından oluşturulan ve paralel doğruların arasında kalan açılardır. İç ters açılar birbirine eşittir ve bu özellik, paralel doğruların kesenle oluşturduğu açı ilişkilerinden biridir."
+  },
+  {
+    "instruction": "Yöndeş açılar nedir?",
+    "output": "Yöndeş açılar, iki paralel doğruyu kesen bir kesen tarafından oluşturulan ve aynı konumda bulunan açılardır. Yöndeş açılar birbirine eşittir ve bu özellik, paralel doğruların kesenle oluşturduğu açı ilişkilerinden biridir."
+  },
+  {
+    "instruction": "Açı-Açı-Kenar (AAK) eşlik teoremi nedir?",
+    "output": "Açı-Açı-Kenar (AAK) eşlik teoremi, iki üçgenin eş olduğunu kanıtlamak için kullanılan bir yöntemdir. Eğer iki üçgende iki açı ve bu açılar arasındaki bir kenar eşitse, bu üçgenler eş üçgenlerdir. AAK, üçgenlerin tüm açı ve kenarlarının eşit olduğunu gösterir."
+  },
+  {
+    "instruction": "Geometrik ispat nedir?",
+    "output": "Geometrik ispat, matematiksel bir ifadenin veya teoremin doğru olduğunu kanıtlamak için kullanılan mantıksal bir süreçtir. Geometrik ispatlar, genellikle şekillerin özelliklerini ve ilişkilerini kullanarak yapılır ve adım adım mantıksal bir akış izler."
+  },
+  {
+    "instruction": "Orta nokta nedir ve nasıl bulunur?",
+    "output": "Orta nokta, bir doğru parçasının iki ucu arasında eşit uzaklıkta bulunan noktadır. Orta nokta, iki noktanın koordinatlarının aritmetik ortalaması alınarak hesaplanır. Örneğin, A(x1, y1) ve B(x2, y2) noktaları arasındaki orta nokta, ((x1 + x2)/2, (y1 + y2)/2) formülü ile bulunur."
+  },
+  {
+    "instruction": "Kesen nedir ve ne işe yarar?",
+    "output": "Kesen, iki veya daha fazla doğruyu kesen bir doğru parçasıdır. Kesen, paralel doğrular arasında açı ilişkileri kurar ve geometri problemlerinde açıları belirlemek için kullanılır. Kesenler, paralel doğrularla birlikte iç ters, dış ters ve yöndeş açılar oluşturur."
+  },
+  {
+    "instruction": "Karşılıklı kenarlar nedir?",
+    "output": "Karşılıklı kenarlar, bir üçgende veya çokgende karşılıklı olarak birbirine bakan kenarlardır. Özellikle üçgenlerde, eş üçgenlerin karşılıklı kenarları birbirine eşittir. Bu özellik, üçgenlerin eşlik ve benzerlik teoremlerinde sıkça kullanılır."
+  }
+]

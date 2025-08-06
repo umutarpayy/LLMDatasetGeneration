@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Tek adımlı eşitsizlikler nasıl çözülür?",
+    "output": "Tek adımlı eşitsizlikler, bir bilinmeyeni izole etmek için bir adımda çözülür. Bu genellikle toplama, çıkarma, çarpma veya bölme işlemlerinden birini kullanarak yapılır. Eşitsizliğin her iki tarafına aynı işlemi uygulayarak bilinmeyeni yalnız bırakırız. Ancak, negatif bir sayı ile çarpma veya bölme yapıldığında eşitsizliğin yönü değiştirilmelidir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi durumlarda eşitsizlik işareti değiştirilir?",
+    "output": "Eşitsizlik çözümünde, her iki tarafı negatif bir sayı ile çarptığınızda veya böldüğünüzde eşitsizlik işareti ters çevrilmelidir. Bu, eşitsizliğin doğru kalmasını sağlamak için gereklidir."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafikle gösteriminde hangi semboller kullanılır?",
+    "output": "Eşitsizliklerin grafikle gösteriminde, sayı doğrusunda belirli noktalar kullanılır. 'Küçük eşit' veya 'büyük eşit' sembolleri için nokta dolu olarak gösterilirken, 'küçük' veya 'büyük' sembolleri için nokta boş bırakılır. Bu, çözüm kümesinin sınır değerlerini belirtir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözüm kümesi nedir?",
+    "output": "Eşitsizliklerin çözüm kümesi, eşitsizliği sağlayan tüm olası değerlerin kümesidir. Bu, sayı doğrusunda bir aralık veya belirli değerler olarak gösterilebilir. Çözüm kümesi, eşitsizliğin türüne göre açık veya kapalı bir aralık olabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin sağlaması nasıl yapılır?",
+    "output": "Eşitsizliklerin sağlaması, çözüm kümesinden bir veya daha fazla değeri eşitsizliğe yerleştirerek yapılır. Eğer bu değerler eşitsizliği sağlıyorsa, çözüm doğrudur. Çözüm kümesinin dışında bir değer seçip eşitsizliği sağlamadığını göstererek de doğruluğu kontrol edebilirsiniz."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafiği nasıl çizilir?",
+    "output": "Eşitsizliklerin grafiği, sayı doğrusunda çözüm kümesini temsil eden bir çizgi veya aralık olarak çizilir. Eşitsizlik işaretine bağlı olarak, başlangıç noktası dolu veya boş bir nokta ile gösterilir ve çözüm kümesinin yönü belirtilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Negatif sayılarla işlem yaparken, özellikle çarpma veya bölme işlemlerinde eşitsizlik işaretinin yönünün değişmesi gerektiğine dikkat edilmelidir. Bu, eşitsizliğin doğru kalmasını sağlamak için önemlidir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizlik çözümünde sınır değerler, eşitsizliği eşitliğe çevirerek bulunur. Bu, çözüm kümesinin başlangıç veya bitiş noktalarını belirlemek için kullanılır. Sınır değerler, eşitsizlik işaretine bağlı olarak dahil edilir veya edilmez."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi adımlar izlenir?",
+    "output": "Eşitsizliklerin çözümünde, öncelikle bilinmeyeni izole etmek için eşitsizliğin her iki tarafına aynı işlemi uygulayın. Eğer çarpma veya bölme işlemi negatif bir sayı ile yapılıyorsa, eşitsizlik işaretini ters çevirin. Son olarak, çözüm kümesini belirleyin ve gerekirse grafiğini çizin."
+  },
+  {
+    "instruction": "Eşitsizlikler hangi durumlarda kullanılır?",
+    "output": "Eşitsizlikler, bir değişkenin belirli bir aralıkta veya belirli bir değerden büyük/küçük olduğunu ifade etmek için kullanılır. Bu, gerçek dünya problemlerinde, örneğin bütçe kısıtlamaları, hız limitleri veya kapasite sınırları gibi durumlarda yaygın olarak kullanılır."
+  }
+]

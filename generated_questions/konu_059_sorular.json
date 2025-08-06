@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadeler nedir?",
+    "output": "Üslü ifadeler, bir sayının kendisiyle kaç kez çarpıldığını gösteren matematiksel ifadeleridir. Üs, sayının üzerine yazılır ve taban sayının kaç kez çarpılacağını belirtir. Örneğin, 3^4 ifadesi, 3'ün 4 kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde toplama ve çıkarma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde toplama ve çıkarma işlemi, üsleri aynı olan terimler arasında yapılabilir. Üsleri aynı olan terimlerin katsayıları toplanır veya çıkarılır, üs aynı kalır. Örneğin, 3x^2 + 5x^2 = 8x^2."
+  },
+  {
+    "instruction": "Bir sayının bilimsel gösterimi nasıl yapılır?",
+    "output": "Bir sayının bilimsel gösterimi, sayıyı 1 ile 10 arasında bir sayı ve 10'un bir kuvveti şeklinde ifade etmektir. Örneğin, 4500 sayısı bilimsel gösterimde 4.5 x 10^3 olarak yazılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde yuvarlama nasıl yapılır?",
+    "output": "Bilimsel gösterimde yuvarlama, sayının ondalık kısmındaki basamak sayısını istenen basamak sayısına indirgeyerek yapılır. Yuvarlama yapılırken, yuvarlanacak basamaktan sonraki basamak 5 veya daha büyükse, yuvarlanan basamak bir artırılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n). Tabanlar farklıysa, çarpma işlemi normal şekilde yapılır ve sonuç üslü ifade olarak yazılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n). Tabanlar farklıysa, bölme işlemi normal şekilde yapılır ve sonuç üslü ifade olarak yazılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler ne anlama gelir?",
+    "output": "Üslü ifadelerde negatif üsler, sayının tersini ifade eder. Örneğin, a^-n = 1/a^n. Negatif üs, sayının payda kısmına geçmesi anlamına gelir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma ve bölme işlemleri nasıl yapılır?",
+    "output": "Bilimsel gösterimde çarpma işlemi yapılırken, sayıların katsayıları çarpılır ve üsleri toplanır. Bölme işlemi yapılırken, sayıların katsayıları bölünür ve üsleri çıkarılır. Örneğin, (a x 10^m) * (b x 10^n) = (a*b) x 10^(m+n) ve (a x 10^m) / (b x 10^n) = (a/b) x 10^(m-n)."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayıların karşılaştırılması nasıl yapılır?",
+    "output": "Bilimsel gösterimde sayıların karşılaştırılması, öncelikle üslerin karşılaştırılmasıyla yapılır. Üsler eşitse, katsayılar karşılaştırılır. Daha büyük üs veya katsayıya sahip olan sayı daha büyüktür."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayının 1 ile 10 arasında olması neden önemlidir?",
+    "output": "Bilimsel gösterimde sayının 1 ile 10 arasında olması, standart bir form oluşturmak için gereklidir. Bu, sayının büyüklüğünü ve ölçeğini daha kolay karşılaştırılabilir hale getirir ve bilimsel hesaplamalarda tutarlılık sağlar."
+  }
+]

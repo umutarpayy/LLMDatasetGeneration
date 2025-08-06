@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Pisagor Teoremi nedir?",
+    "output": "Pisagor Teoremi, bir dik üçgende, hipotenüsün karesinin diğer iki kenarın karelerinin toplamına eşit olduğunu ifade eden bir geometrik teoremdir. Yani, c² = a² + b² şeklinde ifade edilir, burada c hipotenüs, a ve b ise dik kenarlardır."
+  },
+  {
+    "instruction": "Pisagor Teoremi nasıl ispatlanır?",
+    "output": "Pisagor Teoremi, çeşitli yöntemlerle ispatlanabilir. Bunlardan biri, dik üçgenin kenarları kullanılarak oluşturulan kare ve dikdörtgenlerin alanları üzerinden yapılan bir ispat yöntemidir. Bu yöntemde, dik üçgenin kenarlarıyla oluşturulan karelerin alanları hesaplanarak teoremin doğruluğu gösterilir."
+  },
+  {
+    "instruction": "Paralelkenar nedir?",
+    "output": "Paralelkenar, karşılıklı kenarları birbirine paralel olan dörtgen şeklindeki bir geometrik figürdür. Paralelkenarın karşılıklı kenarları eşit uzunluktadır ve karşılıklı açıları da eşittir."
+  },
+  {
+    "instruction": "Paralelkenarın alanı nasıl hesaplanır?",
+    "output": "Paralelkenarın alanı, taban uzunluğu ile yüksekliğin çarpılmasıyla bulunur. Yani, alan = taban × yükseklik formülü kullanılarak hesaplanır."
+  },
+  {
+    "instruction": "Dik üçgen nedir?",
+    "output": "Dik üçgen, bir açısı 90 derece olan üçgendir. Dik açının karşısındaki kenara hipotenüs denir ve bu kenar üçgenin en uzun kenarıdır. Diğer iki kenara ise dik kenarlar denir."
+  },
+  {
+    "instruction": "Hipotenüs nedir?",
+    "output": "Hipotenüs, bir dik üçgende, dik açının karşısında yer alan ve üçgenin en uzun kenarı olan kenardır. Pisagor Teoremi'nde hipotenüsün karesi, diğer iki dik kenarın karelerinin toplamına eşittir."
+  },
+  {
+    "instruction": "Dik üçgenin özellikleri nelerdir?",
+    "output": "Dik üçgenin en belirgin özelliği, bir açısının 90 derece olmasıdır. Hipotenüs, en uzun kenardır ve diğer iki kenar dik kenarlar olarak adlandırılır. Pisagor Teoremi, dik üçgenin kenarları arasındaki ilişkiyi tanımlar."
+  },
+  {
+    "instruction": "Pisagor Teoremi hangi durumlarda kullanılır?",
+    "output": "Pisagor Teoremi, dik üçgenlerin kenar uzunluklarını bulmak için kullanılır. Ayrıca, iki nokta arasındaki mesafeyi bulmak, üç boyutlu uzayda mesafe hesaplamak gibi çeşitli uygulamalarda da kullanılır."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin geometrik ispatı nasıl yapılır?",
+    "output": "Pisagor Teoremi'nin geometrik ispatı, dik üçgenin kenarlarıyla oluşturulan karelerin alanları kullanılarak yapılır. Dik üçgenin her iki dik kenarı üzerinde birer kare oluşturulur ve bu karelerin alanlarının toplamının hipotenüs üzerindeki karenin alanına eşit olduğu gösterilir."
+  },
+  {
+    "instruction": "Paralelkenar ile dikdörtgen arasındaki fark nedir?",
+    "output": "Paralelkenar ve dikdörtgen, her ikisi de dörtgen olmalarına rağmen, paralelkenarın tüm kenarları paralelkenarın karşılıklı kenarlarına eşitken, dikdörtgenin tüm açıları 90 derecedir ve karşılıklı kenarları eşittir. Dikdörtgen, özel bir paralelkenar türüdür."
+  }
+]

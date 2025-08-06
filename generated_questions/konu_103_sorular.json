@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çarpan nedir?",
+    "output": "Çarpan, bir sayıyı tam olarak bölen sayılardır. Örneğin, 12'nin çarpanları 1, 2, 3, 4, 6 ve 12'dir. Bu sayılar 12'yi böldüğünde kalan sıfır olur."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanlarına ayrılması ne anlama gelir?",
+    "output": "Bir sayının asal çarpanlarına ayrılması, o sayıyı asal sayıların çarpımı şeklinde ifade etmektir. Asal sayılar, yalnızca 1 ve kendisi dışında böleni olmayan sayılardır. Örneğin, 12 sayısı asal çarpanlarına ayrıldığında 2 x 2 x 3 olarak yazılır."
+  },
+  {
+    "instruction": "Dağılma özelliği nedir?",
+    "output": "Dağılma özelliği, cebirsel ifadelerde bir terimin parantez içindeki terimlerle çarpılmasını ifade eder. Örneğin, a(b + c) ifadesi dağılma özelliği kullanılarak ab + ac şeklinde yazılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpanlara ayırma nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpanlara ayırma, ortak çarpanları bulup ifadeyi bu çarpanlar etrafında yeniden yazmayı içerir. Örneğin, 6x + 12 ifadesi 6(x + 2) olarak çarpanlarına ayrılır."
+  },
+  {
+    "instruction": "Parantez alma işlemi nedir?",
+    "output": "Parantez alma işlemi, bir cebirsel ifadede ortak çarpanı dışarı alarak ifadeyi sadeleştirmektir. Örneğin, 3x + 3y ifadesi 3(x + y) olarak yazılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde ortak çarpan nasıl bulunur?",
+    "output": "Cebirsel ifadelerde ortak çarpan, terimlerin hepsinde bulunan en büyük ortak faktördür. Bu çarpan, terimlerin katsayıları ve değişkenlerinin ortak böleni olabilir. Örneğin, 4x^2 + 8x ifadesinde ortak çarpan 4x'tir."
+  },
+  {
+    "instruction": "Asal çarpanlar hangi özelliklere sahiptir?",
+    "output": "Asal çarpanlar, yalnızca 1 ve kendisi dışında böleni olmayan sayılardır. Her pozitif tam sayı, asal çarpanlarının çarpımı şeklinde yazılabilir ve bu ifade benzersizdir."
+  },
+  {
+    "instruction": "Çarpanlara ayırma işlemi ne işe yarar?",
+    "output": "Çarpanlara ayırma işlemi, cebirsel ifadeleri daha basit bir forma dönüştürerek çözümlemeyi kolaylaştırır. Özellikle denklemlerin çözümünde ve sadeleştirme işlemlerinde kullanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimleri paranteze almak neden önemlidir?",
+    "output": "Cebirsel ifadelerde terimleri paranteze almak, ifadeyi daha düzenli hale getirir ve işlemleri basitleştirir. Ortak çarpanların belirginleşmesini sağlar ve ifadelerin çözümünü kolaylaştırır."
+  },
+  {
+    "instruction": "Çarpanlara ayırma ile dağılma özelliği arasındaki fark nedir?",
+    "output": "Çarpanlara ayırma, ifadeyi ortak çarpanlar etrafında yeniden yazma işlemidir, dağılma özelliği ise bir terimi parantez içindeki terimlerle çarpma işlemidir. Çarpanlara ayırma, dağılma özelliğinin tersidir."
+  }
+]

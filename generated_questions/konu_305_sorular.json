@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşkenar üçgen nedir?",
+    "output": "Eşkenar üçgen, üç kenarı da birbirine eşit olan bir üçgendir. Bu tür üçgenlerde tüm iç açılar da birbirine eşittir ve her biri 60 derece olur."
+  },
+  {
+    "instruction": "Eşkenar üçgenin özellikleri nelerdir?",
+    "output": "Eşkenar üçgenin tüm kenarları eşit uzunluktadır ve iç açıları eşittir, her biri 60 derecedir. Ayrıca, eşkenar üçgenin simetri ekseni vardır ve her açı ortayı aynı zamanda yükseklik ve kenarortaydır."
+  },
+  {
+    "instruction": "İkizkenar üçgenin özellikleri nelerdir?",
+    "output": "İkizkenar üçgende, iki kenar eşit uzunluktadır ve bu eşit kenarların karşısındaki açılar da birbirine eşittir. İkizkenar üçgenin simetri ekseni vardır ve bu eksen, tepe açısını iki eşit parçaya böler."
+  },
+  {
+    "instruction": "Bir üçgende açıların toplamı neden 180 derecedir?",
+    "output": "Bir üçgenin iç açıları toplamının 180 derece olması, Öklidyen geometriye dayanan bir özelliktir. Bu, düzlemdeki bir üçgenin iç açıları toplamının her zaman 180 dereceye eşit olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Bir üçgende dış açı nedir ve nasıl hesaplanır?",
+    "output": "Bir üçgenin dış açısı, bir iç açının uzantısı ile oluşturulan açıdır. Dış açı, üçgenin diğer iki iç açısının toplamına eşittir. Örneğin, bir üçgenin bir açısının dış açısı, o açının dışındaki iki açının toplamına eşittir."
+  },
+  {
+    "instruction": "İkizkenar üçgenin tepe açısı nasıl hesaplanır?",
+    "output": "İkizkenar üçgende tepe açısını bulmak için, üçgenin iç açıları toplamının 180 derece olduğunu kullanarak taban açılarını çıkarabilirsiniz. Eğer taban açıları biliniyorsa, tepe açısı 180 dereceden bu iki taban açısının toplamı çıkarılarak bulunur."
+  },
+  {
+    "instruction": "Üçgenlerde açıortay nedir ve nasıl kullanılır?",
+    "output": "Açıortay, bir açıyı iki eşit parçaya bölen doğru parçasıdır. Üçgenlerde açıortay, genellikle iç açıları eşit bölmek ve bazı özel üçgen özelliklerini kullanmak için kullanılır. Açıortay teoremi, bir üçgenin açıortayının karşı kenarı, kenarları oranında böldüğünü belirtir."
+  },
+  {
+    "instruction": "Bir üçgende yükseklik nedir ve nasıl bulunur?",
+    "output": "Bir üçgenin yüksekliği, bir köşeden karşı kenara dik olarak inen doğru parçasıdır. Yükseklik, üçgenin alanını hesaplamak için kullanılır. Üçgenin taban ve yükseklik çarpımının yarısı, üçgenin alanını verir."
+  },
+  {
+    "instruction": "Üçgenlerde kenarortay nedir ve ne işe yarar?",
+    "output": "Kenarortay, bir üçgenin bir köşesini karşı kenarın orta noktasına birleştiren doğru parçasıdır. Kenarortay, üçgenin alanını ve ağırlık merkezini bulmak için kullanılabilir. Tüm kenarortaylar üçgenin ağırlık merkezinde kesişir."
+  },
+  {
+    "instruction": "Üçgenlerde simetri ekseni nedir ve nasıl belirlenir?",
+    "output": "Simetri ekseni, bir şekli iki eşit parçaya bölen hayali veya gerçek bir çizgidir. Eşkenar ve ikizkenar üçgenlerde, simetri ekseni tepe noktasından tabana doğru inen ve tabanı iki eşit parçaya bölen bir çizgidir. Simetri ekseni, üçgenin simetrisini ve bazı geometrik özelliklerini belirlemek için kullanılır."
+  }
+]

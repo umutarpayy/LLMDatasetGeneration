@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemi nedir?",
+    "output": "Denklem sistemi, iki veya daha fazla denklemin bir arada ele alınarak çözülmesi gereken bir matematiksel yapıdır. Bu denklemler genellikle aynı değişkenleri içerir ve bu değişkenlerin hangi değerlerde her iki denklemi de sağladığını bulmak için çözülür."
+  },
+  {
+    "instruction": "Denklem sistemleri nasıl çözülür?",
+    "output": "Denklem sistemleri, yerine koyma yöntemi, eleme yöntemi veya grafik yöntemi gibi çeşitli yöntemlerle çözülebilir. Her yöntemin kendine özgü adımları vardır ve hangisinin kullanılacağı genellikle denklemlerin yapısına bağlıdır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kümesi nedir?",
+    "output": "Çözüm kümesi, bir denklem sisteminin tüm denklemlerini sağlayan değişken değerlerinin topluluğudur. Çözüm kümesi, tek bir çözüm, sonsuz çözüm veya hiç çözüm içermeyebilir."
+  },
+  {
+    "instruction": "Yerine koyma yöntemine alternatif yöntemler nelerdir?",
+    "output": "Yerine koyma yöntemine alternatif olarak eleme yöntemi ve grafik yöntemi kullanılabilir. Eleme yöntemi, denklemleri toplama veya çıkarma yoluyla bir değişkeni ortadan kaldırmayı amaçlarken, grafik yöntemi denklemlerin grafiklerini çizerek kesişim noktalarını bulmayı hedefler."
+  },
+  {
+    "instruction": "Denklem sistemleri hangi alanlarda kullanılır?",
+    "output": "Denklem sistemleri mühendislik, ekonomi, fizik, kimya gibi birçok alanda kullanılır. Özellikle, iki veya daha fazla değişkenin birbiriyle ilişkili olduğu durumların modellenmesinde ve bu ilişkilerin çözümlenmesinde yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Grafik yöntemi nedir ve nasıl uygulanır?",
+    "output": "Grafik yöntemi, denklemlerin grafiklerini çizerek kesişim noktalarını bulmayı amaçlayan bir çözüm yöntemidir. Her denklem bir koordinat düzleminde çizilir ve grafiklerin kesişim noktası denklemlerin ortak çözümünü verir."
+  },
+  {
+    "instruction": "Bir denklem sisteminin çözümü yoksa bu ne anlama gelir?",
+    "output": "Bir denklem sisteminin çözümü yoksa, bu, denklemlerin temsil ettiği doğruların paralel olduğu ve dolayısıyla hiçbir ortak noktalarının olmadığı anlamına gelir. Bu durumda, sistemin çözüm kümesi boştur."
+  },
+  {
+    "instruction": "Denklem sistemlerinin çözümünde dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Denklem sistemlerini çözerken, denklemlerin doğru bir şekilde düzenlenmesi, işlemlerin dikkatli bir şekilde yapılması ve her adımda doğruluğun kontrol edilmesi önemlidir. Ayrıca, sonucun tüm denklemleri sağladığından emin olunmalıdır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde sonsuz çözüm ne anlama gelir?",
+    "output": "Sonsuz çözüm, denklem sistemindeki denklemlerin aynı doğruları veya çakışan doğruları temsil ettiği anlamına gelir. Bu durumda, her iki denklem de aynı doğrusal ilişkiyi ifade ettiği için sonsuz sayıda çözüm vardır."
+  },
+  {
+    "instruction": "Bir denklem sisteminde değişkenlerin katsayıları nasıl etkiler?",
+    "output": "Değişkenlerin katsayıları, denklemin eğimini ve kesişim noktalarını belirler. Katsayılar, denklemlerin grafiklerini etkileyerek sistemin çözümünün varlığını ve doğasını belirler. Örneğin, aynı katsayılara sahip iki denklem paralel doğrular oluşturur ve çözüm içermez."
+  }
+]

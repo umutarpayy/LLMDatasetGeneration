@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzer üçgenlerin özellikleri nelerdir?",
+    "output": "Benzer üçgenler, şekil olarak aynı fakat boyut olarak farklı olan üçgenlerdir. Benzer üçgenlerde karşılıklı açılar eşittir ve karşılıklı kenarlar orantılıdır. Bu, benzer üçgenlerin aynı şekle sahip oldukları ancak farklı ölçeklerde olabilecekleri anlamına gelir."
+  },
+  {
+    "instruction": "Üçgenlerde benzerlik nasıl kanıtlanır?",
+    "output": "Üçgenlerde benzerlik, belirli benzerlik kriterleri ile kanıtlanabilir. Bu kriterler arasında AA (Açı-Açı), SSS (Kenar-Kenar-Kenar) ve SAS (Kenar-Açı-Kenar) kriterleri bulunur. AA kriterine göre iki üçgenin iki açısı eşitse, bu üçgenler benzerdir. SSS kriterine göre, üçgenlerin karşılıklı kenarları orantılı ise üçgenler benzerdir. SAS kriterine göre ise, iki kenar orantılı ve bu kenarlar arasındaki açı eşit ise üçgenler benzerdir."
+  },
+  {
+    "instruction": "Benzer üçgenlerde oranlar nasıl hesaplanır?",
+    "output": "Benzer üçgenlerde oranlar, karşılıklı kenarların uzunlukları arasındaki oranlar olarak hesaplanır. Eğer iki üçgen benzermişse, bir üçgendeki herhangi bir kenarın uzunluğunun diğer üçgendeki karşılık gelen kenarın uzunluğuna oranı, diğer tüm karşılıklı kenar çiftleri için de aynıdır. Bu oran, benzerlik oranı olarak adlandırılır."
+  },
+  {
+    "instruction": "Üçgenlerde benzerlik oranı nedir?",
+    "output": "Üçgenlerde benzerlik oranı, benzer iki üçgenin karşılıklı kenarlarının uzunlukları arasındaki sabit orandır. Örneğin, benzer iki üçgenin bir kenarının uzunluğu 3 birim ve diğer üçgenin karşılık gelen kenarı 6 birim ise, benzerlik oranı 1:2'dir. Bu oran, tüm karşılıklı kenar çiftleri için aynıdır."
+  },
+  {
+    "instruction": "Benzer üçgenlerde çevre oranı nasıl bulunur?",
+    "output": "Benzer üçgenlerde çevre oranı, üçgenlerin çevrelerinin oranıdır ve bu oran, benzerlik oranına eşittir. Eğer iki üçgen benzermişse, bir üçgenin çevresinin diğer üçgenin çevresine oranı, benzerlik oranına eşittir. Örneğin, benzerlik oranı 1:2 ise, çevre oranı da 1:2 olacaktır."
+  },
+  {
+    "instruction": "Üçgenlerde benzerliğin gerçek hayatta uygulamaları nelerdir?",
+    "output": "Üçgenlerde benzerlik, birçok gerçek hayat uygulamasında kullanılır. Örneğin, haritaların ölçeklendirilmesinde, mimarlıkta bina modellerinin oluşturulmasında ve astronomide uzaklık ölçümlerinde benzerlik prensipleri kullanılır. Ayrıca, fotoğrafçılıkta perspektif ayarlamaları ve optikte lens tasarımı gibi alanlarda da benzerlikten yararlanılır."
+  },
+  {
+    "instruction": "Benzer üçgenlerin alanları arasındaki ilişki nedir?",
+    "output": "Benzer üçgenlerin alanları arasındaki ilişki, benzerlik oranının karesi ile belirlenir. Eğer iki üçgenin benzerlik oranı a:b ise, bu üçgenlerin alanları arasındaki oran a²:b² olur. Bu, benzer üçgenlerin alanlarının benzerlik oranının karesi ile orantılı olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Üçgenlerde benzerlik teoremi nedir?",
+    "output": "Üçgenlerde benzerlik teoremi, iki üçgenin benzer olduğunu belirlemek için kullanılan bir dizi kriteri içerir. Bu teoremler, AA (Açı-Açı), SSS (Kenar-Kenar-Kenar) ve SAS (Kenar-Açı-Kenar) kriterleridir. Bu teoremler, iki üçgenin benzer olup olmadığını belirlemek için kullanılır ve bu benzerlik, karşılıklı açılar ve kenarlar arasındaki ilişkilerle tanımlanır."
+  },
+  {
+    "instruction": "Benzer üçgenlerde iç açıların toplamı neden 180 derecedir?",
+    "output": "Benzer üçgenlerde iç açıların toplamı, herhangi bir üçgende olduğu gibi 180 derecedir. Bu, üçgenlerin temel bir özelliğidir ve benzerlik bu özelliği değiştirmez. Benzer üçgenlerde karşılıklı açılar eşit olduğu için, her iki üçgenin de iç açıları toplamı 180 derece olur."
+  },
+  {
+    "instruction": "Benzer üçgenlerde yüksekliklerin oranı nasıl bulunur?",
+    "output": "Benzer üçgenlerde yüksekliklerin oranı, benzerlik oranına eşittir. Eğer iki üçgen benzermişse, bir üçgendeki herhangi bir yüksekliğin diğer üçgendeki karşılık gelen yüksekliğe oranı, benzerlik oranı ile aynıdır. Bu, benzer üçgenlerin tüm boyutlarının aynı oranda değiştiği anlamına gelir."
+  }
+]

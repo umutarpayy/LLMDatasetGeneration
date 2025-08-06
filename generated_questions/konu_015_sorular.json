@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Asal sayı nedir?",
+    "output": "Asal sayı, yalnızca 1 ve kendisi olmak üzere iki pozitif böleni olan doğal sayıdır. Başka bir deyişle, asal sayılar 1 ve kendisi dışında hiçbir sayıya tam olarak bölünemezler."
+  },
+  {
+    "instruction": "Bir sayının asal olup olmadığını nasıl anlarız?",
+    "output": "Bir sayının asal olup olmadığını anlamak için, o sayının yalnızca 1 ve kendisine bölünüp bölünmediğini kontrol ederiz. Eğer başka bir sayıya tam bölünüyorsa, asal değildir."
+  },
+  {
+    "instruction": "Asal sayıların özellikleri nelerdir?",
+    "output": "Asal sayılar, yalnızca 1 ve kendisi olmak üzere iki pozitif böleni olan sayılardır. En küçük asal sayı 2'dir ve aynı zamanda tek çift asal sayıdır. Asal sayılar, diğer doğal sayılarla çarpanlara ayrılamazlar."
+  },
+  {
+    "instruction": "Asal sayılar ne işe yarar?",
+    "output": "Asal sayılar, matematikte birçok önemli rol oynar. Özellikle sayılar teorisinde ve kriptolojide (şifreleme bilimi) kullanılırlar. Asal sayılar, güvenli veri iletimi ve bilgisayar güvenliği gibi alanlarda kritik öneme sahiptir."
+  },
+  {
+    "instruction": "Asal sayılar ile bileşik sayılar arasındaki fark nedir?",
+    "output": "Asal sayılar, sadece 1 ve kendisi olmak üzere iki pozitif böleni olan sayılardır. Bileşik sayılar ise, 1 ve kendisi dışında en az bir pozitif böleni daha olan sayılardır. Örneğin, 5 asal bir sayıdır, çünkü sadece 1 ve 5'e bölünür. Ancak 6 bileşik bir sayıdır, çünkü 1, 2, 3 ve 6'ya bölünür."
+  },
+  {
+    "instruction": "Neden 1 asal sayı değildir?",
+    "output": "1 asal sayı değildir çünkü asal sayı tanımına göre bir sayının asal olabilmesi için iki farklı pozitif böleni olması gerekir: 1 ve kendisi. Ancak 1 sadece kendisine bölünebilir, bu yüzden asal sayı olarak kabul edilmez."
+  },
+  {
+    "instruction": "Asal sayılar hangi durumlarda kullanılır?",
+    "output": "Asal sayılar, en çok kriptografi ve bilgisayar güvenliği alanlarında kullanılır. Özellikle RSA gibi şifreleme algoritmalarında büyük asal sayılar kullanılarak güvenli veri iletimi sağlanır. Ayrıca asal sayılar, matematiksel araştırmalarda ve teorik çalışmalarda önemli bir yere sahiptir."
+  },
+  {
+    "instruction": "Asal sayıların bilgisayar şifrelemelerinde nasıl kullanıldığını açıklayın.",
+    "output": "Asal sayılar, bilgisayar şifrelemelerinde özellikle RSA algoritması gibi yöntemlerde kullanılır. Bu algoritmalar, iki büyük asal sayının çarpımını kullanarak bir şifreleme anahtarı oluşturur. Bu anahtar, verilerin güvenli bir şekilde şifrelenmesini ve yalnızca doğru özel anahtarla çözülebilmesini sağlar."
+  },
+  {
+    "instruction": "Çift asal sayı nedir?",
+    "output": "Çift asal sayı, asal olan tek çift sayıdır ve bu sayı 2'dir. 2, yalnızca 1 ve kendisi olan iki pozitif böleni olduğu için asal bir sayıdır. Diğer tüm çift sayılar en az 2'ye bölünebildikleri için asal değildirler."
+  },
+  {
+    "instruction": "Bir sayının asal olup olmadığını kontrol etmenin pratik bir yolu var mıdır?",
+    "output": "Bir sayının asal olup olmadığını kontrol etmek için, sayının kareköküne kadar olan tüm asal sayılarla bölünüp bölünmediğini kontrol edebilirsiniz. Eğer sayı, bu asal sayılardan hiçbirine tam bölünmüyorsa, asal sayıdır. Bu yöntem, büyük sayılar için daha hızlı bir kontrol sağlar."
+  }
+]

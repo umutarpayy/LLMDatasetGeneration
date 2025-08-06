@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Köklü ifadeler nedir?",
+    "output": "Köklü ifadeler, bir sayının kökünü, genellikle kare veya küp kökünü temsil eden matematiksel ifadelerdir. Örneğin, √x ifadesi x'in karekökünü belirtir."
+  },
+  {
+    "instruction": "Köklü ifadelerin sadeleştirilmesi nasıl yapılır?",
+    "output": "Köklü ifadelerin sadeleştirilmesi, kök içindeki sayı veya ifadelerin tam kare, tam küp gibi daha küçük köklerle ifade edilebilecek şekilde düzenlenmesiyle yapılır. Pay ve payda aynı faktörlerle sadeleştirilerek kök dışına çıkabilecek sayılar bulunur."
+  },
+  {
+    "instruction": "Üs özellikleri nelerdir?",
+    "output": "Üs özellikleri, üs alma işlemleri sırasında kullanılan kurallardır. Bazı temel özellikler: a^m * a^n = a^(m+n), (a^m)^n = a^(m*n), a^m / a^n = a^(m-n) ve (ab)^n = a^n * b^n şeklindedir."
+  },
+  {
+    "instruction": "Köklü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde bölme işlemi, pay ve paydanın ayrı ayrı kökleri alınarak veya kök içindeki ifadeler bölünerek yapılır. Örneğin, √(a/b) = √a / √b şeklinde ifade edilebilir."
+  },
+  {
+    "instruction": "Köklü ifadelerde çarpanlara ayırma nasıl yapılır?",
+    "output": "Köklü ifadelerde çarpanlara ayırma, kök içindeki sayının tam kare çarpanlarını bulup bu çarpanları kök dışına çıkartarak yapılır. Örneğin, √50 = √(25*2) = 5√2 şeklinde sadeleştirilebilir."
+  },
+  {
+    "instruction": "Köklü ifadelerde payda eşitleme nasıl yapılır?",
+    "output": "Köklü ifadelerde payda eşitleme, paydaları aynı hale getirmek için pay ve paydanın aynı sayı ile çarpılması işlemidir. Bu, köklü ifadelerin toplama veya çıkarma işlemlerinde gereklidir."
+  },
+  {
+    "instruction": "Köklü ifadelerin özellikleri nelerdir?",
+    "output": "Köklü ifadelerin bazı temel özellikleri şunlardır: √a * √b = √(a*b), √a / √b = √(a/b), ve (√a)^2 = a. Bu özellikler, köklü ifadelerin işlemlerinde kullanılır."
+  },
+  {
+    "instruction": "Köklü ifadelerde rasyonel hale getirme nedir?",
+    "output": "Köklü ifadelerde rasyonel hale getirme, köklü bir paydanın kök içermeyen bir hale dönüştürülmesidir. Bu genellikle payda kök içermeyecek şekilde genişletilerek yapılır."
+  },
+  {
+    "instruction": "Köklü ifadelerde iç içe kökler nasıl sadeleştirilir?",
+    "output": "İç içe kökler, kök içindeki ifadelerin tam kare veya tam küp gibi daha küçük köklerle ifade edilebilecek şekilde düzenlenmesiyle sadeleştirilir. Bu, kök içindeki ifadelerin çarpanlarına ayrılmasıyla yapılır."
+  },
+  {
+    "instruction": "Köklü ifadelerin toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Köklü ifadelerin toplama ve çıkarma işlemleri, yalnızca kök içindeki ifadeler aynı olduğunda yapılabilir. Örneğin, 3√2 + 2√2 = 5√2. Farklı kök içeren ifadeler toplanamaz veya çıkarılamaz."
+  }
+]

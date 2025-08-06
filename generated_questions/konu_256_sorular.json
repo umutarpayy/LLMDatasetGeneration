@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Silindir nedir?",
+    "output": "Silindir, iki paralel dairesel taban ile bu tabanları birleştiren dikdörtgen bir yüzeyden oluşan üç boyutlu bir geometrik şekildir. Tabana dik olan yükseklik, silindirin yüksekliği olarak adlandırılır."
+  },
+  {
+    "instruction": "Silindirin hacmi nasıl hesaplanır?",
+    "output": "Silindirin hacmi, taban alanı ile yüksekliğin çarpımı ile bulunur. Taban alanı, dairenin alanı olan πr² formülü ile hesaplanır. Dolayısıyla, silindirin hacmi V = πr²h formülü ile ifade edilir."
+  },
+  {
+    "instruction": "Silindirin yüzey alanı nasıl hesaplanır?",
+    "output": "Silindirin yüzey alanı, iki dairesel tabanın alanı ile yan yüzey alanının toplamıdır. Tabanların toplam alanı 2πr², yan yüzeyin alanı ise 2πrh formülü ile hesaplanır. Dolayısıyla, toplam yüzey alanı A = 2πr² + 2πrh olur."
+  },
+  {
+    "instruction": "Silindirin taban alanı nedir ve nasıl hesaplanır?",
+    "output": "Silindirin taban alanı, tabanındaki dairenin alanıdır. Bu alan, dairenin yarıçapının karesi ile π sayısının çarpılmasıyla bulunur, yani A = πr² formülü kullanılır."
+  },
+  {
+    "instruction": "Silindirin yüksekliği nasıl tanımlanır?",
+    "output": "Silindirin yüksekliği, iki paralel dairesel taban arasındaki dik mesafedir. Bu mesafe, silindirin tabanına dik olarak ölçülür ve genellikle 'h' harfi ile gösterilir."
+  },
+  {
+    "instruction": "Silindirin yan yüzey alanı nasıl hesaplanır?",
+    "output": "Silindirin yan yüzey alanı, taban çevresi ile yüksekliğin çarpımı ile bulunur. Taban çevresi 2πr formülü ile hesaplanır, dolayısıyla yan yüzey alanı A = 2πrh olur."
+  },
+  {
+    "instruction": "Silindirin yüzey alanı hesaplanırken neden iki taban alanı eklenir?",
+    "output": "Silindirin yüzey alanı hesaplanırken iki taban alanı eklenir çünkü silindirin iki paralel dairesel tabanı vardır. Bu tabanların her biri yüzey alanına katkıda bulunur, bu yüzden her iki tabanın alanı da hesaplamaya dahil edilir."
+  },
+  {
+    "instruction": "Pi (π) sayısı nedir ve neden önemlidir?",
+    "output": "Pi (π) sayısı, bir dairenin çevresinin çapına oranı olarak tanımlanan matematiksel bir sabittir. Yaklaşık olarak 3.14159 değerine sahiptir ve irrasyonel bir sayı olduğu için ondalık kısmı sonsuz ve periyodik olmayan bir şekilde devam eder. Pi, daire ve silindir gibi geometrik şekillerin alan ve çevre hesaplamalarında kritik bir rol oynar."
+  },
+  {
+    "instruction": "Silindirin hacmi hangi birimle ifade edilir?",
+    "output": "Silindirin hacmi, üç boyutlu bir ölçüm olduğu için kübik birimlerle ifade edilir. Örneğin, hacim santimetreküp (cm³), metreküp (m³) gibi birimlerle gösterilir."
+  },
+  {
+    "instruction": "Silindirin yüzey alanı hangi birimle ifade edilir?",
+    "output": "Silindirin yüzey alanı, iki boyutlu bir ölçüm olduğu için kare birimlerle ifade edilir. Örneğin, yüzey alanı santimetrekare (cm²), metrekare (m²) gibi birimlerle gösterilir."
+  }
+]

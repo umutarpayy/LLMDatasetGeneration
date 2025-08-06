@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal bir denklemin eğimi nedir?",
+    "output": "Doğrusal bir denklemin eğimi, doğrunun yatay eksene göre ne kadar dik olduğunu belirten bir katsayıdır. Eğim, genellikle 'm' harfi ile gösterilir ve y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır. Matematiksel olarak eğim, iki nokta (x1, y1) ve (x2, y2) arasındaki farkların oranı, yani (y2-y1)/(x2-x1) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Eğim-kesişim formundaki 'b' değeri nedir?",
+    "output": "Eğim-kesişim formundaki 'b' değeri, doğrunun y eksenini kestiği noktayı ifade eder. Bu, doğrunun x=0 olduğunda y'nin alacağı değerdir. Bu nedenle 'b', doğrunun y eksenine olan uzaklığını ve başlangıç noktasını belirler."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl yazılır?",
+    "output": "Bir doğrunun denklemi genellikle y = mx + b formunda yazılır. Burada 'm' eğimi, 'b' ise y eksenini kestiği noktayı temsil eder. Eğer eğim ve y-kesişim noktası biliniyorsa, bu bilgiler kullanılarak doğrunun denklemi oluşturulabilir."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, iki nokta arasındaki y değişiminin x değişimine oranı ile hesaplanır. İki nokta (x1, y1) ve (x2, y2) verildiğinde, eğim m = (y2 - y1) / (x2 - x1) formülü ile bulunur. Bu oran, doğrunun ne kadar dik olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu neden kullanışlıdır?",
+    "output": "Eğim-kesişim formu, bir doğrunun eğimini ve y eksenini kestiği noktayı doğrudan gösterdiği için kullanışlıdır. Bu form, doğrusal denklemleri anlamayı ve grafiğe dökmeyi kolaylaştırır. Ayrıca, eğim ve y-kesişim bilgilerini hızlıca kullanarak grafiği çizebilme imkanı sağlar."
+  },
+  {
+    "instruction": "Doğrusal bir denklemin grafiği nasıl çizilir?",
+    "output": "Doğrusal bir denklemin grafiği, y = mx + b formunu kullanarak çizilir. İlk adım, y-kesişim noktası olan (0, b) noktasını grafikte işaretlemektir. Ardından, eğim 'm' kullanılarak bu noktadan başlayarak doğru üzerinde başka bir nokta belirlenir. Eğim, y'nin x'e oranı olduğundan, x bir birim arttığında y'nin m kadar artması gerektiği anlamına gelir. Bu iki noktayı birleştirerek doğrunun grafiği çizilir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl pozitif veya negatif olur?",
+    "output": "Bir doğrunun eğimi, y'nin x'e göre artış veya azalış oranını gösterir. Eğer y, x arttıkça artıyorsa eğim pozitif olur, bu da doğrunun yukarı doğru eğimli olduğunu gösterir. Eğer y, x arttıkça azalıyorsa eğim negatif olur, bu da doğrunun aşağı doğru eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda kullanılır?",
+    "output": "Doğrusal denklemler, iki değişken arasındaki doğrusal ilişkiyi modellemek için kullanılır. Bu denklemler, mühendislik, ekonomi, fizik gibi birçok alanda, örneğin maliyet hesaplamaları, hız-zaman grafikleri veya talep tahminleri gibi konularda uygulanabilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda 'm' ve 'b' nasıl belirlenir?",
+    "output": "'m' ve 'b' değerleri, doğrunun eğimi ve y-kesişim noktası olarak belirlenir. Eğim 'm', iki nokta arasındaki y değişiminin x değişimine oranı ile bulunurken, 'b' değeri, doğrunun y eksenini kestiği noktadır ve x=0 olduğunda y'nin aldığı değeri temsil eder."
+  },
+  {
+    "instruction": "Doğrusal denklemler ile doğrusal olmayan denklemler arasındaki fark nedir?",
+    "output": "Doğrusal denklemler, iki değişken arasında sabit bir oranı temsil eder ve grafikleri düz bir doğru şeklindedir. Doğrusal olmayan denklemler ise değişkenler arasında sabit bir oran içermez ve grafikleri eğri şeklinde olabilir. Doğrusal denklemler y = mx + b formunda yazılırken, doğrusal olmayan denklemler daha karmaşık terimler içerebilir."
+  }
+]

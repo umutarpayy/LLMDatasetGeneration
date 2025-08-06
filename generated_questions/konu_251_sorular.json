@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İstatistikte dağılımın şekli nedir?",
+    "output": "Dağılımın şekli, bir veri setinin nasıl yayıldığını ve verilerin yoğunlaştığı bölgeleri gösterir. Dağılımın şekli simetrik, sağa çarpık (pozitif çarpıklık) veya sola çarpık (negatif çarpıklık) olabilir. Bu şekiller, veri setinin merkezi eğilim ve yayılım ölçümlerini etkileyebilir."
+  },
+  {
+    "instruction": "Simetrik dağılım nedir?",
+    "output": "Simetrik dağılım, veri noktalarının ortalama etrafında eşit bir şekilde dağıldığı bir dağılım türüdür. Simetrik dağılımlarda, ortalama, medyan ve mod genellikle birbirine eşittir. Normal dağılım, en bilinen simetrik dağılım örneğidir."
+  },
+  {
+    "instruction": "Çarpık dağılım nedir?",
+    "output": "Çarpık dağılım, veri setinin bir tarafa doğru asimetrik olarak yayıldığı bir dağılım türüdür. Sağ çarpık dağılımda, uzun kuyruk sağa doğru uzanır ve ortalama medyandan büyüktür. Sol çarpık dağılımda ise uzun kuyruk sola doğru uzanır ve ortalama medyandan küçüktür."
+  },
+  {
+    "instruction": "Veri setinin çarpıklığı nasıl belirlenir?",
+    "output": "Veri setinin çarpıklığı, çarpıklık katsayısı ile belirlenir. Pozitif bir çarpıklık katsayısı, sağa çarpık bir dağılımı, negatif bir çarpıklık katsayısı ise sola çarpık bir dağılımı gösterir. Çarpıklık katsayısı sıfıra yakınsa, dağılım simetrik olarak kabul edilir."
+  },
+  {
+    "instruction": "Dağılımın merkezi eğilim ölçüleri nelerdir?",
+    "output": "Dağılımın merkezi eğilim ölçüleri, bir veri setinin ortalama, medyan ve mod gibi merkezi değerlerini ifade eder. Ortalama, tüm veri noktalarının toplamının veri sayısına bölünmesiyle bulunur. Medyan, veri seti sıralandığında ortada kalan değerdir. Mod ise en sık tekrar eden veri değeridir."
+  },
+  {
+    "instruction": "Histogram nedir ve ne işe yarar?",
+    "output": "Histogram, sürekli verilerin dağılımını görselleştirmek için kullanılan bir grafik türüdür. Veriler belirli aralıklara (sınıflara) bölünür ve her aralığın frekansı dikdörtgen çubuklarla gösterilir. Histogram, veri setinin dağılımını, merkezi eğilimini ve yayılımını anlamaya yardımcı olur."
+  },
+  {
+    "instruction": "Veri setinin modunu nasıl buluruz?",
+    "output": "Veri setinin modu, en sık tekrar eden veri değeridir. Modu bulmak için veri seti incelenir ve hangi değerin en fazla tekrar ettiği belirlenir. Bir veri seti birden fazla moda sahip olabilir, bu durumda veri seti çok modlu olarak adlandırılır."
+  },
+  {
+    "instruction": "Medyan nasıl hesaplanır?",
+    "output": "Medyan, veri setinin ortasında bulunan değerdir. Veri seti sıralandıktan sonra, tek sayıda veri varsa ortadaki değer medyan olur. Çift sayıda veri varsa, ortadaki iki değerin ortalaması medyan olarak alınır."
+  },
+  {
+    "instruction": "Aritmetik ortalama nasıl hesaplanır?",
+    "output": "Aritmetik ortalama, bir veri setindeki tüm değerlerin toplamının, veri sayısına bölünmesiyle elde edilir. Aritmetik ortalama, veri setinin merkezi eğilim ölçüsü olarak kullanılır ve genellikle 'ortalama' olarak adlandırılır."
+  },
+  {
+    "instruction": "Veri setinin varyansı nedir ve nasıl hesaplanır?",
+    "output": "Varyans, bir veri setindeki değerlerin ortalamadan ne kadar saptığını ölçen bir yayılım ölçüsüdür. Varyans, her bir veri noktasının ortalamadan farkının karesinin alınması ve bu karelerin ortalamasının hesaplanmasıyla bulunur. Varyans, veri setinin ne kadar yaygın olduğunu anlamaya yardımcı olur."
+  }
+]

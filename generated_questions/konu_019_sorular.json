@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Aritmetiğin Temel Teoremi nedir?",
+    "output": "Aritmetiğin Temel Teoremi, her pozitif tam sayının asal çarpanlarına ayrılabileceğini ve bu çarpanların yalnızca bir şekilde (sıra hariç) yazılabileceğini ifade eder. Bu teorem, asal çarpanlara ayırmanın eşsizliğini garanti eder."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi nasıl yapılır?",
+    "output": "Asal çarpanlara ayırma işlemi, bir sayıyı asal sayıların çarpımı şeklinde yazma sürecidir. Bu işlem genellikle en küçük asal sayıdan başlanarak sayıyı bölebilen asal sayılarla devam edilerek yapılır. Her aşamada, bölen asal sayı ile bölümün asal olup olmadığı kontrol edilir ve işlem bölüm asal olana kadar devam eder."
+  },
+  {
+    "instruction": "Asal sayılar hangi özelliklere sahiptir?",
+    "output": "Asal sayılar, yalnızca 1 ve kendisi olmak üzere tam iki pozitif böleni olan sayılardır. 2, 3, 5, 7 gibi sayılar asal sayılardır ve 2, tek çift asal sayıdır. Asal sayılar, çarpanlarına ayrılmayan en küçük birim yapı taşlarıdır."
+  },
+  {
+    "instruction": "Çarpan ağacı nedir ve nasıl kullanılır?",
+    "output": "Çarpan ağacı, bir sayının asal çarpanlarına ayrılmasını görsel olarak gösteren bir yöntemdir. Sayı, iki çarpanına ayrılır ve bu işlem, çarpanlar asal olana kadar devam eder. Çarpan ağacı, çarpanların sistematik bir şekilde bulunmasına yardımcı olur."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanlarını bulmanın amacı nedir?",
+    "output": "Bir sayının asal çarpanlarını bulmanın amacı, sayının en küçük yapı taşlarına ayrılmasıdır. Bu, sayı teorisi, kriptografi ve sayısal analiz gibi alanlarda önemli uygulamalara sahiptir. Ayrıca, EBOB ve EKOK hesaplamalarında da kullanılır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi sırasında üslü ifadeler nasıl kullanılır?",
+    "output": "Asal çarpanlara ayırma işlemi sırasında üslü ifadeler, bir asal sayının tekrarlı çarpanlarını göstermek için kullanılır. Örneğin, 18 sayısı 2 x 3² şeklinde yazılabilir. Burada 3'ün karesi, 3'ün iki kez çarpıldığını belirtir."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi hangi durumlarda kullanılır?",
+    "output": "Asal çarpanlara ayırma işlemi, EBOB ve EKOK hesaplamalarında, sayıların bölünebilirlik analizlerinde, kriptografik algoritmalarda ve matematiksel problemlerin çözümünde kullanılır. Ayrıca, sayının en küçük yapı taşlarına ayrılması gerektiğinde de bu işlem kullanılır."
+  },
+  {
+    "instruction": "Asal sayılar neden önemlidir?",
+    "output": "Asal sayılar, matematiğin temel yapı taşlarıdır ve birçok matematiksel teorinin temelini oluşturur. Sayı teorisinde, asal sayılar üzerinde yapılan çalışmalar, kriptografi gibi modern uygulamalarda güvenli iletişim için kritik öneme sahiptir."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma işlemi sırasında karşılaşılan zorluklar nelerdir?",
+    "output": "Asal çarpanlara ayırma işlemi, özellikle büyük sayılar için zordur çünkü büyük sayıları asal çarpanlarına ayırmak hesaplama açısından karmaşıktır. Bu zorluk, kriptografi alanında güvenliğin temelini oluşturur, çünkü büyük sayıların asal çarpanlarını bulmak zaman alıcıdır."
+  },
+  {
+    "instruction": "Asal çarpanlara ayırma ile bölünebilirlik kuralları arasında nasıl bir ilişki vardır?",
+    "output": "Asal çarpanlara ayırma, bir sayının hangi asal sayılara bölünebildiğini gösterir. Bölünebilirlik kuralları ise, bir sayının belirli bir sayıya (genellikle asal veya asal çarpanların çarpımı olan bir sayı) bölünüp bölünemeyeceğini hızlıca belirlemek için kullanılır. Her iki yöntem de sayının çarpanlarını analiz etme amacı taşır."
+  }
+]

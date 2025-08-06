@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küp kök nedir?",
+    "output": "Küp kök, bir sayının üçüncü dereceden köküdür. Yani, bir sayının küp kökü, o sayıyı elde etmek için hangi sayının kendisiyle üç kez çarpılması gerektiğini belirtir. Örneğin, 8'in küp kökü 2'dir çünkü 2 x 2 x 2 = 8."
+  },
+  {
+    "instruction": "Küp kök nasıl alınır?",
+    "output": "Bir sayının küp kökünü almak için, o sayıyı oluşturan çarpanları inceleyerek, hangi sayının üç kez çarpıldığında o sayıyı verdiğini bulmak gerekir. Alternatif olarak, sayıyı üslü ifade olarak yazıp, üssünü 1/3 ile çarparak da küp kök alınabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin çarpımı nasıl yapılır?",
+    "output": "Üslü ifadelerde bir sayının üssünün üssü alınırken üsler çarpılır. Örneğin, (x^a)^b ifadesi x^(a*b) olarak yazılır. Bu, üslü ifadelerin temel özelliklerinden biridir ve üslü ifadeleri sadeleştirmede kullanılır."
+  },
+  {
+    "instruction": "Bir sayının üssünün üssü alınırken hangi kurallar uygulanır?",
+    "output": "Bir sayının üssünün üssü alınırken, üsler çarpılır. Örneğin, (a^m)^n = a^(m*n) kuralı uygulanır. Bu kural, üslü ifadelerin daha basit hale getirilmesine olanak tanır."
+  },
+  {
+    "instruction": "Çarpanlara ayırma nedir?",
+    "output": "Çarpanlara ayırma, bir sayıyı veya ifadeyi, daha küçük çarpanların çarpımı şeklinde yazma işlemidir. Bu işlem, sayının veya ifadenin daha kolay işlenebilmesi için kullanılır. Örneğin, 12 sayısı 2 x 2 x 3 şeklinde çarpanlarına ayrılabilir."
+  },
+  {
+    "instruction": "Çarpanlara ayırma nasıl yapılır?",
+    "output": "Çarpanlara ayırma, sayıyı oluşturan asal çarpanları bulmakla başlar. Ardından, bu asal çarpanlar kullanılarak sayının çarpanları oluşturulur. Örneğin, 18 sayısı 2 ve 3 asal çarpanlarına sahiptir ve 18 = 2 x 3 x 3 olarak yazılabilir."
+  },
+  {
+    "instruction": "Bir ifadenin sadeleştirilmesi ne anlama gelir?",
+    "output": "Bir ifadenin sadeleştirilmesi, ifadenin daha basit veya daha anlaşılır bir biçime dönüştürülmesi anlamına gelir. Bu, genellikle ortak çarpanların veya köklerin alınması gibi işlemlerle yapılır. Sadeleştirme, matematiksel işlemleri daha kolay hale getirir."
+  },
+  {
+    "instruction": "Köklü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Köklü ifadelerde sadeleştirme, kök içindeki sayıyı çarpanlarına ayırarak ve kökün dışına çıkarılabilecek tam kare veya küp sayıları bularak yapılır. Örneğin, √18 ifadesi √(9x2) olarak yazılabilir ve 3√2 şeklinde sadeleştirilebilir."
+  },
+  {
+    "instruction": "Üslü ifadelerin özellikleri nelerdir?",
+    "output": "Üslü ifadelerin temel özellikleri arasında üslerin çarpılması, üslerin toplanması, üslerin çıkarılması ve üslerin dağıtılması gibi kurallar bulunur. Bu kurallar, üslü ifadelerin manipüle edilmesine ve sadeleştirilmesine olanak tanır."
+  },
+  {
+    "instruction": "Küp kök ile kare kök arasındaki fark nedir?",
+    "output": "Küp kök, bir sayının üçüncü dereceden köküdür ve bir sayıyı elde etmek için hangi sayının kendisiyle üç kez çarpılması gerektiğini belirtir. Kare kök ise, bir sayının ikinci dereceden köküdür ve bir sayıyı elde etmek için hangi sayının kendisiyle iki kez çarpılması gerektiğini belirtir. Örneğin, 8'in küp kökü 2 iken, 9'un kare kökü 3'tür."
+  }
+]

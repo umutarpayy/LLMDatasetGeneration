@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemlerinde çözüm sayısı nasıl belirlenir?",
+    "output": "Denklem sistemlerinde çözüm sayısı, sistemdeki doğruların birbirine göre konumuna bağlıdır. Eğer doğrular kesişiyorsa tek bir çözüm vardır. Eğer doğrular paralelse ve farklı y ekseni kesişim noktalarına sahipse çözüm yoktur. Eğer doğrular çakışıyorsa sonsuz sayıda çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çakışan doğrular ne anlama gelir?",
+    "output": "Çakışan doğrular, aynı doğrultuda ve aynı konumda olan doğrulardır. Bu durumda denklem sistemi sonsuz sayıda çözüm içerir çünkü her iki denklem de aynı doğruyu temsil eder."
+  },
+  {
+    "instruction": "Denklem sistemlerinde paralel doğruların özellikleri nelerdir?",
+    "output": "Paralel doğrular aynı eğime sahiptir ancak farklı y ekseni kesişim noktalarına sahiptirler. Bu nedenle, denklem sisteminde paralel doğrular çözüm içermez çünkü kesişmezler."
+  },
+  {
+    "instruction": "Denklem sistemlerinde grafiksel çözüm nasıl yapılır?",
+    "output": "Grafiksel çözümde, her bir denklem bir koordinat düzleminde doğru olarak çizilir. Doğruların kesişim noktası sistemin çözümünü verir. Eğer doğrular kesişmiyorsa, sistemin çözümü yoktur veya sonsuz çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eğim ve y ekseni kesişimi neyi ifade eder?",
+    "output": "Eğim, doğrunun dikliğini veya yataylığını belirlerken, y ekseni kesişimi, doğrunun y eksenini kestiği noktayı ifade eder. İki doğru aynı eğime sahip ancak farklı y ekseni kesişimlerine sahipse paraleldirler."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bir çözümün varlığı nasıl test edilir?",
+    "output": "Bir çözümün varlığı, doğruların kesişip kesişmediğine bağlıdır. Eğer doğrular kesişiyorsa, sistemin bir çözümü vardır. Eğer paralelse veya çakışıyorsa, çözüm yoktur veya sonsuz çözümdür."
+  },
+  {
+    "instruction": "Denklem sistemlerinin cebirsel çözümü nasıl yapılır?",
+    "output": "Cebirsel çözüm yöntemleri arasında yerine koyma, yok etme ve matris yöntemleri bulunur. Yerine koyma yönteminde bir denklemden bir değişken çözülüp diğerine yerleştirilir. Yok etme yönteminde ise bir değişkenin katsayıları eşitlenip çıkarılarak yok edilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde kesişim noktası neyi ifade eder?",
+    "output": "Kesişim noktası, iki doğrunun koordinat düzleminde kesiştiği noktadır ve bu nokta denklem sisteminin çözümüdür. Bu nokta, her iki denklemi de aynı anda sağlayan (x, y) koordinat çiftidir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde hangi durumlarda sonsuz çözüm vardır?",
+    "output": "Sonsuz çözüm, iki doğrunun çakıştığı yani aynı doğruyu temsil ettiği durumlarda vardır. Bu durumda her iki denklem de aynı doğrultuda ve konumda olup, tüm noktalar çözüm olarak kabul edilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde yok etme yöntemi nasıl uygulanır?",
+    "output": "Yok etme yönteminde, sistemdeki denklemlerden birinin katsayıları diğer denklemle aynı olacak şekilde çarpılır ve ardından çıkarma işlemi uygulanarak bir değişken yok edilir. Bu sayede tek bir değişken içeren bir denklem elde edilir ve çözülür."
+  }
+]

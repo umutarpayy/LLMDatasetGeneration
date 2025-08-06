@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Sütun grafiği nedir?",
+    "output": "Sütun grafiği, verilerin dikey veya yatay sütunlar şeklinde gösterildiği bir grafik türüdür. Her sütun, bir veri kategorisini temsil eder ve sütunun yüksekliği veya uzunluğu, o kategorinin değerini gösterir."
+  },
+  {
+    "instruction": "Sütun grafikleri hangi durumlarda kullanılır?",
+    "output": "Sütun grafikleri, farklı kategoriler arasındaki miktarları veya değerleri karşılaştırmak için kullanılır. Özellikle, bir veri kümesinin zaman içindeki değişimini veya farklı gruplar arasındaki farkları görselleştirmek için idealdir."
+  },
+  {
+    "instruction": "Sütun grafiği nasıl yorumlanır?",
+    "output": "Sütun grafiği yorumlanırken, her sütunun yüksekliği veya uzunluğu dikkate alınarak, temsil ettiği kategorinin değeri anlaşılır. Sütunların boyutları karşılaştırılarak, hangi kategorinin daha büyük veya daha küçük olduğu belirlenir. Ayrıca, grafik üzerinde eksenler ve etiketler de dikkatlice incelenmelidir."
+  },
+  {
+    "instruction": "Sütun grafiği ile çizgi grafiği arasındaki fark nedir?",
+    "output": "Sütun grafiği, verileri sütunlar şeklinde gösterirken, çizgi grafiği verileri noktalarla temsil eder ve bu noktalar bir çizgi ile birleştirilir. Sütun grafikleri genellikle kategorik verileri karşılaştırmak için kullanılırken, çizgi grafikleri zaman içindeki değişimleri göstermek için daha uygundur."
+  },
+  {
+    "instruction": "Veri analizi neden önemlidir?",
+    "output": "Veri analizi, verilerden anlamlı bilgiler elde etmeye yardımcı olur. Bu bilgiler, karar verme süreçlerini destekler, eğilimleri ve kalıpları belirler, sorunları tanımlar ve gelecekteki olaylar için tahminler yapmamıza olanak tanır."
+  },
+  {
+    "instruction": "Veri seti nedir?",
+    "output": "Veri seti, bir veya birden fazla değişkenin ölçümlerini içeren bir veri topluluğudur. Genellikle bir tablo şeklinde düzenlenir, satırlar bireysel gözlemleri ve sütunlar ise değişkenleri temsil eder."
+  },
+  {
+    "instruction": "Veri görselleştirme ne işe yarar?",
+    "output": "Veri görselleştirme, karmaşık verileri grafiksel formatlarda sunarak, bilgilerin daha kolay anlaşılmasını sağlar. Bu, verilerin daha hızlı yorumlanmasına, eğilimlerin ve kalıpların daha kolay fark edilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Veri karşılaştırması nasıl yapılır?",
+    "output": "Veri karşılaştırması, farklı veri kümeleri veya kategoriler arasındaki benzerlikleri ve farklılıkları belirlemek için yapılır. Bu genellikle grafikler, tablolar veya istatistiksel analizler kullanılarak gerçekleştirilir."
+  },
+  {
+    "instruction": "Sütun grafiğinde eksenler nasıl belirlenir?",
+    "output": "Sütun grafiğinde dikey eksen genellikle miktarları veya değerleri gösterirken, yatay eksen kategorileri temsil eder. Eksenlerin doğru bir şekilde etiketlenmesi, grafiğin doğru yorumlanabilmesi için önemlidir."
+  },
+  {
+    "instruction": "Sütun grafiği nasıl oluşturulur?",
+    "output": "Sütun grafiği oluşturmak için önce veriler toplanır ve kategorilere ayrılır. Her kategori için bir sütun çizilir ve sütunun yüksekliği, o kategorinin değerine göre ayarlanır. Eksenler ve etiketler eklenerek grafik tamamlanır."
+  }
+]

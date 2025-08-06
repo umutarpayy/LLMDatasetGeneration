@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Ortalama nedir?",
+    "output": "Ortalama, bir veri setindeki tüm değerlerin toplamının, bu veri setindeki değer sayısına bölünmesiyle elde edilen değerdir. Genellikle merkezi eğilim ölçüsü olarak kullanılır ve veri setinin genel eğilimini temsil eder."
+  },
+  {
+    "instruction": "Medyan nasıl hesaplanır?",
+    "output": "Medyan, bir veri setindeki değerler sıralandıktan sonra ortada kalan değerdir. Eğer veri setindeki eleman sayısı tek ise, tam ortadaki değer medyandır. Eğer çift ise, ortadaki iki değerin aritmetik ortalaması medyan olarak alınır."
+  },
+  {
+    "instruction": "Ortalama ve medyan arasındaki fark nedir?",
+    "output": "Ortalama, tüm değerlerin toplamının değer sayısına bölünmesiyle bulunurken, medyan sıralanmış bir veri setinde ortada kalan değerdir. Ortalama, aşırı uç değerlerden etkilenirken medyan bu tür değerlerden etkilenmez ve bu nedenle veri setindeki merkezi eğilimi daha iyi temsil edebilir."
+  },
+  {
+    "instruction": "Veri setinde ortalama ne zaman daha uygun bir ölçüdür?",
+    "output": "Ortalama, veri setinde aşırı uç değerlerin olmadığı veya bu değerlerin veri setinin genel eğilimini bozmadığı durumlarda daha uygun bir ölçüdür. Homojen dağılımlarda ortalama, veri setinin merkezi eğilimini iyi bir şekilde temsil eder."
+  },
+  {
+    "instruction": "Veri setinde medyan ne zaman daha uygun bir ölçüdür?",
+    "output": "Medyan, veri setinde aşırı uç değerlerin bulunduğu ve bu değerlerin ortalamayı etkileyebileceği durumlarda daha uygun bir ölçüdür. Medyan, bu tür uç değerlerden etkilenmediği için veri setinin merkezi eğilimini daha doğru bir şekilde yansıtabilir."
+  },
+  {
+    "instruction": "Ortalama hangi özelliklere sahiptir?",
+    "output": "Ortalama, veri setindeki her bir değerin hesaba katıldığı bir merkezi eğilim ölçüsüdür. Aşırı uç değerlerden etkilenebilir ve veri setinin genel eğilimini temsil eder. Toplamın eşit şekilde dağıtıldığı varsayımıyla çalışır."
+  },
+  {
+    "instruction": "Medyan hangi özelliklere sahiptir?",
+    "output": "Medyan, sıralanmış bir veri setinde ortada kalan değerdir. Aşırı uç değerlerden etkilenmez ve veri setinin merkezi eğilimini temsil eder. Veri setinin simetrik olmayan dağılımlarında ortalamadan daha güvenilir bir merkezi eğilim ölçüsü olabilir."
+  },
+  {
+    "instruction": "Ortalama ne işe yarar?",
+    "output": "Ortalama, veri setinin genel eğilimini belirlemek ve karşılaştırmalar yapmak için kullanılır. Veri analizinde, özellikle homojen dağılımlarda, merkezi eğilimi temsil etmek için yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Medyan ne işe yarar?",
+    "output": "Medyan, veri setinin merkezi eğilimini belirlemek için kullanılır ve özellikle aşırı uç değerlerin bulunduğu dağılımlarda daha güvenilir bir ölçü olarak kabul edilir. Medyan, veri setinin ortalamasına göre daha doğru bir merkezi eğilim göstergesi olabilir."
+  },
+  {
+    "instruction": "Ortalama ve medyanın birlikte kullanımı ne sağlar?",
+    "output": "Ortalama ve medyanın birlikte kullanılması, veri setinin dağılımı hakkında daha kapsamlı bir anlayış sağlar. İki ölçü arasındaki fark, veri setinin simetrik olup olmadığını veya aşırı uç değerlerin etkisini değerlendirmeye yardımcı olabilir."
+  }
+]

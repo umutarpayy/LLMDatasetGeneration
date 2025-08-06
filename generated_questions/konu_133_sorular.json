@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun dikliğini veya yatay eksene göre ne kadar dik olduğunu ifade eden bir sayıdır. Matematikte eğim, dikey eksendeki değişimin yatay eksendeki değişime oranı olarak tanımlanır."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, dikey eksende (y ekseni) meydana gelen değişimin yatay eksende (x ekseni) meydana gelen değişime oranı olarak hesaplanır. Bu oran genellikle 'm' harfi ile gösterilir ve formülü (Δy/Δx) şeklindedir."
+  },
+  {
+    "instruction": "Eğim hangi durumlarda kullanılır?",
+    "output": "Eğim, mühendislikten ekonomiye, fizikten coğrafyaya kadar birçok alanda kullanılır. Örneğin, yol eğimlerini hesaplamak, ekonomik büyüme oranlarını belirlemek veya bir cismin hareketinin analizini yapmak için eğim kavramı kullanılır."
+  },
+  {
+    "instruction": "Eğim ile doğruların dikliği arasındaki ilişki nedir?",
+    "output": "Eğim, bir doğrunun dikliğini belirler. Eğim ne kadar büyükse, doğru o kadar dik olur. Pozitif eğim, doğrunun yukarıya doğru eğimli olduğunu, negatif eğim ise aşağıya doğru eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim hesaplamasında kullanılan Delta sembolü ne anlama gelir?",
+    "output": "Delta sembolü (Δ), matematikte bir değişimi ifade eder. Eğim hesaplamasında, Δy dikey eksendeki değişimi, Δx ise yatay eksendeki değişimi temsil eder."
+  },
+  {
+    "instruction": "Eğimin sıfır olması ne anlama gelir?",
+    "output": "Bir doğrunun eğiminin sıfır olması, doğrunun yatay olduğunu ve y ekseninde herhangi bir değişim olmadığını gösterir. Yani, yatay bir doğruya sahiptir ve bu durumda y değeri sabit kalır."
+  },
+  {
+    "instruction": "Eğim pozitif olduğunda ne ifade eder?",
+    "output": "Eğim pozitif olduğunda, doğru yukarıya doğru eğimlidir. Bu, x ekseni boyunca sağa doğru hareket ettikçe y değerinin arttığı anlamına gelir."
+  },
+  {
+    "instruction": "Eğim negatif olduğunda ne ifade eder?",
+    "output": "Eğim negatif olduğunda, doğru aşağıya doğru eğimlidir. Bu, x ekseni boyunca sağa doğru hareket ettikçe y değerinin azaldığı anlamına gelir."
+  },
+  {
+    "instruction": "Eğim ve doğrusal denklemler arasındaki ilişki nedir?",
+    "output": "Eğim, doğrusal bir denklemin temel bileşenlerinden biridir. Doğrusal bir denklemin eğimi, y = mx + b formülünde 'm' harfi ile gösterilir ve doğrunun dikliğini belirler."
+  },
+  {
+    "instruction": "Eğim kavramı günlük hayatta nasıl kullanılır?",
+    "output": "Eğim kavramı günlük hayatta, örneğin yokuşların dikliğini ölçmek, çatıların eğimini belirlemek veya bir yolun eğimini hesaplamak gibi birçok pratik uygulamada kullanılır."
+  }
+]

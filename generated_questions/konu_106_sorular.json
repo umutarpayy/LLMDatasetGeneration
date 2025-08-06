@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çarpanlara ayırma nedir?",
+    "output": "Çarpanlara ayırma, bir matematiksel ifadeyi daha küçük çarpanların çarpımı şeklinde yazma işlemidir. Bu, ifadeyi daha basit bir biçimde ifade etmeye ve çeşitli matematiksel işlemleri daha kolay yapmaya olanak tanır."
+  },
+  {
+    "instruction": "Doğrusal bir ifade nasıl çarpanlarına ayrılır?",
+    "output": "Doğrusal bir ifadeyi çarpanlarına ayırmak için, genellikle ortak çarpanları belirleyip bu çarpanları parantez dışına alarak ifadeyi sadeleştirme işlemi yapılır. Örneğin, 'ax + bx' ifadesi 'x(a + b)' şeklinde çarpanlarına ayrılabilir."
+  },
+  {
+    "instruction": "Dağılma özelliği nedir?",
+    "output": "Dağılma özelliği, bir çarpmanın toplama veya çıkarma üzerine dağıtılabileceğini ifade eden bir özelliktir. Matematiksel olarak, a(b + c) = ab + ac şeklinde ifade edilir. Bu özellik, ifadeleri çarpanlarına ayırırken sıkça kullanılır."
+  },
+  {
+    "instruction": "Ortak çarpan nedir?",
+    "output": "Ortak çarpan, iki veya daha fazla terimin paylaştığı ortak bir çarpandır. Ortak çarpanları belirlemek, ifadeleri çarpanlarına ayırırken önemli bir adımdır, çünkü bu çarpanlar parantez dışına alınarak ifade sadeleştirilebilir."
+  },
+  {
+    "instruction": "Bir ifadenin en sade hali nedir?",
+    "output": "Bir ifadenin en sade hali, daha fazla çarpanlarına ayrılamayan veya sadeleştirilemeyen bir biçimde yazıldığı halidir. Bu, genellikle ortak çarpanlar çıkarıldıktan ve terimler mümkün olduğunca basitleştirildikten sonra elde edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantez kullanımı neden önemlidir?",
+    "output": "Cebirsel ifadelerde parantez kullanımı, işlemlerin doğru sırasını ve hangi terimlerin birlikte işlem göreceğini belirtmek için önemlidir. Parantezler, ifadelerin çarpanlarına ayrılması veya dağıtılması sırasında da kritik bir rol oynar."
+  },
+  {
+    "instruction": "Rasyonel sayılarla çarpanlara ayırma nasıl yapılır?",
+    "output": "Rasyonel sayılarla çarpanlara ayırma, tıpkı tam sayılarla olduğu gibi ortak çarpanları belirleyip bu çarpanları parantez dışına alarak yapılır. Rasyonel sayılar, kesirli ifadeler olduğundan, pay ve payda ayrı ayrı çarpanlarına ayrılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde ortak çarpan parantezine alma nasıl yapılır?",
+    "output": "Cebirsel ifadelerde ortak çarpan parantezine alma, terimlerin ortak çarpanlarını belirleyip bu çarpanı parantez dışına alarak yapılır. Örneğin, '3x + 6' ifadesinde ortak çarpan 3'tür ve ifade '3(x + 2)' şeklinde yazılabilir."
+  },
+  {
+    "instruction": "Çarpanlara ayırma işlemi hangi durumlarda kullanılır?",
+    "output": "Çarpanlara ayırma işlemi, denklemleri çözmek, ifadeleri sadeleştirmek veya kesirli ifadeleri basitleştirmek gibi durumlarda kullanılır. Ayrıca, polinomları çarpanlarına ayırmak, köklerini bulmak için de önemlidir."
+  },
+  {
+    "instruction": "Çarpanlara ayırma işlemi neden önemlidir?",
+    "output": "Çarpanlara ayırma işlemi, matematiksel ifadeleri daha basit hale getirerek çözümlemeyi kolaylaştırır. Bu işlem, özellikle denklemleri çözmede, kesirleri sadeleştirmede ve polinomların köklerini bulmada kritik bir rol oynar."
+  }
+]

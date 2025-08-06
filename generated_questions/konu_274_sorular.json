@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yansıtma nedir?",
+    "output": "Yansıtma, bir şeklin bir doğruya göre simetriğini alarak, şeklin bir kopyasını oluşturma işlemidir. Bu işlemde, her nokta yansıma doğrusuna eşit uzaklıkta olacak şekilde karşı tarafa taşınır."
+  },
+  {
+    "instruction": "Yansıtma işlemi nasıl yapılır?",
+    "output": "Yansıtma işlemi, bir şeklin belirli bir doğruya göre simetriğini almak için kullanılır. Öncelikle yansıma doğrusu belirlenir. Daha sonra şeklin her bir noktası, bu doğruya dik olacak şekilde karşı tarafa eşit uzaklıkta taşınır."
+  },
+  {
+    "instruction": "Yansıtma işlemi hangi özelliklere sahiptir?",
+    "output": "Yansıtma işlemi, şeklin boyutlarını ve biçimini değiştirmez, sadece konumunu değiştirir. Yansıma sonucunda, şekil orijinal şeklin ayna görüntüsü olur. Yansıtma, izometrik bir dönüşümdür, yani şeklin uzunlukları ve açıları korunur."
+  },
+  {
+    "instruction": "Yansıtma işlemi ne işe yarar?",
+    "output": "Yansıtma işlemi, simetriyi incelemek ve geometrik şekillerin farklı konumlarını analiz etmek için kullanılır. Ayrıca, grafik tasarım ve mühendislik gibi alanlarda, simetrik şekillerin oluşturulmasında kullanılır."
+  },
+  {
+    "instruction": "Yansıtma işlemi hangi durumlarda kullanılır?",
+    "output": "Yansıtma işlemi, bir şeklin simetrik özelliklerini incelemek, desen tasarımı yapmak ve simetri gerektiren mühendislik problemlerini çözmek için kullanılır. Ayrıca, fiziksel sistemlerin simetrik davranışlarını modellemek için de kullanılabilir."
+  },
+  {
+    "instruction": "Yansıtma ile döndürme arasındaki fark nedir?",
+    "output": "Yansıtma, bir şeklin bir doğruya göre simetriğini alırken, döndürme bir şeklin belirli bir merkez etrafında belli bir açıyla çevrilmesidir. Yansıtma, şeklin ayna görüntüsünü oluştururken, döndürme şeklin orijinal biçimini koruyarak sadece yönünü değiştirir."
+  },
+  {
+    "instruction": "Yansıtma işlemi sırasında koordinatlar nasıl güncellenir?",
+    "output": "Yansıtma işlemi sırasında, bir noktanın koordinatları yansıma doğrusuna göre belirlenir. Örneğin, y=x doğrusuna göre yansıtma yapılıyorsa, bir noktanın (x, y) koordinatları (y, x) olarak güncellenir. Yansıma doğrusunun eğimi ve konumu, bu güncellemeyi etkiler."
+  },
+  {
+    "instruction": "Yansıtma işlemi sırasında hangi matematiksel işlemler kullanılır?",
+    "output": "Yansıtma işlemi sırasında, doğrusal cebir ve analitik geometri kullanılır. Noktaların yansıma doğrusu üzerindeki konumları belirlenirken, diklik ve eşit uzaklık gibi kavramlar kullanılır. Ayrıca, koordinat dönüşümleri ve simetri kuralları da uygulanır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl belirlenir?",
+    "output": "Bir doğrunun eğimi, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak tanımlanır. Matematiksel olarak, eğim m, iki nokta (x1, y1) ve (x2, y2) için m = (y2 - y1) / (x2 - x1) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Eğim ve y kesişimi nedir?",
+    "output": "Eğim, bir doğrunun dikey değişiminin yatay değişime oranıdır ve doğrusal denklemin y = mx + b formülünde m ile gösterilir. Y kesişimi, doğrunun y eksenini kestiği noktadır ve bu noktanın y koordinatı b ile temsil edilir. Bu iki değer, doğrunun grafiğini çizerken kullanılır."
+  }
+]

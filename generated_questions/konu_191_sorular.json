@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nasıl yazılır?",
+    "output": "Eşitsizlik, bir ifadenin diğerine göre daha büyük, daha küçük, büyük eşit veya küçük eşit olduğunu belirtmek için kullanılan matematiksel bir ifadedir. Eşitsizlik yazarken genellikle '>', '<', '≥', '≤' sembolleri kullanılır. Örneğin, x > 5 ifadesi, x'in 5'ten büyük olduğunu belirtir."
+  },
+  {
+    "instruction": "Eşitsizliklerin gerçek hayatta kullanımı nedir?",
+    "output": "Eşitsizlikler, günlük yaşamda karar verme süreçlerinde ve sınırlamaları ifade etmek için kullanılır. Örneğin, bir bütçe planlamasında harcamaların belirli bir miktarı aşmaması gerektiğini ifade etmek için veya hız sınırlarının belirlenmesinde kullanılır. Ayrıca, mühendislik ve fizik gibi alanlarda da sınır koşullarını belirlemek için eşitsizlikler kullanılır."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi semboller kullanılır?",
+    "output": "Eşitsizlik çözümünde kullanılan temel semboller şunlardır: '>' (büyüktür), '<' (küçüktür), '≥' (büyük eşittir), '≤' (küçük eşittir). Bu semboller, iki ifadenin birbirine göre nasıl konumlandığını belirtir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde tersine çevirme işlemi nedir?",
+    "output": "Eşitsizlik çözümünde tersine çevirme işlemi, her iki tarafın da negatif bir sayı ile çarpılması veya bölünmesi durumunda eşitsizlik sembolünün yönünün değişmesidir. Örneğin, -2x > 6 eşitsizliğini çözmek için her iki tarafı -2'ye böleriz ve eşitsizlik yönünü değiştiririz: x < -3."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizliklerin çözümünde sınır değerler, eşitsizliğin eşitlik durumunda sağlandığı değerlerdir. Örneğin, x ≥ 4 eşitsizliğinde sınır değer 4'tür. Çözüm kümesi bu sınır değeri de içerir. Sınır değerler, eşitsizliklerin çözümünde ve grafiksel gösteriminde önemli bir rol oynar."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafikle gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin grafikle gösterimi, sayı doğrusunda veya koordinat düzleminde yapılabilir. Sayı doğrusunda, eşitsizlik çözüm kümesi bir doğru parçası veya ışın olarak gösterilir. Koordinat düzleminde ise, eşitsizlik bir bölgeyi temsil eder ve bu bölge genellikle gölgelendirilir. Eşitsizlik sembolüne bağlı olarak sınır çizgisi dahil edilir veya edilmez."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi adımlar izlenir?",
+    "output": "Eşitsizliklerin çözümünde genellikle şu adımlar izlenir: 1) Eşitsizliği basitleştirin. 2) Her iki tarafı da aynı sayı ile çarpın veya bölün, eşitsizliğin yönünü değiştirmeyi unutmayın. 3) Çözüm kümesini belirleyin. 4) Çözüm kümesini sayı doğrusunda veya grafik üzerinde gösterin."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde dikkat edilmesi gereken noktalar şunlardır: 1) Negatif bir sayı ile çarparken veya bölerken eşitsizlik yönünü değiştirmek. 2) Çözüm kümesini doğru bir şekilde belirlemek ve ifade etmek. 3) Sınır değerleri doğru bir şekilde dahil etmek veya hariç tutmak. 4) Eşitsizliği basitleştirirken matematiksel kurallara uygun hareket etmek."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Eşitsizliklerin çözümünde negatif sayılarla işlem yaparken, en önemli nokta eşitsizlik sembolünün yönünün değişmesidir. Örneğin, bir eşitsizliği negatif bir sayı ile çarptığınızda veya böldüğünüzde, '>' sembolü '<' olur ve tersi de geçerlidir. Bu kural, doğru çözüm elde etmek için kritik öneme sahiptir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizliklerin çözümünde sınır değerler, eşitsizliğin eşitlik durumunda sağlandığı değerlerdir. Örneğin, x ≥ 4 eşitsizliğinde sınır değer 4'tür. Çözüm kümesi bu sınır değeri de içerir. Sınır değerler, eşitsizliklerin çözümünde ve grafiksel gösteriminde önemli bir rol oynar."
+  }
+]

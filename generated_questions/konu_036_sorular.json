@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü sayı nedir?",
+    "output": "Üslü sayı, bir sayının kendisiyle tekrarlı çarpımını ifade eden bir matematiksel gösterimdir. Örneğin, 2 üssü 3, 2'nin kendisiyle 3 kez çarpılması anlamına gelir ve 2 x 2 x 2 = 8 eder."
+  },
+  {
+    "instruction": "Üslü sayılarla çarpma işlemi nasıl yapılır?",
+    "output": "Üslü sayılarla çarpma işlemi yaparken, tabanlar aynıysa üsler toplanır. Örneğin, a^m x a^n = a^(m+n) şeklinde hesaplanır. Tabanlar farklıysa, çarpma işlemi normal şekilde yapılır."
+  },
+  {
+    "instruction": "Üslü sayılarla bölme işlemi nasıl yapılır?",
+    "output": "Üslü sayılarla bölme işlemi yapılırken, tabanlar aynıysa payın üstünden paydanın üssü çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Negatif üs nedir ve nasıl hesaplanır?",
+    "output": "Negatif üs, bir sayının tersinin üslü hali olarak tanımlanır. a^-n, 1/a^n anlamına gelir. Negatif üs, sayının tersini alarak pozitif üs gibi hesaplanır."
+  },
+  {
+    "instruction": "Üslü sayılarda tabanlar farklıysa ne yapılır?",
+    "output": "Üslü sayılarda tabanlar farklıysa, her sayı ayrı ayrı hesaplanır ve sonuçlar çarpılır veya bölünür. Tabanlar aynı değilse üsleri toplama veya çıkarma işlemi uygulanamaz."
+  },
+  {
+    "instruction": "Üslü sayılarda üslerin çarpılması nasıl yapılır?",
+    "output": "Üslü sayılarda üslerin çarpılması, bir sayının üssünün tekrar üssü alındığında üslerin çarpılması şeklinde yapılır. Örneğin, (a^m)^n = a^(m*n) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslü sayıların özellikleri nelerdir?",
+    "output": "Üslü sayıların özellikleri arasında taban aynıysa üslerin toplanması veya çıkarılması, negatif üslerin ters alınması, üslerin çarpılması gibi kurallar yer alır. Bu kurallar, üslü sayılarla işlemleri kolaylaştırır."
+  },
+  {
+    "instruction": "Üslü sayılar ne işe yarar?",
+    "output": "Üslü sayılar, büyük veya küçük sayıların daha kolay ifade edilmesi ve hesaplanması için kullanılır. Özellikle bilimsel hesaplamalarda ve mühendislikte sıkça kullanılırlar."
+  },
+  {
+    "instruction": "Üslü sayılar hangi durumlarda kullanılır?",
+    "output": "Üslü sayılar, büyüklüklerin ifade edilmesinde, bilimsel notasyonlarda, mühendislik hesaplamalarında ve bilgisayar bilimlerinde sıklıkla kullanılır. Özellikle çok büyük veya çok küçük sayılarla çalışırken üslü sayılar pratiklik sağlar."
+  },
+  {
+    "instruction": "Üslü sayılar ile çarpma ve toplama işlemleri arasındaki fark nedir?",
+    "output": "Üslü sayılarla çarpma işlemi yapılırken tabanlar aynıysa üsler toplanır, ancak toplama işlemi üslü sayılarla doğrudan yapılamaz. Toplamada, üslü sayıların çarpanlarına ayrılması veya ortak çarpanlarının bulunması gerekir."
+  }
+]

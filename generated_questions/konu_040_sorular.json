@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti nasıl hesaplanır?",
+    "output": "Üslü ifadelerde kuvvetin kuvveti hesaplanırken, üsler çarpılır. Örneğin, (x^a)^b ifadesi x^(a*b) olarak yazılır. Bu kural, üssün üssü alınırken tabanın aynı kalması durumunda geçerlidir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi sırasında üsler nasıl birleştirilir?",
+    "output": "Üslü ifadelerde çarpma işlemi sırasında, tabanlar aynı ise üsler toplanır. Örneğin, x^a * x^b = x^(a+b) şeklinde yazılır. Bu özellik, tabanların aynı olduğu durumlarda uygulanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı olduğunda çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı olduğunda çarpma işlemi, her bir üslü ifade ayrı ayrı hesaplanarak yapılır. Örneğin, a^m * b^n şeklindeki bir ifade, a^m ve b^n ayrı ayrı hesaplanarak çarpılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bir üssün kuvveti nasıl alınır?",
+    "output": "Üslü ifadelerde bir üssün kuvveti alınırken, üsler çarpılır. Örneğin, (x^a)^b ifadesi x^(a*b) olarak hesaplanır. Bu işlem, tabanın aynı kalması durumunda geçerlidir ve üssün üssü alınırken kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanların aynı olması ne anlama gelir?",
+    "output": "Üslü ifadelerde tabanların aynı olması, ifadelerin çarpma veya bölme işlemlerinde üslerin toplanabileceği veya çıkarılabileceği anlamına gelir. Örneğin, x^a * x^b = x^(a+b) ve x^a / x^b = x^(a-b) şeklinde işlemler yapılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi sırasında hangi kurallar uygulanır?",
+    "output": "Üslü ifadelerde çarpma işlemi sırasında, tabanlar aynı ise üsler toplanır. Eğer tabanlar farklıysa, her ifade ayrı ayrı hesaplanır ve sonuçlar çarpılır. Ayrıca, kuvvetin kuvveti alınırken üsler çarpılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti kuralı neden önemlidir?",
+    "output": "Kuvvetin kuvveti kuralı, üslü ifadelerin daha karmaşık işlemlerinde sadeleştirme yapmayı kolaylaştırır. Bu kural, (x^a)^b = x^(a*b) şeklinde ifade edilir ve üslü ifadelerin daha basit hale getirilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin toplanması hangi durumlarda geçerlidir?",
+    "output": "Üslü ifadelerde üslerin toplanması, tabanların aynı olduğu çarpma işlemleri için geçerlidir. Örneğin, x^a * x^b = x^(a+b) şeklinde, tabanlar aynı olduğunda üsler toplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı olduğunda hangi işlemler yapılabilir?",
+    "output": "Üslü ifadelerde tabanlar farklı olduğunda, her üslü ifade ayrı ayrı hesaplanır ve sonuçlar çarpılır veya bölünür. Tabanlar aynı olmadığında üslerin toplanması veya çıkarılması mümkün değildir."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti kuralı nasıl uygulanır?",
+    "output": "Üslü ifadelerde kuvvetin kuvveti kuralı, bir üssün başka bir üs ile kuvvetlendirilmesi durumunda uygulanır. Bu durumda, üsler çarpılır. Örneğin, (x^a)^b ifadesi x^(a*b) olarak hesaplanır."
+  }
+]

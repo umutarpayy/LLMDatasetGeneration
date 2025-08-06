@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik veya yatay olduğunu belirten bir ölçüdür. Matematiksel olarak, iki nokta arasındaki y'deki değişimin x'teki değişime oranı olarak tanımlanır."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, iki nokta arasındaki y değerlerinin farkının x değerlerinin farkına bölünmesiyle hesaplanır. Eğer iki nokta (x1, y1) ve (x2, y2) ise, eğim m = (y2 - y1) / (x2 - x1) formülü ile bulunur."
+  },
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eder. Burada m eğimi, b ise doğrunun y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Eğim sıfır olduğunda doğrunun grafiği nasıl görünür?",
+    "output": "Eğim sıfır olduğunda, doğrunun grafiği yatay bir çizgi şeklinde görünür. Bu durumda y değeri sabittir ve x'in değişmesine rağmen y değişmez."
+  },
+  {
+    "instruction": "Doğrunun y-eksenini kestiği nokta nasıl belirlenir?",
+    "output": "Doğrunun y-eksenini kestiği nokta, x'in sıfır olduğu durumda y'nin aldığı değerdir. Eğim-kesişim formunda bu nokta, b değeri olarak belirlenir."
+  },
+  {
+    "instruction": "Doğru denklemi y = mx + b formunda verilen bir doğrunun eğimi nasıl yorumlanır?",
+    "output": "Doğru denklemi y = mx + b formunda verildiğinde, m eğimi temsil eder. Eğim pozitifse doğru yukarı doğru eğimli, negatifse aşağı doğru eğimlidir. Eğim sıfırsa doğru yataydır."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda kullanılır?",
+    "output": "Eğim-kesişim formu, bir doğrunun eğimini ve y-eksenini kestiği noktayı hızlıca belirlemek istediğimiz durumlarda kullanılır. Bu form, grafik çizimlerinde ve doğrusal ilişkilerin analizinde yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda 'm' neyi ifade eder?",
+    "output": "Eğim-kesişim formunda 'm', doğrunun eğimini ifade eder. Bu, doğrunun ne kadar dik veya yatay olduğunu ve y'nin x'e göre nasıl değiştiğini gösterir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile standart form arasındaki fark nedir?",
+    "output": "Eğim-kesişim formu y = mx + b şeklindeyken, standart form Ax + By = C şeklindedir. Eğim-kesişim formu doğrudan eğim ve y-keseni verirken, standart form bu bilgileri doğrudan vermez ve dönüştürme gerektirir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi negatif olduğunda grafiği nasıl görünür?",
+    "output": "Bir doğrunun eğimi negatif olduğunda, grafiği sağa doğru aşağı eğimli bir çizgi şeklinde görünür. Bu, x arttıkça y'nin azaldığını gösterir."
+  }
+]

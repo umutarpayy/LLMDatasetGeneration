@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi nasıl yapılır?",
+    "output": "Bilimsel gösterimde çarpma işlemi, sayıların katsayıları çarpılarak ve üslerin toplanarak yapılır. Örneğin, (a x 10^m) ve (b x 10^n) şeklinde iki bilimsel gösterim çarpılırken, sonuç (a*b) x 10^(m+n) olur."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayıların çarpılması hangi kurallara dayanır?",
+    "output": "Bilimsel gösterimde sayıların çarpılması, üslü sayıların çarpma kurallarına dayanır. Katsayılar kendi aralarında çarpılırken, 10'un kuvvetleri de kendi aralarında çarpılır ve bu işlemde üsler toplanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi yaparken dikkat edilmesi gerekenler nelerdir?",
+    "output": "Bilimsel gösterimde çarpma yaparken, katsayıların çarpımı sonrasında elde edilen sayının 1 ile 10 arasında olup olmadığına dikkat edilmelidir. Eğer değilse, sayı yeniden bilimsel gösterime uygun hale getirilmelidir. Ayrıca, üslerin doğru bir şekilde toplanması önemlidir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi sonucunda sayı nasıl sadeleştirilir?",
+    "output": "Bilimsel gösterimde çarpma işlemi sonucunda elde edilen sayı, eğer katsayı 1 ile 10 arasında değilse, katsayıyı bu aralığa getirmek için virgül kaydırılır ve bu kaydırma işlemi sırasında üs uygun şekilde ayarlanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi neden önemlidir?",
+    "output": "Bilimsel gösterimde çarpma işlemi, çok büyük veya çok küçük sayıların kolayca işlenebilmesini sağlar. Bu, özellikle bilim ve mühendislik alanlarında hesaplamaların daha hızlı ve hatasız yapılmasına olanak tanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi ile ilgili örnek bir problem nasıl çözülür?",
+    "output": "Örneğin, (3 x 10^4) ve (2 x 10^3) sayıları çarpılırken, önce katsayılar çarpılır: 3 * 2 = 6. Sonra üsler toplanır: 10^(4+3) = 10^7. Sonuç, 6 x 10^7 şeklinde yazılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi hangi alanlarda kullanılır?",
+    "output": "Bilimsel gösterimde çarpma işlemi, astronomi, fizik, kimya gibi bilim dallarında ve mühendislikte sıkça kullanılır. Bu alanlarda, çok büyük veya çok küçük değerlerle çalışmak gerektiği için bilimsel gösterim hesaplamaları kolaylaştırır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi yaparken üslerin toplanması neden gereklidir?",
+    "output": "Bilimsel gösterimde çarpma işlemi yaparken üslerin toplanması, üslü sayıların çarpma kuralından kaynaklanır. Aynı tabana sahip üslü sayılar çarpılırken üsler toplanır, bu da işlemi basitleştirir ve sonuçların doğru olmasını sağlar."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi yaparken katsayıların çarpımı nasıl yapılır?",
+    "output": "Bilimsel gösterimde çarpma işlemi yaparken, katsayılar normal çarpma işlemi gibi çarpılır. Bu işlem sırasında, elde edilen katsayı 1 ile 10 arasında değilse, sayı bilimsel gösterim kurallarına uygun hale getirilir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi ile toplama işlemi arasındaki fark nedir?",
+    "output": "Bilimsel gösterimde çarpma işlemi, sayıların katsayılarının çarpılması ve üslerin toplanması ile yapılırken, toplama işlemi, aynı üs değerine sahip sayıların katsayılarının toplanması ile yapılır. Çarpma işlemi, daha büyük değişiklikler yaparken toplama işlemi daha sınırlı değişiklikler yapar."
+  }
+]

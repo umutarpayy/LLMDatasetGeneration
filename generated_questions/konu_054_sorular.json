@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bilimsel gösterim nedir?",
+    "output": "Bilimsel gösterim, çok büyük veya çok küçük sayıları daha kolay ifade etmek için kullanılan bir yöntemdir. Bu yöntemde bir sayı, 10'un bir kuvveti ile çarpılan bir sayı olarak yazılır. Bu sayı 1 ile 10 arasında olmalıdır."
+  },
+  {
+    "instruction": "Bilimsel gösterim nasıl yapılır?",
+    "output": "Bilimsel gösterim yapmak için, sayının ilk sıfır olmayan rakamını ve ondan sonraki rakamları alarak 1 ile 10 arasında bir sayı oluşturun. Daha sonra, bu sayıyı 10'un bir kuvveti ile çarpın. Kuvvet, orijinal sayının virgülünü bu yeni sayıya getirmek için kaç basamak kaydırmanız gerektiğini gösterir."
+  },
+  {
+    "instruction": "Negatif kuvvet nedir?",
+    "output": "Negatif kuvvet, bir sayının tersini almak anlamına gelir. Örneğin, 10'un eksi birinci kuvveti, 1/10'a eşittir. Bu, sayıyı küçültmek için kullanılır."
+  },
+  {
+    "instruction": "10'un kuvvetleri nasıl hesaplanır?",
+    "output": "10'un kuvvetleri, 10'un kendisiyle kaç kez çarpıldığını gösterir. Pozitif kuvvetler, sayıyı büyütürken negatif kuvvetler sayıyı küçültür. Örneğin, 10^3 = 1000 ve 10^-3 = 0.001'dir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde negatif kuvvetler ne anlama gelir?",
+    "output": "Bilimsel gösterimde negatif kuvvetler, sayının çok küçük olduğunu ve virgülün sola kaydırılması gerektiğini belirtir. Örneğin, 3.457 x 10^-10, 0.0000000003457 sayısını temsil eder."
+  },
+  {
+    "instruction": "Bilimsel gösterim hangi durumlarda kullanılır?",
+    "output": "Bilimsel gösterim, çok büyük veya çok küçük sayıları daha kolay ve okunabilir bir şekilde ifade etmek için kullanılır. Özellikle bilim, mühendislik ve finans gibi alanlarda sıkça kullanılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayıların özellikleri nelerdir?",
+    "output": "Bilimsel gösterimde, sayı 1 ile 10 arasında olmalıdır ve 10'un bir kuvveti ile çarpılır. Bu, sayının büyüklüğünü ve küçüklüğünü daha net bir şekilde ifade eder."
+  },
+  {
+    "instruction": "Virgül kaydırma işlemi bilimsel gösterimde nasıl yapılır?",
+    "output": "Virgül kaydırma işlemi, sayıyı 1 ile 10 arasında bir sayı haline getirmek için yapılır. Virgülün hangi yöne ve kaç basamak kaydırılacağı, sayının büyüklüğüne bağlıdır. Bu işlem, 10'un pozitif veya negatif kuvveti ile ifade edilir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde pozitif ve negatif kuvvetler nasıl belirlenir?",
+    "output": "Pozitif kuvvetler, sayının büyüklüğünü artırmak için kullanılırken, negatif kuvvetler sayıyı küçültmek için kullanılır. Sayının orijinal hali ile bilimsel gösterimdeki hali arasındaki virgül kaydırma miktarı bu kuvvetleri belirler."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayının önemi nedir?",
+    "output": "Bilimsel gösterimde sayının önemi, sayının 1 ile 10 arasında olması gerektiğidir. Bu, sayının büyüklüğünü daha anlaşılır hale getirir ve matematiksel işlemleri kolaylaştırır."
+  }
+]

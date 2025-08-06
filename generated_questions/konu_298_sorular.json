@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Açı-Kenar-Açı (AKA) benzerliği nedir?",
+    "output": "Açı-Kenar-Açı (AKA) benzerliği, iki üçgenin birer açıları ve bu açılar arasında yer alan kenarlarının oranlarının eşit olması durumunda, bu iki üçgenin benzer olduğunu ifade eden bir benzerlik kriteridir. Bu durumda, üçgenlerin diğer açılarının da eşit olduğu sonucuna varılır."
+  },
+  {
+    "instruction": "Ters açılar nedir?",
+    "output": "Ters açılar, iki doğru kesiştiğinde karşılıklı olarak oluşan açılardır. Bu açılar birbirine eşittir. Örneğin, bir X şeklinde kesişen doğruların oluşturduğu açılardan karşılıklı olanları ters açılardır."
+  },
+  {
+    "instruction": "Bir üçgenin benzerliğini ispatlamak için hangi adımlar izlenir?",
+    "output": "Bir üçgenin benzerliğini ispatlamak için öncelikle benzerlik kriterlerinden biri (Açı-Açı-Açı, Kenar-Kenar-Kenar, Açı-Kenar-Açı) kullanılarak üçgenlerin belirli açıları veya kenarları arasındaki eşitlik veya oranlar gösterilir. Ardından bu eşitlik veya oranların doğru olduğunu kanıtlamak için verilen bilgilerin şekil üzerinde doğru bir şekilde gösterilmesi ve gerekirse ek geometrik özelliklerin kullanılması gerekir."
+  },
+  {
+    "instruction": "Benzerlik ve eşlik arasındaki fark nedir?",
+    "output": "Benzerlik, iki şeklin aynı şekil olup farklı boyutlarda olması durumudur; yani şekillerin açıları eşit ve kenarları orantılıdır. Eşlik ise iki şeklin hem açıları hem de kenar uzunluklarının birebir aynı olması durumudur. Eş şekiller aynı zamanda benzer şekillerdir, ancak benzer şekiller eş şekiller olmayabilir."
+  },
+  {
+    "instruction": "Geometride yanlış ispatlar nasıl tespit edilir?",
+    "output": "Geometride yanlış ispatlar, verilen bilgilerin ve kullanılan teoremlerin doğruluğunu kontrol ederek tespit edilir. Bu, genellikle verilen bilgilerin şekil üzerinde doğru bir şekilde gösterilmesi, kullanılan teoremlerin ve varsayımların geçerliliğinin sorgulanması ve ispatın her adımının mantıksal tutarlılığının kontrol edilmesi ile yapılır."
+  },
+  {
+    "instruction": "Benzer üçgenlerin kenar uzunlukları arasındaki oran nasıl belirlenir?",
+    "output": "Benzer üçgenlerin kenar uzunlukları arasındaki oran, benzerlik oranı olarak adlandırılır ve karşılıklı kenarların uzunluklarının birbirine oranlanması ile bulunur. Eğer iki üçgen benzer ise, bu oran tüm karşılıklı kenar çiftleri için aynıdır."
+  },
+  {
+    "instruction": "Açı-Kenar-Açı (AKA) benzerliği hangi durumlarda kullanılır?",
+    "output": "Açı-Kenar-Açı (AKA) benzerliği, iki üçgenin benzer olduğunu ispatlamak için kullanılır. Bu benzerlik, özellikle bir üçgenin iki açısının ve bu iki açı arasındaki kenarın diğer üçgenin ilgili açıları ve kenarı ile eşit veya orantılı olduğu durumlarda kullanılır."
+  },
+  {
+    "instruction": "Benzerlik ispatında yay ve çizgi işaretleri neyi ifade eder?",
+    "output": "Benzerlik ispatında yay ve çizgi işaretleri, açılar ve kenarlar arasındaki eşitlik veya orantıyı ifade etmek için kullanılır. Yay işaretleri genellikle eşit açıları, çizgi işaretleri ise orantılı veya eşit kenarları göstermek için kullanılır. Bu işaretler, şekil üzerinde görsel bir rehberlik sağlar."
+  },
+  {
+    "instruction": "Geometride şekil üzerinde gösterim neden önemlidir?",
+    "output": "Geometride şekil üzerinde gösterim, verilen bilgilerin ve ispatların görsel olarak doğrulanmasını sağlar. Bu, hataların tespit edilmesine ve ispatın mantıksal tutarlılığının kontrol edilmesine yardımcı olur. Ayrıca, şekil üzerinde gösterim, problem çözme sürecinde hangi bilgilerin kullanılabileceğini ve nasıl kullanılacağını netleştirir."
+  },
+  {
+    "instruction": "Yanlış ispatlar hangi sonuçlara yol açabilir?",
+    "output": "Yanlış ispatlar, yanlış matematiksel sonuçlara ve kavramların yanlış anlaşılmasına yol açabilir. Bu, özellikle eğitimde öğrencilerin yanlış bilgiler öğrenmesine ve bu bilgileri başka problemlerde yanlış uygulamalarına neden olabilir. Yanlış ispatların tespit edilmesi, doğru matematiksel anlayışın geliştirilmesi için kritiktir."
+  }
+]

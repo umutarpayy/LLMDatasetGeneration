@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Pisagor Teoremi hangi durumlarda kullanılır?",
+    "output": "Pisagor Teoremi, genellikle bir dik üçgende iki kenarın uzunluğu bilindiğinde üçüncü kenarın uzunluğunu bulmak için kullanılır. Özellikle, hipotenüs veya bir dik kenarın uzunluğunu hesaplamak için idealdir. Ayrıca, iki nokta arasındaki doğrudan mesafeyi hesaplamak gibi uygulamalarda da kullanılır."
+  },
+  {
+    "instruction": "Dik üçgende kısa kenarların özellikleri nelerdir?",
+    "output": "Dik üçgende kısa kenarlar, dik açının iki yanında yer alan kenarlardır. Bu kenarlar hipotenüsten daha kısadır. Pisagor Teoremi'ne göre, bu iki kısa kenarın karelerinin toplamı hipotenüsün karesine eşittir."
+  },
+  {
+    "instruction": "Bir sayının karekökü nasıl bulunur?",
+    "output": "Bir sayının karekökü, o sayıyı elde etmek için hangi sayının kendisiyle çarpılması gerektiğini gösterir. Karekök bulmak için, sayıyı çarpanlarına ayırabilir ve çarpanlar arasında çift olanları dışarıya çıkarabilirsiniz. Ayrıca, hesap makinesi veya karekök tablosu kullanarak da karekök hesaplanabilir."
+  },
+  {
+    "instruction": "Karekökün yaklaşık değeri nasıl tahmin edilir?",
+    "output": "Karekökün yaklaşık değeri, bilinen karekök değerlerine yakınsayarak tahmin edilebilir. Örneğin, 115'in karekökünü tahmin etmek için, 100 ve 121'in karekökleri olan 10 ve 11 arasında olduğunu belirleyebiliriz. Böylece, 115'in karekökü yaklaşık olarak 10 ile 11 arasında bir değere sahiptir."
+  },
+  {
+    "instruction": "Dik üçgende hipotenüs nasıl tanımlanır?",
+    "output": "Dik üçgende hipotenüs, dik açının karşısında yer alan ve üçgenin en uzun kenarı olan kenardır. Hipotenüs, Pisagor Teoremi'nde kısa kenarların karelerinin toplamına eşit olan kenar olarak kullanılır."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanları nasıl bulunur?",
+    "output": "Bir sayının asal çarpanlarını bulmak için, o sayıyı bölen en küçük asal sayıdan başlayarak bölme işlemi yapılır. Bölme işlemi sonucunda kalan sayı tekrar asal sayılarla bölünerek devam edilir. Bu işlem, kalan sayı 1 olana kadar sürdürülür. Sonuçta elde edilen asal sayılar, o sayının asal çarpanlarıdır."
+  },
+  {
+    "instruction": "Dik üçgenin kenarları arasındaki ilişki nasıl belirlenir?",
+    "output": "Dik üçgenin kenarları arasındaki ilişki, Pisagor Teoremi ile belirlenir. Teoreme göre, dik üçgendeki iki kısa kenarın karelerinin toplamı, hipotenüsün karesine eşittir. Bu ilişki, üçgenin dik açıya sahip olduğunu ve kenarların uzunluklarının bu teoreme uygun olduğunu gösterir."
+  },
+  {
+    "instruction": "Kök dışına çıkabilen çarpanlar nasıl belirlenir?",
+    "output": "Kök dışına çıkabilen çarpanlar, sayının asal çarpanlarına ayrılmasıyla belirlenir. Çarpanlar arasında çift olanlar, karekök dışına çıkabilir. Örneğin, 36'nın karekökü alınırken, 36 = 2^2 x 3^2 şeklinde çarpanlarına ayrılır ve çift olan çarpanlar (2 ve 3) kök dışına çıkarılarak 6 elde edilir."
+  },
+  {
+    "instruction": "Bir sayının karekökü neden negatif olamaz?",
+    "output": "Bir sayının karekökü, bir uzunluk veya mesafe gibi fiziksel bir büyüklüğü temsil ettiğinde negatif olamaz çünkü uzunluklar negatif değerler alamaz. Matematiksel olarak da, pozitif bir sayının karekökü, pozitif bir sayı olarak tanımlanır. Negatif karekökler genellikle karmaşık sayılarla ifade edilir."
+  },
+  {
+    "instruction": "Dik üçgenin hipotenüsü nasıl hesaplanır?",
+    "output": "Dik üçgenin hipotenüsü, Pisagor Teoremi kullanılarak hesaplanır. Eğer dik üçgenin iki kısa kenarının uzunlukları biliniyorsa, bu kenarların kareleri toplanarak hipotenüsün karesi bulunur. Ardından, bu toplamın karekökü alınarak hipotenüsün uzunluğu elde edilir."
+  }
+]

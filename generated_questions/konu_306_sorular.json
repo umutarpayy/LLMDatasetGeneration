@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Özdeş üçgenler nedir?",
+    "output": "Özdeş üçgenler, şekil ve boyut olarak tamamen aynı olan üçgenlerdir. Bu üçgenlerin karşılıklı açıları ve kenar uzunlukları birbirine eşittir. Özdeş üçgenler, bir üçgenin diğerine yansıma, döndürme veya kaydırma yoluyla örtüşmesiyle tanımlanır."
+  },
+  {
+    "instruction": "Özdeş üçgenlerin açıları nasıl hesaplanır?",
+    "output": "Özdeş üçgenlerin açıları, bir üçgenin açıları biliniyorsa, diğer özdeş üçgenlerin de aynı açı ölçülerine sahip olacağı anlamına gelir. Yani, bir üçgenin tüm açıları biliniyorsa, özdeş olan diğer üçgenlerin de bu açı ölçülerine sahip olduğu bilinir."
+  },
+  {
+    "instruction": "Üçgenlerde eşlik kriterleri nelerdir?",
+    "output": "Üçgenlerde eşlik kriterleri, iki üçgenin özdeş olduğunu belirlemek için kullanılan kurallardır. Başlıca eşlik kriterleri şunlardır: Üç Kenar Eşitliği (SSS), İki Kenar ve Aralarındaki Açı Eşitliği (SAS), İki Açı ve Aralarındaki Kenar Eşitliği (ASA) ve Üç Açı Eşitliği (AAA)."
+  },
+  {
+    "instruction": "Bir üçgenin iç açıları toplamı neden 180 derecedir?",
+    "output": "Bir üçgenin iç açıları toplamı, düzlem geometrisinde her zaman 180 derecedir. Bu, bir üçgenin iç açıları toplamının, üçgenin bir köşesinden çekilen bir doğru parçasının üçgeni iki iç açılı ve bir dış açılı iki üçgene böldüğü ve bu dış açının iki iç açının toplamına eşit olduğu gerçeğinden kaynaklanır."
+  },
+  {
+    "instruction": "Üçgenlerde karşılıklı açı ve kenar eşitliği ne anlama gelir?",
+    "output": "Üçgenlerde karşılıklı açı ve kenar eşitliği, iki üçgenin özdeş veya benzer olduğunu gösterir. Eğer iki üçgenin karşılıklı açıları ve kenarları eşitse, bu üçgenler özdeştir ve aynı şekil ve boyuta sahiptirler. Bu durum, üçgenlerin eşlik kriterlerinden biri olan SSS, SAS veya ASA ile doğrulanabilir."
+  },
+  {
+    "instruction": "Bir üçgenin dış açısı nasıl hesaplanır?",
+    "output": "Bir üçgenin dış açısı, bir iç açının uzantısı ile elde edilen açıdır. Dış açı, üçgenin iki iç açısının toplamına eşittir. Yani, bir dış açıyı hesaplamak için, üçgenin diğer iki iç açısının toplamını almanız yeterlidir."
+  },
+  {
+    "instruction": "Üçgenlerde eşit kenar uzunlukları ne anlama gelir?",
+    "output": "Üçgenlerde eşit kenar uzunlukları, üçgenin ikizkenar veya eşkenar olduğunu gösterir. İkizkenar üçgende en az iki kenar eşittir ve bu kenarların karşısındaki açıların da eşit olduğu anlamına gelir. Eşkenar üçgende ise tüm kenarlar eşittir ve tüm açıları 60 derece olur."
+  },
+  {
+    "instruction": "Eşkenar üçgen ve ikizkenar üçgen arasındaki fark nedir?",
+    "output": "Eşkenar üçgen, tüm kenarları ve açıları eşit olan bir üçgendir. Her açısı 60 derecedir. İkizkenar üçgen ise sadece iki kenarı eşit olan bir üçgendir ve bu iki kenarın karşısındaki açılar da eşittir. Eşkenar üçgen, aynı zamanda ikizkenar üçgenin özel bir türüdür."
+  },
+  {
+    "instruction": "Üçgenlerde benzerlik nedir ve nasıl belirlenir?",
+    "output": "Üçgenlerde benzerlik, iki üçgenin şekil olarak aynı fakat boyut olarak farklı olduğu durumdur. Benzer üçgenlerde karşılıklı açıları eşit ve karşılıklı kenarları orantılıdır. Benzerlik, AA (Açı-Açı), SAS (Kenar-Açı-Kenar) veya SSS (Kenar-Kenar-Kenar) kriterleri ile belirlenebilir."
+  },
+  {
+    "instruction": "Üçgenlerde açıların eşitliği ne anlama gelir?",
+    "output": "Üçgenlerde açıların eşitliği, iki üçgenin benzer veya özdeş olduğunu gösterir. Eğer iki üçgenin tüm açıları eşitse, bu üçgenler benzer üçgenlerdir. Eğer açı eşitliğine ek olarak kenar uzunlukları da eşitse, bu üçgenler özdeştir."
+  }
+]

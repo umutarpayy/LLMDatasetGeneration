@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "EKOK nedir?",
+    "output": "EKOK, En Küçük Ortak Kat anlamına gelir. İki veya daha fazla sayının ortak katları arasında en küçüğüdür. Matematikte, sayılar arasındaki ilişkileri anlamak ve problemleri çözmek için kullanılır."
+  },
+  {
+    "instruction": "EKOK nasıl bulunur?",
+    "output": "EKOK, iki yöntemle bulunabilir: 1) Sayıların katlarını yazarak ortak olan en küçük katı bulmak. 2) Sayıların asal çarpanlarına ayırarak, her asal çarpanın en yüksek üslerini alıp çarpmak. Her iki yöntem de aynı sonuca ulaşır."
+  },
+  {
+    "instruction": "EKOK hangi durumlarda kullanılır?",
+    "output": "EKOK, zamanlama problemleri, ortak döngülerin hesaplanması, kesirlerin ortak paydalarını bulma gibi durumlarda kullanılır. Özellikle, farklı periyotlarla tekrarlanan olayların en kısa sürede birlikte gerçekleşeceği zamanı bulmak için kullanılır."
+  },
+  {
+    "instruction": "EKOK ile EBOB arasındaki fark nedir?",
+    "output": "EKOK, En Küçük Ortak Kat anlamına gelirken, EBOB En Büyük Ortak Bölen anlamına gelir. EKOK, iki veya daha fazla sayının ortak katları arasında en küçüğünü, EBOB ise ortak bölenleri arasında en büyüğünü ifade eder."
+  },
+  {
+    "instruction": "Sayıların katları nasıl bulunur?",
+    "output": "Bir sayının katları, o sayının pozitif tam sayılarla çarpılmasıyla elde edilen sayılardır. Örneğin, 3'ün katları 3, 6, 9, 12 gibi sayılardır. Katlar, bir sayının çarpanlarıyla elde edilen sonuçlardır."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma yöntemiyle EKOK nasıl hesaplanır?",
+    "output": "Asal çarpanlarına ayırma yöntemiyle EKOK hesaplamak için her sayının asal çarpanlarına ayrılması gerekir. Daha sonra, her asal çarpanın en yüksek üsleri alınarak çarpılır. Bu çarpım, EKOK'u verir."
+  },
+  {
+    "instruction": "EKOK hesaplamada yaygın hatalar nelerdir?",
+    "output": "EKOK hesaplamada yaygın hatalar arasında, katları yazarken eksik veya yanlış yazmak, asal çarpanları yanlış ayırmak veya her asal çarpanın en yüksek üslerini doğru almamak bulunur. Bu tür hatalar, yanlış EKOK sonucuna yol açabilir."
+  },
+  {
+    "instruction": "Çarpanlar ve katlar arasındaki fark nedir?",
+    "output": "Çarpanlar, bir sayıyı bölen sayılardır, yani bir sayının çarpanları o sayıyı tam böler. Katlar ise, bir sayının belirli bir tam sayı ile çarpılması sonucu elde edilen sayılardır. Çarpanlar bir sayıyı oluştururken, katlar bir sayının genişletilmiş halleridir."
+  },
+  {
+    "instruction": "Bir sayının katları hangi özelliklere sahiptir?",
+    "output": "Bir sayının katları, o sayı ile bir tam sayının çarpılması sonucu elde edilir. Katlar sonsuz sayıda olabilir ve her kat, o sayının bir tam sayı ile çarpılması sonucu elde edilir. Ayrıca, her kat, sayının kendisinin ve diğer katlarının da katıdır."
+  },
+  {
+    "instruction": "EKOK hesaplamada asal çarpanlar neden önemlidir?",
+    "output": "Asal çarpanlar, bir sayının en temel yapı taşlarıdır. EKOK hesaplamada, asal çarpanlar kullanılarak her sayının en yüksek üsleri alınır ve çarpılır. Bu, sayılar arasındaki en küçük ortak katın doğru bir şekilde bulunmasını sağlar."
+  }
+]

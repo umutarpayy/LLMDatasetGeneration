@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal denklemin nokta-eğim formu nedir ve nasıl kullanılır?",
+    "output": "Nokta-eğim formu, bir doğrunun denklemini belirlemek için kullanılan bir yöntemdir ve şu formüle dayanır: y - y₁ = m(x - x₁). Burada m eğimi, (x₁, y₁) ise doğrunun üzerinde bulunan bir noktayı temsil eder. Bu form, bir nokta ve eğim bilindiğinde doğrunun denklemini kolayca yazmayı sağlar."
+  },
+  {
+    "instruction": "Standart form nedir ve doğrusal denklemler için nasıl kullanılır?",
+    "output": "Standart form, doğrusal denklemleri ifade etmenin bir yoludur ve genellikle Ax + By = C şeklinde yazılır. Burada A, B ve C tam sayılardır ve A pozitif olmalıdır. Bu form, denklemin her iki tarafının aynı birimlerle ifade edilmesini sağlar ve grafikte x ve y kesişim noktalarını bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile nokta-eğim formu arasındaki farklar nelerdir?",
+    "output": "Eğim-kesişim formu y = mx + b şeklindedir ve doğrunun eğimi (m) ile y-kesişim noktasını (b) doğrudan gösterir. Nokta-eğim formu ise y - y₁ = m(x - x₁) şeklindedir ve doğrunun üzerindeki bir nokta ve eğimi kullanarak denklemi oluşturur. Eğim-kesişim formu, denklemin grafiğini çizerken daha hızlı bilgi sunarken, nokta-eğim formu belirli bir noktadan başlayarak denklemi kurmada esneklik sağlar."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin grafikleri nasıl çizilir?",
+    "output": "Doğrusal denklemlerin grafikleri, bir doğru şeklinde çizilir. Bunun için genellikle iki yöntem kullanılır: Eğimi ve y-kesişimi bilinen bir doğruyu çizmek için eğim-kesişim formu kullanılır. Alternatif olarak, iki noktası bilinen bir doğruyu çizmek için bu noktalar arasında bir doğru çizilir. Her iki durumda da, doğru üzerindeki herhangi iki noktayı belirlemek ve bunları birleştirmek doğrunun grafiğini oluşturur."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi ve y-kesişim noktası nasıl belirlenir?",
+    "output": "Bir doğrunun eğimi, iki nokta arasındaki y eksenindeki değişimin x eksenindeki değişime oranı olarak hesaplanır. Eğim-kesişim formunda (y = mx + b), m eğimi temsil eder. Y-kesişim noktası ise doğrunun y eksenini kestiği noktadır ve bu, x = 0 olduğunda y'nin aldığı değerdir. Eğim-kesişim formunda, b y-kesişim noktasını belirtir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde eğim negatif olduğunda grafikte ne gözlemlenir?",
+    "output": "Eğim negatif olduğunda, doğru grafikte sola doğru eğilir. Bu, x ekseni boyunca sağa doğru ilerlerken y değerinin azaldığı anlamına gelir. Başka bir deyişle, negatif eğim, doğrunun yukarıdan aşağıya doğru eğildiğini gösterir."
+  },
+  {
+    "instruction": "Doğrusal denklemler neden önemlidir?",
+    "output": "Doğrusal denklemler, birçok gerçek dünya problemini modellemek için önemlidir. İki değişken arasındaki doğrusal ilişkiyi temsil ederler ve bu, mühendislik, ekonomi, fizik gibi alanlarda sıkça kullanılır. Ayrıca, doğrusal denklemler, daha karmaşık matematiksel kavramların temelini oluşturur."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin standart formu nasıl sadeleştirilir?",
+    "output": "Standart formdaki bir doğrusal denklemi sadeleştirmek için genellikle kesirlerden kurtulmak ve katsayıları tam sayılara dönüştürmek gerekir. Bu, denklemin her iki tarafını uygun bir sayıyla çarparak yapılır. Ayrıca, A'nın pozitif olması sağlanır ve tüm terimler mümkünse en küçük tam sayılarla ifade edilir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda kullanılır?",
+    "output": "Doğrusal denklemler, iki değişken arasındaki sabit oranlı ilişkileri modellemek için kullanılır. Örneğin, bir aracın sabit hızla hareketini, bir ürünün maliyetini belirleyen sabit ve değişken maliyetleri veya bir yatırımın sabit faiz oranıyla büyümesini modellemek için doğrusal denklemler kullanılabilir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin grafikleri nasıl yorumlanır?",
+    "output": "Doğrusal denklemlerin grafikleri, iki değişken arasındaki ilişkiyi görsel olarak temsil eder. Eğim, değişkenler arasındaki ilişkinin yönünü ve büyüklüğünü gösterir. Y-kesişim noktası, bağımsız değişken sıfır olduğunda bağımlı değişkenin değerini gösterir. Grafikteki eğim ve y-kesişim noktası, denklemin matematiksel özelliklerini ve değişkenler arasındaki ilişkiyi anlamaya yardımcı olur."
+  }
+]

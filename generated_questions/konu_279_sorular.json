@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Döndürme nedir?",
+    "output": "Döndürme, bir şeklin bir nokta etrafında belirli bir açıyla saat yönünde veya saat yönünün tersine hareket ettirilmesidir. Bu işlem sırasında şeklin boyutu ve biçimi değişmez, sadece konumu değişir."
+  },
+  {
+    "instruction": "Bir şekil orijin etrafında nasıl döndürülür?",
+    "output": "Bir şekli orijin etrafında döndürmek için, şeklin her bir noktasını orijine göre belirlenen açı kadar saat yönünde veya saat yönünün tersine hareket ettiririz. Bu işlem, genellikle koordinat düzleminde trigonometri kullanılarak yapılır."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi özelliklere sahiptir?",
+    "output": "Döndürme işlemi, şeklin boyutunu ve biçimini değiştirmez; sadece konumunu değiştirir. Ayrıca, döndürme işlemi izometriktir, yani şeklin uzunlukları ve açıları korunur."
+  },
+  {
+    "instruction": "Döndürme işlemi ne işe yarar?",
+    "output": "Döndürme işlemi, geometri ve grafik tasarımda, şekillerin konumunu değiştirmeden farklı açılardan görünümünü elde etmek için kullanılır. Ayrıca, simetri ve desen oluşturma gibi problemlerde de döndürme işlemi sıkça kullanılır."
+  },
+  {
+    "instruction": "Döndürme ile yansıma arasındaki fark nedir?",
+    "output": "Döndürme, bir şeklin belirli bir nokta etrafında belirli bir açıyla dönmesini sağlarken, yansıma bir şeklin bir doğruya göre simetrik olarak yer değiştirmesidir. Döndürme şeklin orijinal konumunu değiştirir, yansıma ise şeklin aynadaki görüntüsünü oluşturur."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi matematiksel kavramlar kullanılır?",
+    "output": "Döndürme işlemi sırasında genellikle trigonometri (sinüs ve kosinüs fonksiyonları), koordinat sistemi ve açı ölçümleri kullanılır. Bu kavramlar, şeklin yeni konumunu hesaplamak için gereklidir."
+  },
+  {
+    "instruction": "Orijin etrafında döndürme işlemi sırasında şeklin uzunluğu nasıl etkilenir?",
+    "output": "Orijin etrafında döndürme işlemi sırasında şeklin uzunluğu etkilenmez. Döndürme, şeklin boyutunu ve biçimini değiştirmeden sadece konumunu değiştirir."
+  },
+  {
+    "instruction": "Döndürme işlemi sonucunda şeklin yönü nasıl etkilenir?",
+    "output": "Döndürme işlemi sonucunda şeklin yönü, döndürme açısına bağlı olarak değişir. Saat yönünde veya saat yönünün tersine yapılan döndürmeler, şeklin yönünü belirler."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi durumlarda kullanılır?",
+    "output": "Döndürme işlemi, grafik tasarım, mimari, bilgisayar grafikleri ve animasyon gibi alanlarda şekillerin farklı açılardan görünümünü elde etmek için kullanılır. Ayrıca, matematik problemlerinde simetri ve desen oluşturma gibi konularda da döndürme işlemi kullanılır."
+  },
+  {
+    "instruction": "Bir doğru parçasının döndürülmesi sonucunda ortaya çıkan şekil hangi özelliklere sahiptir?",
+    "output": "Bir doğru parçasının döndürülmesi sonucunda ortaya çıkan şekil yine bir doğru parçasıdır. Bu doğru parçası, orijinal doğru parçası ile aynı uzunluğa sahiptir ve iki uç noktası bulunur. Döndürme işlemi, doğru parçasının sadece konumunu değiştirir, boyutunu veya biçimini değiştirmez."
+  }
+]

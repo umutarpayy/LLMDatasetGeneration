@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Köklü ifadelerle toplama işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerle toplama işlemi, yalnızca kök içindeki ifadeler aynı olduğunda yapılabilir. Benzer köklü ifadeler, katsayıları toplanarak birleştirilir. Örneğin, 3√2 + 5√2 = 8√2 olur."
+  },
+  {
+    "instruction": "Köklü ifadelerle sadeleştirme nasıl yapılır?",
+    "output": "Köklü ifadelerle sadeleştirme, kök içindeki sayıyı çarpanlarına ayırarak yapılır. Kök içindeki tam kare çarpanlar, kök dışına çıkarılır. Örneğin, √8 ifadesi 2√2 olarak sadeleştirilebilir çünkü 8 = 4 * 2 ve √4 = 2'dir."
+  },
+  {
+    "instruction": "Mutlak değer nedir ve köklü ifadelerde nasıl kullanılır?",
+    "output": "Mutlak değer, bir sayının sıfırdan olan uzaklığını ifade eder ve her zaman pozitif bir değer alır. Köklü ifadelerde, özellikle karekök alırken, negatif sonuçların önüne geçmek için mutlak değer kullanılır. Örneğin, √(x^2) = |x| şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Köklü ifadelerde ortak çarpan parantezine alma nasıl yapılır?",
+    "output": "Köklü ifadelerde ortak çarpan parantezine alma, ifadelerde ortak olan kök değerini parantez dışına alarak yapılır. Bu işlem, ifadeleri daha sade bir biçimde yazmayı sağlar. Örneğin, 4√2 + 10√2 ifadesi, √2 ortak çarpanı alınarak (4 + 10)√2 = 14√2 şeklinde yazılabilir."
+  },
+  {
+    "instruction": "Bir sayının karekökü nasıl alınır?",
+    "output": "Bir sayının karekökü, o sayının hangi sayının karesi olduğunu bulmak için alınır. Örneğin, √9 = 3 çünkü 3^2 = 9'dur. Karekök, genellikle tam sayı olmayan sonuçlar için yaklaşık bir değer verir."
+  },
+  {
+    "instruction": "Köklü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde çarpma işlemi, kök içindeki sayıları çarparak yapılır. Örneğin, √a * √b = √(a*b) şeklinde ifade edilir. Bu işlem, kök içindeki sayıları birleştirerek tek bir kök altında toplar."
+  },
+  {
+    "instruction": "Köklü ifadelerin özellikleri nelerdir?",
+    "output": "Köklü ifadelerin temel özellikleri arasında köklerin çarpma ve bölme işlemlerinde birleştirilebilmesi, kök içindeki sayının çarpanlarına ayrılarak sadeleştirilebilmesi ve benzer köklü ifadelerin toplama ve çıkarma işlemlerinde birleştirilebilmesi bulunur."
+  },
+  {
+    "instruction": "Köklü ifadelerle işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Köklü ifadelerle işlem yaparken, kök içindeki sayıların aynı olup olmadığına, sadeleştirilebilir olup olmadıklarına ve işlem sırasında mutlak değer kullanımına dikkat edilmelidir. Ayrıca, köklerin çarpma ve bölme işlemlerinde doğru bir şekilde birleştirilmesi önemlidir."
+  },
+  {
+    "instruction": "Köklü ifadelerin amacı nedir?",
+    "output": "Köklü ifadeler, bir sayının karesini veya daha yüksek dereceli köklerini bulmak için kullanılır. Bu ifadeler, özellikle geometri, cebir ve trigonometri gibi matematik alanlarında, uzunluk, alan ve hacim hesaplamalarında sıkça kullanılır."
+  },
+  {
+    "instruction": "Köklü ifadelerle ilgili hangi durumlarda mutlak değer kullanılır?",
+    "output": "Köklü ifadelerde mutlak değer, özellikle karekök alınırken negatif sonuçların önüne geçmek için kullanılır. Çünkü karekök işlemi, bir sayının pozitif karekökünü verir. Örneğin, √(x^2) ifadesi, x'in negatif olabileceği durumlarda |x| olarak ifade edilir."
+  }
+]

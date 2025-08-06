@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Öteleme nedir?",
+    "output": "Öteleme, bir şeklin belirli bir doğrultuda ve mesafede kaydırılması işlemidir. Bu işlem sırasında şeklin boyutu, biçimi ve yönü değişmez, sadece konumu değişir."
+  },
+  {
+    "instruction": "Öteleme işlemi nasıl yapılır?",
+    "output": "Öteleme işlemi, bir şeklin her bir noktasının belirli bir vektör kadar kaydırılmasıyla yapılır. Örneğin, bir çokgenin her bir noktasını (x, y) koordinatlarından (x+a, y+b) koordinatlarına taşıyarak öteleme gerçekleştirilir."
+  },
+  {
+    "instruction": "Ötelemenin özellikleri nelerdir?",
+    "output": "Ötelemenin temel özellikleri arasında şeklin boyutunun, biçiminin ve yönünün değişmemesi yer alır. Ayrıca, öteleme işlemi sonucunda şeklin simetrisi ve alanı da değişmez."
+  },
+  {
+    "instruction": "Öteleme işlemi ne işe yarar?",
+    "output": "Öteleme işlemi, şekillerin konumlarını değiştirmeden, sadece yerlerini kaydırarak farklı pozisyonlarda incelemeye olanak sağlar. Bu, geometri ve grafik tasarım gibi alanlarda sıkça kullanılır."
+  },
+  {
+    "instruction": "Öteleme ile döndürme arasındaki fark nedir?",
+    "output": "Öteleme, bir şeklin konumunu değiştirmeden kaydırırken, döndürme şeklin etrafında belirli bir açıyla dönmesini sağlar. Ötelemede şeklin yönü değişmezken, döndürmede şeklin yönü değişir."
+  },
+  {
+    "instruction": "Öteleme işlemi hangi durumlarda kullanılır?",
+    "output": "Öteleme işlemi, özellikle grafik tasarım, bilgisayar grafikleri ve mühendislik gibi alanlarda, şekillerin konumlarını değiştirmeden farklı yerlerde konumlandırmak için kullanılır."
+  },
+  {
+    "instruction": "Öteleme vektörü nedir?",
+    "output": "Öteleme vektörü, bir şeklin her bir noktasının ne kadar ve hangi yönde kaydırılacağını belirten vektördür. Genellikle (a, b) şeklinde ifade edilir, burada a yatay, b ise dikey kaydırmayı temsil eder."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında koordinatlar nasıl değişir?",
+    "output": "Öteleme işlemi sırasında, bir noktadaki koordinatlar (x, y), öteleme vektörüne (a, b) eklenerek (x+a, y+b) şeklinde yeni koordinatlar elde edilir."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında hangi matematiksel formüller kullanılır?",
+    "output": "Öteleme işlemi sırasında, öteleme vektörü (a, b) kullanılarak her bir noktanın koordinatları (x, y) yeni koordinatlara (x+a, y+b) dönüştürülür."
+  },
+  {
+    "instruction": "Öteleme işlemi sırasında şeklin simetrisi nasıl etkilenir?",
+    "output": "Öteleme işlemi sırasında şeklin simetrisi değişmez. Şekil sadece konum değiştirir, ancak boyut, biçim ve simetri özellikleri korunur."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemleri nedir?",
+    "output": "Denklem sistemleri, birden fazla denklemin bir araya gelerek oluşturduğu bir yapıdır. Bu sistemler, genellikle aynı değişkenleri içeren ve bu değişkenlerin belirli değerlerini bulmak için çözülen denklemlerden oluşur. Denklem sistemleri, iki veya daha fazla doğrusal ya da doğrusal olmayan denklem içerebilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinin çözüm türleri nelerdir?",
+    "output": "Denklem sistemlerinin çözüm türleri, sistemin yapısına göre değişir. Genellikle üç tür çözüm durumu vardır: tek bir çözüm (sistem bağımsızdır ve doğrular bir noktada kesişir), sonsuz sayıda çözüm (sistem bağımlıdır ve doğrular çakışır), ve çözüm yoktur (sistem tutarsızdır ve doğrular paraleldir)."
+  },
+  {
+    "instruction": "Paralel doğruların denklem sisteminde çözüm neden yoktur?",
+    "output": "Paralel doğrular, aynı eğime sahip oldukları için asla kesişmezler. Bu nedenle, paralel doğruların oluşturduğu bir denklem sisteminde ortak bir çözüm noktası yoktur. Dolayısıyla, bu tür sistemler çözüm içermez."
+  },
+  {
+    "instruction": "Bir denklem sisteminin tek çözümü olması ne anlama gelir?",
+    "output": "Bir denklem sisteminin tek çözümü olması, sistemdeki doğruların yalnızca bir noktada kesiştiği anlamına gelir. Bu durumda, sistem bağımsızdır ve her iki denklemi de sağlayan tek bir x ve y değeri vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikey eksende ne kadar yükseldiğini veya alçaldığını gösteren bir ölçüdür. Eğim, genellikle 'm' harfi ile gösterilir ve iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Matematiksel olarak, eğim = (y2 - y1) / (x2 - x1) formülü ile bulunur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde kesişim noktası nasıl bulunur?",
+    "output": "Denklem sistemlerinde kesişim noktası, her iki denklemi de sağlayan x ve y değerlerinin bulunmasıyla elde edilir. Bu genellikle denklemleri çözerek ya da grafik üzerinde doğruların kesişim noktasını belirleyerek yapılır. Cebirsel olarak, denklemlerden birini diğerine eşitleyip çözerek kesişim noktası bulunabilir."
+  },
+  {
+    "instruction": "Eğimin aynı olduğu iki doğrunun durumu nedir?",
+    "output": "Eğimin aynı olduğu iki doğru, paraleldir. Bu doğrular, aynı eğime sahip oldukları için hiçbir zaman kesişmezler ve bu nedenle ortak bir çözüm noktaları yoktur. Eğimin aynı olması, doğruların birbirine paralel olduğunu ve dolayısıyla sistemin çözüm içermediğini gösterir."
+  },
+  {
+    "instruction": "Bir denklem sisteminin çözümünün var olup olmadığını nasıl anlarız?",
+    "output": "Bir denklem sisteminin çözümünün var olup olmadığını anlamak için doğruların eğim ve kesişim noktalarına bakılır. Eğer doğrular farklı eğimlere sahipse, tek bir çözüm vardır. Eğer eğimleri aynı ve y kesenleri farklıysa, sistemin çözümü yoktur. Eğer eğim ve y kesenleri aynıysa, sonsuz sayıda çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde y keseni nedir?",
+    "output": "Y keseni, bir doğrunun y eksenini kestiği noktadır. Bu nokta, x=0 olduğunda y'nin aldığı değeri gösterir. Denklemde y keseni, genellikle 'b' harfi ile gösterilir ve y = mx + b formülünde b, doğrunun y eksenini kestiği noktayı ifade eder."
+  },
+  {
+    "instruction": "Denklem sistemleri hangi durumlarda kullanılır?",
+    "output": "Denklem sistemleri, iki veya daha fazla değişkenin birbiriyle ilişkili olduğu problemleri çözmek için kullanılır. Bu sistemler, mühendislik, ekonomi, fizik gibi alanlarda, özellikle optimizasyon problemleri, kesişim noktalarının bulunması ve kaynakların dağıtımı gibi durumlarda yaygın olarak kullanılır."
+  }
+]

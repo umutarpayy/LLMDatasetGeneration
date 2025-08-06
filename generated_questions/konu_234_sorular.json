@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Örnek uzayın boyutu nedir?",
+    "output": "Örnek uzayın boyutu, bir deneyde elde edilebilecek tüm olası sonuçların sayısını ifade eder. Örnek uzay, tüm olası sonuçları içerir ve bu sonuçların toplam sayısı örnek uzayın boyutunu belirler."
+  },
+  {
+    "instruction": "Bir olayın olasılığı nasıl yorumlanır?",
+    "output": "Bir olayın olasılığı, bu olayın meydana gelme ihtimalini sayısal olarak ifade eder. Olasılık 0 ile 1 arasında bir değer alır; 0, olayın asla gerçekleşmeyeceğini, 1 ise olayın kesinlikle gerçekleşeceğini belirtir. Olasılık değeri ne kadar 1'e yakınsa, olayın gerçekleşme ihtimali o kadar yüksektir."
+  },
+  {
+    "instruction": "Olası sonuçlar nedir?",
+    "output": "Olası sonuçlar, bir deney veya olay sonucunda elde edilebilecek tüm farklı sonuçların listesidir. Bu sonuçlar, örnek uzayı oluşturur ve her biri deneyin bir çıktısını temsil eder."
+  },
+  {
+    "instruction": "Olasılık teorisinde 'deney' ne anlama gelir?",
+    "output": "Olasılık teorisinde 'deney', belirli bir olayın veya durumun sonucunu gözlemlemek amacıyla yapılan işlemi ifade eder. Deneyin sonucunda bir veya daha fazla olası sonuç elde edilir."
+  },
+  {
+    "instruction": "Bir olayın olasılığı 0.5 ise bu ne anlama gelir?",
+    "output": "Bir olayın olasılığı 0.5 ise, bu olayın gerçekleşme ihtimalinin %50 olduğunu ifade eder. Yani olayın gerçekleşme ve gerçekleşmeme ihtimalleri eşittir."
+  },
+  {
+    "instruction": "Örnek uzay ile olay arasındaki fark nedir?",
+    "output": "Örnek uzay, bir deneyde elde edilebilecek tüm olası sonuçların kümesidir. Olay ise, bu örnek uzaydan seçilen belirli bir veya birden fazla sonucun meydana gelmesidir. Yani, olay örnek uzayın bir alt kümesi olarak düşünülebilir."
+  },
+  {
+    "instruction": "Olasılık hesaplamasında pay ve payda neyi temsil eder?",
+    "output": "Olasılık hesaplamasında pay, istenen olayın gerçekleşmesini sağlayacak sonuçların sayısını temsil ederken, payda ise tüm olası sonuçların toplam sayısını, yani örnek uzayın boyutunu temsil eder."
+  },
+  {
+    "instruction": "Olasılıkta 'en çok olabilirlik' ne demektir?",
+    "output": "Olasılıkta 'en çok olabilirlik', bir olayın gerçekleşme ihtimalinin en yüksek olduğu durumu ifade eder. Bu, olayın olasılık değerinin diğer olaylara göre daha yüksek olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Olasılıkta 'örnek uzay' terimi neden kullanılır?",
+    "output": "Olasılıkta 'örnek uzay' terimi, bir deneyde elde edilebilecek tüm olası sonuçların kapsamlı bir listesini ifade etmek için kullanılır. Bu terim, olasılık hesaplamalarında tüm potansiyel sonuçları göz önünde bulundurmak için önemlidir."
+  },
+  {
+    "instruction": "Olasılık teorisinde 'çıktı' ne anlama gelir?",
+    "output": "Olasılık teorisinde 'çıktı', bir deneyin sonucunda elde edilen belirli bir sonucu ifade eder. Her çıktı, örnek uzayın bir elemanıdır ve bir olayın gerçekleşip gerçekleşmediğini belirlemek için kullanılır."
+  }
+]

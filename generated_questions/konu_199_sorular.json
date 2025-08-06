@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki ifadenin birbirine eşit olmadığını gösteren matematiksel bir ifade türüdür. Genellikle '<', '>', '≤', '≥' sembolleri kullanılarak ifade edilir. Eşitsizlikler, bir ifadenin diğerinden büyük, küçük, büyük veya eşit, küçük veya eşit olduğunu belirtir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde adımlar nelerdir?",
+    "output": "Eşitsizlik çözümünde, bilinmeyeni bir tarafta yalnız bırakmak için adım adım işlemler yapılır. Öncelikle, bilinmeyen terimler bir tarafa, sabit terimler diğer tarafa taşınır. Ardından, bilinmeyenin katsayısı 1 olacak şekilde her iki taraf uygun şekilde çarpılır veya bölünür. Eğer negatif bir sayı ile çarpma veya bölme işlemi yapılırsa, eşitsizlik yönü değiştirilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Eşitsizliklerde negatif bir sayı ile çarpma veya bölme işlemi yapıldığında, eşitsizlik işaretinin yönü değiştirilmelidir. Bu, negatif sayıların çarpma ve bölme işlemlerinde büyüklük sıralamasını tersine çevirmesinden kaynaklanır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözüm kümesi nasıl belirlenir?",
+    "output": "Eşitsizliklerin çözüm kümesi, eşitsizliği sağlayan tüm olası değerlerin bir araya gelmesiyle oluşur. Çözüm kümesi, genellikle sayı doğrusunda gösterilir ve eşitsizliğin türüne göre açık veya kapalı aralıklarla ifade edilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafiksel gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin grafiksel gösterimi, sayı doğrusunda çözüm kümesinin işaretlenmesiyle yapılır. Çözüm kümesinin sınır noktaları boş veya dolu dairelerle gösterilir. Boş daire, sınır noktasının çözüm kümesine dahil olmadığını, dolu daire ise dahil olduğunu belirtir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi stratejiler kullanılabilir?",
+    "output": "Eşitsizliklerin çözümünde, bilinmeyeni yalnız bırakmak için terimleri bir tarafa toplamak, her iki tarafa aynı işlemi uygulamak ve negatif sayı ile çarpma veya bölme durumunda eşitsizlik yönünü değiştirmek gibi stratejiler kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde karşılaşılan yaygın hatalar nelerdir?",
+    "output": "Eşitsizlik çözümünde yaygın hatalar arasında, negatif bir sayı ile çarpma veya bölme işlemi yaparken eşitsizlik işaretini değiştirmemek, terimleri yanlış toplamak veya çıkarmak ve çözüm kümesini yanlış ifade etmek bulunur."
+  },
+  {
+    "instruction": "Eşitsizliklerin gerçek hayattaki uygulamaları nelerdir?",
+    "output": "Eşitsizlikler, gerçek hayatta bütçe planlaması, hız sınırlarının belirlenmesi, üretim kısıtlamaları gibi durumlarda kullanılır. Örneğin, bir bütçenin belirli bir miktardan fazla olmaması gerektiği durumlar bir eşitsizlikle ifade edilebilir."
+  },
+  {
+    "instruction": "Bir eşitsizlikte sınır değerlerin dahil olup olmadığını nasıl anlarız?",
+    "output": "Bir eşitsizlikte sınır değerlerin dahil olup olmadığını eşitsizlik sembolünden anlarız. '≤' veya '≥' sembolleri kullanılıyorsa, sınır değer çözüm kümesine dahildir. '<' veya '>' sembolleri kullanılıyorsa, sınır değer çözüm kümesine dahil değildir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde kullanılan stratejiler nelerdir?",
+    "output": "Eşitsizliklerin çözümünde, terimleri bir tarafa toplamak, her iki tarafa aynı işlemi uygulamak, negatif sayı ile çarpma veya bölme durumunda eşitsizlik yönünü değiştirmek gibi stratejiler kullanılır. Ayrıca, çözüm kümesini doğru ifade etmek için sayı doğrusunda grafiksel gösterim yapılabilir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bilimsel gösterimde bölme işlemi nasıl yapılır?",
+    "output": "Bilimsel gösterimde bölme işlemi yapılırken, benzer tabana sahip üslü sayılar arasında bölme işlemi gerçekleştirilir. Bu durumda, üsler birbirinden çıkartılır. Örneğin, a çarpı 10^m bölü b çarpı 10^n ifadesinde, sonuç (a/b) çarpı 10^(m-n) şeklinde olur."
+  },
+  {
+    "instruction": "Üslü sayılarda tabanları aynı olan ifadeler nasıl sadeleştirilir?",
+    "output": "Tabanları aynı olan üslü ifadeler çarpılırken üsler toplanır, bölünürken ise üsler çıkartılır. Örneğin, 10^5 çarpı 10^3 ifadesi 10^(5+3) = 10^8 olurken, 10^5 bölü 10^3 ifadesi 10^(5-3) = 10^2 olur."
+  },
+  {
+    "instruction": "Bilimsel gösterimde bir sayının 10'un kuvveti ile çarpılması ne anlama gelir?",
+    "output": "Bilimsel gösterimde bir sayının 10'un kuvveti ile çarpılması, sayının büyüklüğünün 10'un belirli bir kuvveti kadar artırılması veya azaltılması anlamına gelir. Örneğin, 3 çarpı 10^2 ifadesi, 3'ün 100 ile çarpılması anlamına gelir ve sonuç 300 olur."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sadeleştirme işlemi neden önemlidir?",
+    "output": "Bilimsel gösterimde sadeleştirme işlemi, sayıları daha basit ve anlaşılır bir biçimde ifade etmeyi sağlar. Bu, özellikle çok büyük veya çok küçük sayılarla çalışırken hesaplamaları kolaylaştırır ve hata yapma olasılığını azaltır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sayının 1 ile 9 arasında olması neden gereklidir?",
+    "output": "Bilimsel gösterimde sayının 1 ile 9 arasında olması, sayının standart bir biçimde ifade edilmesini sağlar. Bu, bilimsel gösterimin genel kabul görmüş bir kuralıdır ve sayının büyüklüğünü net bir şekilde belirtir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde negatif üsler ne anlama gelir?",
+    "output": "Bilimsel gösterimde negatif üsler, sayının 10'un negatif kuvveti ile çarpılması anlamına gelir. Bu, sayının 10'un pozitif kuvveti ile bölünmesi demektir. Örneğin, 10^-2 ifadesi, sayının 100'e bölünmesi anlamına gelir."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma ve bölme işlemleri hangi kurallara dayanır?",
+    "output": "Bilimsel gösterimde çarpma ve bölme işlemleri, üslü sayıların çarpma ve bölme kurallarına dayanır. Çarpma işlemi yapılırken üsler toplanır, bölme işlemi yapılırken üsler çıkartılır. Bu kurallar, hesaplamaların doğru ve tutarlı bir şekilde yapılmasını sağlar."
+  },
+  {
+    "instruction": "Bilimsel gösterimde sıfır olmayan sayılar nasıl ele alınır?",
+    "output": "Bilimsel gösterimde sıfır olmayan sayılar, 1 ile 9 arasında olacak şekilde düzenlenir ve bir çarpan olarak yazılır. Bu sayının yanında 10'un bir kuvveti yer alır, bu da sayının büyüklüğünü belirtir. Örneğin, 4500 sayısı 4.5 çarpı 10^3 şeklinde yazılır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde çarpma işlemi sonucunda sayı nasıl düzenlenir?",
+    "output": "Bilimsel gösterimde çarpma işlemi sonucunda elde edilen sayı, 1 ile 9 arasında olacak şekilde düzenlenir. Eğer çarpma işlemi sonucunda elde edilen sayı bu aralık dışındaysa, sayı uygun biçimde küçültülür veya büyütülür ve 10'un kuvveti buna göre ayarlanır."
+  },
+  {
+    "instruction": "Bilimsel gösterimde bir sayının büyüklüğünü nasıl yorumlarız?",
+    "output": "Bilimsel gösterimde bir sayının büyüklüğü, sayının önündeki çarpan ile 10'un kuvveti birlikte değerlendirilerek yorumlanır. Çarpan sayının temel büyüklüğünü, 10'un kuvveti ise bu büyüklüğün hangi ondalık dilime düştüğünü belirtir. Örneğin, 3 çarpı 10^4 ifadesi, 3'ün 10,000 ile çarpılması anlamına gelir ve 30,000 büyüklüğünde bir sayıyı temsil eder."
+  }
+]

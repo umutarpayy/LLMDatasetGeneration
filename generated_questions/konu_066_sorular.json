@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Karekök nedir?",
+    "output": "Karekök, bir sayının karesini aldığınızda elde ettiğiniz sayıdır. Örneğin, 9'un karekökü 3'tür çünkü 3'ün karesi 9'dur. Karekök, genellikle bir sayının pozitif kökünü ifade eder."
+  },
+  {
+    "instruction": "Karekök içeren denklemler neden kontrol edilmelidir?",
+    "output": "Karekök içeren denklemler, çözüm sürecinde kare alma işlemi nedeniyle sahte kökler üretebilir. Bu yüzden, bulunan çözümler orijinal denkleme konularak doğrulanmalıdır."
+  },
+  {
+    "instruction": "Denklemlerde her iki tarafın karesi nasıl alınır?",
+    "output": "Denklemlerde her iki tarafın karesi alınırken, her iki tarafın da aynı üsse yükseltilmesi gerekir. Örneğin, √(a) = b ise, her iki tarafın karesini alarak a = b² elde edilir."
+  },
+  {
+    "instruction": "Karekök içeren denklemlerde çözüm adımları nelerdir?",
+    "output": "Karekök içeren denklemleri çözerken, önce köklü ifadeyi yalnız bırakmak, ardından her iki tarafın karesini almak ve sonrasında elde edilen denklemi çözmek gerekir. Son olarak, çözümü orijinal denklemde doğrulamak önemlidir."
+  },
+  {
+    "instruction": "Karekök içeren bir denklemin çözümünde neden pozitif kök dikkate alınır?",
+    "output": "Karekök işlemi, genellikle pozitif kökü ifade eder. Matematiksel olarak, karekök bir sayının pozitif ve negatif köklerini de içerebilir, ancak standart olarak pozitif kök kullanılır."
+  },
+  {
+    "instruction": "Karekök içeren denklemler hangi durumlarda sahte kökler üretir?",
+    "output": "Karekök içeren denklemler, kare alma işlemi sırasında negatif kökleri de çözüm olarak üretebilir. Ancak, bu kökler orijinal denklemi sağlamayabilir ve bu yüzden sahte kök olarak adlandırılır."
+  },
+  {
+    "instruction": "Bir sayının karesi nedir?",
+    "output": "Bir sayının karesi, o sayının kendisiyle çarpılması sonucunda elde edilen sayıdır. Örneğin, 4'ün karesi 16'dır çünkü 4 x 4 = 16."
+  },
+  {
+    "instruction": "Karekök içeren ifadeler nasıl sadeleştirilir?",
+    "output": "Karekök içeren ifadeler, kök içindeki sayının çarpanlarına ayırılarak ve tam kare olan çarpanlar kök dışına çıkarılarak sadeleştirilir. Örneğin, √18 ifadesi √(9x2) olarak yazılır ve 3√2 şeklinde sadeleştirilir."
+  },
+  {
+    "instruction": "Karekök içeren denklemlerde hangi işlemler dikkat gerektirir?",
+    "output": "Karekök içeren denklemlerde, özellikle köklü ifadeyi yalnız bırakma ve her iki tarafın karesini alma işlemleri dikkat gerektirir. Yanlış bir adım sahte kökler veya hatalı sonuçlar üretebilir."
+  },
+  {
+    "instruction": "Karekök içeren denklemler hangi alanlarda kullanılır?",
+    "output": "Karekök içeren denklemler, mühendislik, fizik ve matematik gibi alanlarda, özellikle dalga fonksiyonları, harmonik hareket ve geometri problemlerinde sıkça kullanılır."
+  }
+]

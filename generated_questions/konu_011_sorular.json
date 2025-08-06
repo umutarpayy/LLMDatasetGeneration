@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kaba kuvvet yöntemi nedir?",
+    "output": "Kaba kuvvet yöntemi, iki sayının katlarını yazarak en küçük ortak katı bulma yöntemidir. Bu yöntemde, her iki sayının katları sıralanır ve ortak olan en küçük kat seçilir. Bu yöntem genellikle küçük sayılar için tercih edilir, çünkü daha büyük sayılar için bu yöntem zaman alıcı olabilir."
+  },
+  {
+    "instruction": "En büyük ortak bölen (EBOB) nasıl bulunur?",
+    "output": "En büyük ortak bölen (EBOB), iki veya daha fazla sayının ortak bölenlerinin en büyüğüdür. EBOB'u bulmak için, her sayının çarpanları listelenir ve ortak çarpanlar belirlenir. Bu ortak çarpanlar arasından en büyüğü seçilerek EBOB bulunur."
+  },
+  {
+    "instruction": "Çarpanlar nasıl bulunur?",
+    "output": "Bir sayının çarpanlarını bulmak için, o sayıyı bölebilen tüm tam sayılar listelenir. Örneğin, 12 sayısının çarpanları 1, 2, 3, 4, 6 ve 12'dir, çünkü bu sayılar 12'yi böldüğünde kalansız sonuç verir."
+  },
+  {
+    "instruction": "Katlar ne işe yarar?",
+    "output": "Katlar, bir sayının belirli bir tam sayı ile çarpılmasıyla elde edilen sonuçlardır ve genellikle ortak katların bulunmasında kullanılır. Katlar, sayıların çarpım tablosu gibi işlemlerde ve en küçük ortak kat (EKOK) hesaplamalarında önemli rol oynar."
+  },
+  {
+    "instruction": "Çarpanlar ve katlar arasındaki ilişki nedir?",
+    "output": "Çarpanlar ve katlar, bir sayının bölünebilirliği ile ilgili kavramlardır. Çarpanlar, bir sayıyı kalansız bölebilen sayılardır, katlar ise bir sayının belirli bir tam sayı ile çarpılmasıyla elde edilen sonuçlardır. Çarpanlar, bir sayının yapı taşları gibidirken, katlar o sayının genişletilmiş halleridir."
+  },
+  {
+    "instruction": "Zarif yöntem nedir?",
+    "output": "Zarif yöntem, en küçük ortak katı (EKOK) bulmak için kullanılan ve daha sistematik olan bir yöntemdir. Bu yöntemde, iki sayının çarpanları ve en büyük ortak böleni (EBOB) kullanılarak EKOK hesaplanır. İki sayının çarpımı, EBOB'a bölünerek EKOK bulunur. Bu yöntem, özellikle büyük sayılar için daha pratiktir."
+  },
+  {
+    "instruction": "Bir sayının çarpanları hangi özelliklere sahiptir?",
+    "output": "Bir sayının çarpanları, o sayıyı kalansız bölebilen sayılardır ve her zaman 1 ile sayının kendisini içerir. Çarpanlar, pozitif tam sayılardır ve bir sayının asal olup olmadığını belirlemede kullanılır. Asal sayılar sadece 1 ve kendisi olmak üzere iki çarpana sahiptir."
+  },
+  {
+    "instruction": "Katlar hangi durumlarda kullanılır?",
+    "output": "Katlar, genellikle en küçük ortak kat (EKOK) ve ortak katların bulunmasında kullanılır. Ayrıca, belirli bir sayının belirli bir aralıkta hangi değerlere ulaşabileceğini belirlemek için de katlar kullanılır. Matematiksel problemlerde, katlar sıklıkla zamanlama ve eşzamanlılık problemlerinde de kullanılır."
+  },
+  {
+    "instruction": "Kaba kuvvet yöntemi hangi durumlarda tercih edilir?",
+    "output": "Kaba kuvvet yöntemi, genellikle küçük sayılarla çalışırken tercih edilir, çünkü bu sayılar için katları yazmak ve ortak katları bulmak daha kolaydır. Ancak, büyük sayılarla çalışırken bu yöntem zaman alıcı olabilir ve daha sistematik yöntemler tercih edilebilir."
+  },
+  {
+    "instruction": "Zarif yöntem neden tercih edilir?",
+    "output": "Zarif yöntem, özellikle büyük sayılarla çalışırken tercih edilir çünkü daha sistematik ve hızlı bir yaklaşımdır. Bu yöntemde, iki sayının çarpanları ve en büyük ortak böleni (EBOB) kullanılarak en küçük ortak kat (EKOK) hesaplanır. Bu, daha az hata yapma olasılığı olan ve daha büyük sayılar için daha uygun bir yöntemdir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çözüm kümesi nedir?",
+    "output": "Çözüm kümesi, bir denklem veya denklem sisteminin tüm çözüm değerlerini içeren bir kümedir. Bu küme, denklemi veya denklem sistemini sağlayan tüm değişken değerlerini kapsar."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çelişki ne anlama gelir?",
+    "output": "Denklem sistemlerinde çelişki, sistemin herhangi bir çözümü olmadığını ifade eder. Bu genellikle iki veya daha fazla denklemin birbirine zıt koşullar sunduğu durumlarda ortaya çıkar."
+  },
+  {
+    "instruction": "Denklem sistemlerinin sınıflandırılması nasıl yapılır?",
+    "output": "Denklem sistemleri, çözüm sayılarına göre sınıflandırılabilir: tek bir çözümü olan sistemler, sonsuz sayıda çözümü olan sistemler ve hiç çözümü olmayan sistemler. Ayrıca, doğrusal ve doğrusal olmayan olarak da sınıflandırılabilirler."
+  },
+  {
+    "instruction": "Grafiksel olarak çözüm kümesi nasıl gösterilir?",
+    "output": "Grafiksel olarak, çözüm kümesi, denklem sistemini temsil eden doğruların kesişim noktası olarak gösterilir. Eğer doğrular kesişiyorsa, kesişim noktası çözüm kümesidir. Paralel doğrular kesişmiyorsa, çözüm kümesi boştur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bağımsız ve bağımlı sistemler arasındaki fark nedir?",
+    "output": "Bağımsız sistemler, tek bir çözümü olan sistemlerdir. Bağımlı sistemler ise sonsuz sayıda çözümü olan sistemlerdir; bu, genellikle bir denklemin diğerinin katı olduğu durumlarda ortaya çıkar."
+  },
+  {
+    "instruction": "Denklem sistemlerinde tutarlı ve tutarsız sistemler nedir?",
+    "output": "Tutarlı sistemler, en az bir çözümü olan sistemlerdir. Tutarsız sistemler ise hiçbir çözümü olmayan sistemlerdir. Tutarlı sistemler, bağımsız veya bağımlı olabilirken, tutarsız sistemler genellikle çelişki içerir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde grafik yöntemi nasıl kullanılır?",
+    "output": "Grafik yöntemi, her bir denklemi bir koordinat düzleminde grafik olarak çizerek çözüm bulma yöntemidir. Çözüm, bu grafiklerin kesişim noktasıdır. Eğer grafikler paralelse, sistemin çözümü yoktur."
+  },
+  {
+    "instruction": "Bir denklem sisteminin çözümünün var olup olmadığını nasıl belirleriz?",
+    "output": "Bir denklem sisteminin çözümünün var olup olmadığını belirlemek için denklemlerin grafiklerini çizebiliriz. Eğer grafikler kesişiyorsa, sistemin çözümü vardır. Eğer paralel veya çakışıyorsa, çözüm yoktur veya sonsuzdur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eşdeğer denklemler nedir?",
+    "output": "Eşdeğer denklemler, aynı çözüm kümesine sahip olan denklemlerdir. İki denklem, birinin diğerinin bir katı olması durumunda eşdeğer olabilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde analitik yöntemler nelerdir?",
+    "output": "Denklem sistemlerinde analitik yöntemler arasında yerine koyma yöntemi, yok etme yöntemi ve matris yöntemleri gibi yöntemler bulunur. Bu yöntemler, sistemin çözümünü bulmak için cebirsel işlemler kullanır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yansıma nedir?",
+    "output": "Yansıma, bir şeklin belirli bir doğruya göre simetrik olarak karşı tarafa aktarılması işlemidir. Bu işlem sonucunda şeklin boyutu ve biçimi değişmez, ancak konumu değişir."
+  },
+  {
+    "instruction": "Yansıma doğrusu nasıl belirlenir?",
+    "output": "Yansıma doğrusu, bir şeklin ve onun yansımasının eşit uzaklıkta olduğu bir doğru olarak belirlenir. Genellikle, şeklin bir noktasının yansıması diğer tarafta aynı uzaklıkta olacak şekilde, bu iki noktanın ortasından geçen doğru yansıma doğrusu olur."
+  },
+  {
+    "instruction": "Yansıma işlemi hangi özelliklere sahiptir?",
+    "output": "Yansıma işlemi, şeklin boyutunu veya biçimini değiştirmez, sadece konumunu değiştirir. Yansıma sonucunda orijinal şekil ve yansıması simetrik olur. Ayrıca, yansıma işlemi sırasında açı ölçüleri ve uzunluklar korunur."
+  },
+  {
+    "instruction": "Yansıma işlemi ne işe yarar?",
+    "output": "Yansıma işlemi, simetriyi incelemek ve bir şeklin belirli bir doğruya göre nasıl değiştiğini görmek için kullanılır. Mimari tasarımlarda, sanat eserlerinde ve çeşitli mühendislik uygulamalarında simetriyi sağlamak için yansıma kullanılır."
+  },
+  {
+    "instruction": "Yansıma ile öteleme arasındaki fark nedir?",
+    "output": "Yansıma, bir şeklin belirli bir doğruya göre simetrik olarak karşı tarafa aktarılmasıdır. Öte yandan, öteleme bir şeklin belirli bir yönde ve mesafede kaydırılması işlemidir. Yansıma simetri oluştururken, öteleme sadece konum değişikliği yapar."
+  },
+  {
+    "instruction": "Yansıma işlemi hangi durumlarda kullanılır?",
+    "output": "Yansıma işlemi, simetrik desenler oluşturmak, geometrik şekillerin simetrik özelliklerini incelemek ve belirli bir eksene göre simetriyi sağlamak amacıyla kullanılır. Mimarlık, sanat ve mühendislik alanlarında yaygın olarak uygulanır."
+  },
+  {
+    "instruction": "Yansıma işlemi sırasında hangi geometrik özellikler korunur?",
+    "output": "Yansıma işlemi sırasında şeklin uzunlukları, açı ölçüleri ve alanı korunur. Yansıma, şeklin boyutunu veya biçimini değiştirmediği için bu özellikler sabit kalır."
+  },
+  {
+    "instruction": "Bir şeklin yansıması nasıl bulunur?",
+    "output": "Bir şeklin yansımasını bulmak için, şeklin her bir noktasının yansıma doğrusuna olan uzaklığı hesaplanır ve bu mesafe kadar karşı tarafa aynı uzaklıkta bir nokta belirlenir. Tüm noktalar için bu işlem yapıldığında, şeklin yansıması elde edilir."
+  },
+  {
+    "instruction": "Yansıma doğrusu ile simetri ekseni arasındaki fark nedir?",
+    "output": "Yansıma doğrusu, bir şeklin yansımasının yapıldığı doğruyu ifade ederken, simetri ekseni, bir şeklin kendi üzerine katlandığında iki eşit parçaya ayrıldığı doğruyu ifade eder. Her iki kavram da simetriyle ilgilidir ancak kullanım amaçları farklıdır."
+  },
+  {
+    "instruction": "Yansıma işlemi sırasında hangi matematiksel kavramlar kullanılır?",
+    "output": "Yansıma işlemi sırasında simetri, mesafe, ortalama ve koordinat sistemi gibi matematiksel kavramlar kullanılır. Bu kavramlar, yansıma doğrusunun belirlenmesi ve şeklin yansımasının doğru bir şekilde yapılması için gereklidir."
+  }
+]

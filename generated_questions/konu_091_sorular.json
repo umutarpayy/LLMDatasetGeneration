@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifadelerde çıkarma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çıkarma işlemi, bir ifadenin diğerinden çıkarılmasıyla gerçekleştirilir. İki cebirsel ifadeyi çıkarmak için, çıkarılacak ifadenin tüm terimlerinin işaretleri değiştirilir ve ardından bu terimler diğer ifadeyle toplanır. Örneğin, (x + y) - (a + b) ifadesi, (x + y) + (-a - b) olarak yazılır ve terimler birleştirilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi hangi kurallara göre yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, terimlerin katsayılarının ve değişkenlerinin çarpılmasıyla yapılır. Aynı değişkenler çarpılırken üsleri toplanır. Örneğin, 3x * 2x = 6x^2 olur. Dağılma özelliği de kullanılarak (a + b)(c + d) = ac + ad + bc + bd şeklinde genişletilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nedir?",
+    "output": "Cebirsel ifadelerde sabit terim, herhangi bir değişken içermeyen ve yalnızca bir sayı olan terimdir. Örneğin, 3x + 5 ifadesinde 5 sabit terimdir. Sabit terimler, cebirsel işlemler sırasında diğer sabit terimlerle toplanabilir veya çıkarılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadeler neden önemlidir?",
+    "output": "Cebirsel ifadeler, matematiksel problemleri genel bir biçimde ifade etmemize ve çözmemize olanak tanır. Değişkenler kullanarak gerçek dünya problemlerini modelleyebilir, denklemler kurabilir ve bu denklemleri çözerek problemleri analiz edebiliriz. Cebirsel ifadeler, matematiksel düşünme ve problem çözme becerilerini geliştirmek için temel bir araçtır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terim nedir?",
+    "output": "Cebirsel ifadelerde terim, bir ifadenin toplama veya çıkarma işaretleriyle ayrılmış her bir parçasıdır. Terimler, bir katsayı ve bir veya daha fazla değişkenin çarpımı şeklinde olabilir. Örneğin, 3x^2 + 2x - 5 ifadesinde 3x^2, 2x ve -5 ayrı terimlerdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nasıl belirlenir?",
+    "output": "Cebirsel ifadelerde katsayı, bir terimin değişken kısmının önündeki sayıdır. Katsayı, terimin çarpanlarından biridir ve terimin büyüklüğünü belirler. Örneğin, 7xy ifadesinde katsayı 7'dir. Eğer bir terimde herhangi bir sayı yoksa, katsayı 1 olarak kabul edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenler nasıl kullanılır?",
+    "output": "Cebirsel ifadelerde değişkenler, genellikle harflerle temsil edilir ve bilinmeyen veya değişken değerleri ifade eder. Değişkenler, bir problemi genelleştirmek ve farklı durumlar için çözüm bulmak amacıyla kullanılır. Örneğin, x + y ifadesinde x ve y değişkenlerdir ve farklı değerler alabilirler."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezler ne işe yarar?",
+    "output": "Cebirsel ifadelerde parantezler, işlemlerin önceliğini belirlemek ve belirli terim gruplarını bir arada tutmak için kullanılır. Parantez içindeki ifadeler, parantez dışındaki işlemlerden önce hesaplanır. Ayrıca, dağıtma işlemi sırasında parantezler, terimlerin doğru bir şekilde çarpılmasını sağlar."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpanlara ayırma ne demektir?",
+    "output": "Cebirsel ifadelerde çarpanlara ayırma, bir ifadeyi daha küçük çarpanların çarpımı şeklinde yazma işlemidir. Bu, ifadeyi sadeleştirmek veya denklemleri çözmek için kullanılır. Örneğin, x^2 - 9 ifadesi (x - 3)(x + 3) şeklinde çarpanlarına ayrılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde toplama işlemi, benzer terimlerin katsayılarının toplanmasıyla gerçekleştirilir. Benzer terimler, aynı değişken ve aynı üslere sahip terimlerdir. Örneğin, 3x + 2x = 5x olur. Farklı terimler ise toplama işleminde birleştirilerek yazılır."
+  }
+]

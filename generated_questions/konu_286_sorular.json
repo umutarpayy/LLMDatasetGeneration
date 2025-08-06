@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bir üçgenin iç açıları toplamı nedir?",
+    "output": "Bir üçgenin iç açıları toplamı her zaman 180 derecedir. Bu, temel bir geometrik kuraldır ve tüm üçgenler için geçerlidir."
+  },
+  {
+    "instruction": "Dik üçgende hipotenüs nasıl bulunur?",
+    "output": "Dik üçgende hipotenüs, Pisagor Teoremi kullanılarak bulunur. Teoreme göre, hipotenüsün karesi, diğer iki dik kenarın karelerinin toplamına eşittir. Yani, hipotenüs c ise, a ve b dik kenarları için c² = a² + b² formülü kullanılır."
+  },
+  {
+    "instruction": "Karekök nasıl hesaplanır?",
+    "output": "Karekök, bir sayının hangi sayının karesi olduğunu bulmak için kullanılır. Örneğin, √9 = 3 çünkü 3² = 9'dur. Karekök hesaplamak için genellikle hesap makineleri veya karekök tabloları kullanılır."
+  },
+  {
+    "instruction": "Eşkenar üçgenin özellikleri nelerdir?",
+    "output": "Eşkenar üçgen, tüm kenar uzunlukları ve iç açıları eşit olan bir üçgendir. Her bir iç açısı 60 derecedir ve simetrik bir yapıya sahiptir."
+  },
+  {
+    "instruction": "45-45-90 üçgeni nedir?",
+    "output": "45-45-90 üçgeni, iki açısı 45 derece ve bir açısı 90 derece olan özel bir dik üçgendir. Bu tür üçgenlerde, 45 derece olan açıların karşısındaki kenarlar eşittir ve hipotenüs, bu kenarların √2 katıdır."
+  },
+  {
+    "instruction": "Bir sayının asal olup olmadığını nasıl anlarız?",
+    "output": "Bir sayının asal olup olmadığını anlamak için, 1 ve kendisi dışında başka hiçbir sayıya bölünememesi gerekir. 2, 3, 5, 7 gibi sayılar asaldır. Asallık testi için sayıyı, 2'den başlayarak kareköküne kadar olan tüm asal sayılarla bölmeye çalışabilirsiniz."
+  },
+  {
+    "instruction": "Üçgenin taban açıları eşitse ne olur?",
+    "output": "Bir üçgende taban açıları eşitse, bu üçgen ikizkenar üçgen olarak adlandırılır. İkizkenar üçgende, taban açılarına karşılık gelen kenarlar da eşittir."
+  },
+  {
+    "instruction": "Bir üçgenin hipotenüsü neden en uzun kenardır?",
+    "output": "Dik üçgende hipotenüs, dik açının karşısındaki kenar olduğundan ve dik açı 90 derece ile en büyük açı olduğundan, hipotenüs daima en uzun kenardır. Bu, Pisagor Teoremi ile de doğrulanabilir."
+  },
+  {
+    "instruction": "Kenar uzunlukları eşit olan üçgenler hangi geometrik özelliklere sahiptir?",
+    "output": "Kenar uzunlukları eşit olan üçgenler, eşkenar üçgenlerdir. Bu üçgenlerin tüm iç açıları 60 derece olup, simetrik bir yapıya sahiptirler. Her kenar ve açı eşit olduğundan, bu tür üçgenler aynı zamanda düzgün üçgenlerdir."
+  },
+  {
+    "instruction": "Pisagor Teoremi hangi durumlarda uygulanamaz?",
+    "output": "Pisagor Teoremi sadece dik üçgenlerde uygulanabilir. Dik olmayan üçgenlerde bu teorem geçerli değildir. Dik üçgenin iki kenarının uzunluğu bilindiğinde, üçüncü kenar (hipotenüs) bu teoremle hesaplanabilir."
+  }
+]

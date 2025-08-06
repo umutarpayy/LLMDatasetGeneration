@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemi nedir?",
+    "output": "Denklem sistemi, birden fazla bilinmeyeni içeren ve bu bilinmeyenler arasında ilişkiler kuran birden fazla denklemin bir arada ele alınmasıdır. Denklem sistemleri, genellikle birden fazla bilinmeyeni aynı anda çözmek için kullanılır."
+  },
+  {
+    "instruction": "Denklem sistemleri nasıl çözülür?",
+    "output": "Denklem sistemleri, genellikle yerine koyma (substitution), yok etme (elimination) ve grafik yöntemleri gibi çeşitli yöntemlerle çözülür. Her yöntem, denklemler arasında ilişki kurarak bilinmeyenlerin değerlerini bulmayı amaçlar."
+  },
+  {
+    "instruction": "Yerine koyma yöntemi nedir?",
+    "output": "Yerine koyma yöntemi, bir denklemdeki bir bilinmeyeni diğer bir denklemde yerine koyarak denklem sistemini çözme yöntemidir. Bu yöntemle, bir denklemden bir bilinmeyen izole edilir ve diğer denklemlerde bu yerine koyulur."
+  },
+  {
+    "instruction": "Yok etme yöntemi nedir?",
+    "output": "Yok etme yöntemi, denklem sisteminde bir bilinmeyeni ortadan kaldırarak diğer bilinmeyeni bulmayı amaçlayan bir yöntemdir. Bu, genellikle denklemleri uygun katsayılarla çarparak ve ardından toplama veya çıkarma işlemi yaparak gerçekleştirilir."
+  },
+  {
+    "instruction": "Denklem sistemleri hangi durumlarda kullanılır?",
+    "output": "Denklem sistemleri, birden fazla bilinmeyeni içeren ve bu bilinmeyenler arasında belirli ilişkiler kuran problemlerin çözümünde kullanılır. Örneğin, maliyet hesaplamaları, karışım problemleri ve hareket problemleri gibi durumlarda denklem sistemleri kullanılır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün varlığı nasıl kontrol edilir?",
+    "output": "Denklem sistemlerinde çözümün varlığı, denklemlerin grafikleri incelenerek veya determinant gibi cebirsel yöntemlerle kontrol edilebilir. Eğer sistem tutarlı ise ve determinant sıfır değilse, genellikle bir çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün birden fazla olması ne anlama gelir?",
+    "output": "Bir denklem sisteminde çözümün birden fazla olması, sistemin sonsuz çözümü olduğunu gösterir. Bu, genellikle denklemlerin grafikleri aynı doğruyu temsil ettiğinde veya denklemler arasında bağımlılık olduğunda meydana gelir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde grafik yöntemi nasıl kullanılır?",
+    "output": "Grafik yöntemi, her bir denklemin grafiğini çizerek ve bu grafiklerin kesişim noktasını bularak denklem sistemini çözme yöntemidir. Kesişim noktası, denklemlerin ortak çözümünü temsil eder."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bağımsız ve bağımlı denklemler nedir?",
+    "output": "Bağımsız denklemler, birbirinden farklı ve birbirine bağlı olmayan denklemlerken, bağımlı denklemler, birinin diğerinin bir katı olduğu veya aynı doğruyu temsil eden denklemlerdir. Bağımsız denklemler genellikle tek bir çözüm sunarken, bağımlı denklemler sonsuz çözüme sahip olabilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde tutarlı ve tutarsız sistemler arasındaki fark nedir?",
+    "output": "Tutarlı denklem sistemleri, en az bir çözümü olan sistemlerdir. Tutarsız sistemler ise hiçbir çözümü olmayan sistemlerdir. Tutarsızlık genellikle denklemlerin paralel doğrular olması durumunda ortaya çıkar."
+  }
+]

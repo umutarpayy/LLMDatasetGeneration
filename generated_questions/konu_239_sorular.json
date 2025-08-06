@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Aritmetik ortalama nedir?",
+    "output": "Aritmetik ortalama, bir veri setindeki tüm sayıların toplamının, bu sayıların adedine bölünmesiyle elde edilen bir değerdir. Bu değer, veri setinin merkezi eğilimini temsil eder ve genellikle 'ortalama' olarak adlandırılır."
+  },
+  {
+    "instruction": "Aritmetik ortalama nasıl hesaplanır?",
+    "output": "Aritmetik ortalamayı hesaplamak için, veri setindeki tüm sayıların toplamı alınır ve bu toplam, veri setindeki sayıların sayısına bölünür. Örneğin, veri seti 4, 8, 6 ise, aritmetik ortalama (4+8+6)/3 = 6'dır."
+  },
+  {
+    "instruction": "Aritmetik ortalamanın hangi özellikleri vardır?",
+    "output": "Aritmetik ortalama, veri setindeki her bir değerin eşit derecede önemli olduğu varsayımına dayanır. Aykırı değerler (çok büyük veya çok küçük değerler) aritmetik ortalamayı önemli ölçüde etkileyebilir. Ayrıca, aritmetik ortalama, veri setinin merkezi eğilimini temsil eder."
+  },
+  {
+    "instruction": "Aritmetik ortalama ne işe yarar?",
+    "output": "Aritmetik ortalama, bir veri setinin genel eğilimini veya merkezi değerini belirlemek için kullanılır. Özellikle, veri setinin genel büyüklüğünü veya eğilimini anlamak için yaygın olarak kullanılır. Örneğin, bir sınıfın sınav notlarının ortalamasını hesaplamak, sınıfın genel performansını anlamaya yardımcı olabilir."
+  },
+  {
+    "instruction": "Medyan nedir?",
+    "output": "Medyan, bir veri setindeki sayıların sıralandığında, ortada kalan sayıdır. Veri setindeki sayıların tek sayıda olması durumunda tam ortadaki sayı, çift sayıda olması durumunda ise ortadaki iki sayının aritmetik ortalaması medyanı verir."
+  },
+  {
+    "instruction": "Medyan nasıl bulunur?",
+    "output": "Medyanı bulmak için öncelikle veri setindeki sayılar küçükten büyüğe doğru sıralanır. Eğer veri setindeki sayı adedi tek ise, ortadaki sayı medyan olur. Eğer sayı adedi çift ise, ortadaki iki sayının aritmetik ortalaması medyanı verir."
+  },
+  {
+    "instruction": "Medyanın özellikleri nelerdir?",
+    "output": "Medyan, veri setindeki aşırı uç değerlerden etkilenmez ve veri setinin merkezi eğilimini temsil eder. Özellikle, veri setinde aykırı değerlerin bulunduğu durumlarda, medyan aritmetik ortalamaya göre daha güvenilir bir merkezi eğilim ölçüsüdür."
+  },
+  {
+    "instruction": "Medyan ne işe yarar?",
+    "output": "Medyan, özellikle aykırı değerlerin bulunduğu veri setlerinde, merkezi eğilimi belirlemek için kullanılır. Bu, veri setinin genel eğilimini anlamak için daha güvenilir bir ölçü sağlar ve veri setinin ortalama değerini temsil eder."
+  },
+  {
+    "instruction": "Aritmetik ortalama ile medyan arasındaki fark nedir?",
+    "output": "Aritmetik ortalama, veri setindeki tüm sayıların toplamının sayı adedine bölünmesiyle bulunurken, medyan, sıralanmış veri setinin ortasındaki değerdir. Aritmetik ortalama aykırı değerlerden etkilenirken, medyan bu tür değerlerden etkilenmez ve bu nedenle veri setinin merkezi eğilimini daha doğru yansıtabilir."
+  },
+  {
+    "instruction": "Veri setinde medyan değiştiğinde aritmetik ortalama neden değişmeyebilir?",
+    "output": "Veri setinde medyan değiştiğinde, bu değişiklik genellikle veri setinin ortasındaki değerlere odaklanır ve aykırı değerler medyanı etkilemez. Ancak, aritmetik ortalama tüm değerleri hesaba kattığı için, medyanın değişmesi aritmetik ortalamayı etkilemeyebilir, özellikle değişiklik aykırı değerlerle ilgili değilse."
+  }
+]

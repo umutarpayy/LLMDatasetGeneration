@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Karekök içeren denklemler nasıl çözülür?",
+    "output": "Karekök içeren denklemleri çözmek için öncelikle denklemin her iki tarafının da karesini alarak karekökten kurtulmak gerekir. Bu işlem, denklemi ikinci dereceden bir denkleme dönüştürür. Daha sonra, bu ikinci dereceden denklemi çözmek için gerekli adımlar izlenir, örneğin çarpanlara ayırma veya denklem çözme formülleri kullanılarak kökler bulunur."
+  },
+  {
+    "instruction": "İkinci dereceden denklemler nasıl çözülür?",
+    "output": "İkinci dereceden denklemler genellikle ax^2 + bx + c = 0 formundadır. Bu denklemler çarpanlara ayırma, tam kareye tamamlama veya diskriminant kullanılarak çözülebilir. Diskriminant yöntemi, b^2 - 4ac ifadesine dayanır ve bu ifade pozitifse iki gerçek kök, sıfırsa bir gerçek kök, negatifse karmaşık kökler olduğunu belirtir. Çözümler genellikle x = (-b ± √(b^2 - 4ac)) / (2a) formülü ile bulunur."
+  },
+  {
+    "instruction": "Karekök ve karesini alma işlemi arasındaki ilişki nedir?",
+    "output": "Karekök ve karesini alma işlemi birbirinin tersidir. Bir sayının karesini almak, sayıyı kendisiyle çarpmak anlamına gelirken, karekök almak, bir sayının hangi sayının karesi olduğunu bulmak anlamına gelir. Örneğin, x^2 = a ise x = √a olur. Bu iki işlem, matematiksel denklemlerde birbirini nötrleştirmek için kullanılır."
+  },
+  {
+    "instruction": "Karekök içeren ifadelerle denklemler nasıl doğrulanır?",
+    "output": "Karekök içeren ifadelerle çözülen denklemler, bulunan çözümün başlangıçtaki denklemi sağladığını kontrol ederek doğrulanır. Bulunan kökler, orijinal denkleme yerleştirilir ve her iki tarafın eşit olup olmadığı kontrol edilir. Eğer eşitlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Karekök içeren bir denklemin her iki tarafının karesi neden alınır?",
+    "output": "Karekök içeren bir denklemin her iki tarafının karesi alınarak karekökten kurtulmak ve denklemi daha basit bir forma, genellikle ikinci dereceden bir denkleme dönüştürmek amaçlanır. Bu işlem, denklemin çözümünü kolaylaştırır ve köklerin bulunmasını sağlar."
+  },
+  {
+    "instruction": "Karekök içeren denklemlerde hangi durumlarda dikkatli olunmalıdır?",
+    "output": "Karekök içeren denklemlerde, her iki tarafın karesi alındığında, denklemin çözüm kümesi genişleyebilir ve bu nedenle sahte kökler (extraneous roots) ortaya çıkabilir. Bu yüzden, bulunan köklerin orijinal denklemi sağladığını kontrol etmek önemlidir. Ayrıca, negatif sayılar karekök içinde tanımsız olduğundan, denklemin tanım aralığına dikkat edilmelidir."
+  },
+  {
+    "instruction": "Kök 8 ifadesi nasıl sadeleştirilir?",
+    "output": "Kök 8 ifadesi, √8, çarpanlarına ayrılarak sadeleştirilebilir. 8, 2 ve 4'ün çarpımıdır, yani 8 = 2 x 4. Bu durumda, √8 = √(2 x 4) = √2 x √4 olur. √4, 2'ye eşit olduğundan, √8 = 2√2 olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Negatif bir sayının karesi nasıl hesaplanır?",
+    "output": "Negatif bir sayının karesi hesaplanırken, negatif işaretin kare alma işlemi sırasında kaybolduğunu unutmamak gerekir. Örneğin, (-a)^2 = a^2 olur. Çünkü negatif bir sayının karesi, sayının kendisiyle çarpılması anlamına gelir ve iki negatif çarpan pozitif bir sonuç verir."
+  },
+  {
+    "instruction": "Karekök içeren denklemlerde sağlama nasıl yapılır?",
+    "output": "Karekök içeren denklemlerde sağlama yapmak için, bulunan çözüm değerleri orijinal denkleme yerine konur ve denklemin her iki tarafının eşit olup olmadığı kontrol edilir. Bu işlem, çözümün doğruluğunu teyit etmek için gereklidir ve yanlış veya sahte köklerin tespit edilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Karekök içeren denklemlerde sahte kökler nasıl oluşur?",
+    "output": "Karekök içeren denklemlerde sahte kökler, denklemin her iki tarafının karesi alındığında ortaya çıkabilir. Bu işlem, denklemin çözüm kümesini genişletebilir ve denklemi çözme sürecinde geçerli olmayan kökler elde edilebilir. Bu nedenle, bulunan köklerin orijinal denklemi sağladığını kontrol etmek önemlidir."
+  }
+]

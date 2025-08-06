@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgenlerde benzerlik nedir?",
+    "output": "Üçgenlerde benzerlik, iki üçgenin şekillerinin aynı, ancak boyutlarının farklı olması durumudur. Benzer üçgenlerin karşılıklı açıları eşittir ve karşılıklı kenarları orantılıdır."
+  },
+  {
+    "instruction": "Açı açı açı (AAA) benzerlik kriteri nedir?",
+    "output": "Açı açı açı (AAA) benzerlik kriteri, iki üçgenin üç açısının da birbirine eşit olması durumunda bu üçgenlerin benzer olduğunu ifade eder. Ancak, bu kriter eşlik için yeterli değildir, sadece benzerliği kanıtlar."
+  },
+  {
+    "instruction": "Kenar açı kenar (KAK) eşlik kriteri nedir?",
+    "output": "Kenar açı kenar (KAK) eşlik kriteri, iki üçgenin iki kenarının uzunluklarının ve bu kenarlar arasındaki açının ölçüsünün eşit olması durumunda bu üçgenlerin eş olduğunu ifade eder."
+  },
+  {
+    "instruction": "Benzerlik ve eşlik arasındaki fark nedir?",
+    "output": "Benzerlik, iki şeklin aynı şekle sahip olması ancak farklı boyutlarda olabilmesi durumudur. Eşlik ise iki şeklin hem aynı şekle hem de aynı boyuta sahip olması durumudur. Eş olan her şey benzerken, benzer olan her şey eş değildir."
+  },
+  {
+    "instruction": "Açı kenar açı (AKA) eşlik kriteri nedir?",
+    "output": "Açı kenar açı (AKA) eşlik kriteri, iki üçgenin iki açısının ve bu açılar arasındaki kenarın uzunluğunun eşit olması durumunda bu üçgenlerin eş olduğunu ifade eder."
+  },
+  {
+    "instruction": "Açı açı kenar (AAK) eşlik kriteri nedir?",
+    "output": "Açı açı kenar (AAK) eşlik kriteri, iki üçgenin iki açısının ve bu açılardan birine komşu olan kenarın uzunluğunun eşit olması durumunda bu üçgenlerin eş olduğunu ifade eder."
+  },
+  {
+    "instruction": "Kenar kenar açı (KKA) benzerlik kriteri nedir?",
+    "output": "Kenar kenar açı (KKA) benzerlik kriteri, iki üçgenin iki kenarının uzunluklarının orantılı ve bu kenarlar arasındaki açının eşit olması durumunda bu üçgenlerin benzer olduğunu ifade eder."
+  },
+  {
+    "instruction": "Üçgen eşliği ne işe yarar?",
+    "output": "Üçgen eşliği, iki üçgenin tüm kenar ve açılarının birebir eşit olduğunu gösterir. Bu, geometri problemlerinde şekillerin özelliklerini ve konumlarını belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Üçgen benzerliği hangi durumlarda kullanılır?",
+    "output": "Üçgen benzerliği, genellikle bir üçgenin bilinmeyen kenar veya açı ölçülerini bulmak için kullanılır. Özellikle, benzerlik oranları kullanılarak gerçek dünya problemlerinde ölçümler yapılabilir."
+  },
+  {
+    "instruction": "Eş üçgenlerin özellikleri nelerdir?",
+    "output": "Eş üçgenlerin tüm kenarları ve açıları birbirine eşittir. Bu, iki üçgenin tamamen aynı şekil ve boyutta olduğunu, dolayısıyla üst üste çakışabileceklerini ifade eder."
+  }
+]

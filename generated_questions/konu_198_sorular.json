@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizliklerin çözümünde denklemlerden farkı nedir?",
+    "output": "Eşitsizlikler, iki ifadeyi karşılaştıran matematiksel cümlelerdir ve genellikle 'küçük', 'büyük', 'küçük eşit' veya 'büyük eşit' sembolleriyle ifade edilirler. Denklemler ise iki ifadenin birbirine eşit olduğunu belirtir. Eşitsizliklerin çözümünde, eşitsizlik işaretinin yönü, negatif bir sayı ile çarpma veya bölme işlemi yapıldığında değişir, bu da denklemlerden farklı olarak dikkat edilmesi gereken bir durumdur."
+  },
+  {
+    "instruction": "Eşitsizliklerdeki bilinmeyenlerin yorumlanması nasıl yapılır?",
+    "output": "Eşitsizliklerdeki bilinmeyenler, çözüm kümesinin bir parçası olarak değerlendirilir. Çözüm kümesi, eşitsizliği doğru yapan tüm değerlerin bir araya gelmesiyle oluşur. Bu değerler genellikle sayı doğrusunda bir aralık veya belirli bir değer kümesi olarak gösterilir. Bilinmeyenlerin alabileceği değerler, eşitsizlik işaretine ve eşitsizliğin çözümüne bağlı olarak belirlenir."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafiksel gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin grafiksel gösterimi, sayı doğrusunda veya koordinat düzleminde yapılabilir. Sayı doğrusunda, eşitsizlik çözüm kümesi genellikle bir aralık olarak gösterilir ve sınır değerler açık veya kapalı bir daire ile temsil edilir. Koordinat düzleminde ise, eşitsizlikler bir bölgeyi temsil eder ve bu bölge genellikle bir doğru veya eğri ile sınırlanır. Eşitsizlik işaretine bağlı olarak bölgenin hangi kısmının dahil olduğu belirlenir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi stratejiler kullanılabilir?",
+    "output": "Eşitsizliklerin çözümünde kullanılan stratejiler arasında, bilinmeyeni izole etme, her iki tarafa aynı değeri ekleme veya çıkarma, her iki tarafı aynı pozitif veya negatif sayı ile çarpma veya bölme gibi temel cebirsel işlemler yer alır. Ayrıca, karmaşık eşitsizlikler için grafiksel yöntemler veya test değerleri kullanarak çözüm kümesinin doğruluğunu kontrol etme gibi stratejiler de kullanılabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Eşitsizliklerde negatif sayılarla işlem yaparken, özellikle çarpma veya bölme işlemi yapıldığında eşitsizlik işaretinin yönü değişmelidir. Örneğin, bir eşitsizliğin her iki tarafını negatif bir sayı ile çarptığınızda veya böldüğünüzde, eşitsizlik işareti tersine çevrilmelidir. Bu kural, eşitsizliklerin doğru bir şekilde çözülmesi için kritik öneme sahiptir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde karşılaşılan yaygın hatalar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde yaygın hatalar arasında, eşitsizlik işaretinin yönünü değiştirmeyi unutmak, özellikle negatif sayılarla çarpma veya bölme yaparken, ve çözüm kümesini yanlış belirlemek yer alır. Ayrıca, eşitsizliklerin çözümünde yapılan işlemlerin her iki tarafa eşit uygulanmaması veya çözüm kümesinin sayı doğrusunda doğru bir şekilde gösterilmemesi de sık yapılan hatalardandır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi matematiksel işlemler yapılabilir?",
+    "output": "Eşitsizliklerin çözümünde, denklemlerle benzer şekilde temel cebirsel işlemler yapılabilir. Bunlar arasında her iki tarafa aynı sayıyı ekleme veya çıkarma, her iki tarafı aynı pozitif veya negatif sayı ile çarpma veya bölme gibi işlemler yer alır. Ancak, negatif sayılarla çarpma veya bölme yapıldığında eşitsizlik işaretinin yönü değiştirilmelidir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde sınır değerlerin dahil olup olmadığını nasıl anlarız?",
+    "output": "Eşitsizliklerin çözümünde sınır değerlerin dahil olup olmadığını belirlemek için eşitsizlik işaretine bakılır. Eğer eşitsizlik işareti 'küçük eşit' (≤) veya 'büyük eşit' (≥) ise, sınır değerler çözüm kümesine dahildir. Eğer eşitsizlik işareti sadece 'küçük' (<) veya 'büyük' (>) ise, sınır değerler çözüm kümesine dahil değildir."
+  },
+  {
+    "instruction": "Eşitsizliklerin gerçek hayattaki uygulamaları nelerdir?",
+    "output": "Eşitsizlikler, gerçek hayatta birçok alanda kullanılır. Örneğin, bütçeleme ve finansal planlamada, gelir ve giderlerin belirli bir limitin altında veya üstünde kalması gerektiğinde kullanılır. Ayrıca, mühendislik ve bilimsel araştırmalarda, belirli koşulların sağlanması gereken durumlarda, örneğin bir sistemin güvenli çalışabilmesi için belirli parametrelerin sınırlandırılması gerektiğinde eşitsizlikler kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde kullanılan stratejiler nelerdir?",
+    "output": "Eşitsizliklerin çözümünde kullanılan stratejiler arasında, denklemlerde olduğu gibi bilinmeyeni izole etme, eşitsizliği her iki tarafa aynı işlemi uygulayarak basitleştirme, ve çözüm kümesini belirlemek için sayı doğrusu veya grafiksel yöntemler kullanma yer alır. Ayrıca, eşitsizliklerin çözümünü kontrol etmek için test değerleri kullanmak da etkili bir stratejidir."
+  }
+]

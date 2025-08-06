@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgenin iç açıları toplamı nasıl hesaplanır?",
+    "output": "Bir üçgenin iç açıları toplamı her zaman 180 derecedir. Bu, üçgenin temel geometrik özelliklerinden biridir. Üçgenin hangi türde olduğuna bakılmaksızın, iç açılarının toplamı 180 dereceye eşittir."
+  },
+  {
+    "instruction": "İkizkenar üçgende taban açıları hangi özelliklere sahiptir?",
+    "output": "İkizkenar üçgende taban açıları birbirine eşittir. Bu, ikizkenar üçgenin tanımının bir parçasıdır. İki kenarı eşit olan bir üçgende, bu eşit kenarların karşısındaki açıların da eşit olması gerekir."
+  },
+  {
+    "instruction": "Üçgenlerde eşit açılar nasıl belirlenir?",
+    "output": "Üçgenlerde eşit açılar genellikle eşit kenarların karşısında bulunur. Özellikle ikizkenar ve eşkenar üçgenlerde, eşit kenarların karşısındaki açılar eşit olur. Eşit açılar ayrıca üçgenin simetrik özelliklerinden de anlaşılabilir."
+  },
+  {
+    "instruction": "Üçgenlerde açıların toplamı neden 180 derecedir?",
+    "output": "Üçgenlerde açıların toplamının 180 derece olmasının nedeni, düzlem geometri kurallarına dayanır. Bir üçgenin iç açıları, üçgenin bir düzlemde kapladığı alanın bir parçası olarak düşünüldüğünde, bu açıların toplamı her zaman 180 dereceye eşittir."
+  },
+  {
+    "instruction": "Bir üçgenin tepe açısı nasıl bulunur?",
+    "output": "Bir üçgenin tepe açısını bulmak için, diğer iki açının toplamını 180 dereceden çıkarmak gerekir. Özellikle ikizkenar üçgenlerde, taban açıları biliniyorsa, tepe açısı bu iki açının toplamının 180 dereceden çıkarılmasıyla bulunur."
+  },
+  {
+    "instruction": "İkizkenar üçgende tepe açısı nasıl belirlenir?",
+    "output": "İkizkenar üçgende tepe açısı, taban açıları bilindiğinde, bu açıların toplamının 180 dereceden çıkarılmasıyla belirlenir. İkizkenar üçgenin iki eşit kenarı arasında kalan açı tepe açısıdır."
+  },
+  {
+    "instruction": "Üçgenin açıları arasındaki ilişki nasıl tanımlanır?",
+    "output": "Üçgenin açıları arasındaki ilişki, toplamlarının her zaman 180 derece olmasıdır. Ayrıca, ikizkenar ve eşkenar üçgenlerde belirli simetrik ilişkiler bulunur; örneğin, ikizkenar üçgende taban açıları eşitken, eşkenar üçgende tüm açılar eşittir."
+  },
+  {
+    "instruction": "Üçgenlerde açıların yer değiştirmesi sonucu ne olur?",
+    "output": "Üçgenlerde açıların yer değiştirmesi, toplam açılar üzerinde bir değişiklik yapmaz; toplam her zaman 180 derece kalır. Ancak, açıların yer değiştirmesi, üçgenin şeklinin ve türünün farklı algılanmasına neden olabilir."
+  },
+  {
+    "instruction": "Bir üçgenin açıları nasıl eşitlenir?",
+    "output": "Bir üçgenin açıları eşitlenmişse, bu üçgenin eşkenar üçgen olduğu anlamına gelir. Eşkenar üçgende, tüm kenarlar ve dolayısıyla tüm açılar birbirine eşittir ve her biri 60 derece olur."
+  },
+  {
+    "instruction": "Üçgenin açıları arasında nasıl bir denge vardır?",
+    "output": "Üçgenin açıları arasında, toplamlarının 180 derece olması gerektiği bir denge vardır. Bu denge, üçgenin geometrik yapısını korumasını sağlar ve herhangi bir açının değişmesi, diğer açılarda da değişiklik gerektirir."
+  }
+]

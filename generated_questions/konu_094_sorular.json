@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşdeğer ifadeler nedir?",
+    "output": "Eşdeğer ifadeler, farklı görünümlere sahip olsalar da aynı matematiksel değeri temsil eden ifadelerdir. Bu ifadeler, aynı değişkenleri ve katsayıları içerir ve matematiksel işlemlerle birbirine dönüştürülebilir."
+  },
+  {
+    "instruction": "Cebirsel ifadeler nasıl sadeleştirilir?",
+    "output": "Cebirsel ifadeleri sadeleştirmek için benzer terimler birleştirilir. Benzer terimler, aynı değişkenlere ve aynı üslere sahip olan terimlerdir. Örneğin, x + x ifadesi 2x olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Bir ifadeyi parantez içine almak ne anlama gelir?",
+    "output": "Bir ifadeyi parantez içine almak, ifadeyi ortak bir çarpanla çarparak daha kompakt bir biçime dönüştürmektir. Örneğin, 2x + 2y + 2 ifadesi 2(x + y + 1) olarak parantez içine alınabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde benzer terimler nasıl tanımlanır?",
+    "output": "Benzer terimler, aynı değişkenlere ve aynı üslere sahip terimlerdir. Örneğin, 3x ve 5x benzer terimlerdir çünkü her ikisi de 'x' değişkenine sahiptir."
+  },
+  {
+    "instruction": "Cebirsel ifadeler neden sadeleştirilir?",
+    "output": "Cebirsel ifadeler, daha basit ve anlaşılır hale getirmek, hesaplamaları kolaylaştırmak ve ifadeler arasındaki ilişkileri daha net görmek amacıyla sadeleştirilir."
+  },
+  {
+    "instruction": "Bir cebirsel ifadeyi faktörlere ayırmak ne demektir?",
+    "output": "Bir cebirsel ifadeyi faktörlere ayırmak, ifadeyi çarpanlarına ayırarak daha temel bileşenlere bölmektir. Bu, ifadeyi daha basit bir biçimde ifade etmeye yardımcı olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde ortak çarpan nasıl bulunur?",
+    "output": "Cebirsel ifadelerde ortak çarpan, tüm terimlerde bulunan en büyük ortak çarpandır. Her terimdeki katsayılar ve değişkenler incelenerek ortak bir çarpan belirlenir."
+  },
+  {
+    "instruction": "Parantez kullanımı cebirsel ifadelerde ne işe yarar?",
+    "output": "Parantez kullanımı, ifadeleri gruplandırarak işlem önceliğini belirler ve ifadeleri daha düzenli hale getirir. Ayrıca, ifadeleri çarpanlarına ayırmak veya dağıtma işlemi yapmak için kullanılır."
+  },
+  {
+    "instruction": "Dağılma özelliği nedir?",
+    "output": "Dağılma özelliği, bir sayının veya terimin parantez içindeki her terimle ayrı ayrı çarpılmasıdır. Örneğin, a(b + c) = ab + ac şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terim nedir?",
+    "output": "Cebirsel ifadelerde terim, bir ifadenin ayrı ayrı elemanlarıdır. Her terim, bir katsayı ve bir değişken (veya değişkenler) içerebilir. Örneğin, 3x, 5y ve 7 birer terimdir."
+  }
+]

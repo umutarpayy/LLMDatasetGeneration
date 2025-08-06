@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Köklü ifade nedir?",
+    "output": "Köklü ifade, bir sayının veya ifadenin kökünü belirtmek için kullanılan matematiksel bir ifadedir. Örneğin, √x ifadesi x'in karekökünü temsil eder. Köklü ifadeler, genellikle bir sayının belirli bir dereceden kökü alınarak elde edilir."
+  },
+  {
+    "instruction": "Üslü sayılar nasıl tanımlanır?",
+    "output": "Üslü sayılar, bir sayının kendisiyle tekrarlı çarpımını ifade eder. Örneğin, a^n ifadesi, a'nın n kez kendisiyle çarpılması anlamına gelir. Burada a taban, n ise üst olarak adlandırılır."
+  },
+  {
+    "instruction": "Rasyonel üslü ifadeler nasıl tanımlanır?",
+    "output": "Rasyonel üslü ifadeler, bir sayının üssünün bir rasyonel sayı olduğu ifadelerdir. Örneğin, x^(1/2) ifadesi x'in karekökünü temsil eder. Rasyonel üslü ifadeler, köklü ifadelerin üslü biçimde gösterilmesine olanak tanır."
+  },
+  {
+    "instruction": "Köklü ifadeler üslü ifadelere nasıl dönüştürülür?",
+    "output": "Köklü ifadeler üslü ifadelere, kökün derecesinin üssü olarak yazılmasıyla dönüştürülür. Örneğin, n. dereceden kök x, x^(1/n) şeklinde üslü ifade olarak yazılır."
+  },
+  {
+    "instruction": "Çarpma işlemi üslü ifadelerde nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde hesaplanır. Eğer tabanlar farklıysa, ifadeler ayrı ayrı çarpılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti nasıl alınır?",
+    "output": "Üslü ifadelerde kuvvetin kuvveti alınırken üsler çarpılır. Örneğin, (a^m)^n = a^(m*n) şeklinde hesaplanır. Bu, bir sayının üssünün tekrar üssü alındığında geçerli olan bir özelliktir."
+  },
+  {
+    "instruction": "Köklü ifadelerin sadeleştirilmesi nasıl yapılır?",
+    "output": "Köklü ifadelerin sadeleştirilmesi, kök içindeki sayının tam kare, tam küp gibi faktörlere ayrılarak kök dışına çıkarılmasıyla yapılır. Örneğin, √18 ifadesi 3√2 şeklinde sadeleştirilebilir."
+  },
+  {
+    "instruction": "Köklü ifadeler hangi durumlarda kullanılır?",
+    "output": "Köklü ifadeler, genellikle bir sayının belirli bir dereceden kökünü almak gerektiğinde kullanılır. Bu, geometri, mühendislik ve fizik gibi alanlarda sıkça karşılaşılan bir durumdur."
+  },
+  {
+    "instruction": "Üslü ifadeler ile köklü ifadelerin ilişkisi nedir?",
+    "output": "Üslü ifadeler ve köklü ifadeler arasında doğrudan bir ilişki vardır; köklü ifadeler üslü ifadelerin özel bir durumudur. Örneğin, n. dereceden kök x, x^(1/n) şeklinde üslü ifade olarak yazılır."
+  },
+  {
+    "instruction": "Rasyonel üslü ifadelerin avantajları nelerdir?",
+    "output": "Rasyonel üslü ifadeler, köklü ifadeleri daha kolay manipüle etmemizi sağlar ve matematiksel işlemleri basitleştirir. Bu ifadeler, kök alma işlemlerinin üslü biçimde gösterilmesine olanak tanır ve hesaplamalarda esneklik sağlar."
+  }
+]

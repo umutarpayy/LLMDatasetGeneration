@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kesirlerin kuvveti nasıl alınır?",
+    "output": "Kesirlerin kuvveti alınırken, kesirin payı ve paydası ayrı ayrı üsse yükseltilir. Örneğin, (a/b)^n ifadesinde pay a^n ve payda b^n olarak hesaplanır."
+  },
+  {
+    "instruction": "Kesirlerin karesi nasıl hesaplanır?",
+    "output": "Bir kesirin karesi alınırken, kesirin hem payı hem de paydası kendisiyle çarpılır. Örneğin, (a/b)^2 ifadesi a^2/b^2 olarak hesaplanır."
+  },
+  {
+    "instruction": "Kesirlerin küpü nasıl hesaplanır?",
+    "output": "Bir kesirin küpü alınırken, kesirin hem payı hem de paydası üç kez kendisiyle çarpılır. Örneğin, (a/b)^3 ifadesi a^3/b^3 olarak hesaplanır."
+  },
+  {
+    "instruction": "Üslü kesirler hangi özelliklere sahiptir?",
+    "output": "Üslü kesirlerin özellikleri arasında pay ve paydanın ayrı ayrı üsse yükseltilmesi, negatif üs durumunda kesirin tersinin alınması ve sıfır üssü durumunda kesirin 1'e eşit olması bulunur."
+  },
+  {
+    "instruction": "Bir kesirin negatif kuvveti ne anlama gelir?",
+    "output": "Bir kesirin negatif kuvveti, kesirin tersinin pozitif kuvveti anlamına gelir. Örneğin, (a/b)^-n ifadesi (b/a)^n olarak hesaplanır."
+  },
+  {
+    "instruction": "Kesirlerin üslü ifadeleri nasıl sadeleştirilir?",
+    "output": "Kesirlerin üslü ifadeleri sadeleştirilirken, pay ve payda ayrı ayrı sadeleştirilir. Üslü ifadeler sadeleştirildikten sonra varsa ortak çarpanlar sadeleştirilir."
+  },
+  {
+    "instruction": "Üslü kesirlerin sonuçları nasıl yorumlanır?",
+    "output": "Üslü kesirlerin sonuçları, kesirin büyüklüğüne ve üssün pozitif veya negatif olmasına göre değişir. Pozitif üsler kesirin büyüklüğünü artırırken, negatif üsler kesirin tersini alarak küçültür."
+  },
+  {
+    "instruction": "Kesirlerin üssü alınırken hangi yöntemler kullanılır?",
+    "output": "Kesirlerin üssü alınırken genellikle iki yöntem kullanılır: Kesirin pay ve paydasını ayrı ayrı üsse yükseltmek veya kesiri üs sayısı kadar yan yana yazıp çarpmak."
+  },
+  {
+    "instruction": "Üslü kesirlerin çarpımı nasıl yapılır?",
+    "output": "Üslü kesirlerin çarpımı yapılırken, kesirler çarpılır ve ardından sonuç üslü ifade olarak yazılır. Örneğin, (a/b)^n * (c/d)^m ifadesi (a^n * c^m) / (b^n * d^m) olarak hesaplanır."
+  },
+  {
+    "instruction": "Üslü kesirlerin bölümü nasıl yapılır?",
+    "output": "Üslü kesirlerin bölümü yapılırken, bölen kesirin tersi alınarak çarpma işlemi yapılır. Örneğin, (a/b)^n ÷ (c/d)^m ifadesi (a^n * d^m) / (b^n * c^m) olarak hesaplanır."
+  }
+]

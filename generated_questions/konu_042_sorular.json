@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde ifade edilir. Tabanlar farklı ise her bir terim ayrı ayrı çarpılır ve sonuç üslü ifade olarak yazılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin dağıtma özelliği nedir?",
+    "output": "Üslü ifadelerde üslerin dağıtma özelliği, bir çarpımın üssünü alırken her bir çarpanın ayrı ayrı üssünü almayı ifade eder. Yani, (a*b)^n = a^n * b^n şeklinde yazılır. Bu özellik, çarpımın üssünü almayı kolaylaştırır."
+  },
+  {
+    "instruction": "Üslü ifadelerde birleşme özelliği nedir?",
+    "output": "Üslü ifadelerde birleşme özelliği, çarpma işlemi sırasında terimlerin sırasının değiştirilmesinin sonuca etkisi olmadığını belirtir. Yani, (a*b)*c = a*(b*c) şeklinde ifade edilir. Bu özellik, çarpma işlemlerinin daha esnek bir şekilde yapılmasını sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde yer değiştirme özelliği nedir?",
+    "output": "Üslü ifadelerde yer değiştirme özelliği, çarpma işleminde terimlerin yerlerinin değiştirilmesinin sonucu etkilemediğini ifade eder. Yani, a*b = b*a şeklinde yazılır. Bu özellik, işlemlerin daha kolay ve esnek bir şekilde yapılmasına olanak tanır."
+  },
+  {
+    "instruction": "Bir ifadenin üssünü alırken nelere dikkat edilmelidir?",
+    "output": "Bir ifadenin üssünü alırken, her bir terimin ayrı ayrı üssünün alınması gerektiğine dikkat edilmelidir. Ayrıca, çarpma ve toplama işlemleri arasındaki farklar göz önünde bulundurulmalı ve dağıtma özelliği doğru bir şekilde uygulanmalıdır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi neden önemlidir?",
+    "output": "Üslü ifadelerde çarpma işlemi, daha karmaşık ifadelerin basit bir şekilde ifade edilmesini sağlar. Özellikle büyük sayılarla çalışırken, çarpma işlemi sayesinde işlemler daha kolay ve hızlı bir şekilde yapılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin çarpılması nasıl yapılır?",
+    "output": "Üslü ifadelerde üslerin çarpılması, üslerin birbiriyle çarpılması anlamına gelir. Örneğin, (a^m)^n = a^(m*n) şeklinde ifade edilir. Bu özellik, üslü ifadelerin daha kompakt ve anlaşılır bir şekilde yazılmasını sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban aynı olduğunda çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynı olduğunda çarpma işlemi yapılırken, üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde ifade edilir. Bu yöntem, üslü ifadelerin daha kolay ve hızlı bir şekilde hesaplanmasını sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi hangi durumlarda kullanılır?",
+    "output": "Üslü ifadelerde çarpma işlemi, genellikle büyük sayıların veya çok sayıda terimin çarpılması gerektiğinde kullanılır. Bu yöntem, işlemleri basitleştirir ve daha az hata yapılmasını sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi ile toplama işlemi arasındaki fark nedir?",
+    "output": "Üslü ifadelerde çarpma işlemi, tabanlar aynı olduğunda üslerin toplanması anlamına gelirken, toplama işlemi üslü ifadelerin doğrudan toplanmasıdır. Çarpma işlemi, daha karmaşık ifadelerin sadeleştirilmesine olanak tanırken, toplama işlemi genellikle doğrudan sonuç verir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklemlerde eşitlik ne anlama gelir?",
+    "output": "Denklemlerde eşitlik, iki ifadenin birbirine eşit olduğunu belirtir. Bu, her iki tarafın da aynı sayısal değere sahip olduğu anlamına gelir. Eşitlik işareti (=) kullanılarak gösterilir ve bu, denklemin temel özelliğidir."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi adımlar izlenmelidir?",
+    "output": "Denklem çözümünde genellikle şu adımlar izlenir: 1) Bilinmeyeni izole etmek için her iki tarafa da aynı işlemi uygulamak, 2) Gerektiğinde terimleri birleştirmek veya ayırmak, 3) Çarpma veya bölme işlemleri ile bilinmeyeni yalnız bırakmak, 4) Sonuçları kontrol etmek."
+  },
+  {
+    "instruction": "Denklemlerde bilinmeyen nedir?",
+    "output": "Denklemlerde bilinmeyen, genellikle bir harfle temsil edilen ve değeri bulunması gereken değişkendir. Bu, denklemin çözüm sürecinin odak noktasıdır ve genellikle 'x', 'y' gibi harflerle gösterilir."
+  },
+  {
+    "instruction": "Denklemlerde ters işlemler nasıl kullanılır?",
+    "output": "Denklemlerde ters işlemler, bir terimi veya ifadeyi izole etmek için kullanılır. Örneğin, toplama işlemi ile bir terim eklenmişse, çıkarma işlemi ile bu terim çıkarılır. Benzer şekilde, çarpma işlemi ile bir terim çarpılmışsa, bölme işlemi ile bu terim bölünerek denklemin her iki tarafında eşitlik sağlanır."
+  },
+  {
+    "instruction": "Denklemlerde sabit terim nedir?",
+    "output": "Denklemlerde sabit terim, bilinmeyen içermeyen ve değeri değişmeyen sayıdır. Sabit terimler, denklemin çözüm sürecinde diğer terimlerden ayrılarak işlem yapılır."
+  },
+  {
+    "instruction": "Denklem çözümünde kontrol nasıl yapılır?",
+    "output": "Denklem çözümünde kontrol, elde edilen çözümün doğru olup olmadığını kontrol etmek için yapılır. Bulunan çözüm, orijinal denklemde yerine konularak her iki tarafın eşit olup olmadığına bakılır. Eğer eşitlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Denklemlerde katsayı nedir?",
+    "output": "Denklemlerde katsayı, bilinmeyenin önündeki sayıdır ve bilinmeyenin kaç katı olduğunu belirtir. Örneğin, 3x ifadesinde, 3 katsayıdır ve x'in üç katı anlamına gelir."
+  },
+  {
+    "instruction": "Denklemlerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Denklemlerde toplama ve çıkarma işlemleri, terimleri birleştirmek veya ayırmak için kullanılır. Aynı türden terimler toplanabilir veya çıkarılabilir. Her iki tarafa aynı işlem uygulandığında, denklemin eşitliği bozulmaz."
+  },
+  {
+    "instruction": "Denklemlerde çarpma ve bölme işlemleri nasıl yapılır?",
+    "output": "Denklemlerde çarpma ve bölme işlemleri, bilinmeyeni izole etmek için kullanılır. Her iki taraf aynı sayıya bölünür veya çarpılırsa, denklemin eşitliği korunur. Bu işlemler, özellikle bilinmeyeni yalnız bırakmak için kullanılır."
+  },
+  {
+    "instruction": "Denklem çözümünde hata yapmamak için nelere dikkat edilmelidir?",
+    "output": "Denklem çözümünde hata yapmamak için işlemleri dikkatli ve adım adım yapmak önemlidir. Her iki tarafa aynı işlemi uygulamak, işlem sırasını takip etmek ve sonuçları kontrol etmek, hataları önlemede yardımcı olur. Ayrıca, işlem yaparken negatif ve pozitif işaretlere dikkat etmek gerekir."
+  }
+]

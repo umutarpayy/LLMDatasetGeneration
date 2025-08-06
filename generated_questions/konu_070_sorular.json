@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dördüncü dereceden kök nedir?",
+    "output": "Dördüncü dereceden kök, bir sayının dördüncü kuvveti alınarak elde edilen değere eşit olan sayıdır. Yani, bir sayının dördüncü dereceden kökü, bu sayının kendisiyle dört kez çarpıldığında orijinal sayıyı veren değerdir."
+  },
+  {
+    "instruction": "Köklü ifadelerde çıkarma işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde çıkarma işlemi, kök içindeki ifadelerin aynı olduğu durumlarda yapılabilir. Bu durumda, kök dışındaki katsayılar birbirinden çıkarılır ve sonuç, ortak köklü ifade ile çarpılır."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma nedir ve nasıl yapılır?",
+    "output": "Asal çarpanlarına ayırma, bir sayıyı asal sayıların çarpımı şeklinde ifade etme işlemidir. Bu işlem, sayıyı en küçük asal sayıdan başlayarak bölerek ve bölünen sayıyı tekrar asal sayılarla bölerek devam edilir. İşlem, bölünen sayı 1 olana kadar sürdürülür."
+  },
+  {
+    "instruction": "Köklü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Köklü ifadelerde sadeleştirme, kök içindeki ifadeyi asal çarpanlarına ayırarak ve tam kare ya da tam dördüncü kuvvet olan çarpanları kök dışına çıkararak yapılır. Bu işlem, kök içindeki sayıyı daha basit bir hale getirir."
+  },
+  {
+    "instruction": "Bir ifadenin mutlak değeri nedir?",
+    "output": "Mutlak değer, bir sayının sıfıra olan uzaklığını ifade eder ve her zaman pozitif bir değer alır. Matematiksel olarak, negatif bir sayıdan mutlak değer alındığında pozitif olurken, pozitif bir sayıdan mutlak değer alındığında sayı aynı kalır."
+  },
+  {
+    "instruction": "Köklü ifadelerde mutlak değer neden kullanılır?",
+    "output": "Köklü ifadelerde mutlak değer, kök içinde bulunan değişkenin negatif olabileceği durumlarda, sonucu pozitif hale getirmek için kullanılır. Bu, özellikle çift dereceden köklerde önemlidir, çünkü bu kökler negatif sonuçlar vermez."
+  },
+  {
+    "instruction": "Köklü ifadelerde tanım kümesi nedir?",
+    "output": "Köklü ifadelerde tanım kümesi, kök içindeki ifadenin reel sayılar için anlamlı olduğu değerler kümesidir. Bu, genellikle kök içindeki ifadenin negatif olmaması gerektiği anlamına gelir, çünkü negatif sayıların çift dereceden kökleri reel sayılar kümesinde tanımlı değildir."
+  },
+  {
+    "instruction": "Köklü ifadelerin reel sayılar için tanımlı olması ne anlama gelir?",
+    "output": "Köklü ifadelerin reel sayılar için tanımlı olması, kök içindeki ifadenin negatif olmaması gerektiği anlamına gelir. Bu, kök içindeki ifadenin sıfır veya pozitif olması gerektiği anlamına gelir, böylece sonuç reel bir sayı olur."
+  },
+  {
+    "instruction": "Köklü ifadelerde katsayılar nasıl sadeleştirilir?",
+    "output": "Köklü ifadelerde katsayılar, kök içindeki ifadeler aynı olduğunda sadeleştirilir. Bu durumda, kök dışındaki katsayılar toplanır veya çıkarılır ve bu işlem sonucunda elde edilen katsayı, ortak köklü ifade ile çarpılır."
+  },
+  {
+    "instruction": "Köklü ifadelerde dördüncü dereceden kök nasıl alınır?",
+    "output": "Köklü ifadelerde dördüncü dereceden kök almak için, kök içindeki sayıyı asal çarpanlarına ayırıp, dördüncü kuvvet olan çarpanları kök dışına çıkararak işlem yapılır. Bu, kök içindeki sayının daha basit bir hale gelmesini sağlar."
+  }
+]

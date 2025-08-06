@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eder. Burada m, doğrunun eğimini, b ise y-eksenini kestiği noktayı temsil eder. Bu form, doğruyu kolayca grafik üzerinde çizebilmek için kullanışlıdır."
+  },
+  {
+    "instruction": "Bir denklemi eğim-kesişim formuna nasıl dönüştürürüz?",
+    "output": "Bir denklemi eğim-kesişim formuna dönüştürmek için, denklemi y = mx + b formuna getirmek gerekir. Bu, genellikle y'yi yalnız bırakarak ve diğer terimleri uygun şekilde düzenleyerek yapılır. Örneğin, 4x + 2y = -8 denklemi, y = -2x - 4 şeklinde dönüştürülür."
+  },
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun dikey değişiminin yatay değişimine oranıdır ve genellikle m harfi ile gösterilir. İki nokta arasındaki eğim, (y2 - y1) / (x2 - x1) formülüyle hesaplanır."
+  },
+  {
+    "instruction": "Y-kesişim noktası nedir ve nasıl bulunur?",
+    "output": "Y-kesişim noktası, bir doğrunun y-eksenini kestiği noktadır. Eğim-kesişim formunda (y = mx + b), b değeri y-kesişim noktasını temsil eder. Bu, x'in 0 olduğu durumda y'nin değeridir."
+  },
+  {
+    "instruction": "Eğim-kesişim formunun avantajları nelerdir?",
+    "output": "Eğim-kesişim formu, bir doğrunun grafik üzerinde hızlı ve kolay bir şekilde çizilmesini sağlar. Eğim ve y-kesişim noktası doğrudan formülde yer aldığı için, bu bilgiler doğrunun eğimini ve başlangıç noktasını belirlemekte kullanılır."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile standart form arasındaki fark nedir?",
+    "output": "Eğim-kesişim formu y = mx + b şeklindedir ve doğrunun eğimi ile y-kesişim noktasını doğrudan gösterir. Standart form ise Ax + By = C şeklindedir ve doğrudan eğim veya kesişim noktası hakkında bilgi vermez. Standart formdan eğim-kesişim formuna geçiş yapmak, eğim ve y-kesişim noktasını bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Eğim negatif olduğunda bu ne anlama gelir?",
+    "output": "Eğim negatif olduğunda, doğru sola eğimli bir şekilde aşağıya doğru ilerler. Yani, x arttıkça y azalır. Bu, doğrunun negatif eğimli olduğunu ve y'nin x ile ters orantılı olarak değiştiğini gösterir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi sıfır olduğunda ne olur?",
+    "output": "Bir doğrunun eğimi sıfır olduğunda, bu doğru yataydır ve y'nin değeri sabittir. Eğim sıfır olduğunda, doğru y = b şeklinde ifade edilir ve y-kesişim noktası b olur."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda kullanışlıdır?",
+    "output": "Eğim-kesişim formu, bir doğrunun grafiğini çizerken veya iki doğrunun eğimlerini ve y-kesişim noktalarını karşılaştırırken kullanışlıdır. Ayrıca, bir doğrunun özelliklerini hızlı bir şekilde belirlemek için de idealdir."
+  },
+  {
+    "instruction": "Dikey bir doğrunun eğimi nasıl ifade edilir?",
+    "output": "Dikey bir doğrunun eğimi tanımsızdır çünkü bu durumda yatay değişim sıfırdır ve eğim (y2 - y1) / (x2 - x1) formülünde sıfıra bölme durumu oluşur. Dikey doğrular x = a şeklinde ifade edilir ve y-kesişim noktası yoktur."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadeler nedir?",
+    "output": "Üslü ifadeler, bir sayının kendisiyle belirli bir sayıda çarpılmasını ifade eden matematiksel bir gösterimdir. Örneğin, 10 üssü 3 (10^3) ifadesi, 10'un kendisiyle 3 kez çarpılması anlamına gelir: 10 x 10 x 10."
+  },
+  {
+    "instruction": "10'un kuvvetleri nasıl hesaplanır?",
+    "output": "10'un kuvvetleri, 1'in yanına kuvvet kadar sıfır eklenerek hesaplanır. Örneğin, 10 üssü 5 (10^5), 1'in yanına 5 sıfır eklenerek 100,000 olarak bulunur."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, 10^2 x 10^3 = 10^(2+3) = 10^5."
+  },
+  {
+    "instruction": "Ondalık sayılarla üslü ifadeler nasıl çarpılır?",
+    "output": "Ondalık sayılarla üslü ifadeler çarpılırken, ondalık sayının ondalık noktası, üslü ifadenin belirttiği kadar sağa kaydırılır. Örneğin, 72.1 x 10^3 işlemi, ondalık noktayı 3 basamak sağa kaydırarak 72,100 sonucunu verir."
+  },
+  {
+    "instruction": "Ondalık sayılarla üslü ifadeler nasıl bölünür?",
+    "output": "Ondalık sayılarla üslü ifadeler bölünürken, ondalık sayının ondalık noktası, üslü ifadenin belirttiği kadar sola kaydırılır. Örneğin, 56 / 10^3 işlemi, ondalık noktayı 3 basamak sola kaydırarak 0.056 sonucunu verir."
+  },
+  {
+    "instruction": "Bir sayıyı 10'un kuvvetine bölmek ne anlama gelir?",
+    "output": "Bir sayıyı 10'un kuvvetine bölmek, sayının ondalık noktasını kuvvet kadar sola kaydırmak anlamına gelir. Bu işlem, sayının küçülmesine neden olur."
+  },
+  {
+    "instruction": "10'un kuvvetleri ile çarpma ve bölme işlemlerinin özellikleri nelerdir?",
+    "output": "10'un kuvvetleri ile çarpma işlemi, sayının ondalık noktasını sağa kaydırarak sayıyı büyütürken, bölme işlemi ondalık noktayı sola kaydırarak sayıyı küçültür. Her iki işlem de sayının basamak değerlerini değiştirir."
+  },
+  {
+    "instruction": "Ondalık noktası nedir ve nasıl kullanılır?",
+    "output": "Ondalık noktası, bir sayının tam kısmı ile kesirli kısmını ayıran işarettir. Çarpma ve bölme işlemlerinde, ondalık noktası sayının büyüklüğünü veya küçüklüğünü belirlemek için sağa veya sola kaydırılır."
+  },
+  {
+    "instruction": "Üslü ifadeler hangi durumlarda kullanılır?",
+    "output": "Üslü ifadeler, büyük veya küçük sayıların daha kolay ifade edilmesi, hesaplanması ve karşılaştırılması gereken durumlarda kullanılır. Bilimsel notasyon, mühendislik hesaplamaları ve finansal analizlerde sıkça kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerin avantajları nelerdir?",
+    "output": "Üslü ifadeler, büyük veya küçük sayıları daha kısa ve anlaşılır bir biçimde ifade etme imkanı sağlar. Ayrıca, çarpma ve bölme işlemlerini basitleştirir ve hesaplamaların daha hızlı yapılmasına olanak tanır."
+  }
+]

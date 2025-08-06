@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal denklemler nedir?",
+    "output": "Doğrusal denklemler, iki değişken arasında doğrusal bir ilişkiyi ifade eden denklemlerdir. Genellikle y = mx + b formunda yazılırlar, burada m eğimi ve b y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin grafiği nasıl çizilir?",
+    "output": "Doğrusal denklemlerin grafiği, koordinat düzleminde bir doğru olarak temsil edilir. Öncelikle denklemin eğimi ve y-kesim noktası belirlenir. Daha sonra, x için birkaç değer seçilerek karşılık gelen y değerleri hesaplanır ve bu noktalar koordinat düzlemine yerleştirilir. Son olarak, bu noktalar birleştirilerek doğru çizilir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin eğimi nedir ve nasıl bulunur?",
+    "output": "Doğrusal denklemlerin eğimi, doğru üzerindeki iki nokta arasındaki dikey değişimin yatay değişime oranıdır. y = mx + b formülünde, m eğimi temsil eder. Eğim, doğruyu oluşturan iki nokta (x1, y1) ve (x2, y2) kullanılarak (y2-y1)/(x2-x1) formülü ile de hesaplanabilir."
+  },
+  {
+    "instruction": "Bir doğrunun y-eksenini kestiği nokta nedir?",
+    "output": "Bir doğrunun y-eksenini kestiği nokta, doğrunun x = 0 olduğu durumda y değerini gösterir. y = mx + b formülünde, b bu noktayı ifade eder. Bu, doğrunun y-eksenini hangi noktada kestiğini belirtir."
+  },
+  {
+    "instruction": "Grafik üzerinde bir doğrunun eğimi nasıl yorumlanır?",
+    "output": "Grafik üzerinde bir doğrunun eğimi, doğrunun ne kadar dik veya yatay olduğunu gösterir. Pozitif eğim, doğru yukarı doğru eğimli; negatif eğim, aşağı doğru eğimli olduğunu gösterir. Eğim ne kadar büyükse, doğru o kadar dik olur."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda kullanılır?",
+    "output": "Doğrusal denklemler, iki değişken arasındaki sabit oranlı ilişkileri modellemek için kullanılır. Ekonomide arz-talep ilişkileri, fiziksel hareketlerde hız-zaman grafikleri ve çeşitli mühendislik problemleri gibi birçok alanda doğrusal denklemler kullanılır."
+  },
+  {
+    "instruction": "Doğrusal denklemlerin çözüm kümesi nedir?",
+    "output": "Doğrusal denklemlerin çözüm kümesi, denklemdeki değişkenlerin tüm olası değer çiftlerini ifade eder. Bu, genellikle bir doğru üzerindeki tüm noktaları kapsar. Her x değeri için bir y değeri bulunarak çözüm kümesi oluşturulur."
+  },
+  {
+    "instruction": "Doğrusal denklemler ve doğrusal olmayan denklemler arasındaki fark nedir?",
+    "output": "Doğrusal denklemler, değişkenlerin birinci dereceden olduğu ve grafiğinin bir doğru olduğu denklemlerdir. Doğrusal olmayan denklemler ise değişkenlerin daha yüksek derecelere sahip olduğu ve grafiğinin eğri olduğu denklemlerdir. Örneğin, y = x² gibi bir denklem doğrusal değildir."
+  },
+  {
+    "instruction": "Doğrusal denklemler nasıl çözülür?",
+    "output": "Doğrusal denklemler, genellikle y = mx + b formunda yazılır ve çözüm için x veya y için belirli bir değer verilerek diğer değişken hesaplanır. Çözüm, denklemin grafiğinde bir nokta olarak gösterilir."
+  },
+  {
+    "instruction": "Doğrusal denklemler neden önemlidir?",
+    "output": "Doğrusal denklemler, birçok gerçek dünya problemini basit ve anlaşılır bir şekilde modellememizi sağlar. İki değişken arasındaki ilişkiyi açıkça gösterir ve bu sayede tahminler yapmamıza, analizler gerçekleştirmemize olanak tanır. Bu nedenle matematik, ekonomi, fizik ve mühendislik gibi birçok alanda önemlidir."
+  }
+]

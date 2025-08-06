@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çevre nedir?",
+    "output": "Çevre, bir şeklin etrafını saran toplam uzunluktur. Bir şeklin çevresini hesaplamak için, tüm kenarlarının uzunluklarını toplarız. Örneğin, bir dikdörtgenin çevresi, karşılıklı kenarlarının toplam uzunluklarına eşittir."
+  },
+  {
+    "instruction": "Alan nedir?",
+    "output": "Alan, bir şeklin yüzeyinin kapladığı miktardır. Genellikle birim kare cinsinden ölçülür. Alan, bir şeklin içine sığabilecek 1'e 1'lik karelerin sayısını ifade eder. Örneğin, bir dikdörtgenin alanı, uzunluk ve genişliğinin çarpımı ile bulunur."
+  },
+  {
+    "instruction": "Dikdörtgenin çevresi nasıl hesaplanır?",
+    "output": "Dikdörtgenin çevresi, iki kısa kenar ve iki uzun kenarın toplamı ile hesaplanır. Eğer kısa kenar a ve uzun kenar b ise, çevre formülü 2a + 2b şeklindedir."
+  },
+  {
+    "instruction": "Karenin çevresi nasıl hesaplanır?",
+    "output": "Karenin çevresi, tüm kenarlarının toplam uzunluğudur. Çünkü karenin tüm kenarları eşit uzunluktadır. Eğer bir kenar uzunluğu a ise, karenin çevresi 4a olarak hesaplanır."
+  },
+  {
+    "instruction": "Dikdörtgenin alanı nasıl hesaplanır?",
+    "output": "Dikdörtgenin alanı, uzun kenar ve kısa kenarın çarpımı ile bulunur. Eğer uzun kenar a ve kısa kenar b ise, alan a x b formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Karenin alanı nasıl hesaplanır?",
+    "output": "Karenin alanı, bir kenar uzunluğunun kendisiyle çarpılması ile bulunur. Eğer bir kenar uzunluğu a ise, karenin alanı a^2 olarak hesaplanır."
+  },
+  {
+    "instruction": "Çevre ve alan arasındaki fark nedir?",
+    "output": "Çevre, bir şeklin etrafını saran uzunlukların toplamıdır ve genellikle birim uzunlukla ölçülür. Alan ise, bir şeklin yüzeyinin kapladığı miktardır ve genellikle birim kare cinsinden ölçülür."
+  },
+  {
+    "instruction": "Çevre hangi durumlarda kullanılır?",
+    "output": "Çevre, genellikle bir alanın etrafına çit çekmek, bir şeklin etrafını ölçmek veya bir nesnenin etrafına kurdele dolamak gibi durumlarda kullanılır."
+  },
+  {
+    "instruction": "Alan hangi durumlarda kullanılır?",
+    "output": "Alan, bir yüzeyin ne kadar yer kapladığını belirlemek için kullanılır. Örneğin, bir bahçenin alanını hesaplayarak ne kadar çim ekileceğini belirlemek veya bir odanın boyanacak duvar alanını hesaplamak için kullanılır."
+  },
+  {
+    "instruction": "Bir dikdörtgenin alanı ve çevresi nasıl karşılaştırılır?",
+    "output": "Bir dikdörtgenin alanı ve çevresi farklı ölçümler ifade eder. Alan, dikdörtgenin yüzeyinin kapladığı miktarı ölçerken, çevre, dikdörtgenin etrafını saran uzunlukların toplamını ifade eder. İkisi farklı birimlerle ölçülür ve farklı amaçlar için kullanılır."
+  }
+]

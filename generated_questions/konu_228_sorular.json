@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Olasılık ağacı nedir ve nasıl oluşturulur?",
+    "output": "Olasılık ağacı, birden fazla aşamalı olayların olasılıklarını görselleştirmek ve hesaplamak için kullanılan bir diyagramdır. Her dal, bir olayın olası sonuçlarını temsil eder ve her düğüm bir aşamayı gösterir. Olasılık ağacı oluşturulurken, başlangıçtan itibaren her aşama için tüm olası sonuçlar dallar şeklinde çizilir ve her dalın üzerine ilgili olasılık yazılır."
+  },
+  {
+    "instruction": "Bağımsız olaylar nedir ve nasıl belirlenir?",
+    "output": "Bağımsız olaylar, bir olayın gerçekleşmesinin diğer bir olayın gerçekleşme olasılığını etkilemediği durumlardır. İki olay A ve B bağımsızsa, P(A ve B) = P(A) * P(B) eşitliği sağlanır. Bu, bir olayın sonucu diğerinin sonucunu etkilemediği anlamına gelir."
+  },
+  {
+    "instruction": "Eşit olasılıklı senaryolar nedir?",
+    "output": "Eşit olasılıklı senaryolar, her bir sonucun gerçekleşme olasılığının aynı olduğu durumlardır. Örneğin, bir adil zar atıldığında her bir yüzün gelme olasılığı eşittir ve bu nedenle her yüz eşit olasılıklı bir senaryo oluşturur."
+  },
+  {
+    "instruction": "Bir olayın olasılığı neden 0 ile 1 arasında olmalıdır?",
+    "output": "Bir olayın olasılığı, o olayın gerçekleşme ihtimalini temsil eder ve bu ihtimal yüzde olarak ifade edildiğinde 0 ile 100 arasında bir değere karşılık gelir. Matematiksel olarak, olasılık 0 (imkansız olay) ile 1 (kesin olay) arasında bir sayı olarak tanımlanır. Bu aralık, olasılığın temel tanımına ve mantığına uygun olarak belirlenmiştir."
+  },
+  {
+    "instruction": "Olasılık hesaplamalarında çarpma kuralı nedir?",
+    "output": "Olasılık hesaplamalarında çarpma kuralı, iki veya daha fazla bağımsız olayın birlikte gerçekleşme olasılığını bulmak için kullanılır. Eğer A ve B bağımsız olaylarsa, A ve B'nin birlikte gerçekleşme olasılığı P(A) * P(B) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Bir olayın tamamlayıcı olayı nedir?",
+    "output": "Bir olayın tamamlayıcı olayı, o olayın gerçekleşmemesi durumunu temsil eder. Eğer A bir olaysa, A'nın tamamlayıcı olayı A'nın gerçekleşmediği durumdur ve P(A') = 1 - P(A) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Olasılıkta birleşim ve kesişim nedir?",
+    "output": "Olasılıkta birleşim (union), iki veya daha fazla olaydan en az birinin gerçekleşmesini ifade eder ve P(A ∪ B) olarak gösterilir. Kesişim (intersection) ise, iki veya daha fazla olayın aynı anda gerçekleşmesini ifade eder ve P(A ∩ B) olarak gösterilir."
+  },
+  {
+    "instruction": "Deneysel olasılık nasıl hesaplanır?",
+    "output": "Deneysel olasılık, bir olayın gerçekleşme olasılığını deneysel verilerden elde edilen sonuçlara dayanarak hesaplar. Belirli bir olayın deneyde kaç kez gerçekleştiği, toplam deney sayısına bölünerek bulunur. Yani, P(E) = (olayın gerçekleştiği deney sayısı) / (toplam deney sayısı)."
+  },
+  {
+    "instruction": "Teorik olasılık nedir?",
+    "output": "Teorik olasılık, bir olayın gerçekleşme olasılığını, olayın tüm olası sonuçlarının eşit olasılıklı olduğu varsayımıyla hesaplar. Teorik olasılık, olayın istenen sonuçlarının sayısının, tüm olası sonuçların sayısına bölünmesiyle bulunur."
+  },
+  {
+    "instruction": "Bir olayın örnek uzayı nedir?",
+    "output": "Bir olayın örnek uzayı, o olayın tüm olası sonuçlarının kümesidir. Örnek uzayı genellikle S harfi ile gösterilir ve her bir elemanı, deneyin bir sonucunu temsil eder. Örneğin, bir zar atıldığında örnek uzayı {1, 2, 3, 4, 5, 6} olur."
+  }
+]

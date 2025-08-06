@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik olduğunu gösteren bir ölçüdür. Eğim, genellikle 'm' harfi ile gösterilir ve iki nokta arasındaki y'deki değişim (yükselme) ile x'deki değişim (mesafe) oranı olarak hesaplanır. Formül olarak, m = (y2 - y1) / (x2 - x1) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Y-keseni nedir ve nasıl bulunur?",
+    "output": "Y-keseni, bir doğrunun y-eksenini kestiği noktadır. Eğim-kesişim formundaki bir denklemde (y = mx + b), 'b' terimi y-kesenini temsil eder. Bir doğru denklemi verildiğinde, y-keseni doğrudan bu 'b' terimi ile belirlenir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda kullanılır?",
+    "output": "Eğim-kesişim formu, bir doğrunun grafiğini çizmek veya eğimini ve y-kesenini hızlı bir şekilde belirlemek gerektiğinde kullanılır. Özellikle iki nokta arasındaki ilişkiyi veya bir olayın değişim hızını analiz etmek için uygundur."
+  },
+  {
+    "instruction": "Eğim ve y-keseni bir denklemde nasıl yorumlanır?",
+    "output": "Eğim (m), doğrunun ne kadar dik olduğunu ve pozitif ya da negatif eğimli olup olmadığını gösterir. Pozitif eğim, artan bir ilişkiyi, negatif eğim ise azalan bir ilişkiyi ifade eder. Y-keseni (b), doğrunun y-eksenini kestiği noktayı belirtir ve başlangıç değerini veya sabit terimi temsil eder."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl yazılır?",
+    "output": "Bir doğrunun denklemi, eğim-kesişim formunda y = mx + b şeklinde yazılır. Burada 'm' eğimi, 'b' ise y-kesenini temsil eder. Doğru üzerindeki bir nokta ve eğim bilindiğinde, bu form kullanılarak doğru denklemi oluşturulabilir."
+  },
+  {
+    "instruction": "Fonksiyon gösterimi nedir ve nasıl kullanılır?",
+    "output": "Fonksiyon gösterimi, bir bağımlı değişkenin (genellikle y) bağımsız bir değişkene (genellikle x) nasıl bağlı olduğunu ifade eder. Fonksiyon genellikle f(x) şeklinde yazılır ve y = f(x) ile aynı anlama gelir. Bu gösterim, matematiksel analizde ve fonksiyonların grafiklerini çizerken kullanılır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi neden önemlidir?",
+    "output": "Bir doğrunun eğimi, iki değişken arasındaki ilişkinin yönünü ve büyüklüğünü belirler. Eğim, bir değişkenin diğerine göre nasıl değiştiğini gösterir ve bu, birçok bilimsel ve mühendislik uygulamasında kritik öneme sahiptir. Örneğin, eğim bir yolun dikliğini veya bir ekonomik grafikteki eğilimleri gösterebilir."
+  },
+  {
+    "instruction": "Eğim negatif olduğunda ne anlama gelir?",
+    "output": "Eğim negatif olduğunda, x arttıkça y'nin azaldığını gösterir. Bu, iki değişken arasında ters bir ilişki olduğunu belirtir. Grafik üzerinde, negatif eğimli bir doğru, sol üstten sağ alta doğru eğilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile iki nokta arasındaki eğim nasıl ilişkilidir?",
+    "output": "Eğim-kesişim formu (y = mx + b) doğrudan eğimi içerir ve bir doğrunun eğimini ve y-kesenini hızlıca belirlemeyi sağlar. İki nokta arasındaki eğim ise bu formülün 'm' terimini hesaplamak için kullanılır. İki nokta bilindiğinde, eğim formülüyle (m = (y2 - y1) / (x2 - x1)) eğim bulunur ve bu eğim, eğim-kesişim formunda yerine konularak doğru denklemi oluşturulur."
+  },
+  {
+    "instruction": "Eğim-kesişim formu grafikte nasıl temsil edilir?",
+    "output": "Eğim-kesişim formu, grafikte bir doğrunun eğimini ve y-kesenini belirlemek için kullanılır. 'm' eğimi, doğrunun dikliğini belirtirken, 'b' y-keseni, doğrunun y-eksenini kestiği noktayı gösterir. Bu form, grafikte doğruyu çizmek için başlangıç noktası ve eğim bilgisi sağlar."
+  }
+]

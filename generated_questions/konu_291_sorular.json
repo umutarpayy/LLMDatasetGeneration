@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgen benzerliği nedir?",
+    "output": "Üçgen benzerliği, iki üçgenin şekil olarak aynı ancak farklı boyutlarda olduğu durumdur. İki üçgenin benzer olabilmesi için, karşılıklı açıları eşit ve karşılıklı kenarlarının oranlarının eşit olması gerekir."
+  },
+  {
+    "instruction": "Üçgen benzerliği nasıl belirlenir?",
+    "output": "Üçgen benzerliğini belirlemek için, iki üçgenin karşılıklı açıları eşit olmalı ve karşılıklı kenar uzunluklarının oranları aynı olmalıdır. Bu koşullar sağlandığında, üçgenler benzer kabul edilir."
+  },
+  {
+    "instruction": "Üçgen benzerliğinin özellikleri nelerdir?",
+    "output": "Üçgen benzerliğinin temel özellikleri arasında, benzer üçgenlerin açıları eşit, kenar uzunluklarının oranlarının eşit olması ve benzer üçgenlerin çevrelerinin de aynı oranda olması bulunur."
+  },
+  {
+    "instruction": "Üçgen benzerliği ne işe yarar?",
+    "output": "Üçgen benzerliği, geometri problemlerinde oranlar ve benzerlik ilişkileri kurarak bilinmeyen uzunlukları bulmak için kullanılır. Ayrıca, harita yapımı, mimarlık ve mühendislik gibi alanlarda ölçeklendirme işlemlerinde de kullanılır."
+  },
+  {
+    "instruction": "Benzer üçgenlerle eş üçgenler arasındaki fark nedir?",
+    "output": "Benzer üçgenler, şekil olarak aynı ancak boyut olarak farklı üçgenlerdir. Eş üçgenler ise hem şekil hem de boyut olarak aynıdır. Eş üçgenlerin tüm kenarları ve açıları birebir eşittir."
+  },
+  {
+    "instruction": "Hangi durumlarda üçgenler benzer kabul edilir?",
+    "output": "Üçgenler, eğer iki üçgenin karşılıklı açıları eşit ve karşılıklı kenarlarının oranları eşitse benzer kabul edilir. Ayrıca, iki üçgenin iki açısı ve bir kenarı eşitse veya iki kenarı ve aralarındaki açı eşitse de benzer kabul edilir."
+  },
+  {
+    "instruction": "Üçgen benzerliği nasıl ispatlanır?",
+    "output": "Üçgen benzerliği ispatı için, iki üçgenin karşılıklı açılarını eşit olduğunu ve karşılıklı kenar uzunluklarının oranlarının eşit olduğunu göstermek gerekir. Bu ispat, genellikle açı-açı-açı (AAA), kenar-açı-kenar (KAK) veya kenar-kenar-kenar (KKK) benzerlik kriterleri ile yapılır."
+  },
+  {
+    "instruction": "Üçgen benzerliği günlük hayatta nasıl kullanılır?",
+    "output": "Üçgen benzerliği, günlük hayatta harita yapımı, mimarlık, fotoğrafçılık ve mühendislik gibi alanlarda ölçeklendirme ve oran hesaplamalarında kullanılır. Örneğin, bir binanın yüksekliğini ölçmek için gölge uzunlukları ve benzer üçgenler kullanılır."
+  },
+  {
+    "instruction": "Üçgen benzerliği ile ilgili temel teoremler nelerdir?",
+    "output": "Üçgen benzerliği ile ilgili temel teoremler arasında, açı-açı-açı (AAA) benzerlik teoremi, kenar-açı-kenar (KAK) benzerlik teoremi ve kenar-kenar-kenar (KKK) benzerlik teoremi bulunur. Bu teoremler, üçgenlerin benzerliğini belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Üçgen benzerliği kullanılarak bir kenar uzunluğu nasıl hesaplanır?",
+    "output": "Üçgen benzerliği kullanarak bir kenar uzunluğunu hesaplamak için, benzer üçgenlerde karşılıklı kenarların oranlarından faydalanılır. Bilinen kenar uzunlukları ve oranlar kullanılarak, bilinmeyen kenar uzunluğu hesaplanabilir."
+  }
+]

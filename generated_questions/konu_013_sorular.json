@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Ortak çarpan nedir?",
+    "output": "Ortak çarpan, iki veya daha fazla sayının böleni olan sayıdır. Örneğin, 12 ve 8 sayılarının ortak çarpanları 1, 2 ve 4'tür."
+  },
+  {
+    "instruction": "En büyük ortak çarpan nasıl bulunur?",
+    "output": "En büyük ortak çarpan, iki veya daha fazla sayının ortak çarpanları arasından en büyüğüdür. Öncelikle her sayının çarpanları bulunur, ardından bu çarpanlar arasında ortak olanlar tespit edilir ve en büyüğü seçilir."
+  },
+  {
+    "instruction": "Aralarında asal sayılar nedir?",
+    "output": "Aralarında asal sayılar, ortak çarpanları sadece 1 olan iki veya daha fazla sayıdır. Bu, sayılar arasında başka hiçbir ortak bölen olmadığı anlamına gelir."
+  },
+  {
+    "instruction": "Bir sayının çarpanları nasıl bulunur?",
+    "output": "Bir sayının çarpanları, o sayıyı tam bölen sayılardır. Çarpanları bulmak için sayıyı 1'den başlayarak sırasıyla daha küçük sayılara bölmeyi deneyebiliriz. Bölme işlemi kalansız sonuçlandığında, bölen sayı bir çarpandır."
+  },
+  {
+    "instruction": "Çarpanlar ve katlar arasındaki fark nedir?",
+    "output": "Çarpanlar, bir sayıyı bölebilen sayılardır. Katlar ise bir sayının belirli bir sayıyla çarpılması sonucu elde edilen sayılardır. Örneğin, 4 sayısının çarpanları 1, 2 ve 4 iken, katları 4, 8, 12 gibi sayılardır."
+  },
+  {
+    "instruction": "En büyük ortak bölen hangi durumlarda kullanılır?",
+    "output": "En büyük ortak bölen, iki veya daha fazla sayıyı bölen en büyük sayıyı bulmak için kullanılır. Bu, kesirleri sadeleştirme, problem çözme ve sayı teorisi gibi matematiksel işlemlerde faydalıdır."
+  },
+  {
+    "instruction": "Asal sayılar neden önemlidir?",
+    "output": "Asal sayılar, yalnızca 1 ve kendisi ile bölünebilen sayılardır ve matematiğin temel yapı taşlarıdır. Asal sayılar, diğer sayıları asal çarpanlarına ayırmak için kullanılır ve birçok matematiksel teorinin temelini oluşturur."
+  },
+  {
+    "instruction": "Bir sayının çarpanlarını listeleme yöntemi nedir?",
+    "output": "Bir sayının çarpanlarını listelemek için, sayıyı 1'den başlayarak sırasıyla daha küçük sayılara bölmeye çalışırız. Bölme işlemi kalansız sonuçlandığında, bölen sayı bir çarpandır ve bu çarpanlar listeye eklenir."
+  },
+  {
+    "instruction": "Çarpanlar hangi özelliklere sahiptir?",
+    "output": "Çarpanlar, bir sayıyı tam bölebilen sayılardır. Her sayının en az iki çarpanı vardır: 1 ve kendisi. Çarpanlar, sayının pozitif bölenleridir ve çarpanlar kümesi, sayının büyüklüğüne bağlı olarak değişir."
+  },
+  {
+    "instruction": "En büyük ortak bölen ile ilgili problem çözme stratejileri nelerdir?",
+    "output": "En büyük ortak böleni bulmak için, her sayının çarpanlarını listeleyip ortak olanları belirleyebiliriz. Alternatif olarak, asal çarpanlara ayırma yöntemi kullanılarak ortak asal çarpanlar belirlenip çarpılabilir. Bu stratejiler, problem türüne ve sayılara bağlı olarak uygulanabilir."
+  }
+]

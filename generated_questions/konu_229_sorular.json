@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Olasılık nedir?",
+    "output": "Olasılık, bir olayın gerçekleşme ihtimalini ölçen bir kavramdır. 0 ile 1 arasında bir değer alır; 0, olayın kesinlikle gerçekleşmeyeceğini, 1 ise kesinlikle gerçekleşeceğini ifade eder."
+  },
+  {
+    "instruction": "Sıklıkçı yaklaşım nedir?",
+    "output": "Sıklıkçı yaklaşım, bir olayın olasılığını, o olayın uzun bir dizi denemede ne sıklıkla gerçekleştiğine dayanarak hesaplayan bir olasılık yorumudur. Örneğin, bir deney 100 kez yapıldığında 50 kez bir olay gerçekleşiyorsa, bu olayın olasılığı %50 olarak kabul edilir."
+  },
+  {
+    "instruction": "Bayesyen ekol nedir?",
+    "output": "Bayesyen ekol, olasılığı bir olayın gerçekleşeceğine dair sahip olunan inancın ölçüsü olarak tanımlar. Bu yaklaşımda, olasılık, mevcut bilgi ve inançlar çerçevesinde güncellenir."
+  },
+  {
+    "instruction": "Bir zarın çift sayı gelme olasılığı nasıl hesaplanır?",
+    "output": "Bir standart zarın çift sayı gelme olasılığı, çift sayı gelen yüzlerin sayısının toplam yüz sayısına oranı ile hesaplanır. Zarın yüzleri 1, 2, 3, 4, 5, 6 olduğundan, çift sayılar 2, 4 ve 6'dır. Bu durumda, çift sayı gelme olasılığı 3/6 yani 1/2'dir."
+  },
+  {
+    "instruction": "Hilesiz bir bozuk paranın tura gelme olasılığı nedir?",
+    "output": "Hilesiz bir bozuk paranın tura gelme olasılığı, toplam olası sonuçların sayısına göre hesaplanır. Bozuk paranın iki yüzü vardır: yazı ve tura. Dolayısıyla, tura gelme olasılığı 1/2'dir."
+  },
+  {
+    "instruction": "Olasılıkta eşit olasılıklı olaylar ne anlama gelir?",
+    "output": "Eşit olasılıklı olaylar, her bir olayın gerçekleşme olasılığının aynı olduğu durumları ifade eder. Örneğin, hilesiz bir zar atıldığında her bir yüzün gelme olasılığı eşittir, yani 1/6'dır."
+  },
+  {
+    "instruction": "Olasılıkta toplam olay sayısı nedir?",
+    "output": "Toplam olay sayısı, bir deneyde meydana gelebilecek tüm olası sonuçların sayısını ifade eder. Örneğin, bir zar atıldığında toplam olay sayısı 6'dır, çünkü zarın 6 yüzü vardır."
+  },
+  {
+    "instruction": "Olasılık hesaplamalarında hangi durumlarda çarpma kuralı kullanılır?",
+    "output": "Çarpma kuralı, bağımsız olayların birlikte gerçekleşme olasılığını hesaplamak için kullanılır. İki bağımsız olayın olasılığı, bu olayların ayrı ayrı olasılıklarının çarpılmasıyla bulunur."
+  },
+  {
+    "instruction": "Olasılıkta örnek uzay nedir?",
+    "output": "Örnek uzay, bir deneyin tüm olası sonuçlarının kümesidir. Örneğin, bir zar atıldığında örnek uzay {1, 2, 3, 4, 5, 6} şeklindedir."
+  },
+  {
+    "instruction": "Bir olayın gerçekleşme olasılığı nasıl hesaplanır?",
+    "output": "Bir olayın gerçekleşme olasılığı, o olayı gerçekleyen durumların sayısının toplam olay sayısına oranı olarak hesaplanır. Bu oran, olayın gerçekleşme ihtimalini temsil eder."
+  }
+]

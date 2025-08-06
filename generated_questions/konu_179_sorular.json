@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Sonsuz sayıda çözümü olan bir denklem sistemi nedir?",
+    "output": "Sonsuz sayıda çözümü olan bir denklem sistemi, aynı anda birden fazla çözüm sağlayan denklemlerden oluşur. Bu sistemdeki denklemler, birbirine paralel olmayan ve aynı doğrultuda olan doğrular şeklinde grafiksel olarak temsil edilir. Bu tür sistemler genellikle bağımlı denklemler içerir."
+  },
+  {
+    "instruction": "Bir denklem sisteminin sonsuz çözümü olması ne anlama gelir?",
+    "output": "Bir denklem sisteminin sonsuz çözümü olması, sistemdeki denklemlerin birbiriyle örtüştüğü anlamına gelir. Bu durumda, her iki denklem de aynı doğruyu temsil eder ve bu doğru üzerindeki her nokta sistemin bir çözümüdür."
+  },
+  {
+    "instruction": "Denklem sistemlerinde bağımlı ve bağımsız denklemler nasıl ayırt edilir?",
+    "output": "Bağımlı denklemler, bir denklem sisteminde birbirinin doğrusal bir kombinasyonu olan denklemlerdir. Bu, bir denklemin diğerini tamamen kapsadığı anlamına gelir. Bağımsız denklemler ise birbirinden farklı ve birbirini kapsamayacak şekilde olan denklemlerdir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm kümesi nasıl belirlenir?",
+    "output": "Denklem sistemlerinde çözüm kümesi, sistemin tüm denklemlerini aynı anda sağlayan değişken değerlerinin kümesidir. Çözüm kümesi, grafiksel olarak kesişim noktaları, cebirsel olarak ise denklemleri çözerek bulunur."
+  },
+  {
+    "instruction": "Bir denklem sisteminin tutarlı olması ne anlama gelir?",
+    "output": "Bir denklem sisteminin tutarlı olması, sistemin en az bir çözümünün olduğu anlamına gelir. Tutarlı sistemler, kesişen veya örtüşen doğrulara sahip olabilirler."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eşdeğer sistemler nedir?",
+    "output": "Eşdeğer denklem sistemleri, aynı çözüm kümesine sahip olan ancak farklı denklemlerden oluşan sistemlerdir. Bu sistemler, aynı geometrik şekli veya doğruları temsil eder."
+  },
+  {
+    "instruction": "Denklem sistemlerinde matris yöntemi nasıl kullanılır?",
+    "output": "Denklem sistemlerinde matris yöntemi, denklemleri matris formuna dönüştürerek çözüm bulmayı içerir. Bu yöntem, özellikle çok sayıda denklem ve bilinmeyen içeren sistemlerde etkilidir. Matrisler, Gauss eliminasyonu veya ters matris kullanılarak çözülebilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde determinant ne işe yarar?",
+    "output": "Determinant, bir kare matrisin özelliğini belirleyen bir sayıdır ve denklem sistemlerinin çözümünün var olup olmadığını kontrol etmekte kullanılır. Determinant sıfırdan farklıysa, sistemin tek bir çözümü vardır; sıfırsa, sistemin ya sonsuz çözümü vardır ya da çözümsüzdür."
+  },
+  {
+    "instruction": "Bir denklem sisteminde grafiksel çözüm nasıl yapılır?",
+    "output": "Grafiksel çözüm, her bir denklemi bir koordinat düzleminde grafik olarak çizerek ve bu grafiklerin kesişim noktalarını bularak yapılır. Kesişim noktası, sistemin çözümünü temsil eder. Eğer doğrular paralelse, sistemin çözümü yoktur; örtüşüyorsa, sonsuz çözümü vardır."
+  },
+  {
+    "instruction": "Sonsuz çözümü olan denklem sistemlerinde parametre nasıl kullanılır?",
+    "output": "Sonsuz çözümü olan denklem sistemlerinde, çözümler genellikle bir veya daha fazla parametre kullanılarak ifade edilir. Parametreler, bağımsız değişkenler olarak seçilir ve diğer değişkenler bu parametreler cinsinden ifade edilir. Bu, sistemin tüm çözümlerini temsil etmeye yardımcı olur."
+  }
+]

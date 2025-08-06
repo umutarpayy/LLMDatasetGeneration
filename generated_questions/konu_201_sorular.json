@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çok adımlı eşitsizlikler nedir?",
+    "output": "Çok adımlı eşitsizlikler, birden fazla işlemi içeren ve çözümü için birden fazla adım gerektiren eşitsizliklerdir. Bu tür eşitsizlikler, genellikle toplama, çıkarma, çarpma veya bölme işlemlerini içerir ve her adımda eşitsizliğin yönünün korunup korunmadığına dikkat edilmelidir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi işlemler eşitsizliğin yönünü değiştirir?",
+    "output": "Eşitsizlik çözümünde, her iki tarafı negatif bir sayı ile çarpmak veya bölmek eşitsizliğin yönünü değiştirir. Örneğin, bir eşitsizliğin her iki tarafını -1 ile çarptığınızda veya böldüğünüzde, '>' işareti '<' işaretine dönüşür ve tersi de geçerlidir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi adımlar izlenir?",
+    "output": "Eşitsizliklerin çözümünde genellikle şu adımlar izlenir: 1) Eşitsizliğin her iki tarafındaki benzer terimleri bir araya getirin. 2) Eşitsizliğin her iki tarafından aynı sayıyı ekleyin veya çıkarın. 3) Eşitsizliğin her iki tarafını aynı pozitif sayı ile çarpın veya bölün. 4) Negatif bir sayı ile çarpma veya bölme durumunda eşitsizliğin yönünü değiştirin. 5) Çözümü sayı doğrusunda gösterin ve kontrol edin."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde negatif sayılarla işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Negatif sayılarla işlem yaparken, özellikle çarpma ve bölme işlemlerinde eşitsizliğin yönünün değişeceğine dikkat edilmelidir. Örneğin, bir eşitsizliğin her iki tarafını negatif bir sayı ile çarptığınızda veya böldüğünüzde, eşitsizliğin yönü tersine döner."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde çözüm kümesi nasıl belirlenir?",
+    "output": "Eşitsizlik çözümünde çözüm kümesi, eşitsizliği sağlayan tüm x değerlerinin bir araya gelmesiyle oluşturulur. Çözüm kümesi genellikle bir aralık olarak ifade edilir ve sayı doğrusunda gösterilir. Eşitsizlikteki işaretin türüne göre (örneğin, '<' veya '≤') aralık açık veya kapalı olabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde sınır değerler nasıl değerlendirilir?",
+    "output": "Eşitsizliklerde sınır değerler, eşitsizliğin sağlanıp sağlanmadığını belirlemek için kontrol edilir. Eğer eşitsizlik '≤' veya '≥' şeklindeyse, sınır değer eşitsizliğe dahil edilir ve kapalı aralık kullanılır. Eğer eşitsizlik '<' veya '>' şeklindeyse, sınır değer dahil edilmez ve açık aralık kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde sayı doğrusu nasıl kullanılır?",
+    "output": "Sayı doğrusu, eşitsizliklerin çözüm kümesini görselleştirmek için kullanılır. Çözüm kümesi, sayı doğrusunda belirli bir aralık olarak işaretlenir. Açık aralıklar için parantez, kapalı aralıklar için köşeli parantez kullanılır. Bu, çözümün hangi değerleri içerdiğini ve hangi değerleri içermediğini net bir şekilde gösterir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde parantez açma işlemi nasıl yapılır?",
+    "output": "Eşitsizlik çözümünde parantez açma işlemi, parantez içindeki terimlerin dışındaki katsayı ile çarpılmasıyla yapılır. Örneğin, 3(x + 2) ifadesi 3x + 6 olarak açılır. Bu işlem, eşitsizliğin her iki tarafında da yapılabilir ve eşitsizliğin çözümüne katkı sağlar."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde sabit terimler nasıl ayırılır?",
+    "output": "Eşitsizlik çözümünde sabit terimler, eşitsizliğin bir tarafında toplanır veya çıkarılır. Bu, genellikle eşitsizliğin daha basit hale getirilmesi için yapılır. Sabit terimler bir tarafa alınırken, eşitsizliğin diğer tarafında yalnızca değişken terimler bırakılmaya çalışılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde test etme yöntemi nedir?",
+    "output": "Eşitsizliklerin çözümünde test etme yöntemi, çözüm kümesinin doğru olup olmadığını kontrol etmek için kullanılır. Bu yöntem, çözüm kümesinden bir veya daha fazla değer seçilerek bu değerlerin eşitsizliği sağlayıp sağlamadığını kontrol etmeyi içerir. Eğer seçilen değerler eşitsizliği sağlıyorsa, çözüm kümesi doğrudur."
+  }
+]

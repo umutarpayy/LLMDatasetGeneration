@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü sayılarda çarpma işlemi nasıl yapılır?",
+    "output": "Üslü sayılarda çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde üslerin toplanması hangi durumda geçerlidir?",
+    "output": "Üslü ifadelerde üslerin toplanması, tabanlar aynı olduğunda geçerlidir. Yani, a^m * a^n = a^(m+n) kuralı, yalnızca tabanlar aynı olduğunda uygulanabilir."
+  },
+  {
+    "instruction": "Üssün üssü nasıl hesaplanır?",
+    "output": "Üssün üssü hesaplanırken üsler çarpılır. Yani, (a^m)^n = a^(m*n) şeklindedir. Bu, bir sayının üssünü tekrar bir üs ile yükseltmek anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işleminin özellikleri nelerdir?",
+    "output": "Üslü ifadelerde çarpma işleminin özellikleri arasında tabanlar aynı ise üslerin toplanması ve üssün üssü alınırken üslerin çarpılması bulunur. Ayrıca, çarpma işlemi sırasında sayıların sırası değiştirilebilir, çünkü çarpma işlemi değişme özelliğine sahiptir."
+  },
+  {
+    "instruction": "Çarpma işlemi sırasında üslü ifadelerin sırası önemli midir?",
+    "output": "Çarpma işlemi sırasında üslü ifadelerin sırası önemli değildir. Çarpma işlemi değişme özelliğine sahiptir, bu nedenle a^m * a^n = a^n * a^m şeklinde sıralama değiştirilebilir."
+  },
+  {
+    "instruction": "Bir sayının üssü 1 olduğunda bu ne anlama gelir?",
+    "output": "Bir sayının üssü 1 olduğunda, bu sayı kendisine eşittir. Yani, a^1 = a şeklindedir. Üs 1, sayının bir kez çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı olduğunda çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı olduğunda, çarpma işlemi doğrudan üsleri toplamak yerine, her bir üslü ifade ayrı ayrı hesaplanır ve sonuçlar çarpılır. Örneğin, a^m * b^n ifadesi, a ve b farklı tabanlar olduğundan, ayrı ayrı hesaplanmalıdır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üs ne anlama gelir?",
+    "output": "Üslü ifadelerde negatif üs, sayının tersinin üssü alınması anlamına gelir. Yani, a^(-n) = 1/(a^n) şeklindedir. Negatif üs, sayının tersini ifade eder."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynı olduğunda bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynı olduğunda bölme işlemi yapılırken üsler çıkarılır. Yani, a^m / a^n = a^(m-n) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sıfır üssü ne anlama gelir?",
+    "output": "Üslü ifadelerde sıfır üssü, tabanın 1'e eşit olması anlamına gelir. Yani, a^0 = 1 şeklindedir. Bu kural, a'nın sıfırdan farklı olduğu durumlar için geçerlidir."
+  }
+]

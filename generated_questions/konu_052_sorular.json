@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki değişkenli ifadeler nedir?",
+    "output": "İki değişkenli ifadeler, içinde iki farklı değişken bulunan matematiksel ifadelerdir. Bu değişkenler genellikle x ve y gibi harflerle temsil edilir ve bu ifadeler, değişkenlere farklı değerler verilerek çözümlenebilir."
+  },
+  {
+    "instruction": "İki değişkenli ifadelerin değeri nasıl bulunur?",
+    "output": "İki değişkenli ifadelerin değerini bulmak için, verilen ifadede yer alan değişkenlerin yerine belirli sayılar koyulur ve ardından aritmetik işlemler gerçekleştirilir. Örneğin, a + b ifadesinde a ve b'nin yerine belirlenen sayılar konur ve toplama işlemi yapılır."
+  },
+  {
+    "instruction": "Değişken nedir?",
+    "output": "Değişken, matematikte genellikle bir harf ile temsil edilen ve farklı değerler alabilen bir semboldür. Değişkenler, denklemlerde ve ifadelerde bilinmeyen veya değişken miktarları temsil eder."
+  },
+  {
+    "instruction": "Bir ifadenin sonucu nasıl kontrol edilir?",
+    "output": "Bir ifadenin sonucunu kontrol etmek için, ifadedeki değişkenlerin yerine doğru değerler konulduğundan emin olunur ve ardından aritmetik işlemler adım adım dikkatlice yapılır. Sonuç, işlemlerin doğruluğunu kontrol etmek için tekrar gözden geçirilebilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde işlem sırası nasıl belirlenir?",
+    "output": "Cebirsel ifadelerde işlem sırası, matematikteki genel işlem önceliği kurallarına göre belirlenir. Öncelikle parantez içindeki işlemler yapılır, ardından üslü ifadeler hesaplanır. Daha sonra çarpma ve bölme işlemleri, en son ise toplama ve çıkarma işlemleri yapılır."
+  },
+  {
+    "instruction": "Değişkenlerin yerine sayı koymanın amacı nedir?",
+    "output": "Değişkenlerin yerine sayı koymanın amacı, cebirsel ifadelerin belirli bir durumda hangi değeri aldığını bulmaktır. Bu, ifadelerin değerlendirilmesini ve gerçek hayattaki problemlerin çözümünü kolaylaştırır."
+  },
+  {
+    "instruction": "Cebirsel ifadeler hangi durumlarda kullanılır?",
+    "output": "Cebirsel ifadeler, matematiksel modellemelerde, denklemlerin çözümünde, bilimsel hesaplamalarda ve mühendislik problemlerinde sıkça kullanılır. Ayrıca günlük yaşamda değişken miktarların hesaplanmasında da kullanılır."
+  },
+  {
+    "instruction": "Bir ifadenin sonucu neden farklı olabilir?",
+    "output": "Bir ifadenin sonucu, değişkenlere verilen farklı değerler nedeniyle farklı olabilir. Aynı ifade, değişkenlerin farklı değerler alması durumunda farklı sonuçlar verir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, değişkenlerin veya sabit sayıların çarpılmasıyla yapılır. Çarpma işlemi, sayılar ve değişkenler arasında dağıtma özelliği kullanılarak gerçekleştirilir."
+  },
+  {
+    "instruction": "Değişkenlerin yerine konulan sayıların seçimi nasıl yapılır?",
+    "output": "Değişkenlerin yerine konulan sayıların seçimi, genellikle problemde verilen koşullara veya ifadeyi değerlendirme amacına bağlıdır. Bazen rastgele seçilebilirken, bazen de belirli bir durumu modellemek için özel değerler seçilir."
+  }
+]

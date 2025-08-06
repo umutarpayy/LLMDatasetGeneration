@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgenin iç teğet çemberinin merkezi hangi özelliklere sahiptir?",
+    "output": "Üçgenin iç teğet çemberinin merkezi, üçgenin iç açıortaylarının kesişim noktasıdır. Bu nokta, üçgenin her bir kenarına eşit uzaklıktadır ve bu uzaklık, iç teğet çemberin yarıçapını oluşturur."
+  },
+  {
+    "instruction": "Açıortay ile kenar arasındaki uzaklık nasıl tanımlanır?",
+    "output": "Bir açıortay ile bir kenar arasındaki uzaklık, açıortay üzerinde bir noktadan kenara indirilen dikmenin uzunluğu olarak tanımlanır. Bu dikme, en kısa mesafeyi temsil eder."
+  },
+  {
+    "instruction": "Bir üçgende iç açıortayların kesişim noktası neden önemlidir?",
+    "output": "İç açıortayların kesişim noktası, üçgenin iç teğet çemberinin merkezini belirler. Bu nokta, üçgenin her kenarına eşit uzaklıkta olup, bu özellik iç teğet çemberin doğru bir şekilde çizilmesini sağlar."
+  },
+  {
+    "instruction": "Üçgenin iç teğet çemberi nasıl çizilir?",
+    "output": "Üçgenin iç teğet çemberi, iç açıortayların kesişim noktası merkez alınarak ve bu noktadan kenarlara olan eşit uzaklık yarıçap olarak alınarak çizilir. Bu çember, üçgenin her üç kenarına da teğet olur."
+  },
+  {
+    "instruction": "Açıortayların kesişim noktası ile çevrel çember merkezi arasındaki fark nedir?",
+    "output": "Açıortayların kesişim noktası, üçgenin iç teğet çemberinin merkezidir ve üçgenin içindedir. Çevrel çember merkezi ise, üçgenin köşelerine eşit uzaklıkta olup, üçgeni çevreleyen çemberin merkezidir."
+  },
+  {
+    "instruction": "Bir üçgende açıortayların kesişim noktası nasıl bulunur?",
+    "output": "Bir üçgende açıortayların kesişim noktası, her bir köşeden karşı kenara çizilen açıortayların kesiştiği noktadır. Bu nokta, iç teğet çemberin merkezini oluşturur."
+  },
+  {
+    "instruction": "İç teğet çemberin yarıçapı hangi durumlarda kullanılır?",
+    "output": "İç teğet çemberin yarıçapı, üçgenin alanının hesaplanmasında ve üçgenin iç özelliklerini analiz etmede kullanılır. Ayrıca, üçgenin geometrik özelliklerini incelemek için de önemlidir."
+  },
+  {
+    "instruction": "Bir üçgende iç teğet çemberin varlığı neyi gösterir?",
+    "output": "Bir üçgende iç teğet çemberin varlığı, üçgenin iç açıortaylarının tek bir noktada kesiştiğini ve bu noktanın üç kenara da eşit uzaklıkta olduğunu gösterir. Bu, üçgenin simetrik ve dengeli bir yapıya sahip olduğunu belirtir."
+  },
+  {
+    "instruction": "Üçgenin iç teğet çemberinin merkezi nasıl adlandırılır?",
+    "output": "Üçgenin iç teğet çemberinin merkezi genellikle 'i' harfi ile gösterilir. Bu nokta, iç açıortayların kesişim noktasıdır ve üçgenin her kenarına eşit uzaklıktadır."
+  },
+  {
+    "instruction": "Açıortayların kesişim noktası ile kenar orta dikmelerinin kesişim noktası arasındaki fark nedir?",
+    "output": "Açıortayların kesişim noktası, iç teğet çemberin merkezidir ve üçgenin içindedir. Kenar orta dikmelerinin kesişim noktası ise çevrel çemberin merkezidir ve üçgenin köşelerine eşit uzaklıktadır. Bu iki nokta, farklı geometrik özelliklere sahip noktalardır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Koordinat sistemi nedir?",
+    "output": "Koordinat sistemi, bir düzlemdeki noktaların konumlarını belirlemek için kullanılan bir sistemdir. Genellikle iki dikey eksen (x ve y eksenleri) kullanılarak oluşturulur. Bu eksenler, düzlemi dört bölgeye ayırır ve her noktanın konumu, bu eksenlere göre belirlenen koordinatlarla ifade edilir."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir noktanın yansıması nasıl bulunur?",
+    "output": "Koordinat düzleminde bir noktanın yansımasını bulmak için yansıma yapılacak ekseni belirlemek gerekir. Eğer x eksenine göre yansıma yapılıyorsa, y koordinatı negatif işaretiyle değiştirilir. Yani, (x, y) noktası (x, -y) olur. Eğer y eksenine göre yansıma yapılıyorsa, x koordinatı negatif işaretiyle değiştirilir. Yani, (x, y) noktası (-x, y) olur."
+  },
+  {
+    "instruction": "Koordinat sisteminde orijin nedir?",
+    "output": "Koordinat sisteminde orijin, x ve y eksenlerinin kesiştiği noktadır. Bu nokta (0, 0) koordinatlarına sahiptir ve koordinat düzleminin başlangıç noktası olarak kabul edilir."
+  },
+  {
+    "instruction": "Bir noktanın koordinatları nasıl belirlenir?",
+    "output": "Bir noktanın koordinatları, o noktanın x ve y eksenlerine olan uzaklıkları ile belirlenir. X koordinatı, noktanın y eksenine olan yatay uzaklığını, y koordinatı ise x eksenine olan dikey uzaklığını gösterir. Noktanın konumu, (x, y) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Yansıma işleminin koordinat düzlemindeki etkisi nedir?",
+    "output": "Yansıma işlemi, bir şeklin veya noktanın belirli bir eksene göre simetrik olarak diğer tarafa aktarılmasıdır. Koordinat düzleminde bu, noktanın veya şeklin yansıma eksenine olan mesafesinin korunarak karşı tarafa taşınması anlamına gelir. Bu işlem, şeklin boyutlarını veya açılarını değiştirmez, sadece konumunu değiştirir."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir noktanın x ekseni üzerindeki yansıması nasıl bulunur?",
+    "output": "Bir noktanın x ekseni üzerindeki yansımasını bulmak için, y koordinatının işareti değiştirilir. Örneğin, (x, y) noktasının x ekseni üzerindeki yansıması (x, -y) olur."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir noktanın y ekseni üzerindeki yansıması nasıl bulunur?",
+    "output": "Bir noktanın y ekseni üzerindeki yansımasını bulmak için, x koordinatının işareti değiştirilir. Örneğin, (x, y) noktasının y ekseni üzerindeki yansıması (-x, y) olur."
+  },
+  {
+    "instruction": "Koordinat sistemi hangi alanlarda kullanılır?",
+    "output": "Koordinat sistemi, matematik, fizik, mühendislik, bilgisayar grafikleri ve coğrafya gibi birçok alanda kullanılır. Özellikle, grafik çizimleri, hareket analizi, harita yapımı ve uzayda nesnelerin konumlarının belirlenmesi gibi uygulamalarda yaygın olarak kullanılmaktadır."
+  },
+  {
+    "instruction": "Bir noktanın koordinatları nasıl yazılır?",
+    "output": "Bir noktanın koordinatları, (x, y) şeklinde yazılır. Burada x, noktanın yatay eksen (x ekseni) üzerindeki konumunu, y ise dikey eksen (y ekseni) üzerindeki konumunu belirtir. Bu koordinatlar, noktanın düzlemdeki kesin konumunu tanımlar."
+  },
+  {
+    "instruction": "Yansıma işlemi sırasında hangi matematiksel kavramlar kullanılır?",
+    "output": "Yansıma işlemi sırasında simetri, koordinat sistemi, eksenler ve koordinatlar gibi matematiksel kavramlar kullanılır. Yansıma, bir şeklin veya noktanın belirli bir eksene göre simetrik olarak diğer tarafa taşınmasını içerir ve bu işlem, koordinatların uygun şekilde değiştirilmesiyle gerçekleştirilir."
+  }
+]

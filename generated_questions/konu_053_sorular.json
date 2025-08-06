@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Terim nedir?",
+    "output": "Terim, bir matematiksel ifadenin toplanan veya çıkarılan her bir parçasıdır. Örneğin, 3x + 4y - 5 ifadesinde 3x, 4y ve -5 birer terimdir."
+  },
+  {
+    "instruction": "Çarpan nedir?",
+    "output": "Çarpan, bir terim içinde birbirleriyle çarpılan sayılar veya değişkenlerdir. Örneğin, 6xy teriminde çarpanlar 6, x ve y'dir."
+  },
+  {
+    "instruction": "Katsayı nedir?",
+    "output": "Katsayı, bir terimde değişkenle çarpılan sabit sayıdır. Örneğin, 7x teriminde katsayı 7'dir."
+  },
+  {
+    "instruction": "Bir ifadenin terimleri nasıl belirlenir?",
+    "output": "Bir ifadenin terimleri, ifadeyi oluşturan ve toplama veya çıkarma işlemleriyle ayrılan parçalardır. Her bir parça ayrı bir terimdir."
+  },
+  {
+    "instruction": "Çarpanlar nasıl bulunur?",
+    "output": "Çarpanlar, bir terimde yer alan ve birbirleriyle çarpılan tüm sayı ve değişkenlerdir. Terimi oluşturan çarpım işlemlerine bakarak çarpanlar belirlenir."
+  },
+  {
+    "instruction": "Katsayılar hangi özelliklere sahiptir?",
+    "output": "Katsayılar, bir terimde değişkenle çarpılan sabit sayılardır. Katsayılar, terimin büyüklüğünü veya yönünü belirler ve genellikle terimin başında yer alır."
+  },
+  {
+    "instruction": "Bir terimin katsayısı nasıl belirlenir?",
+    "output": "Bir terimin katsayısı, terimdeki değişkenle çarpılan sayıdır. Eğer terim sadece bir değişkenden oluşuyorsa, katsayı 1 olarak kabul edilir."
+  },
+  {
+    "instruction": "Çarpanlar ve katsayılar arasındaki fark nedir?",
+    "output": "Çarpanlar, bir terimde çarpılan tüm sayı ve değişkenlerdir, katsayı ise özellikle değişkenle çarpılan sabit sayıdır. Katsayı, çarpanlardan biridir ama tüm çarpanlar katsayı değildir."
+  },
+  {
+    "instruction": "Bir ifadenin çarpanları hangi durumlarda farklılık gösterir?",
+    "output": "Bir ifadenin çarpanları, terimlerin yapısına bağlı olarak farklılık gösterir. Örneğin, terim birden fazla değişken içeriyorsa, çarpan sayısı artabilir."
+  },
+  {
+    "instruction": "Katsayılar ne işe yarar?",
+    "output": "Katsayılar, bir terimin değerini ve büyüklüğünü belirler. Katsayılar, terimin değişkenle olan ilişkisini ve terimin toplam ifadedeki katkısını gösterir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Benzer üçgenler nedir?",
+    "output": "Benzer üçgenler, şekil olarak aynı olan ancak boyutları farklı olan üçgenlerdir. İki üçgenin benzer olması için, karşılıklı açıları eşit ve karşılıklı kenarlarının oranları eşit olmalıdır."
+  },
+  {
+    "instruction": "Benzer üçgenlerin özellikleri nelerdir?",
+    "output": "Benzer üçgenlerde karşılıklı açıların eşit olması ve karşılıklı kenarların oranlarının sabit olması temel özelliklerdir. Ayrıca, benzer üçgenlerin çevreleri ve alanları arasında da belirli oranlar vardır."
+  },
+  {
+    "instruction": "Benzer üçgenler nasıl bulunur?",
+    "output": "Benzer üçgenler, genellikle açı-açı (AA), kenar-açı-kenar (KAK) veya kenar-kenar-kenar (KKK) kriterlerine göre belirlenir. İki üçgenin benzer olduğunu göstermek için bu kriterlerden biri sağlanmalıdır."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin trigonometrik ilişkilerle bağlantısı nedir?",
+    "output": "Pisagor Teoremi, trigonometrik fonksiyonların türetilmesinde temel bir rol oynar. Örneğin, bir dik üçgende sinüs, kosinüs ve tanjant gibi trigonometrik oranlar, kenar uzunlukları arasındaki ilişkilerle tanımlanır ve bu ilişkiler Pisagor Teoremi ile desteklenir."
+  },
+  {
+    "instruction": "Bir dik üçgende yükseklik nasıl bulunur?",
+    "output": "Bir dik üçgende yükseklik, dik açının karşısındaki kenara (hipotenüse) dik olarak çizilen doğru parçasıdır. Yükseklik, genellikle dik üçgenin alanını hesaplamak veya üçgeni iki benzer üçgene ayırmak için kullanılır."
+  },
+  {
+    "instruction": "Dik üçgende kenar uzunlukları arasındaki ilişki nedir?",
+    "output": "Dik üçgende, iki kısa kenarın karelerinin toplamı hipotenüsün karesine eşittir. Bu ilişki, Pisagor Teoremi olarak bilinir ve a² + b² = c² şeklinde ifade edilir, burada c hipotenüs, a ve b ise dik kenarlardır."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin tarihçesi nedir?",
+    "output": "Pisagor Teoremi, adını antik Yunan matematikçi Pisagor'dan alır. Ancak, bu teoremin Pisagor'dan önce de farklı kültürlerde bilindiği ve kullanıldığı düşünülmektedir. Pisagor Teoremi, matematik tarihinin en bilinen ve en çok uygulanan teoremlerinden biridir."
+  },
+  {
+    "instruction": "Dik üçgenin hipotenüsüne dik olarak çizilen doğru parçasının önemi nedir?",
+    "output": "Dik üçgenin hipotenüsüne dik olarak çizilen doğru parçası, üçgeni iki benzer üçgene ayırır. Bu durum, benzerlik ilişkilerini kullanarak çeşitli matematiksel hesaplamalar yapmayı mümkün kılar ve Pisagor Teoremi'nin ispatında da kullanılır."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin günlük hayattaki uygulamaları nelerdir?",
+    "output": "Pisagor Teoremi, mimarlık, mühendislik, inşaat ve tasarım gibi birçok alanda kullanılır. Örneğin, bir binanın yüksekliğini veya bir köprünün uzunluğunu hesaplamak için kullanılabilir. Ayrıca, üç boyutlu nesnelerin boyutlarını ve açısını hesaplamak için de yaygın olarak uygulanır."
+  },
+  {
+    "instruction": "Benzer üçgenler ile eş üçgenler arasındaki fark nedir?",
+    "output": "Benzer üçgenler, şekil olarak aynı ancak boyut olarak farklı olan üçgenlerdir, yani karşılıklı açıları eşittir ve karşılıklı kenarlarının oranları sabittir. Eş üçgenler ise hem şekil hem de boyut olarak tamamen aynıdır; yani tüm açıları ve kenar uzunlukları birebir eşittir."
+  }
+]

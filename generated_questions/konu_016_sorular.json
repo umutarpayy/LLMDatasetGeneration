@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bileşik sayı nedir?",
+    "output": "Bileşik sayı, 1 ve kendisinden başka en az bir pozitif böleni olan doğal sayılardır. Başka bir deyişle, bileşik sayılar, asal olmayan ve 1'den büyük olan sayılardır. Örneğin, 4, 6, 8 gibi sayılar bileşik sayılardır çünkü 1 ve kendileri dışında başka bölenleri de vardır."
+  },
+  {
+    "instruction": "Bir sayının bileşik olup olmadığını nasıl anlarız?",
+    "output": "Bir sayının bileşik olup olmadığını anlamak için, sayının 1 ve kendisi dışında başka bölenlerinin olup olmadığına bakılır. Eğer başka bölenler varsa, sayı bileşiktir. Örneğin, 12 sayısı 1, 2, 3, 4, 6 ve 12'ye bölünebildiği için bileşik bir sayıdır."
+  },
+  {
+    "instruction": "Bileşik sayıların özellikleri nelerdir?",
+    "output": "Bileşik sayıların başlıca özellikleri şunlardır: 1. Bileşik sayılar, 1 ve kendisi dışında en az bir pozitif böleni olan sayılardır. 2. Bileşik sayılar, 1'den büyük doğal sayılardır. 3. Her bileşik sayı, iki veya daha fazla asal çarpanın çarpımı olarak ifade edilebilir."
+  },
+  {
+    "instruction": "Bileşik sayılar ne işe yarar?",
+    "output": "Bileşik sayılar, matematikte ve özellikle sayı teorisinde önemli bir rol oynar. Çarpanlara ayırma, asal çarpanlara ayırma gibi konularda bileşik sayılar üzerinde çalışılır. Ayrıca, bileşik sayılar, asal sayılarla birlikte sayıların sınıflandırılmasında kullanılır."
+  },
+  {
+    "instruction": "Bileşik sayılar ile asal sayılar arasındaki fark nedir?",
+    "output": "Asal sayılar, sadece 1 ve kendisine bölünebilen sayılardır. Bileşik sayılar ise, 1 ve kendisi dışında başka bölenleri de olan sayılardır. Başka bir deyişle, asal sayılar sadece iki çarpana sahipken, bileşik sayılar ikiden fazla çarpana sahiptir."
+  },
+  {
+    "instruction": "Çift sayı nedir?",
+    "output": "Çift sayı, 2 ile tam bölünebilen sayılardır. Başka bir deyişle, bir sayının çift sayı olabilmesi için 2'ye bölündüğünde kalanın 0 olması gerekir. Örneğin, 4, 6, 8 gibi sayılar çift sayılardır."
+  },
+  {
+    "instruction": "Tek sayı nedir?",
+    "output": "Tek sayı, 2 ile bölündüğünde kalan 1 olan sayılardır. Başka bir deyişle, bir sayının tek sayı olabilmesi için 2'ye bölündüğünde kalanın 1 olması gerekir. Örneğin, 1, 3, 5 gibi sayılar tek sayılardır."
+  },
+  {
+    "instruction": "Neden 2 asal bir sayıdır?",
+    "output": "2, asal bir sayıdır çünkü sadece 1 ve kendisi olan 2'ye bölünebilir. Başka hiçbir pozitif böleni yoktur. Ayrıca, 2, asal olan tek çift sayıdır çünkü diğer çift sayılar 2'ye ek olarak başka bölenlere de sahiptir."
+  },
+  {
+    "instruction": "1 sayısı neden ne asal ne de bileşik sayıdır?",
+    "output": "1 sayısı ne asal ne de bileşik sayıdır çünkü asal sayıların tanımına göre, asal sayılar 1 ve kendisi olmak üzere iki çarpana sahip olmalıdır. 1'in sadece bir çarpanı vardır, bu da kendisidir. Ayrıca, bileşik sayıların tanımına göre, bileşik sayılar en az üç pozitif böleni olmalıdır, bu da 1 için geçerli değildir."
+  },
+  {
+    "instruction": "Bir sayının çarpanları nasıl bulunur?",
+    "output": "Bir sayının çarpanlarını bulmak için, o sayıyı bölebilecek tüm pozitif tam sayıları belirlemek gerekir. Bu, sayıyı 1'den başlayarak kendisine kadar olan sayılarla bölerek yapılır. Eğer bölüm tam sayı ise, o bölen ve bölüm çarpanlar arasında yer alır. Örneğin, 12'nin çarpanları 1, 2, 3, 4, 6 ve 12'dir."
+  }
+]

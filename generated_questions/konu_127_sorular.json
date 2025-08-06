@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Koordinat sistemi nedir?",
+    "output": "Koordinat sistemi, bir düzlemde noktaların yerini belirlemek için kullanılan bir sistemdir. Genellikle iki eksenden oluşur: yatay eksen (x ekseni) ve dikey eksen (y ekseni). Bu eksenler, düzlemi dört bölgeye ayırır ve her nokta bu eksenlere göre bir koordinat çifti (x, y) ile ifade edilir."
+  },
+  {
+    "instruction": "Koordinat sisteminde bir noktanın koordinatları nasıl belirlenir?",
+    "output": "Koordinat sisteminde bir noktanın koordinatları, noktanın x eksenine ve y eksenine olan uzaklıkları ile belirlenir. X ekseni üzerindeki değer, noktanın yatay konumunu, y ekseni üzerindeki değer ise dikey konumunu gösterir. Örneğin, (3, 4) koordinatları, x ekseninde 3 birim sağa, y ekseninde 4 birim yukarıda bir noktayı ifade eder."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nedir?",
+    "output": "Bir doğrunun eğimi, doğrunun yatay eksene göre ne kadar dik veya yatay olduğunu belirten bir ölçüdür. Matematiksel olarak, iki nokta arasındaki y ekseni farkının x ekseni farkına bölünmesiyle bulunur. Eğimi m olan bir doğru, y = mx + b formülüyle ifade edilir."
+  },
+  {
+    "instruction": "Doğrunun x-eksenini kestiği nokta nedir?",
+    "output": "Doğrunun x-eksenini kestiği nokta, doğrunun x ekseni ile kesiştiği noktadır. Bu noktanın y koordinatı sıfırdır ve genellikle (x, 0) şeklinde ifade edilir. Bu nokta, doğrunun y = mx + b denkleminin y yerine 0 koyarak x'i çözdüğümüzde bulunur."
+  },
+  {
+    "instruction": "Doğrunun y-eksenini kestiği nokta nasıl bulunur?",
+    "output": "Doğrunun y-eksenini kestiği nokta, doğrunun y ekseni ile kesiştiği noktadır. Bu noktada x koordinatı sıfırdır ve genellikle (0, b) şeklinde ifade edilir. Doğrunun y = mx + b denklemi kullanılarak, x yerine 0 koyarak y'yi bulduğumuzda bu kesişim noktası elde edilir."
+  },
+  {
+    "instruction": "Eğim-intercept formu nedir?",
+    "output": "Eğim-intercept formu, bir doğrunun denklemini y = mx + b şeklinde ifade eden bir formattır. Burada m, doğrunun eğimini, b ise doğrunun y-eksenini kestiği noktayı temsil eder. Bu form, bir doğrunun grafiğini çizerken veya analiz ederken kullanışlıdır."
+  },
+  {
+    "instruction": "Koordinat sisteminde bir noktanın orijine uzaklığı nasıl hesaplanır?",
+    "output": "Koordinat sisteminde bir noktanın orijine uzaklığı, noktanın (x, y) koordinatları kullanılarak Pisagor teoremi ile hesaplanır. Uzaklık, √(x² + y²) formülü ile bulunur. Bu, noktanın orijine olan doğrusal mesafesini verir."
+  },
+  {
+    "instruction": "Bir doğrunun pozitif eğimi ne anlama gelir?",
+    "output": "Bir doğrunun pozitif eğimi, doğrunun sağa doğru yükseldiğini ifade eder. Yani, x değerleri arttıkça y değerleri de artar. Bu, doğrunun yukarı doğru eğimli olduğunu gösterir ve m > 0 durumunu temsil eder."
+  },
+  {
+    "instruction": "Bir doğrunun negatif eğimi ne anlama gelir?",
+    "output": "Bir doğrunun negatif eğimi, doğrunun sağa doğru alçaldığını ifade eder. Yani, x değerleri arttıkça y değerleri azalır. Bu, doğrunun aşağı doğru eğimli olduğunu gösterir ve m < 0 durumunu temsil eder."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi sıfır olduğunda ne olur?",
+    "output": "Bir doğrunun eğimi sıfır olduğunda, bu doğru yatay bir çizgi şeklindedir. Yani, x değerleri değişse bile y değeri sabit kalır. Bu durumda, doğru y = b şeklinde bir denklemle ifade edilir ve eğim m = 0'dır."
+  }
+]

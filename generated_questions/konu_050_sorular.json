@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadeler nedir?",
+    "output": "Üslü ifadeler, bir sayının kendisiyle belirli bir sayıda çarpılmasını ifade eden matematiksel ifadelerdir. Üs, bir sayının kaç kez çarpılacağını belirtir. Örneğin, 2 üzeri 3, 2'nin kendisiyle 3 kez çarpılması anlamına gelir ve 2 x 2 x 2 = 8 olarak hesaplanır."
+  },
+  {
+    "instruction": "Negatif üslü ifadeler nasıl pozitif hale getirilir?",
+    "output": "Negatif üslü ifadeler, pozitif hale getirilmek için ters çevrilir. Yani, a üzeri eksi b ifadesi, 1 bölü a üzeri b olarak yazılır. Bu işlem, negatif üssün pozitif hale gelmesini sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynı ise çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynı ise, üsler toplanarak çarpma işlemi yapılır. Örneğin, a üzeri m çarpı a üzeri n, a üzeri (m+n) olarak hesaplanır. Bu kural, çarpma işlemini kolaylaştırır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynı ise bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynı ise, üsler çıkarılarak bölme işlemi yapılır. Örneğin, a üzeri m bölü a üzeri n, a üzeri (m-n) olarak hesaplanır. Bu kural, bölme işlemini basitleştirir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme neden önemlidir?",
+    "output": "Üslü ifadelerde sadeleştirme, işlemlerin daha basit ve anlaşılır hale gelmesini sağlar. Karmaşık ifadeleri sadeleştirerek, sonuçları daha hızlı ve doğru bir şekilde bulabiliriz. Ayrıca, sadeleştirme, işlemlerin kontrol edilmesini ve hata yapma olasılığını azaltır."
+  },
+  {
+    "instruction": "Üslü ifadelerde işlem önceliği nasıl belirlenir?",
+    "output": "Üslü ifadelerde işlem önceliği, parantez içindeki işlemler, üslü ifadeler, çarpma ve bölme, toplama ve çıkarma sırasına göre belirlenir. Bu sıraya göre işlemler yapılırken, parantez içindeki işlemler önce tamamlanır, ardından üslü ifadeler hesaplanır."
+  },
+  {
+    "instruction": "Üslü ifadelerin günlük yaşamda kullanımı nasıldır?",
+    "output": "Üslü ifadeler, günlük yaşamda birçok alanda kullanılır. Örneğin, bilimsel hesaplamalarda, büyüklükleri ifade etmek için kullanılır. Ayrıca, finansal hesaplamalarda bileşik faiz hesaplamalarında ve mühendislikte enerji ve güç hesaplamalarında da üslü ifadeler kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerle ilgili temel kurallar nelerdir?",
+    "output": "Üslü ifadelerle ilgili temel kurallar arasında çarpma ve bölme kuralları, negatif üs kuralı, sıfır üs kuralı (herhangi bir sayının sıfırıncı kuvveti 1'dir) ve üslerin dağıtma özelliği gibi kurallar bulunur. Bu kurallar, üslü ifadelerle işlem yaparken rehberlik eder."
+  },
+  {
+    "instruction": "Üslü ifadelerde sıfır üssü nedir ve nasıl hesaplanır?",
+    "output": "Üslü ifadelerde sıfır üssü, herhangi bir sayının sıfırıncı kuvveti olarak tanımlanır ve bu her zaman 1'e eşittir. Örneğin, a üzeri 0 = 1'dir. Bu kural, tüm sayılar için geçerlidir ve matematiksel işlemlerde sıkça kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üslerin anlamı nedir?",
+    "output": "Üslü ifadelerde negatif üsler, sayının tersinin pozitif üs ile alınması anlamına gelir. Örneğin, a üzeri eksi b, 1 bölü a üzeri b olarak yazılır. Negatif üsler, sayının tersini alarak pozitif hale getirilir ve bu şekilde işlem yapılır."
+  }
+]

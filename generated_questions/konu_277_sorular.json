@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yansıtma nedir?",
+    "output": "Yansıtma, bir şeklin belirli bir eksen veya düzlem üzerinde simetrik olarak karşı tarafa geçirilmesi işlemidir. Geometrik yansıtma, genellikle bir doğru veya düzlem üzerinde yapılır ve şeklin boyutları değişmeden, sadece konumu değişir."
+  },
+  {
+    "instruction": "Bir doğruyu y = k doğrusu üzerinde yansıtmak nasıl yapılır?",
+    "output": "Bir doğruyu y = k doğrusu üzerinde yansıtmak için, her bir noktanın y koordinatları k doğrusu etrafında simetrik olacak şekilde değiştirilir. Bu, y koordinatının 2k eksi orijinal y koordinatı olarak ayarlanmasıyla yapılır."
+  },
+  {
+    "instruction": "Yansımanın özellikleri nelerdir?",
+    "output": "Yansımanın temel özellikleri arasında şeklin boyutlarının değişmemesi, yansıyan şeklin orijinal şekille aynı açı ve uzunluk özelliklerine sahip olması ve yansımanın bir izometrik dönüşüm olması yer alır."
+  },
+  {
+    "instruction": "Yansıtma işlemi ne işe yarar?",
+    "output": "Yansıtma işlemi, simetriyi incelemek, geometrik şekillerin konumlarını değiştirmek ve belirli bir eksen veya düzlem üzerinde simetrik şekiller oluşturmak için kullanılır. Mimarlık, mühendislik ve grafik tasarım gibi alanlarda sıkça kullanılır."
+  },
+  {
+    "instruction": "Doğru ile doğru parçası arasındaki fark nedir?",
+    "output": "Bir doğru, iki yönde sonsuza kadar uzanan düz bir çizgidir ve bitiş noktası yoktur. Doğru parçası ise, iki uç noktası olan ve bu noktalar arasında uzanan düz bir çizgidir."
+  },
+  {
+    "instruction": "Yansıma ile öteleme arasındaki fark nedir?",
+    "output": "Yansıma, bir şeklin belirli bir eksen veya düzlem üzerinde simetrik olarak karşı tarafa geçirilmesi işlemidir. Öteleme ise, bir şeklin belirli bir yönde ve mesafede kaydırılmasıdır. Yansıma simetriyle ilgilidir, öteleme ise konum değişikliğiyle."
+  },
+  {
+    "instruction": "Yansıtma işlemi sırasında hangi matematiksel kavramlar kullanılır?",
+    "output": "Yansıtma işlemi sırasında simetri, koordinat dönüşümleri ve izometrik dönüşümler gibi matematiksel kavramlar kullanılır. Bu kavramlar, şeklin boyutunu değiştirmeden konumunu değiştirmeye yardımcı olur."
+  },
+  {
+    "instruction": "Yansıma işlemi hangi durumlarda kullanılır?",
+    "output": "Yansıma işlemi, simetriyi analiz etmek, optik sistemlerde ışık yansımalarını modellemek, grafik tasarımda simetrik desenler oluşturmak ve mühendislikte yapıların simetrik özelliklerini incelemek gibi durumlarda kullanılır."
+  },
+  {
+    "instruction": "Yansıma işlemi sonucunda şeklin boyutu değişir mi?",
+    "output": "Hayır, yansıma işlemi sonucunda şeklin boyutu değişmez. Yansıma, izometrik bir dönüşümdür ve bu nedenle şeklin uzunluk, açı ve alan gibi ölçüleri korunur."
+  },
+  {
+    "instruction": "Yansıma işlemi ile simetri arasında nasıl bir ilişki vardır?",
+    "output": "Yansıma işlemi, simetri kavramının temel bir örneğidir. Bir şeklin bir eksen veya düzlem üzerinde yansıtılması, o şeklin simetrik özelliklerini ortaya çıkarır. Simetri, bir şeklin yansıma ekseni etrafında kendisiyle çakışması durumudur."
+  }
+]

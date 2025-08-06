@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Açıortay teoreminin ispatı nasıl yapılır?",
+    "output": "Açıortay teoreminin ispatı, bir üçgende açıortayın karşı kenarda oluşturduğu iki parçanın oranının, açıortayın kestiği diğer iki kenarın oranına eşit olduğunu gösterir. İspat genellikle benzer üçgenler ve paralel doğrular kullanılarak yapılır. Açıortay çizilerek, üçgenin bir kenarına paralel bir doğru çizilir ve benzer üçgenler yardımıyla oranlar eşitlenir."
+  },
+  {
+    "instruction": "Benzer üçgenler nedir?",
+    "output": "Benzer üçgenler, şekil ve açı ölçüleri aynı olan ancak boyutları farklı olan üçgenlerdir. İki üçgenin benzer olabilmesi için karşılıklı açıları eşit olmalı ve karşılıklı kenarlarının oranları aynı olmalıdır."
+  },
+  {
+    "instruction": "İç ters açılar nedir?",
+    "output": "İç ters açılar, iki paralel doğruyu kesen bir kesenin oluşturduğu ve paralel doğrular arasında kalan açılardır. Bu açılar her zaman birbirine eşittir."
+  },
+  {
+    "instruction": "Düşey açılar nedir?",
+    "output": "Düşey açılar, iki doğru kesiştiğinde oluşan ve karşılıklı olan açılardır. Bu açılar her zaman birbirine eşittir."
+  },
+  {
+    "instruction": "İkizkenar üçgenin özellikleri nelerdir?",
+    "output": "İkizkenar üçgen, en az iki kenarı eşit olan bir üçgendir. Bu üçgende, eşit kenarların karşısındaki açılar da eşittir. Ayrıca, eşit kenarların kesişim noktasından tabana indirilen dikme, aynı zamanda açıortay ve kenarortaydır."
+  },
+  {
+    "instruction": "Paralel doğruların özellikleri nelerdir?",
+    "output": "Paralel doğrular, aynı düzlemde olup kesişmeyen doğrulardır. Paralel doğrular arasında kalan açıların toplamı her zaman 180 derecedir. Ayrıca, bir kesenle kesildiklerinde, iç ters açılar ve dış ters açılar eşit olur."
+  },
+  {
+    "instruction": "Açı benzerliği teoremi nedir?",
+    "output": "Açı benzerliği teoremi, iki üçgenin benzer olması için iki açısının eşit olmasının yeterli olduğunu belirtir. Eğer iki üçgende ikişer açı eşitse, üçüncü açılar da otomatik olarak eşit olur ve üçgenler benzer kabul edilir."
+  },
+  {
+    "instruction": "Oran nedir?",
+    "output": "Oran, iki veya daha fazla büyüklüğün karşılaştırılmasıdır. Genellikle 'a:b' veya 'a/b' şeklinde ifade edilir. Matematikte oranlar, büyüklüklerin birbirine göre ne kadar büyük veya küçük olduğunu gösterir."
+  },
+  {
+    "instruction": "Üçgende paralel doğrular nasıl kullanılır?",
+    "output": "Üçgende paralel doğrular, genellikle benzer üçgenler oluşturmak veya açı ve kenar oranlarını ispatlamak için kullanılır. Paralel doğrular, iç ters açılar ve dış ters açılar gibi özellikler sayesinde üçgenlerin benzerliğini ve eşitliğini göstermek için faydalıdır."
+  },
+  {
+    "instruction": "Çapraz açılar nedir?",
+    "output": "Çapraz açılar, iki doğru kesiştiğinde oluşan ve karşılıklı olan açılardır. Bu açılar, genellikle iç ters veya dış ters açılar olarak adlandırılır ve her zaman birbirine eşittir."
+  }
+]

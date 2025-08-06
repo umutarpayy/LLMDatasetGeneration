@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Parantezli eşitsizlikler nasıl çözülür?",
+    "output": "Parantezli eşitsizlikleri çözmek için önce parantez içindeki ifadeleri açarak eşitsizliği sadeleştiririz. Daha sonra değişkenleri bir tarafta toplar ve sabit terimleri diğer tarafa alırız. Son olarak, değişkenin katsayısını 1 yapmak için her iki tarafı da bu katsayıya böleriz. Eğer böldüğümüz sayı negatifse, eşitsizliğin yönünü değiştirmemiz gerekir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde parantez açma işlemi neden önemlidir?",
+    "output": "Parantez açma işlemi, eşitsizlikteki terimleri doğru bir şekilde dağıtmak ve sadeleştirmek için önemlidir. Bu işlem, eşitsizliğin her iki tarafındaki ifadelerin doğru bir şekilde karşılaştırılabilmesini sağlar. Parantez açmadan yapılan işlemler, hatalı sonuçlara yol açabilir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi durumlarda eşitsizliğin yönü değişir?",
+    "output": "Eşitsizlik çözümünde, her iki tarafı negatif bir sayı ile çarptığımızda veya böldüğümüzde eşitsizliğin yönü değişir. Bu durum, negatif sayıların sıralama üzerindeki etkisinden kaynaklanır. Örneğin, -2 < -1 iken, her iki tarafı -1 ile çarptığımızda 2 > 1 olur."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde sayı doğrusu nasıl kullanılır?",
+    "output": "Eşitsizlik çözümünde sayı doğrusu, çözüm kümesinin görsel olarak gösterilmesi için kullanılır. Sayı doğrusunda, çözüm kümesine dahil olan sayılar genellikle bir çizgi veya ok ile belirtilir. Dahil olmayan sınır noktaları açık daire ile, dahil olanlar ise dolu daire ile gösterilir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde test etme yöntemi nedir?",
+    "output": "Eşitsizlik çözümünde test etme yöntemi, çözüm kümesinin doğruluğunu kontrol etmek için kullanılır. Çözüm kümesine dahil olduğu bilinen bir değeri eşitsizlikte yerine koyarak eşitsizliğin sağlanıp sağlanmadığını kontrol ederiz. Aynı şekilde, çözüm kümesine dahil olmayan bir değeri de test ederek eşitsizliğin sağlanmadığını görürüz."
+  },
+  {
+    "instruction": "Eşitsizliklerde çözüm kümesi nedir?",
+    "output": "Eşitsizliklerde çözüm kümesi, eşitsizliği doğru yapan tüm sayıların oluşturduğu kümedir. Bu küme, sayı doğrusu üzerinde bir aralık veya aralıklar olarak gösterilebilir. Çözüm kümesi, eşitsizliğin türüne ve sınır değerlerin dahil olup olmamasına göre açık veya kapalı aralıklar şeklinde olabilir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi işlemler yapılır?",
+    "output": "Eşitsizlik çözümünde genellikle şu işlemler yapılır: Parantez açma, terimleri birleştirme, değişkenleri bir tarafta toplama, sabit terimleri diğer tarafa alma, değişkenin katsayısını 1 yapma ve gerekirse eşitsizliğin yönünü değiştirme. Tüm bu işlemler, eşitsizliğin her iki tarafında da aynı şekilde uygulanmalıdır."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde sabit terimleri nasıl ayırırız?",
+    "output": "Eşitsizlik çözümünde sabit terimleri ayırmak için, eşitsizliğin her iki tarafından da aynı sabit terimi çıkarır veya ekleriz. Bu işlem, eşitsizliğin dengesini bozmadan sabit terimleri bir tarafta toplamak için yapılır. Böylece, değişkenler ve sabit terimler ayrı ayrı gruplandırılabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde sınır değerler nasıl belirlenir?",
+    "output": "Eşitsizliklerde sınır değerler, eşitsizliğin çözüm kümesinde dahil olup olmadıklarına göre belirlenir. Eğer eşitsizlik 'büyüktür' veya 'küçüktür' şeklindeyse, sınır değerler dahil edilmez ve açık aralık kullanılır. Eğer eşitsizlik 'büyük eşittir' veya 'küçük eşittir' şeklindeyse, sınır değerler dahil edilir ve kapalı aralık kullanılır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi stratejiler kullanılır?",
+    "output": "Eşitsizliklerin çözümünde kullanılan stratejiler arasında, parantez açma, terimleri birleştirme, değişkenleri bir tarafta toplama, sabit terimleri diğer tarafa alma, değişkenin katsayısını 1 yapma ve gerekirse eşitsizliğin yönünü değiştirme gibi adımlar bulunur. Ayrıca, çözüm kümesini test etme ve sayı doğrusu üzerinde gösterme gibi yöntemler de stratejiler arasında yer alır."
+  }
+]

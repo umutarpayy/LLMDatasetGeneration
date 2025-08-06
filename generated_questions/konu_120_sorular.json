@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel bir denklemi çözmek için hangi adımlar izlenmelidir?",
+    "output": "Cebirsel bir denklemi çözmek için genellikle şu adımlar izlenir: 1) Parantez içindeki terimleri dağıtma, 2) Benzer terimleri bir araya getirme, 3) Değişkenleri bir tarafta toplama, 4) Sabit terimleri diğer tarafa taşıma, 5) Değişkenin katsayısını bir yapmak için her iki tarafı bu katsayıya bölme."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantez nasıl dağıtılır?",
+    "output": "Cebirsel ifadelerde parantez dağıtma, parantez içindeki her terimi parantezin dışındaki katsayı ile çarpmak anlamına gelir. Örneğin, a(b + c) ifadesinde, a hem b ile hem de c ile çarpılır, yani ab + ac elde edilir."
+  },
+  {
+    "instruction": "Parantez dağıtma işlemi neden önemlidir?",
+    "output": "Parantez dağıtma işlemi, bir denklemin çözümünde karmaşık ifadeleri basitleştirmek ve denklemin her iki tarafını eşit hale getirmek için önemlidir. Bu işlem, denklemin çözümünü kolaylaştırır ve değişkenlerin izole edilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Bir denklemde tüm x'leri aynı tarafa toplamak neden gereklidir?",
+    "output": "Bir denklemde tüm x'leri aynı tarafa toplamak, değişkeni izole etmek ve denklemi daha basit hale getirmek için gereklidir. Bu adım, denklemi çözmeyi kolaylaştırır ve x'in değerini bulmamıza yardımcı olur."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi işlemler öncelikli olarak yapılmalıdır?",
+    "output": "Denklem çözümünde öncelikli olarak parantez dağıtma ve benzer terimleri birleştirme işlemleri yapılmalıdır. Ardından, değişkenler bir tarafta toplanır ve sabit terimler diğer tarafa taşınır. Son olarak, değişkenin katsayısını bir yapmak için çarpma veya bölme işlemleri uygulanır."
+  },
+  {
+    "instruction": "Cebirsel denklemlerde sabit terimler nasıl taşınır?",
+    "output": "Cebirsel denklemlerde sabit terimleri taşımak için, sabit terimler bir taraftan diğer tarafa eklenir veya çıkarılır. Örneğin, x + 5 = 10 denkleminde, her iki taraftan 5 çıkarılarak x = 5 elde edilir."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafına aynı işlemi uygulamak neden gereklidir?",
+    "output": "Bir denklemin her iki tarafına aynı işlemi uygulamak, denklemin dengeli kalmasını sağlar. Bu, denklemin eşitliğini bozmadan değişkeni izole etmemize ve çözüm bulmamıza olanak tanır."
+  },
+  {
+    "instruction": "Cebirsel denklemlerde değişkenin katsayısını bir yapmak için hangi işlemler kullanılır?",
+    "output": "Cebirsel denklemlerde değişkenin katsayısını bir yapmak için çarpma veya bölme işlemleri kullanılır. Örneğin, 3x = 12 denkleminde, her iki taraf 3'e bölünerek x = 4 bulunur."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi durumlarda parantez dağıtma işlemi yapılmalıdır?",
+    "output": "Denklem çözümünde, parantez içeren terimler varsa ve bu terimler denklemin çözümünü zorlaştırıyorsa, parantez dağıtma işlemi yapılmalıdır. Bu, denklemi daha basit ve çözülmesi kolay hale getirir."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi durumlarda sabit terimler taşınmalıdır?",
+    "output": "Denklem çözümünde, değişkenleri izole etmek ve denklemi daha basit hale getirmek için sabit terimler diğer tarafa taşınmalıdır. Bu, denklemin çözümünü kolaylaştırır ve değişkenin değerini bulmamıza yardımcı olur."
+  }
+]

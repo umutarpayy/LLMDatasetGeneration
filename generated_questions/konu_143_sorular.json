@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b biçiminde ifade eden bir matematiksel formattır. Burada m, doğrunun eğimini, b ise y-kesişim noktasını temsil eder. Bu form, bir doğrunun grafiğini çizmek veya doğrunun özelliklerini anlamak için kullanılır."
+  },
+  {
+    "instruction": "Y-kesişim noktası nasıl bulunur?",
+    "output": "Y-kesişim noktası, bir doğrunun y-ekseni ile kesiştiği noktadır. Eğim-kesişim formunda (y = mx + b), b terimi y-kesişim noktasını temsil eder. Bu noktayı bulmak için x = 0 değerini denkleme koyarak y'nin değerini hesaplamak yeterlidir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile bir doğru nasıl çizilir?",
+    "output": "Eğim-kesişim formu (y = mx + b) ile bir doğru çizmek için önce y-kesişim noktasını (b) grafikte işaretleyin. Ardından, eğimi (m) kullanarak y-kesişim noktasından başlayarak doğru üzerindeki diğer noktaları belirleyin. Eğim, y'deki değişimin x'deki değişime oranıdır. Örneğin, eğim 1/3 ise, x ekseninde 3 birim ilerlediğinizde y ekseninde 1 birim yukarı çıkın."
+  },
+  {
+    "instruction": "Eğim-kesişim formunun avantajları nelerdir?",
+    "output": "Eğim-kesişim formunun avantajları arasında, bir doğrunun grafiğini hızlı ve kolay bir şekilde çizebilme, eğim ve y-kesişim noktası gibi doğrunun önemli özelliklerini doğrudan görebilme ve iki doğru arasındaki paralellik veya diklik gibi ilişkileri kolayca belirleyebilme sayılabilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile standart form arasındaki fark nedir?",
+    "output": "Eğim-kesişim formu y = mx + b biçimindeyken, standart form Ax + By = C biçimindedir. Eğim-kesişim formu doğrudan eğim ve y-kesişim noktasını verirken, standart form bu bilgileri doğrudan vermez ve genellikle eğim ve y-kesişim noktasını bulmak için ek işlemler gerektirir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda kullanılır?",
+    "output": "Eğim-kesişim formu, bir doğrunun grafiğini çizmek, iki doğrunun paralel veya dik olup olmadığını belirlemek, doğrusal denklemlerle ilgili problemleri çözmek ve doğrunun eğimi ile y-kesişim noktasını hızlı bir şekilde belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda eğim nasıl yorumlanır?",
+    "output": "Eğim (m), bir doğrunun dikliğini veya yataylığını belirler. Pozitif eğim, doğrunun sağa doğru yükseldiğini, negatif eğim ise sağa doğru alçaldığını gösterir. Eğim 0 ise, doğru yataydır ve dik eğim (sonsuz) ise doğru dikeydir."
+  },
+  {
+    "instruction": "Bir doğrunun y-kesişim noktası neden önemlidir?",
+    "output": "Y-kesişim noktası, bir doğrunun y-ekseni ile kesiştiği noktadır ve bu nokta, doğrunun başlangıç değerini veya başlangıç seviyesini temsil edebilir. Bu, özellikle başlangıç koşullarını veya başlangıç değerlerini anlamak için önemlidir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile doğrusal denklemler nasıl çözülür?",
+    "output": "Eğim-kesişim formu ile doğrusal denklemleri çözmek için, verilen denklemi y = mx + b formuna dönüştürün. Ardından, doğrunun eğimini ve y-kesişim noktasını belirleyin. Bu bilgilerle, doğrusal denklemin grafiğini çizebilir veya belirli bir x veya y değeri için diğer değişkeni hesaplayabilirsiniz."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda x-kesişim noktası nasıl bulunur?",
+    "output": "Eğim-kesişim formunda (y = mx + b), x-kesişim noktasını bulmak için y'yi sıfıra eşitleyin ve x için çözüm yapın. Bu işlem, doğrunun x-ekseni ile kesiştiği noktayı verir."
+  }
+]

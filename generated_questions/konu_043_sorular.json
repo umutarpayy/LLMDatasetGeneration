@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi, aynı tabana sahip ifadelerin üslerinin çıkarılmasıyla yapılır. Örneğin, x^a / x^b = x^(a-b) şeklinde ifade edilir. Bu yöntem, tabanlar aynı olduğunda geçerlidir."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetin kuvveti nasıl alınır?",
+    "output": "Üslü ifadelerde bir ifadenin kuvvetinin kuvveti alınırken, üsler çarpılır. Yani, (x^a)^b = x^(a*b) şeklinde hesaplanır. Bu özellik, üslü ifadelerin sadeleştirilmesinde ve hesaplanmasında sıkça kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma ve bölme işlemleri arasındaki fark nedir?",
+    "output": "Üslü ifadelerde çarpma işlemi, tabanlar aynı olduğunda üslerin toplanmasıyla yapılırken, bölme işlemi üslerin çıkarılmasıyla yapılır. Çarpma işleminde x^a * x^b = x^(a+b), bölme işleminde ise x^a / x^b = x^(a-b) formülleri kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler ne anlama gelir?",
+    "output": "Üslü ifadelerde negatif üsler, ifadenin ters çevrilmesi anlamına gelir. Örneğin, x^(-a) = 1/x^a şeklinde ifade edilir. Negatif üs, pozitif üssün tersini temsil eder."
+  },
+  {
+    "instruction": "Üslü ifadelerde sıfır üssü ne anlama gelir?",
+    "output": "Üslü ifadelerde bir ifadenin sıfır üssü, taban sıfır olmadığı sürece 1'e eşittir. Yani, x^0 = 1 olarak kabul edilir. Bu kural, matematiksel tutarlılığı sağlamak için kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban farklı olduğunda işlemler nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı olduğunda, doğrudan çarpma veya bölme işlemi yapılamaz. Bu durumda, ifadeler aynı tabana dönüştürülerek veya logaritma gibi farklı matematiksel yöntemler kullanılarak işlem yapılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, benzer terimlerin birleştirilmesi veya ortak çarpanların çıkarılmasıyla yapılır. Üslerin özellikleri kullanılarak ifadeler daha basit bir forma dönüştürülür. Örneğin, x^a * x^b = x^(a+b) şeklinde sadeleştirilebilir."
+  },
+  {
+    "instruction": "Üslü ifadelerin özellikleri nelerdir?",
+    "output": "Üslü ifadelerin temel özellikleri arasında çarpma (x^a * x^b = x^(a+b)), bölme (x^a / x^b = x^(a-b)), kuvvetin kuvveti ((x^a)^b = x^(a*b)), negatif üs (x^(-a) = 1/x^a) ve sıfır üssü (x^0 = 1) bulunur."
+  },
+  {
+    "instruction": "Üslü ifadeler hangi durumlarda kullanılır?",
+    "output": "Üslü ifadeler, büyük veya küçük sayıları daha kolay ifade etmek, büyüme veya azalma oranlarını hesaplamak, bilimsel notasyon kullanmak ve karmaşık hesaplamaları basitleştirmek için kullanılır. Özellikle bilim, mühendislik ve finans alanlarında yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpanlara ayırma nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpanlara ayırma, ortak çarpanların bulunması ve ifadelerin çarpanlarına ayrılmasıyla yapılır. Bu, ifadelerin daha basit hale getirilmesini sağlar. Örneğin, x^2 - y^2 = (x+y)(x-y) şeklinde çarpanlarına ayrılabilir."
+  }
+]

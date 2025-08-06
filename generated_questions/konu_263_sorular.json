@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küçültme nedir?",
+    "output": "Küçültme, bir şeklin boyutlarını belirli bir ölçek oranında azaltarak daha küçük bir versiyonunu elde etme işlemidir. Bu işlem, genellikle bir şeklin belirli bir merkeze göre orantılı olarak küçültülmesi şeklinde yapılır."
+  },
+  {
+    "instruction": "Koordinat düzleminde küçültme nasıl yapılır?",
+    "output": "Koordinat düzleminde küçültme, bir şeklin tüm noktalarının belirli bir ölçek oranında orijine olan uzaklıklarının azaltılması ile yapılır. Örneğin, bir şekli orijin merkezli ve 1/2 ölçeğinde küçültmek, her noktanın orijine olan uzaklığını yarıya indirmek anlamına gelir."
+  },
+  {
+    "instruction": "Küçültme işleminin özellikleri nelerdir?",
+    "output": "Küçültme işleminin temel özellikleri arasında şeklin orantılı olarak küçültülmesi, şeklin benzerliğinin korunması ve her iki eksen boyunca eşit oranda küçültme yapılması bulunur. Bu işlem, şeklin genel yapısını ve açılarını değiştirmez."
+  },
+  {
+    "instruction": "Küçültme işlemi ne işe yarar?",
+    "output": "Küçültme işlemi, bir şeklin daha küçük bir versiyonunu elde etmek için kullanılır. Bu, genellikle haritalar, modeller veya grafikler gibi ölçekli temsil gerektiren durumlarda kullanılır. Küçültme, aynı zamanda tasarım ve mühendislik alanlarında da yaygın olarak uygulanır."
+  },
+  {
+    "instruction": "Küçültme ile genişletme arasındaki fark nedir?",
+    "output": "Küçültme, bir şeklin boyutlarını belirli bir ölçek oranında azaltma işlemidir, genişletme ise boyutlarını artırma işlemidir. Küçültme, şeklin orijine olan uzaklıklarını azaltırken, genişletme bu uzaklıkları artırır. Her iki işlem de şeklin benzerliğini korur."
+  },
+  {
+    "instruction": "Küçültme işlemi hangi durumlarda kullanılır?",
+    "output": "Küçültme işlemi, genellikle bir şeklin daha küçük bir temsilinin gerekli olduğu durumlarda kullanılır. Örneğin, haritaların çiziminde, mimari planlarda veya grafik tasarımda ölçekli küçültmeler yapılabilir. Ayrıca, mühendislik ve bilimsel modellemelerde de küçültme işlemi yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir şeklin küçültülmesi hangi özelliklere sahiptir?",
+    "output": "Koordinat düzleminde bir şeklin küçültülmesi, şeklin boyutlarının orijine göre orantılı olarak azaltılması anlamına gelir. Bu işlem sırasında şeklin açıları ve benzerliği korunur. Her iki eksen boyunca eşit oranda küçültme yapılır, bu da şeklin orantılı kalmasını sağlar."
+  },
+  {
+    "instruction": "Bir üçgenin koordinat düzleminde küçültülmesi ne işe yarar?",
+    "output": "Bir üçgenin koordinat düzleminde küçültülmesi, üçgenin daha küçük bir versiyonunu elde etmek için kullanılır. Bu, genellikle ölçekli çizimlerde veya grafik temsillerde gereklidir. Küçültme, üçgenin açılarını ve benzerliğini koruyarak, orijinal şeklin daha küçük bir kopyasını oluşturur."
+  },
+  {
+    "instruction": "Küçültme işlemi sırasında sabit nokta seçimi neden önemlidir?",
+    "output": "Küçültme işlemi sırasında sabit nokta seçimi, şeklin hangi noktaya göre küçültüleceğini belirler. Genellikle orijin kullanılır, çünkü bu, tüm noktaların orantılı olarak küçültülmesini sağlar. Sabit noktanın doğru seçilmesi, şeklin orantılı ve doğru bir şekilde küçültülmesini garanti eder."
+  },
+  {
+    "instruction": "Küçültme işlemi ile benzerlik arasındaki ilişki nedir?",
+    "output": "Küçültme işlemi, bir şeklin boyutlarını değiştirirken şeklin benzerliğini koruyan bir işlemdir. Bu, şeklin açılarını ve oranlarını değiştirmeden, sadece boyutlarını küçültmek anlamına gelir. Dolayısıyla, küçültme işlemi sonucunda elde edilen şekil, orijinal şeklin benzeri olur."
+  }
+]

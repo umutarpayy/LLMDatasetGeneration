@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifade nedir?",
+    "output": "Cebirsel ifade, bir veya birden fazla değişken, sabit ve bu değişkenler ile sabitler arasında toplama, çıkarma, çarpma ve bölme gibi işlemlerle oluşturulan matematiksel bir ifadedir. Örneğin, 3x + 2y - 5 bir cebirsel ifadedir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenler nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde değişkenler, genellikle harflerle temsil edilen ve farklı değerler alabilen sembollerdir. Değişkenler, cebirsel ifadelerin genel formunu belirler ve bu ifadelerin farklı durumlarda nasıl davranacağını tanımlar."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nedir?",
+    "output": "Katsayı, bir cebirsel ifadede değişkenin önündeki sayıdır ve değişkenin kaç katı olduğunu belirtir. Örneğin, 5x ifadesinde 5, x değişkeninin katsayısıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Cebirsel ifadelerde toplama ve çıkarma işlemleri, benzer terimlerin birleştirilmesiyle gerçekleştirilir. Benzer terimler, aynı değişkenlere ve aynı derecelere sahip terimlerdir. Örneğin, 3x + 2x = 5x ve 4y - y = 3y şeklinde toplanır veya çıkarılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, katsayıların ve değişkenlerin ayrı ayrı çarpılmasıyla yapılır. Eğer iki değişken çarpılıyorsa, bu değişkenlerin üsleri toplanır. Örneğin, (3x)(2y) = 6xy ve (x^2)(x^3) = x^5 şeklinde çarpılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terim nedir?",
+    "output": "Sabit terim, cebirsel bir ifadede değişken içermeyen ve tek başına bir sayı olan terimdir. Örneğin, 4x + 3 ifadesinde 3, sabit terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpanlara ayırma nedir?",
+    "output": "Çarpanlara ayırma, bir cebirsel ifadeyi, çarpanlarının çarpımı şeklinde yazma işlemidir. Bu işlem, ifadeyi daha basit bir forma dönüştürmek veya denklemleri çözmek için kullanılır. Örneğin, x^2 - 5x + 6 ifadesi (x - 2)(x - 3) şeklinde çarpanlarına ayrılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezler ne işe yarar?",
+    "output": "Parantezler, cebirsel ifadelerde işlem önceliğini belirtmek ve ifadeyi gruplandırmak için kullanılır. Parantez içindeki işlemler, dışındaki işlemlerden önce yapılır. Örneğin, 2(x + 3) ifadesinde, önce parantez içindeki toplama işlemi yapılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde eşitlik nasıl sağlanır?",
+    "output": "Cebirsel ifadelerde eşitlik, iki ifadenin birbirine eşit olduğu durumları belirtir. Eşitlik sağlamak için, her iki tarafın da aynı değere sahip olması gerekir. Bu, genellikle denklemler çözülerek veya her iki tarafa aynı işlemler uygulanarak sağlanır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terim nedir?",
+    "output": "Terim, bir cebirsel ifadede, değişkenler ve katsayıların çarpımı veya tek başına bir sayı olan bileşendir. Örneğin, 3x^2 + 5y - 7 ifadesinde 3x^2, 5y ve -7 birer terimdir."
+  }
+]

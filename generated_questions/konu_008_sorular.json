@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "En Küçük Ortak Kat (EKOK) nedir?",
+    "output": "En Küçük Ortak Kat (EKOK), iki veya daha fazla sayının ortak katları arasından en küçük olanıdır. Diğer bir deyişle, verilen sayıların her birine tam olarak bölünebilen en küçük pozitif tam sayıdır."
+  },
+  {
+    "instruction": "EKOK nasıl bulunur?",
+    "output": "EKOK'u bulmak için iki yöntem kullanılabilir: Birincisi asal çarpanlarına ayırma yöntemidir. Sayıları asal çarpanlarına ayırıp, her bir asal çarpanın en yüksek kuvvetini alarak çarparız. İkincisi ise sayıların katlarını yazarak ortak olan en küçük katı bulmaktır."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma yöntemiyle EKOK nasıl hesaplanır?",
+    "output": "Asal çarpanlarına ayırma yöntemiyle EKOK hesaplamak için, her bir sayıyı asal çarpanlarına ayırırız. Ardından, her asal çarpanın en yüksek kuvvetini seçip bu çarpanları çarparız. Bu çarpım, sayılar arasındaki en küçük ortak katı verir."
+  },
+  {
+    "instruction": "EKOK'un özellikleri nelerdir?",
+    "output": "EKOK'un bazı önemli özellikleri şunlardır: 1) EKOK, verilen sayıların her birine tam olarak bölünür. 2) EKOK, en küçük pozitif tam sayıdır. 3) İki sayının EKOK'u, bu sayıların çarpımına eşit veya daha küçüktür. 4) EKOK, sayıların ortak katlarının en küçüğüdür."
+  },
+  {
+    "instruction": "EKOK ne işe yarar?",
+    "output": "EKOK, özellikle kesirli sayılarla yapılan işlemlerde paydaları eşitlemek için kullanılır. Ayrıca, periyodik olayların eş zamanlı gerçekleşme zamanlarını bulmak gibi problemlerde de kullanılır."
+  },
+  {
+    "instruction": "EKOK ile EBOB arasındaki fark nedir?",
+    "output": "EKOK, iki veya daha fazla sayının ortak katları arasından en küçük olanıdır, yani bu sayıların her birine bölünebilen en küçük sayıdır. EBOB ise, iki veya daha fazla sayının ortak bölenleri arasından en büyük olanıdır, yani bu sayıların her birini bölebilen en büyük sayıdır."
+  },
+  {
+    "instruction": "Hangi durumlarda EKOK kullanılır?",
+    "output": "EKOK, genellikle farklı periyotlarla tekrarlanan olayların eş zamanlı gerçekleşme zamanlarını bulmak için kullanılır. Ayrıca, kesirli sayılarda paydaları eşitlemek ve ortak bir zaman dilimi belirlemek gibi problemler için de kullanılır."
+  },
+  {
+    "instruction": "Sayıların katlarını yazarak EKOK nasıl bulunur?",
+    "output": "Sayıların katlarını yazarak EKOK bulmak için, her bir sayının katlarını listeleyip, bu listelerde ortak olan en küçük sayıyı buluruz. Bu ortak sayı, EKOK'tur."
+  },
+  {
+    "instruction": "EKOK hesaplamada asal çarpanlara ayırma yöntemi neden tercih edilir?",
+    "output": "Asal çarpanlarına ayırma yöntemi, özellikle büyük sayılar için daha sistematik ve hızlı bir yöntemdir. Sayıların katlarını yazmak yerine, asal çarpanları kullanarak daha az işlemle doğru sonuca ulaşmayı sağlar."
+  },
+  {
+    "instruction": "Asal çarpanlarına ayırma işlemi nasıl yapılır?",
+    "output": "Asal çarpanlarına ayırma işlemi, bir sayıyı en küçük asal sayıdan başlayarak bölerek yapılır. Sayı asal bir sayıya bölündüğünde, bölüm tekrar asal sayılarla bölünmeye devam edilir. Bu işlem, bölüm 1 olana kadar sürdürülür ve elde edilen asal sayılar, sayının asal çarpanlarıdır."
+  }
+]

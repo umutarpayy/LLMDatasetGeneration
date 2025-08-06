@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Veri toplama nedir?",
+    "output": "Veri toplama, belirli bir konu veya araştırma amacı doğrultusunda bilgi veya verilerin sistematik bir şekilde toplanması sürecidir. Bu süreç, anketler, gözlemler, deneyler veya mevcut kaynaklardan bilgi derleme gibi çeşitli yöntemlerle gerçekleştirilebilir."
+  },
+  {
+    "instruction": "Veri düzenleme nasıl yapılır?",
+    "output": "Veri düzenleme, toplanan verilerin anlamlı ve analiz edilebilir bir biçime getirilmesi sürecidir. Bu süreçte veriler kategorilere ayrılır, sıralanır ve uygun formatlara dönüştürülür. Örneğin, anket sonuçları tablo halinde düzenlenebilir veya sayısal veriler grafiklerle görselleştirilebilir."
+  },
+  {
+    "instruction": "İstatistiksel analiz nedir?",
+    "output": "İstatistiksel analiz, verilerin toplanması, düzenlenmesi, yorumlanması ve sonuçların çıkarılması için kullanılan matematiksel yöntemler bütünüdür. Bu analiz, verilerin eğilimlerini, ilişkilerini ve değişkenliklerini anlamak için kullanılır."
+  },
+  {
+    "instruction": "Kategorik veri nedir?",
+    "output": "Kategorik veri, belirli kategorilere veya gruplara ayrılabilen verilerdir. Bu tür veriler sayısal değildir ve genellikle etiketler veya isimler şeklinde ifade edilir. Örneğin, cinsiyet (erkek/kadın), renk (kırmızı/mavi/yeşil) gibi veriler kategorik verilerdir."
+  },
+  {
+    "instruction": "Nicel veri nedir?",
+    "output": "Nicel veri, sayısal olarak ifade edilebilen ve ölçülebilen verilerdir. Bu tür veriler, miktar veya büyüklük gibi özellikleri ifade eder ve genellikle sayılarla temsil edilir. Örneğin, yaş, ağırlık, boy gibi veriler nicel verilerdir."
+  },
+  {
+    "instruction": "Veri analizi ne zaman yapılmalıdır?",
+    "output": "Veri analizi, bir araştırma veya projenin farklı aşamalarında yapılabilir. Genellikle, veriler toplandıktan sonra analiz edilir. Ancak, veri toplama sürecinde de ön analizler yapılarak verilerin kalitesi ve uygunluğu kontrol edilebilir. Ayrıca, sonuçların değerlendirilmesi ve yorumlanması aşamasında da veri analizi yapılır."
+  },
+  {
+    "instruction": "Veri görselleştirme neden önemlidir?",
+    "output": "Veri görselleştirme, karmaşık verilerin daha anlaşılır ve kolay yorumlanabilir hale getirilmesini sağlar. Grafikler, tablolar ve diyagramlar kullanılarak verilerin eğilimleri, ilişkileri ve dağılımları görsel olarak sunulur. Bu, verilerin daha hızlı ve etkili bir şekilde anlaşılmasına yardımcı olur."
+  },
+  {
+    "instruction": "Veri seti nasıl oluşturulur?",
+    "output": "Veri seti oluşturma, belirli bir araştırma veya analiz amacı doğrultusunda ilgili verilerin toplanması ve düzenlenmesi sürecidir. Bu süreç, veri kaynaklarının belirlenmesi, verilerin toplanması, temizlenmesi ve uygun bir formatta düzenlenmesi adımlarını içerir."
+  },
+  {
+    "instruction": "Sütun grafiği ile pasta grafiği arasındaki fark nedir?",
+    "output": "Sütun grafiği, verileri dikey veya yatay sütunlar şeklinde gösterirken, pasta grafiği verileri dairesel dilimler şeklinde gösterir. Sütun grafikleri genellikle kategorik verilerde değişiklikleri ve karşılaştırmaları göstermek için kullanılırken, pasta grafikleri bir bütünün farklı parçalarını ve oranlarını göstermek için kullanılır."
+  },
+  {
+    "instruction": "Veri doğruluğu neden önemlidir?",
+    "output": "Veri doğruluğu, analizlerin güvenilirliği ve sonuçların geçerliliği açısından kritik öneme sahiptir. Doğru veriler, doğru sonuçlar ve kararlar elde edilmesini sağlar. Yanlış veya hatalı veriler ise yanıltıcı sonuçlara ve hatalı kararlara yol açabilir."
+  }
+]

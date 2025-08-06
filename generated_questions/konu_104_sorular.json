@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denk ifadeler nedir?",
+    "output": "Denk ifadeler, matematiksel olarak aynı değere sahip olan ancak farklı şekillerde yazılmış ifadelerdir. İki ifade, tüm değişken değerleri için aynı sonucu veriyorsa, bu ifadeler denktir."
+  },
+  {
+    "instruction": "Parantezlerin matematiksel işlemlerdeki rolü nedir?",
+    "output": "Parantezler, matematiksel işlemlerde işlemlerin önceliğini belirlemek için kullanılır. Parantez içindeki işlemler, diğer işlemlerden önce yapılır. Ayrıca, parantezler dağılma özelliği gibi özelliklerin uygulanmasında da önemli bir rol oynar."
+  },
+  {
+    "instruction": "Dağılma özelliği nasıl uygulanır?",
+    "output": "Dağılma özelliği, bir sayının veya ifadenin parantez içindeki her terimle ayrı ayrı çarpılması ile uygulanır. Örneğin, a(b + c) ifadesi dağılma özelliği kullanılarak ab + ac şeklinde yazılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimlerin sıralaması neden önemlidir?",
+    "output": "Cebirsel ifadelerde terimlerin sıralaması, toplama ve çarpma işlemlerinin değişme özelliği nedeniyle genellikle sonucu etkilemez. Ancak, ifadelerin karşılaştırılması veya belirli bir formata dönüştürülmesi gerektiğinde terimlerin sıralaması önem kazanabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantezlerin kaldırılması ne zaman hatalı sonuçlar doğurur?",
+    "output": "Parantezlerin kaldırılması, dağılma özelliği doğru uygulanmadığında veya işlemlerin önceliği dikkate alınmadığında hatalı sonuçlar doğurabilir. Özellikle, parantez içindeki tüm terimlerin çarpılması gerektiği durumlarda parantezlerin yok sayılması yanlış sonuçlara yol açar."
+  },
+  {
+    "instruction": "Denk ifadeler nasıl belirlenir?",
+    "output": "Denk ifadeler, iki ifadenin tüm değişken değerleri için aynı sonucu verip vermediği kontrol edilerek belirlenir. Bu, ifadelerin sadeleştirilmesi, dağılma özelliğinin kullanılması veya terimlerin yeniden düzenlenmesi ile yapılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama işleminin değişme özelliği nedir?",
+    "output": "Toplama işleminin değişme özelliği, iki sayının veya ifadenin toplama sırasının sonucu etkilemediğini belirtir. Yani, a + b = b + a şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Çarpma işleminin değişme özelliği nedir?",
+    "output": "Çarpma işleminin değişme özelliği, iki sayının veya ifadenin çarpma sırasının sonucu etkilemediğini belirtir. Yani, a × b = b × a şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimlerin gruplandırılması neden yapılır?",
+    "output": "Terimlerin gruplandırılması, ifadelerin daha kolay anlaşılmasını ve işlemlerin daha kolay yapılmasını sağlar. Ayrıca, ortak çarpanların bulunması veya ifadelerin sadeleştirilmesi gibi işlemler için de gereklidir."
+  },
+  {
+    "instruction": "Parantezlerin yanlış kullanımı hangi hatalara yol açar?",
+    "output": "Parantezlerin yanlış kullanımı, işlemlerin yanlış sıralanmasına ve dolayısıyla hatalı sonuçlara yol açabilir. Özellikle, dağılma özelliği doğru uygulanmazsa veya parantez içindeki işlemler atlanırsa, sonuçlar yanlış olabilir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dik üçgen nedir?",
+    "output": "Dik üçgen, bir açısı 90 derece olan üçgendir. Dik açının karşısındaki kenara hipotenüs denir ve diğer iki kenara dik kenarlar denir."
+  },
+  {
+    "instruction": "Üçgenin yüksekliği nasıl bulunur?",
+    "output": "Üçgenin yüksekliği, bir köşeden karşı kenara veya karşı kenarın uzantısına dik olarak inilen doğru parçasıdır. Yükseklik, tabana dik olmalıdır ve bu, üçgenin içinden veya dışından geçebilir."
+  },
+  {
+    "instruction": "Dikdörtgene tamamlama yöntemi nedir?",
+    "output": "Dikdörtgene tamamlama yöntemi, bir üçgenin alanını bulmak için üçgeni bir dikdörtgenin parçası olarak düşünmektir. Üçgenin bir kopyası döndürülerek veya kaydırılarak dikdörtgen oluşturulur ve bu dikdörtgenin alanı hesaplanarak üçgenin alanı bulunur."
+  },
+  {
+    "instruction": "Dar açılı üçgen nedir?",
+    "output": "Dar açılı üçgen, tüm açıları 90 dereceden küçük olan üçgendir. Bu tür üçgenlerde, herhangi bir açının geniş açılı olmaması gerekir."
+  },
+  {
+    "instruction": "Geniş açılı üçgen nedir?",
+    "output": "Geniş açılı üçgen, bir açısı 90 dereceden büyük olan üçgendir. Bu tür üçgenlerde, geniş açıya sahip olan açı, diğer iki açının toplamından daha büyüktür."
+  },
+  {
+    "instruction": "Üçgenin alan formülü neden 1/2 çarpı taban çarpı yükseklik şeklindedir?",
+    "output": "Üçgenin alan formülü, üçgeni bir dikdörtgenin yarısı olarak düşünmeye dayanır. Dikdörtgenin alanı taban çarpı yükseklik olduğundan, üçgenin alanı bu alanın yarısıdır, bu nedenle 1/2 çarpı taban çarpı yükseklik olarak ifade edilir."
+  },
+  {
+    "instruction": "Üçgenin alanı hangi durumlarda negatif olur?",
+    "output": "Üçgenin alanı negatif olamaz. Alan, bir yüzeyin büyüklüğünü temsil eder ve her zaman pozitif bir değerdir."
+  },
+  {
+    "instruction": "Üçgenin alanını hesaplamak için hangi yöntemler kullanılabilir?",
+    "output": "Üçgenin alanını hesaplamak için çeşitli yöntemler kullanılabilir: taban ve yükseklik kullanarak, Heron formülü ile, sinüs kuralı ile veya koordinat düzleminde determinant yöntemi ile."
+  },
+  {
+    "instruction": "Üçgenin alanı hangi birimlerle ifade edilir?",
+    "output": "Üçgenin alanı, ölçümde kullanılan birimlerin karesiyle ifade edilir. Örneğin, uzunluk birimi santimetre ise, alan santimetrekare (cm²) olarak ifade edilir."
+  },
+  {
+    "instruction": "Üçgenin alanını bulurken nelere dikkat edilmelidir?",
+    "output": "Üçgenin alanını bulurken, taban ve yüksekliğin doğru bir şekilde belirlenmesi önemlidir. Ayrıca, yüksekliğin tabana dik olduğundan emin olunmalıdır. Geniş açılı üçgenlerde yükseklik, üçgenin dışından geçebilir, bu yüzden dikkatlice çizilmelidir."
+  }
+]

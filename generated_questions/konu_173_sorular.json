@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bağımlı ve bağımsız denklem sistemleri nedir?",
+    "output": "Bağımlı denklem sistemlerinde, iki veya daha fazla denklem aynı doğruyu temsil eder, yani her bir denklemin çözümü diğer denklemin de çözümüdür. Bağımsız denklem sistemlerinde ise, denklemler farklı doğruları temsil eder ve genellikle tek bir ortak çözüm noktası bulunur."
+  },
+  {
+    "instruction": "Bağımlı ve bağımsız denklem sistemleri nasıl ayırt edilir?",
+    "output": "Bağımlı ve bağımsız denklem sistemlerini ayırt etmek için denklemlerin eğim ve y kesenleri karşılaştırılır. Eğer iki denklem aynı eğime ve aynı y kesene sahipse, bu sistem bağımlıdır. Farklı eğimlere sahipse, sistem bağımsızdır. Aynı eğime sahip ancak farklı y kesenleri olan sistemler ise tutarsızdır."
+  },
+  {
+    "instruction": "Tutarlı ve tutarsız denklem sistemleri arasındaki fark nedir?",
+    "output": "Tutarlı denklem sistemlerinin en az bir çözümü vardır. Bu sistemler ya bir noktada kesişir (bağımsız) ya da aynı doğruyu temsil eder (bağımlı). Tutarsız denklem sistemlerinin ise hiçbir çözümü yoktur, bu genellikle paralel doğrularla temsil edilir."
+  },
+  {
+    "instruction": "Eğim-kesen noktası formu nedir ve nasıl kullanılır?",
+    "output": "Eğim-kesen noktası formu, bir doğrunun eğimini ve y eksenini kestiği noktayı belirten bir denklem formudur. Genellikle y = mx + b şeklinde yazılır, burada m eğimi, b ise y kesenini temsil eder. Bu form, doğruların grafiklerini çizmek ve karşılaştırmak için kullanılır."
+  },
+  {
+    "instruction": "Bir denklem sisteminin bağımlı olduğunu nasıl anlarız?",
+    "output": "Bir denklem sisteminin bağımlı olduğunu anlamak için denklemlerin eğim ve y kesen değerlerini karşılaştırırız. Eğer iki denklem de aynı eğime ve aynı y kesene sahipse, bu sistem bağımlıdır ve doğrular aynı doğrudur."
+  },
+  {
+    "instruction": "Bağımsız denklem sistemleri hangi özelliklere sahiptir?",
+    "output": "Bağımsız denklem sistemleri, farklı eğimlere sahip doğrular içerir ve bu doğrular genellikle tek bir noktada kesişirler. Bu sistemlerin tek bir çözümü vardır ve denklemler birbirinden bağımsızdır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eğim neden önemlidir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik olduğunu gösterir ve iki doğrunun birbirine göre konumunu belirlemede kullanılır. Denklem sistemlerinde eğim, doğruların paralel olup olmadığını veya aynı doğruyu temsil edip etmediğini belirlemek için önemlidir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde y keseni nedir ve nasıl kullanılır?",
+    "output": "Y keseni, bir doğrunun y eksenini kestiği noktadır. Denklem sistemlerinde y keseni, doğruların grafiklerini çizmek ve iki doğrunun aynı doğruyu temsil edip etmediğini belirlemek için kullanılır."
+  },
+  {
+    "instruction": "Bir denklem sisteminin çözümünün sonsuz olması ne anlama gelir?",
+    "output": "Bir denklem sisteminin çözümünün sonsuz olması, sistemin bağımlı olduğunu ve iki denklemin de aynı doğruyu temsil ettiğini gösterir. Bu durumda, doğruların üzerinde bulunan her nokta, her iki denklemi de sağlar."
+  },
+  {
+    "instruction": "Bağımlı ve bağımsız sistemlerin gerçek hayatta kullanımı nedir?",
+    "output": "Bağımlı ve bağımsız sistemler, mühendislik, ekonomi ve fizik gibi alanlarda sistemlerin davranışlarını modellemek için kullanılır. Bağımlı sistemler, aynı etkiyi temsil ederken, bağımsız sistemler farklı etki veya olayları temsil edebilir. Bu, sistemlerin analizinde ve optimizasyonunda önemlidir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kenarortay nedir?",
+    "output": "Kenarortay, bir üçgenin bir köşesinden karşı kenara çizilen ve bu kenarı iki eşit parçaya bölen doğru parçasıdır."
+  },
+  {
+    "instruction": "Ağırlık merkezi nedir?",
+    "output": "Ağırlık merkezi, bir üçgenin üç kenarortayının kesişim noktasıdır. Bu nokta, üçgenin dengede kalabileceği noktadır ve kenarortayları 2:1 oranında böler."
+  },
+  {
+    "instruction": "Kenarortayın özellikleri nelerdir?",
+    "output": "Kenarortay, karşı kenarı iki eşit parçaya böler ve üçgenin ağırlık merkezinde kesişir. Ağırlık merkezi, kenarortayı 2:1 oranında böler."
+  },
+  {
+    "instruction": "Ağırlık merkezi nasıl bulunur?",
+    "output": "Ağırlık merkezi, üçgenin üç kenarortayının kesişim noktasıdır. Kenarortayların her biri, karşı kenarı iki eşit parçaya böler ve bu noktada kesişir."
+  },
+  {
+    "instruction": "Pisagor teoremi nedir?",
+    "output": "Pisagor teoremi, bir dik üçgende, dik kenarların kareleri toplamının hipotenüsün karesine eşit olduğunu ifade eder. Formül olarak a² + b² = c² şeklinde gösterilir."
+  },
+  {
+    "instruction": "Üçgenin alanı nasıl hesaplanır?",
+    "output": "Bir üçgenin alanı, taban uzunluğu ile yüksekliğin çarpımının yarısına eşittir. Formül olarak, Alan = (taban * yükseklik) / 2 şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üçgenin kenarortaylarıyla ilgili özel bir oran var mıdır?",
+    "output": "Evet, üçgenin ağırlık merkezi, kenarortayı 2:1 oranında böler. Bu, ağırlık merkezinin kenarortaya olan uzaklığının, kenarortayın toplam uzunluğunun 2/3'ü olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Üçgenin alanını kenarortaylarla nasıl böleriz?",
+    "output": "Üçgenin üç kenarortayı, üçgenin alanını altı eşit alana böler. Her bir alt üçgenin alanı, toplam alanın 1/6'sına eşittir."
+  },
+  {
+    "instruction": "Kenarortay uzunluğu nasıl hesaplanır?",
+    "output": "Bir kenarortayın uzunluğu, üçgenin kenar uzunlukları ve kenarortayın karşısındaki kenarın uzunluğu kullanılarak hesaplanabilir. Ancak genellikle ağırlık merkezi oranları kullanılarak da hesaplanabilir."
+  },
+  {
+    "instruction": "Benzer üçgenlerin özellikleri nelerdir?",
+    "output": "Benzer üçgenler, aynı şekle sahip ancak farklı boyutlarda olan üçgenlerdir. Benzer üçgenlerin karşılıklı açıları eşittir ve karşılıklı kenarları orantılıdır."
+  }
+]

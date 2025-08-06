@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Döndürme işlemi sırasında hangi açılar kullanılır?",
+    "output": "Döndürme işlemi sırasında genellikle 0 ile 360 derece arasında herhangi bir açı kullanılabilir. Pozitif açılar saat yönünün tersine, negatif açılar ise saat yönünde döndürmeyi temsil eder."
+  },
+  {
+    "instruction": "Döndürme işlemi nasıl yapılır?",
+    "output": "Döndürme işlemi, bir şeklin belirli bir açı ve belirli bir nokta etrafında saat yönünde veya saat yönünün tersine hareket ettirilmesiyle yapılır. Bu işlemde şeklin boyutları değişmez, sadece konumu ve yönü değişir."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi koordinat sistemleri kullanılır?",
+    "output": "Döndürme işlemi genellikle Kartezyen koordinat sistemi kullanılarak yapılır. Bu sistemde, bir noktanın yeni konumu, döndürme açısı ve döndürme merkezi kullanılarak hesaplanır."
+  },
+  {
+    "instruction": "Döndürme işlemi sonucunda şeklin simetrisi nasıl etkilenir?",
+    "output": "Döndürme işlemi sonucunda şeklin simetrisi değişmez. Şekil, döndürüldüğü açının bir katı kadar simetrik ise, döndürme sonrası da simetrik kalır."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi noktalar sabit kalır?",
+    "output": "Döndürme işlemi sırasında, döndürme merkezi olarak seçilen nokta sabit kalır. Diğer tüm noktalar bu merkez etrafında hareket eder."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi geometrik şekillerde kullanılır?",
+    "output": "Döndürme işlemi, tüm geometrik şekillerde kullanılabilir. Özellikle dörtgenler, üçgenler, daireler ve çokgenler gibi şekillerin konumunu ve yönünü değiştirmek için sıkça kullanılır."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında şeklin alanı nasıl etkilenir?",
+    "output": "Döndürme işlemi sırasında şeklin alanı değişmez. Döndürme, sadece şeklin konumunu ve yönünü değiştirir, boyutlarını veya alanını etkilemez."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi alanlarda uygulanır?",
+    "output": "Döndürme işlemi, mimarlık, mühendislik, bilgisayar grafikleri ve robotik gibi birçok alanda uygulanır. Özellikle tasarım ve simülasyon süreçlerinde sıkça kullanılır."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında açı ölçü birimi olarak ne kullanılır?",
+    "output": "Döndürme işlemi sırasında açı ölçü birimi olarak genellikle derece kullanılır. Ancak bazı durumlarda radyan da kullanılabilir, özellikle matematiksel ve fiziksel hesaplamalarda."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi matematiksel formüller kullanılır?",
+    "output": "Döndürme işlemi sırasında, genellikle trigonometri formülleri kullanılır. Örneğin, bir noktanın yeni konumunu hesaplamak için sinüs ve kosinüs fonksiyonları kullanılır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgen prizma nedir?",
+    "output": "Üçgen prizma, tabanları üçgen olan ve tabanlar arasındaki yüzeyleri dikdörtgen olan üç boyutlu bir geometrik şekildir. İki tabanı birbirine paralel ve eşit üçgenlerdir."
+  },
+  {
+    "instruction": "Üçgen prizmanın hacmi nasıl hesaplanır?",
+    "output": "Üçgen prizmanın hacmi, taban alanının prizmanın yüksekliği ile çarpılmasıyla bulunur. Taban alanı, üçgenin taban uzunluğu ve yüksekliği kullanılarak 1/2 * taban * yükseklik formülü ile hesaplanır. Daha sonra bu alan, prizmanın uzunluğu ile çarpılır."
+  },
+  {
+    "instruction": "Küp nedir?",
+    "output": "Küp, tüm kenar uzunlukları eşit olan, altı kare yüzeye sahip üç boyutlu bir geometrik cisimdir. Her yüzeyi kare şeklindedir ve tüm açılar dik açıdır."
+  },
+  {
+    "instruction": "Küpün hacmi nasıl hesaplanır?",
+    "output": "Küpün hacmi, bir kenar uzunluğunun kendisiyle üç kez çarpılmasıyla bulunur. Matematiksel olarak, kenar uzunluğu a olan bir küpün hacmi a³ şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Küp ile üçgen prizma arasındaki fark nedir?",
+    "output": "Küp, tüm yüzeyleri kare olan ve tüm kenar uzunlukları eşit olan bir cisimdir. Üçgen prizma ise tabanları üçgen olan ve yan yüzeyleri dikdörtgen olan bir cisimdir. Küpün tüm yüzeyleri eşitken, üçgen prizmanın tabanları ve yan yüzeyleri farklı şekillerdedir."
+  },
+  {
+    "instruction": "Üçgen prizmanın taban alanı nasıl bulunur?",
+    "output": "Üçgen prizmanın taban alanı, taban uzunluğu ve yükseklik kullanılarak hesaplanır. Formül, 1/2 * taban * yükseklik şeklindedir."
+  },
+  {
+    "instruction": "Hacim nedir?",
+    "output": "Hacim, bir cismin üç boyutlu uzayda kapladığı alan miktarını ifade eder. Birim küpler cinsinden ölçülür ve genellikle santimetreküp (cm³), metreküp (m³) gibi birimlerle ifade edilir."
+  },
+  {
+    "instruction": "Üçgen prizmanın yüzey alanı nasıl hesaplanır?",
+    "output": "Üçgen prizmanın yüzey alanı, iki taban alanı ve üç yan yüzeyin alanlarının toplamı ile bulunur. Yan yüzeyler dikdörtgen olduğundan, her birinin alanı uzunluk ve genişlik çarpılarak hesaplanır."
+  },
+  {
+    "instruction": "Üçgen prizmanın yan yüzeyleri hangi şekildedir?",
+    "output": "Üçgen prizmanın yan yüzeyleri dikdörtgen şeklindedir. Bu dikdörtgenler, prizmanın tabanları arasındaki mesafeyi kaplar."
+  },
+  {
+    "instruction": "Küpün yüzey alanı nasıl bulunur?",
+    "output": "Küpün yüzey alanı, bir yüzeyin alanı ile toplam yüzey sayısının çarpılmasıyla bulunur. Bir yüzeyin alanı a² (kenar uzunluğunun karesi) olduğundan, toplam yüzey alanı 6a² olur."
+  }
+]

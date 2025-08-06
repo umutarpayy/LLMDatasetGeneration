@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik veya yatay olduğunu belirten bir ölçüdür. Matematiksel olarak, eğim, y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, bir doğru üzerindeki iki nokta arasındaki y eksenindeki değişimin x eksenindeki değişime oranı alınarak hesaplanır. Bu oran, genellikle (y2 - y1) / (x2 - x1) formülü ile ifade edilir."
+  },
+  {
+    "instruction": "Eğim hangi durumlarda kullanılır?",
+    "output": "Eğim, özellikle doğrusal denklemler ve grafikler üzerinde çalışırken kullanılır. Mühendislik, fizik ve ekonomi gibi alanlarda eğim, değişim oranlarını ve eğilimleri analiz etmek için kullanılır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi sabit midir?",
+    "output": "Evet, bir doğrunun eğimi sabittir. Doğru üzerindeki herhangi iki nokta arasındaki eğim, her zaman aynı sonucu verir."
+  },
+  {
+    "instruction": "Eğim ile x ekseni arasındaki ilişki nedir?",
+    "output": "Eğim, x eksenine paralel bir doğru için sıfırdır. Bu, y ekseninde herhangi bir değişim olmadığı anlamına gelir."
+  },
+  {
+    "instruction": "Eğim ve orantı arasındaki ilişki nedir?",
+    "output": "Eğim, y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlandığı için, bir orantı kavramıdır. Bu oran, doğrunun eğimini belirler."
+  },
+  {
+    "instruction": "Eğim hesaplamasında neden iki nokta seçilir?",
+    "output": "Eğim hesaplamasında iki nokta seçilmesinin nedeni, y eksenindeki ve x eksenindeki değişimleri belirlemek için bir başlangıç ve bitiş noktası gerekliliğidir. Bu iki nokta arasındaki değişim oranı, eğimi verir."
+  },
+  {
+    "instruction": "Eğim ile grafik eğriliği arasındaki fark nedir?",
+    "output": "Eğim, doğrusal bir grafiğin dikliğini veya yataylığını ölçerken, eğrilik, bir eğrinin ne kadar kıvrıldığını veya büküldüğünü ölçer. Eğim doğrusal grafikler için geçerliyken, eğrilik genellikle eğri grafiklerde kullanılır."
+  },
+  {
+    "instruction": "Eğim hesaplanırken neden negatif değerler kullanılabilir?",
+    "output": "Negatif değerler, eğimin yönünü belirtir. Eğer bir doğru sola doğru eğiliyorsa, bu durumda x eksenindeki değişim negatif olur ve eğim de negatif bir değer alır."
+  },
+  {
+    "instruction": "Eğim hesaplamasında dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Eğim hesaplamasında dikkat edilmesi gereken en önemli nokta, doğru noktaların seçilmesidir. Ayrıca, y eksenindeki değişimin x eksenindeki değişime oranını doğru bir şekilde hesaplamak ve işaretleri doğru kullanmak önemlidir."
+  }
+]

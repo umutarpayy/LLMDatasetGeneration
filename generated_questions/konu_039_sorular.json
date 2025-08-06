@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynı olduğunda üstler nasıl toplanır?",
+    "output": "Üslü ifadelerde tabanlar aynı olduğunda çarpma işlemi yapılırken üstler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde ifade edilir. Bu, aynı tabanlı iki üslü ifadeyi çarptığımızda üstlerin toplanması gerektiği anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi sırasında üstler nasıl çıkarılır?",
+    "output": "Üslü ifadelerde tabanlar aynı olduğunda bölme işlemi yapılırken üstler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde ifade edilir. Bu, aynı tabanlı iki üslü ifadeyi böldüğümüzde üstlerin çıkarılması gerektiği anlamına gelir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, aynı tabanlı ifadelerin üstlerinin çıkarılması veya çarpılması yoluyla yapılır. Örneğin, a^m / a^n ifadesinde, m > n ise, bu ifade a^(m-n) olarak sadeleştirilir. Aynı şekilde, çarpma işlemi sırasında da üstler toplanarak sadeleştirme yapılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma ve bölme işlemleri arasındaki fark nedir?",
+    "output": "Üslü ifadelerde çarpma işlemi sırasında tabanlar aynı ise üstler toplanır, bölme işlemi sırasında ise üstler çıkarılır. Örneğin, çarpma işlemi için a^m * a^n = a^(m+n) ve bölme işlemi için a^m / a^n = a^(m-n) formülleri kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bir sayının sıfırıncı kuvveti ne anlama gelir?",
+    "output": "Üslü ifadelerde herhangi bir sayının sıfırıncı kuvveti 1'e eşittir. Bu, a^0 = 1 şeklinde ifade edilir ve bu kural, sıfır olmayan tüm sayılar için geçerlidir. Bu durum, üslü ifadelerin temel özelliklerinden biridir."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üst ne anlama gelir?",
+    "output": "Üslü ifadelerde negatif üst, sayının tersinin alınması anlamına gelir. Örneğin, a^-n = 1/a^n şeklinde ifade edilir. Bu, sayının pozitif kuvvetinin tersini alarak negatif üstleri pozitif hale getirme yöntemidir."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi sırasında tabanlar farklıysa ne yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi sırasında tabanlar farklıysa, üstler toplanamaz ve ifadeler ayrı ayrı çarpılır. Örneğin, a^m * b^n ifadesinde, tabanlar farklı olduğu için üstler üzerinde bir işlem yapılmaz."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma ve bölme işlemleri hangi durumlarda kullanılır?",
+    "output": "Üslü ifadelerde çarpma işlemi, aynı tabanlı ifadelerin bir araya getirilmesi gerektiğinde kullanılırken, bölme işlemi, aynı tabanlı ifadelerin birbirinden çıkarılması gerektiğinde kullanılır. Bu işlemler, özellikle cebirsel ifadelerin sadeleştirilmesi ve çözülmesi sırasında sıkça kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanların eşitliği nasıl kontrol edilir?",
+    "output": "Üslü ifadelerde tabanların eşitliği, ifadelerin taban kısımlarının aynı olup olmadığına bakılarak kontrol edilir. Eğer tabanlar aynıysa, üstler üzerinde işlem yapılabilir. Örneğin, a^m ve a^n ifadelerinde tabanlar eşittir ve üstler toplanabilir veya çıkarılabilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde üstlerin eşitliği ne anlama gelir?",
+    "output": "Üslü ifadelerde üstlerin eşitliği, iki üslü ifadenin üst kısımlarının aynı olduğu anlamına gelir. Bu durumda, ifadeler aynı tabana sahip olmasa bile, üstlerin eşitliği nedeniyle bazı özel durumlar veya çözümler ortaya çıkabilir. Örneğin, a^n = b^n ifadesinde, n'nin eşitliği, a ve b'nin belirli koşullar altında eşit olabileceği anlamına gelebilir."
+  }
+]

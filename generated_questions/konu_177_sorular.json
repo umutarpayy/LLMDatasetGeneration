@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yerine koyma yöntemi nedir?",
+    "output": "Yerine koyma yöntemi, iki veya daha fazla denklemin bulunduğu denklem sistemlerinde, bir denklemin bir değişkenini diğer denkleme koyarak çözüm bulma yöntemidir. Bu yöntem, bir denklemin bir değişken cinsinden çözüldüğü durumlarda kullanılır ve bu değişkenin diğer denklemde yerine konmasıyla sistemin çözülmesini sağlar."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün olmaması ne anlama gelir?",
+    "output": "Denklem sistemlerinde çözümün olmaması, sistemdeki denklemlerin grafiklerinin kesişmediği anlamına gelir. Bu durum, denklemlerin paralel doğrular oluşturduğu ve bu nedenle ortak bir çözüm noktasının bulunmadığı durumlarda ortaya çıkar."
+  },
+  {
+    "instruction": "Paralel doğruların eğim ve y ekseni kesişim noktaları arasındaki ilişki nedir?",
+    "output": "Paralel doğruların eğimleri aynıdır ancak y ekseni kesişim noktaları farklıdır. Bu durum, doğruların aynı eğime sahip olduğu ancak farklı konumlarda yer aldığı anlamına gelir, bu yüzden kesişmezler."
+  },
+  {
+    "instruction": "Denklem sistemlerinde eğimlerin aynı olması neyi ifade eder?",
+    "output": "Denklem sistemlerinde eğimlerin aynı olması, doğruların paralel olduğunu ifade eder. Paralel doğrular, aynı eğime sahiptir ancak farklı y ekseni kesişim noktalarına sahiptirler, bu nedenle kesişmezler."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözümün var olup olmadığını nasıl anlarız?",
+    "output": "Denklem sistemlerinde çözümün var olup olmadığını anlamak için denklemlerin grafiklerini çizebiliriz. Eğer grafikler kesişiyorsa, bir çözüm vardır. Eğer grafikler paralelse ve kesişmiyorsa, çözüm yoktur. Eğer grafikler çakışıyorsa, sonsuz sayıda çözüm vardır."
+  },
+  {
+    "instruction": "Denklem sistemlerinde aynı eğime sahip doğrular nasıl belirlenir?",
+    "output": "Denklem sistemlerinde aynı eğime sahip doğrular, eğim katsayılarının eşit olmasıyla belirlenir. İki doğrunun eğim katsayıları eşitse, bu doğrular paraleldir ve kesişmezler."
+  },
+  {
+    "instruction": "Yerine koyma yönteminin avantajları nelerdir?",
+    "output": "Yerine koyma yönteminin avantajları, bir denklemin bir değişken cinsinden kolayca çözülebilmesi ve bu değişkenin diğer denkleme yerleştirilerek sistemin basit bir şekilde çözülebilmesidir. Bu yöntem, özellikle bir denklemin bir değişken cinsinden açıkça ifade edilebildiği durumlarda etkilidir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde y ekseni kesişim noktalarının farklı olması neyi gösterir?",
+    "output": "Denklem sistemlerinde y ekseni kesişim noktalarının farklı olması, doğruların paralel olduğunu ve bu nedenle sistemin çözümünün olmadığını gösterir. Farklı y ekseni kesişim noktaları, doğruların farklı konumlarda olduğunu ve kesişmediklerini ifade eder."
+  },
+  {
+    "instruction": "Denklem sistemlerinde çözüm yoksa bu durum grafik üzerinde nasıl gösterilir?",
+    "output": "Denklem sistemlerinde çözüm yoksa, bu durum grafik üzerinde paralel doğrular olarak gösterilir. Paralel doğrular, aynı eğime sahip olup farklı y ekseni kesişim noktalarına sahiptir, bu nedenle kesişmezler ve ortak çözüm noktaları yoktur."
+  },
+  {
+    "instruction": "Yerine koyma yöntemi hangi durumlarda kullanışlıdır?",
+    "output": "Yerine koyma yöntemi, bir denklemin bir değişken cinsinden açıkça ifade edilebildiği ve bu değişkenin diğer denkleme kolayca yerleştirilebildiği durumlarda kullanışlıdır. Bu yöntem, özellikle bir denklemin basitçe çözülebildiği ve diğer denkleme entegre edilebildiği sistemlerde etkilidir."
+  }
+]

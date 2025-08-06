@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler birbirinden çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde ifade edilir. Bu, tabanların aynı olduğu durumlarda geçerlidir ve üslü ifadelerin sadeleştirilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Negatif üs ne anlama gelir?",
+    "output": "Negatif üs, bir sayının tersini ifade eder. Örneğin, a^(-n) ifadesi, 1/a^n anlamına gelir. Bu, üslü ifadelerin daha esnek bir şekilde kullanılmasına olanak tanır ve farklı matematiksel işlemlerde kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Üslü ifadelerde sadeleştirme, benzer tabanlı ifadelerdeki üslerin uygun şekilde birleştirilmesiyle yapılır. Çarpma işleminde üsler toplanır, bölme işleminde üsler çıkarılır. Ayrıca, negatif üsler pozitif hale getirilerek ifadeler daha basit bir forma dönüştürülebilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynı olduğunda bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynı olduğunda bölme işlemi, üslerin birbirinden çıkarılması ile yapılır. Örneğin, a^m / a^n = a^(m-n) şeklinde ifade edilir. Bu işlem, ifadelerin daha basit ve anlaşılır hale getirilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler nasıl pozitif hale getirilir?",
+    "output": "Üslü ifadelerde negatif üsler, ifadenin tersinin alınmasıyla pozitif hale getirilir. Örneğin, a^(-n) ifadesi, 1/a^n olarak yazılır. Bu işlem, ifadelerin daha kolay anlaşılmasını ve kullanılmasını sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma ve bölme işlemleri arasındaki fark nedir?",
+    "output": "Üslü ifadelerde çarpma işlemi sırasında tabanlar aynı ise üsler toplanır, bölme işlemi sırasında ise üsler çıkarılır. Çarpma işlemi a^m * a^n = a^(m+n) şeklinde, bölme işlemi ise a^m / a^n = a^(m-n) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme yaparken nelere dikkat edilmelidir?",
+    "output": "Üslü ifadelerde sadeleştirme yaparken, tabanların aynı olup olmadığına dikkat edilmeli ve uygun kurallar uygulanmalıdır. Çarpma işlemi için üsler toplanırken, bölme işlemi için üsler çıkarılır. Ayrıca, negatif üsler pozitif hale getirilerek ifadeler daha basit bir forma dönüştürülmelidir."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar farklı olduğunda bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde tabanlar farklı olduğunda bölme işlemi doğrudan yapılmaz. Öncelikle ifadeler aynı tabana dönüştürülmeye çalışılır veya her bir ifade ayrı ayrı değerlendirilir. Tabanlar farklı olduğunda, genellikle çarpanlara ayırma veya diğer matematiksel yöntemler kullanılarak işlem yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme neden önemlidir?",
+    "output": "Üslü ifadelerde sadeleştirme, ifadelerin daha basit ve anlaşılır hale getirilmesini sağlar. Bu, matematiksel işlemlerin daha kolay yapılmasına ve sonuçların daha hızlı elde edilmesine yardımcı olur. Ayrıca, sadeleştirme, karmaşık ifadelerin daha kolay yönetilmesine olanak tanır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üslerin pratik kullanımı nedir?",
+    "output": "Üslü ifadelerde negatif üsler, bir sayının tersini ifade ederek, özellikle kesirli ifadelerin sadeleştirilmesinde ve işlemlerin daha kolay yapılmasında kullanılır. Negatif üsler, ifadelerin daha kompakt ve yönetilebilir hale getirilmesine yardımcı olur."
+  }
+]

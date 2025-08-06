@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem sistemi nedir?",
+    "output": "Denklem sistemi, birden fazla denklemin bir arada bulunduğu ve bu denklemlerin ortak çözümünü bulmayı amaçlayan bir matematiksel yapıdır. Genellikle iki veya daha fazla bilinmeyeni içeren denklemlerden oluşur ve bu denklemler aynı anda sağlanacak şekilde çözülür."
+  },
+  {
+    "instruction": "Grafik yöntemiyle denklem sistemleri nasıl çözülür?",
+    "output": "Grafik yöntemiyle denklem sistemlerini çözmek için her bir denklem ayrı ayrı grafik üzerinde çizilir. Çizilen doğruların kesişim noktası, denklem sisteminin çözümünü verir. Bu yöntem, özellikle iki bilinmeyenli doğrusal denklem sistemlerinde kullanışlıdır."
+  },
+  {
+    "instruction": "Bir denklem sisteminin çözümü nedir?",
+    "output": "Bir denklem sisteminin çözümü, sistemdeki tüm denklemleri aynı anda sağlayan değişken değerleridir. Çözüm, grafiksel olarak doğruların kesişim noktası, cebirsel olarak ise değişkenlerin belirli değerleri olarak ifade edilir."
+  },
+  {
+    "instruction": "Denklem sistemlerinde yaklaşık çözüm nedir?",
+    "output": "Yaklaşık çözüm, denklem sisteminin tam çözümünün bulunamadığı veya karmaşık olduğu durumlarda, çözümün yaklaşık değerlerini bulmak için kullanılan bir yöntemdir. Grafik üzerinde kesişim noktasının tam olarak belirlenememesi durumunda, bu noktanın yaklaşık koordinatları çözüm olarak kabul edilebilir."
+  },
+  {
+    "instruction": "Grafik yöntemiyle çözüm bulmanın avantajları nelerdir?",
+    "output": "Grafik yöntemiyle çözüm bulmanın avantajları arasında, çözümün görsel olarak anlaşılabilir olması ve özellikle iki bilinmeyenli doğrusal denklemler için hızlı bir çözüm sunması yer alır. Ayrıca, kesişim noktasının tahmin edilmesiyle yaklaşık çözümler de kolayca bulunabilir."
+  },
+  {
+    "instruction": "Grafik yöntemiyle çözüm bulmanın sınırlamaları nelerdir?",
+    "output": "Grafik yöntemiyle çözüm bulmanın sınırlamaları arasında, doğruların tam olarak çizilmesinin zor olduğu durumlarda çözümün kesin olmaması, çok sayıda bilinmeyenli sistemlerde uygulanmasının zor olması ve doğruların paralel olması durumunda kesişim noktasının olmaması sayılabilir."
+  },
+  {
+    "instruction": "Doğrusal denklem nedir?",
+    "output": "Doğrusal denklem, bir veya daha fazla bilinmeyeni içeren ve bu bilinmeyenlerin birinci dereceden olduğu bir denklemdir. Genellikle y = mx + b formunda ifade edilir, burada m eğimi ve b y eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "İki doğrusal denklemin kesişim noktası nasıl belirlenir?",
+    "output": "İki doğrusal denklemin kesişim noktası, her iki denklemin de aynı anda sağlandığı koordinat çifti olarak belirlenir. Grafik üzerinde bu, iki doğrunun kesiştiği noktadır. Cebirsel olarak ise, iki denklemi eşitleyerek veya birini diğerine yerine koyarak çözüm bulunabilir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda paralel olur?",
+    "output": "Doğrusal denklemler, eğimleri (m değerleri) eşit olduğunda ve y eksenini kestikleri noktalar (b değerleri) farklı olduğunda paralel olur. Paralel doğruların kesişim noktası yoktur, bu yüzden denklem sisteminin çözümü de yoktur."
+  },
+  {
+    "instruction": "Denklem sistemlerinde grafik yöntemi ne zaman tercih edilir?",
+    "output": "Denklem sistemlerinde grafik yöntemi, özellikle iki bilinmeyenli doğrusal denklemler için tercih edilir. Çözümün görsel olarak hızlı bir şekilde anlaşılabilmesi ve yaklaşık çözümlerin kolayca bulunabilmesi bu yöntemi cazip kılar. Ancak, doğruların net bir şekilde çizilebildiği ve kesişim noktasının grafik üzerinde belirgin olduğu durumlarda daha etkilidir."
+  }
+]

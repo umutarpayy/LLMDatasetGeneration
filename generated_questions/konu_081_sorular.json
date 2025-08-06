@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Kesirli üslü ifadeler nedir?",
+    "output": "Kesirli üslü ifadeler, bir sayının üssünün kesirli bir sayı olduğu ifadelerdir. Örneğin, a üzeri m/n ifadesi, a'nın n'inci kökünün m'inci kuvveti olarak tanımlanır. Bu tür ifadeler, köklü ve üslü ifadelerin bir birleşimidir."
+  },
+  {
+    "instruction": "Kesirli üslü ifadeler nasıl sadeleştirilir?",
+    "output": "Kesirli üslü ifadeleri sadeleştirmek için, üslü ifadelerin kurallarını kullanarak pay ve payda üzerindeki işlemleri ayrı ayrı yaparız. Üstleri toplama, çıkarma veya çarpma gibi işlemlerle birleştirerek daha basit bir forma dönüştürebiliriz."
+  },
+  {
+    "instruction": "Küp kök nedir ve nasıl hesaplanır?",
+    "output": "Küp kök, bir sayının üç kez çarpıldığında elde edilen sayının köküdür. Bir sayının küp kökünü hesaplamak için, o sayıyı üç eşit çarpana ayıran sayıyı buluruz. Örneğin, 27'nin küp kökü 3'tür çünkü 3 x 3 x 3 = 27'dir."
+  },
+  {
+    "instruction": "Negatif üslü ifadeler nasıl yorumlanır?",
+    "output": "Negatif üslü ifadeler, bir sayının tersini ifade eder. Örneğin, a üzeri -n, 1 bölü a üzeri n olarak yazılır. Bu, negatif üssün, sayının paydada yer alması gerektiğini gösterir."
+  },
+  {
+    "instruction": "Üslü ifadelerde tabanlar aynıysa nasıl işlem yapılır?",
+    "output": "Üslü ifadelerde tabanlar aynıysa, üstler üzerinde işlem yaparak ifadeleri birleştirebiliriz. Çarpma işlemi yapılırken üstler toplanır, bölme işlemi yapılırken üstler çıkarılır."
+  },
+  {
+    "instruction": "Bir sayının üssü kesirli olduğunda bu ne anlama gelir?",
+    "output": "Bir sayının üssü kesirli olduğunda, bu ifade o sayının kökünü ve kuvvetini birlikte ifade eder. Örneğin, a üzeri 1/2, a'nın karekökünü; a üzeri 2/3 ise a'nın küp kökünün karesini ifade eder."
+  },
+  {
+    "instruction": "Üslü ifadelerde kuvvetler nasıl birleştirilir?",
+    "output": "Üslü ifadelerde kuvvetler, tabanlar aynı olduğunda üstler toplanarak veya çıkarılarak birleştirilir. Tabanlar farklıysa, genellikle çarpma veya bölme işlemleri yapılır ve üslü ifadeler sadeleştirilir."
+  },
+  {
+    "instruction": "Karekök ve küp kök arasındaki fark nedir?",
+    "output": "Karekök, bir sayının iki eşit çarpanına ayrıldığı değeri ifade ederken, küp kök bir sayının üç eşit çarpanına ayrıldığı değeri ifade eder. Örneğin, 9'un karekökü 3'tür çünkü 3 x 3 = 9, 27'nin küp kökü 3'tür çünkü 3 x 3 x 3 = 27."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üsler nasıl pozitif yapılır?",
+    "output": "Üslü ifadelerde negatif üsler, sayının tersini alarak pozitif yapılır. Örneğin, a üzeri -n, 1 bölü a üzeri n olarak yazılır. Bu, negatif üssün, sayının paydada yer alması gerektiğini gösterir."
+  },
+  {
+    "instruction": "Üslü ifadelerde sadeleştirme neden önemlidir?",
+    "output": "Üslü ifadelerde sadeleştirme, ifadeleri daha basit ve anlaşılır hale getirir. Bu, hesaplamaların daha kolay yapılmasını sağlar ve hataların önlenmesine yardımcı olur. Ayrıca, sadeleştirilmiş ifadeler, daha karmaşık matematiksel problemlerin çözümünde temel oluşturur."
+  }
+]

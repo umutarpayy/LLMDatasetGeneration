@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eşitsizlik nedir?",
+    "output": "Eşitsizlik, iki ifadenin büyüklük veya küçüklük ilişkisini gösteren matematiksel bir ifadedir. Eşitsizlikler '>', '<', '≥', '≤' gibi sembollerle ifade edilir. Örneğin, x > 5 ifadesi, x'in 5'ten büyük olduğunu belirtir."
+  },
+  {
+    "instruction": "İki adımlı eşitsizlik nasıl çözülür?",
+    "output": "İki adımlı eşitsizlikler, bir değişkenin iki adımda izole edilmesi gereken eşitsizliklerdir. Genellikle, bu tür eşitsizlikleri çözmek için önce toplama veya çıkarma işlemi yapılır, ardından çarpma veya bölme işlemi uygulanır. Örneğin, 3x + 4 > 10 eşitsizliğinde önce 4 çıkarılır, sonra her iki taraf 3'e bölünerek x'in değeri bulunur."
+  },
+  {
+    "instruction": "Eşitsizliklerde çözüm kümesi nedir?",
+    "output": "Eşitsizliklerde çözüm kümesi, eşitsizliği sağlayan tüm olası değerlerin kümesidir. Bu küme genellikle bir sayı aralığı olarak ifade edilir. Örneğin, x > 2 eşitsizliğinin çözüm kümesi, x'in 2'den büyük tüm reel sayılar olduğu için (2, ∞) aralığıdır."
+  },
+  {
+    "instruction": "Eşitsizliklerin grafik üzerinde gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin grafik üzerinde gösterimi, sayı doğrusunda veya koordinat düzleminde yapılabilir. Sayı doğrusunda, eşitsizliğin çözüm kümesi bir aralık olarak gösterilir. Örneğin, x > 3 eşitsizliği, 3'ün sağındaki tüm sayıları kapsayan açık bir aralık olarak gösterilir. Koordinat düzleminde ise, eşitsizlikler bir bölgeyi temsil eder ve bu bölge genellikle taranarak belirtilir."
+  },
+  {
+    "instruction": "Eşitsizliklerde sınır değerlerin dahil olup olmadığını nasıl anlarız?",
+    "output": "Eşitsizliklerde sınır değerlerin dahil olup olmadığını eşitsizlik sembollerinden anlarız. '≥' ve '≤' sembolleri, sınır değerlerin dahil olduğunu gösterir. Örneğin, x ≥ 5 ifadesinde 5 dahildir. '>' ve '<' sembolleri ise sınır değerlerin dahil olmadığını belirtir. Örneğin, x > 5 ifadesinde 5 dahil değildir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi matematiksel işlemler yapılabilir?",
+    "output": "Eşitsizliklerin çözümünde toplama, çıkarma, çarpma ve bölme işlemleri yapılabilir. Ancak çarpma ve bölme işlemleri negatif bir sayı ile yapıldığında eşitsizlik yön değiştirmelidir. Bu, eşitsizliklerin çözümünde dikkat edilmesi gereken önemli bir kuraldır."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde karşılaşılan yaygın hatalar nelerdir?",
+    "output": "Eşitsizliklerin çözümünde karşılaşılan yaygın hatalar arasında, negatif bir sayı ile çarpma veya bölme yaparken eşitsizlik yönünü değiştirmeyi unutmak, yanlış toplama veya çıkarma işlemleri yapmak ve çözüm kümesini yanlış ifade etmek bulunur."
+  },
+  {
+    "instruction": "Eşitsizliklerde değişkeni izole etmenin önemi nedir?",
+    "output": "Eşitsizliklerde değişkeni izole etmek, değişkenin tek başına bir tarafta kalmasını sağlamaktır. Bu, eşitsizliğin çözümünü bulmak için gereklidir çünkü değişkenin hangi değerleri alabileceğini ancak bu şekilde belirleyebiliriz. İzole etme işlemi, eşitsizliği çözmenin temel adımlarından biridir."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde kullanılan stratejiler nelerdir?",
+    "output": "Eşitsizliklerin çözümünde kullanılan stratejiler arasında, eşitsizliği basitleştirmek için her iki taraftan aynı sayıyı toplama veya çıkarma, her iki tarafı aynı sayıya bölme veya çarpma, ve eşitsizlik yönünü doğru bir şekilde değiştirmek yer alır. Ayrıca, eşitsizliklerin grafiksel gösterimi ve çözüm kümesinin doğru bir şekilde belirlenmesi de önemli stratejilerdendir."
+  },
+  {
+    "instruction": "Eşitsizliklerin gerçek hayattaki uygulamaları nelerdir?",
+    "output": "Eşitsizlikler, gerçek hayatta birçok alanda uygulanır. Örneğin, bütçe planlaması yaparken harcamaların geliri aşmaması gerektiğini belirtmek için eşitsizlikler kullanılır. Ayrıca, mühendislikte güvenlik sınırlarını belirlemek veya ekonomi alanında karlılık analizleri yapmak için de eşitsizlikler kullanılır."
+  }
+]

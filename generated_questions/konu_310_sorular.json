@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgenin ağırlık merkezi nedir?",
+    "output": "Üçgenin ağırlık merkezi, üçgenin medyanlarının kesiştiği noktadır. Bu nokta, üçgenin her bir kenarına eşit uzaklıkta değildir ancak üçgenin dengede kalabileceği noktadır. Ağırlık merkezi, her bir medyanı 2:1 oranında böler."
+  },
+  {
+    "instruction": "Medyan nedir ve nasıl çizilir?",
+    "output": "Medyan, bir üçgenin bir köşesinden karşı kenarının orta noktasına çizilen doğru parçasıdır. Her üçgenin üç medyanı vardır ve bu medyanlar üçgenin ağırlık merkezinde kesişir."
+  },
+  {
+    "instruction": "Sentroidin özellikleri nelerdir?",
+    "output": "Sentroid, medyanların kesişim noktasıdır ve her medyanı 2:1 oranında böler. Üçgeni altı eş alanlı daha küçük üçgene böler ve üçgenin ağırlık merkezi olarak da adlandırılır."
+  },
+  {
+    "instruction": "Medyanlar bir üçgeni nasıl böler?",
+    "output": "Medyanlar bir üçgeni altı eş alanlı küçük üçgene böler. Her medyan, üçgenin alanını iki eşit parçaya böler ve üç medyanın kesişimi olan sentroid, bu altı eş alanlı üçgeni oluşturur."
+  },
+  {
+    "instruction": "Üçgenin ağırlık merkezinin medyan üzerindeki konumu nasıl belirlenir?",
+    "output": "Üçgenin ağırlık merkezi, her bir medyanın üzerinde, köşeden itibaren medyanın 2/3'ü kadar uzaklıktadır. Bu, ağırlık merkezinin medyanı iki parçaya böldüğü ve köşeye daha yakın olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Ağırlık merkezinin üçgenin dengesi üzerindeki etkisi nedir?",
+    "output": "Ağırlık merkezi, üçgenin dengede kalabileceği noktadır. Eğer üçgen bu noktadan desteklenirse, üçgen dengede durur. Bu nedenle, ağırlık merkezi bir tür denge noktasıdır."
+  },
+  {
+    "instruction": "Medyanlar ve yükseklikler arasındaki fark nedir?",
+    "output": "Medyanlar, bir köşeden karşı kenarın orta noktasına çizilen doğru parçalarıdır. Yükseklikler ise, bir köşeden karşı kenara veya karşı kenarın uzantısına dik olarak çizilen doğru parçalarıdır. Medyanlar her zaman üçgenin içindedir, ancak yükseklikler üçgenin dışında da olabilir."
+  },
+  {
+    "instruction": "Üçgenin ağırlık merkezi nasıl hesaplanır?",
+    "output": "Üçgenin ağırlık merkezi, medyanların kesişim noktasıdır ve genellikle koordinatları kullanılarak hesaplanır. Her bir köşenin koordinatları (x1, y1), (x2, y2), (x3, y3) ise, ağırlık merkezinin koordinatları ((x1+x2+x3)/3, (y1+y2+y3)/3) şeklinde bulunur."
+  },
+  {
+    "instruction": "Üçgenin medyanlarının kesişim noktası neden önemlidir?",
+    "output": "Medyanların kesişim noktası, yani ağırlık merkezi, üçgenin dengede kalabileceği noktadır. Bu nokta, üçgenin fiziksel ve geometrik özelliklerini anlamak için önemlidir ve birçok mühendislik ve fizik probleminde kullanılır."
+  },
+  {
+    "instruction": "Üçgenin ağırlık merkezinin uygulama alanları nelerdir?",
+    "output": "Üçgenin ağırlık merkezi, mühendislik, mimarlık ve fizik gibi alanlarda denge ve kütle merkezi hesaplamalarında kullanılır. Ayrıca, çeşitli geometrik problemler ve optimizasyon problemlerinde de önemli bir rol oynar."
+  }
+]

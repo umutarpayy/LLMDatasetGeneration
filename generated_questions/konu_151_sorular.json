@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Standart formdaki bir doğrusal denklem nedir?",
+    "output": "Standart formdaki bir doğrusal denklem, genellikle Ax + By = C şeklinde yazılır. Burada A, B ve C sabit katsayılardır ve A ile B aynı anda sıfır olamaz. Bu form, doğrusal denklemlerin genel bir gösterimidir ve doğrunun eğimi ve y-kesim noktası hakkında doğrudan bilgi vermez."
+  },
+  {
+    "instruction": "Standart formdan eğim-kesişim formuna nasıl geçilir?",
+    "output": "Standart formdaki bir denklemi eğim-kesişim formuna dönüştürmek için, y'yi yalnız bırakacak şekilde denklemi düzenlemek gerekir. İlk adım, x terimini denklemin diğer tarafına taşımaktır. Sonra, y'nin katsayısını 1 yapmak için her iki tarafı da bu katsayıya böleriz. Sonuçta, denklemi y = mx + b formuna dönüştürmüş oluruz."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi avantajlara sahiptir?",
+    "output": "Eğim-kesişim formu, y = mx + b, doğrunun eğimini (m) ve y-eksenini kestiği noktayı (b) doğrudan gösterir. Bu form, grafiği çizerken veya iki doğruyu karşılaştırırken oldukça kullanışlıdır çünkü eğim ve kesim noktası hakkında hızlıca bilgi sağlar."
+  },
+  {
+    "instruction": "Eğim-kesişim formunun özellikleri nelerdir?",
+    "output": "Eğim-kesişim formu, y = mx + b, doğrunun eğimini ve y-eksenini kestiği noktayı açıkça belirtir. m eğimi temsil ederken, b y-eksenini kestiği noktadır. Bu form, bir doğrunun grafiğini çizerken veya iki doğrunun paralel veya dik olup olmadığını belirlerken kullanışlıdır."
+  },
+  {
+    "instruction": "Bir doğrunun y-eksenini kesim noktası nasıl bulunur?",
+    "output": "Bir doğrunun y-eksenini kesim noktası, eğim-kesişim formundaki b değeridir. Standart formdan bu değeri bulmak için, x'i sıfır yaparak denklemi çözebiliriz. Bu, doğrunun y-eksenini kestiği noktayı verir."
+  },
+  {
+    "instruction": "Standart formun eğim-kesişim formuna göre avantajları nelerdir?",
+    "output": "Standart form, Ax + By = C, özellikle iki doğru arasındaki ilişkiyi belirlemek veya iki doğruyu karşılaştırmak için faydalıdır. Ayrıca, kesişim noktalarını bulmak için de kullanışlıdır. Bu form, doğrusal denklemlerin genel bir temsilidir ve bazı durumlarda daha basit hesaplamalar yapmayı sağlar."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile standart form arasında nasıl dönüşüm yapılır?",
+    "output": "Eğim-kesişim formundan standart forma geçmek için, y = mx + b formundaki denklemi Ax + By = C formuna dönüştürmek gerekir. Bunu yapmak için, y'yi ve x'i aynı tarafta toplar ve katsayıları uygun şekilde düzenleriz. Sonuçta, Ax + By = C formuna ulaşırız."
+  },
+  {
+    "instruction": "Doğrusal bir denklemin eğimi neyi ifade eder?",
+    "output": "Doğrusal bir denklemin eğimi, doğrunun yatay eksene göre ne kadar dik olduğunu gösterir. Pozitif eğim, doğrunun sağa yukarı doğru yükseldiğini, negatif eğim ise sağa aşağı doğru indiğini belirtir. Eğim, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda daha kullanışlıdır?",
+    "output": "Eğim-kesişim formu, y = mx + b, özellikle grafikleri çizerken veya iki doğruyu karşılaştırırken kullanışlıdır. Eğim ve y-kesim noktası hakkında doğrudan bilgi verdiği için, bu form, doğrusal ilişkileri hızlıca analiz etmek ve yorumlamak için idealdir."
+  },
+  {
+    "instruction": "Bir doğrunun y-eksenini kesim noktası neyi ifade eder?",
+    "output": "Bir doğrunun y-eksenini kesim noktası, doğrunun y eksenini kestiği noktadır. Bu nokta, x'in sıfır olduğu durumda y'nin değerini verir ve genellikle b harfi ile gösterilir. Bu bilgi, doğrunun grafiğini çizerken başlangıç noktası olarak kullanılır."
+  }
+]

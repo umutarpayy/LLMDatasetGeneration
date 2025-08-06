@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Öteleme nedir?",
+    "output": "Öteleme, bir şeklin veya nesnenin belirli bir doğrultuda ve belirli bir mesafede kaydırılması işlemidir. Bu işlem sırasında şeklin boyutu, biçimi veya yönü değişmez, sadece konumu değişir."
+  },
+  {
+    "instruction": "Öteleme nasıl yapılır?",
+    "output": "Öteleme, bir şeklin her bir noktasının belirli bir vektör kadar kaydırılması ile yapılır. Bu vektör, ötelemenin yönünü ve büyüklüğünü belirler. Öteleme işlemi, şeklin tüm noktalarına aynı vektör uygulanarak gerçekleştirilir."
+  },
+  {
+    "instruction": "Yansıma nedir?",
+    "output": "Yansıma, bir şeklin bir doğruya göre simetrik olarak diğer tarafa aktarılması işlemidir. Yansıma sonucunda şeklin boyutu ve biçimi değişmez, ancak konumu ve yönü değişebilir."
+  },
+  {
+    "instruction": "Yansıma nasıl yapılır?",
+    "output": "Yansıma, bir şeklin her bir noktasının belirli bir doğruya göre simetrik olarak karşı tarafa taşınması ile yapılır. Yansıma doğrusu, şeklin her bir noktasının yansıyan noktasına olan mesafesinin eşit olduğu bir doğru olarak belirlenir."
+  },
+  {
+    "instruction": "Döndürme nedir?",
+    "output": "Döndürme, bir şeklin belirli bir nokta etrafında belirli bir açı kadar saat yönünde veya saat yönünün tersine çevrilmesi işlemidir. Döndürme sonucunda şeklin boyutu ve biçimi değişmez, ancak konumu ve yönü değişebilir."
+  },
+  {
+    "instruction": "Döndürme nasıl yapılır?",
+    "output": "Döndürme, bir şeklin her bir noktasının belirli bir merkez nokta etrafında belirli bir açı kadar döndürülmesi ile yapılır. Döndürme işlemi sırasında, her bir noktanın merkez noktaya olan uzaklığı sabit kalır."
+  },
+  {
+    "instruction": "Öteleme ve yansıma arasındaki fark nedir?",
+    "output": "Öteleme, bir şeklin belirli bir doğrultuda ve mesafede kaydırılmasıdır ve şeklin yönü değişmez. Yansıma ise, bir şeklin bir doğruya göre simetrik olarak diğer tarafa aktarılmasıdır ve şeklin yönü değişebilir."
+  },
+  {
+    "instruction": "Yansıma hangi durumlarda kullanılır?",
+    "output": "Yansıma, simetri analizlerinde, grafik tasarımda ve optikte sıkça kullanılır. Ayrıca, yansıma simetrisi, birçok doğa ve sanat eserinde estetik bir öğe olarak yer alır."
+  },
+  {
+    "instruction": "Öteleme hangi durumlarda kullanılır?",
+    "output": "Öteleme, mühendislikte, bilgisayar grafiklerinde ve robotikte nesnelerin konumlarını değiştirmek için kullanılır. Ayrıca, matematikte ve geometri derslerinde şekillerin analizinde önemli bir yere sahiptir."
+  },
+  {
+    "instruction": "Döndürme ve yansıma arasındaki fark nedir?",
+    "output": "Döndürme, bir şeklin belirli bir nokta etrafında belirli bir açı kadar çevrilmesidir ve şeklin yönü değişir. Yansıma ise, bir şeklin bir doğruya göre simetrik olarak diğer tarafa aktarılmasıdır ve şeklin yönü değişebilir. Döndürme merkez etrafında yapılırken, yansıma bir doğruya göre yapılır."
+  }
+]

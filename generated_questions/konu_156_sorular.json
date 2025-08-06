@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Grafik çizimi nedir?",
+    "output": "Grafik çizimi, verilerin görsel bir temsilini oluşturmak için kullanılan bir yöntemdir. Matematikte, genellikle iki değişken arasındaki ilişkiyi göstermek için kullanılır. Grafikler, verilerin daha kolay anlaşılmasını sağlar ve eğilimleri, örüntüleri ve ilişkileri görselleştirir."
+  },
+  {
+    "instruction": "Bir grafik nasıl çizilir?",
+    "output": "Bir grafik çizmek için önce verileri belirlemek gerekir. Yatay eksen (x ekseni) ve dikey eksen (y ekseni) üzerinde uygun ölçekler belirlenir. Daha sonra, veriler eksenler üzerinde işaretlenir ve bu noktalar birleştirilerek grafik oluşturulur. Doğru grafik türünü seçmek (çizgi, çubuk, daire vb.) verilerin türüne bağlıdır."
+  },
+  {
+    "instruction": "Eğim nedir ve nasıl hesaplanır?",
+    "output": "Eğim, bir doğrunun dikliğini veya yatay eksene göre eğimini ifade eder. Matematikte, eğim genellikle 'm' harfi ile gösterilir ve iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Formül olarak, eğim = (y2 - y1) / (x2 - x1) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi özelliklere sahiptir?",
+    "output": "Doğrusal denklemler, genellikle y = mx + b formunda yazılır ve grafikleri düz bir çizgi oluşturur. Bu denklemlerde 'm' eğimi, 'b' ise y eksenini kestiği noktayı temsil eder. Doğrusal denklemler, iki değişken arasında sabit bir oran veya ilişkiyi ifade eder."
+  },
+  {
+    "instruction": "Y eksenini kesme noktası nedir?",
+    "output": "Y eksenini kesme noktası, bir doğrunun y eksenini kestiği noktadır. Bu nokta, x = 0 olduğunda y'nin değerini temsil eder ve genellikle doğrusal bir denklemde 'b' olarak ifade edilir. Grafik üzerinde, bu nokta y ekseni üzerinde yer alır."
+  },
+  {
+    "instruction": "İki doğrunun kesişim noktası nasıl bulunur?",
+    "output": "İki doğrunun kesişim noktası, bu doğruların aynı anda sağladığı x ve y değerlerini bulmakla mümkündür. Bu genellikle, iki denklemi eşitleyerek veya bir denklem sistemini çözerek yapılır. Kesişim noktası, her iki doğrunun da geçtiği ortak noktadır."
+  },
+  {
+    "instruction": "Doğrusal grafikler hangi durumlarda kullanılır?",
+    "output": "Doğrusal grafikler, iki değişken arasında sabit bir ilişki veya oran olduğunda kullanılır. Örneğin, bir ürünün maliyeti ve miktarı arasındaki ilişkiyi göstermek için kullanılabilir. Ayrıca, eğilimleri ve değişiklikleri zamanla izlemek için de uygundur."
+  },
+  {
+    "instruction": "Grafiklerde ölçek nasıl belirlenir?",
+    "output": "Grafiklerde ölçek, verilerin aralığına ve grafik kağıdının boyutuna bağlı olarak belirlenir. Ölçek, eksenler üzerindeki birimlerin büyüklüğünü ve aralığını tanımlar. Verilerin doğru ve okunabilir bir şekilde temsil edilmesi için uygun bir ölçek seçilmelidir."
+  },
+  {
+    "instruction": "Denklem grafikleri nasıl yorumlanır?",
+    "output": "Denklem grafikleri, iki değişken arasındaki ilişkiyi görselleştirir. Grafiğin eğimi, değişkenler arasındaki ilişkinin yönünü ve büyüklüğünü gösterir. Y eksenini kesme noktası, başlangıç değerini veya sabit terimi temsil eder. Grafik üzerindeki noktalar, belirli x değerleri için y değerlerini gösterir."
+  },
+  {
+    "instruction": "Denklem grafiği ile modelleme ne anlama gelir?",
+    "output": "Denklem grafiği ile modelleme, gerçek dünya problemlerini matematiksel denklemler ve grafikler kullanarak temsil etme sürecidir. Bu, verilerin analiz edilmesine, eğilimlerin belirlenmesine ve gelecekteki değerlerin tahmin edilmesine yardımcı olur. Modelleme, karmaşık durumları basitleştirerek anlaşılmasını kolaylaştırır."
+  }
+]

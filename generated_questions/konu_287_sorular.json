@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Pisagor Teoremi nedir?",
+    "output": "Pisagor Teoremi, bir dik üçgende, dik kenarların kareleri toplamının hipotenüsün karesine eşit olduğunu ifade eden bir teoremdir. Matematiksel olarak, a² + b² = c² şeklinde ifade edilir. Burada a ve b dik kenarlar, c ise hipotenüstür."
+  },
+  {
+    "instruction": "Dik üçgen nedir?",
+    "output": "Dik üçgen, bir açısının 90 derece olduğu üçgendir. Bu üçgende 90 derece olan açıya dik açı denir ve bu açının karşısındaki kenar hipotenüs olarak adlandırılır."
+  },
+  {
+    "instruction": "Hipotenüs nedir?",
+    "output": "Hipotenüs, bir dik üçgende, dik açının karşısında yer alan ve üçgenin en uzun kenarı olan kenardır. Pisagor Teoremi'nde hipotenüsün karesi, diğer iki kenarın kareleri toplamına eşittir."
+  },
+  {
+    "instruction": "Kare kök nasıl hesaplanır?",
+    "output": "Bir sayının kare kökü, o sayının hangi sayının karesi olduğunu bulmak için kullanılır. Örneğin, 25'in kare kökü 5'tir, çünkü 5'in karesi 25'tir. Kare kök hesaplamak için hesap makinesi kullanılabilir veya sayı asal çarpanlarına ayrılarak da bulunabilir."
+  },
+  {
+    "instruction": "Dik üçgende kenar uzunlukları nasıl bulunur?",
+    "output": "Dik üçgende kenar uzunlukları, Pisagor Teoremi kullanılarak bulunabilir. Eğer iki kenarın uzunluğu biliniyorsa, üçüncü kenar teoreme göre hesaplanabilir. Örneğin, iki dik kenar biliniyorsa, hipotenüs bu kenarların kareleri toplamının karekökü alınarak bulunur."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin uygulama alanları nelerdir?",
+    "output": "Pisagor Teoremi, geometri, trigonometri, mühendislik ve fizik gibi birçok alanda kullanılır. Özellikle mesafe hesaplamaları, yapı tasarımı ve navigasyon gibi pratik uygulamalarda sıkça kullanılır."
+  },
+  {
+    "instruction": "Dik üçgende kenar uzunlukları arasındaki ilişki nedir?",
+    "output": "Dik üçgende kenar uzunlukları arasındaki ilişki, Pisagor Teoremi ile belirlenir. Dik kenarların kareleri toplamı, hipotenüsün karesine eşittir. Bu ilişki, dik üçgenin temel özelliklerinden biridir."
+  },
+  {
+    "instruction": "Dik üçgenin alanı nasıl hesaplanır?",
+    "output": "Dik üçgenin alanı, dik kenarların çarpımının yarısı olarak hesaplanır. Matematiksel olarak, alan = (dik kenar 1 × dik kenar 2) / 2 formülü kullanılır."
+  },
+  {
+    "instruction": "Bir sayının pozitif kare kökü nedir?",
+    "output": "Bir sayının pozitif kare kökü, o sayının karesinin kendisine eşit olan pozitif sayıdır. Örneğin, 16'nın pozitif kare kökü 4'tür, çünkü 4² = 16'dır. Negatif kare kökler genellikle fiziksel uzunluklar için kullanılmaz."
+  },
+  {
+    "instruction": "Dik üçgenin hipotenüsü neden en uzun kenardır?",
+    "output": "Dik üçgenin hipotenüsü, dik açının karşısında yer alır ve diğer iki kenarın birleşimi ile oluşur. Pisagor Teoremi'ne göre, hipotenüsün karesi, diğer iki kenarın kareleri toplamına eşit olduğu için, hipotenüs her zaman en uzun kenar olur."
+  }
+]

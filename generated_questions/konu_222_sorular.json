@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dönüşüm geometrisi nedir?",
+    "output": "Dönüşüm geometrisi, bir şeklin düzlem üzerinde belirli kurallara göre yer değiştirmesini, döndürülmesini veya yansıtılmasını inceleyen matematik dalıdır. Bu dönüşümler, şeklin boyutlarını, açılarını veya alanını değiştirmeden konumunu veya yönünü değiştirir."
+  },
+  {
+    "instruction": "Öteleme nedir ve nasıl yapılır?",
+    "output": "Öteleme, bir şeklin düzlemde belirli bir doğrultu ve mesafede kaydırılması işlemidir. Öteleme sırasında şeklin boyutları ve açıları değişmez, sadece konumu değişir. Öteleme yapmak için şeklin her bir noktasının x ve y koordinatlarına sabit bir sayı eklenir."
+  },
+  {
+    "instruction": "Döndürme nedir ve nasıl gerçekleştirilir?",
+    "output": "Döndürme, bir şeklin belirli bir nokta etrafında belirli bir açı kadar döndürülmesi işlemidir. Döndürme sırasında şeklin boyutları ve açıları değişmez, sadece konumu ve yönü değişir. Döndürme işlemi, genellikle bir merkez nokta seçilerek ve bu nokta etrafında saat yönünde veya saat yönünün tersine belirli bir açı kadar dönülerek yapılır."
+  },
+  {
+    "instruction": "Yansıma nedir ve nasıl yapılır?",
+    "output": "Yansıma, bir şeklin belirli bir doğruya göre simetriği alınarak diğer tarafa geçirilmesi işlemidir. Yansıma sırasında şeklin boyutları ve açıları değişmez, ancak şeklin yönü değişebilir. Yansıma yapmak için, her bir noktanın yansıma doğrusu üzerindeki simetriği bulunur."
+  },
+  {
+    "instruction": "Dönüşüm geometrisinde hangi dönüşüm türleri vardır?",
+    "output": "Dönüşüm geometrisinde temel olarak üç tür dönüşüm vardır: öteleme, döndürme ve yansıma. Bu dönüşümler, şeklin boyutlarını ve açılarını değiştirmeden sadece konumunu veya yönünü değiştirir."
+  },
+  {
+    "instruction": "Dönüşüm geometrisi ne işe yarar?",
+    "output": "Dönüşüm geometrisi, şekillerin konum ve yön değiştirmelerini inceleyerek, simetri, benzerlik, eşlik gibi kavramların anlaşılmasını sağlar. Ayrıca, mühendislik, bilgisayar grafikleri ve mimarlık gibi alanlarda şekillerin manipülasyonu ve analizi için kullanılır."
+  },
+  {
+    "instruction": "Öteleme ile döndürme arasındaki fark nedir?",
+    "output": "Öteleme, bir şeklin düzlemde belirli bir doğrultu ve mesafede kaydırılmasıdır ve şeklin yönü değişmez. Döndürme ise, bir şeklin belirli bir nokta etrafında belirli bir açı kadar döndürülmesidir ve şeklin yönü değişebilir."
+  },
+  {
+    "instruction": "Yansıma ile döndürme arasındaki fark nedir?",
+    "output": "Yansıma, bir şeklin belirli bir doğruya göre simetriği alınarak diğer tarafa geçirilmesidir ve şeklin yönü değişebilir. Döndürme ise, bir şeklin belirli bir nokta etrafında belirli bir açı kadar döndürülmesidir ve şeklin yönü değişir."
+  },
+  {
+    "instruction": "Öteleme hangi durumlarda kullanılır?",
+    "output": "Öteleme, bir şeklin konumunu değiştirmek istediğimizde, ancak şeklin boyutlarını veya yönünü değiştirmek istemediğimizde kullanılır. Örneğin, bir nesneyi bir yerden başka bir yere taşımak için öteleme kullanılır."
+  },
+  {
+    "instruction": "Dönüşüm geometrisinde simetri nasıl tanımlanır?",
+    "output": "Dönüşüm geometrisinde simetri, bir şeklin belirli bir dönüşüm (yansıma, döndürme veya öteleme) sonrasında kendisiyle çakışması durumudur. Simetri, bir şeklin belirli bir eksen, merkez veya düzlem etrafında benzerliğini korumasıdır."
+  }
+]

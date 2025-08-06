@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Doğrusal denklem nedir?",
+    "output": "Doğrusal denklem, iki değişken arasında doğrusal bir ilişkiyi ifade eden bir denklemdir. Genellikle ax + by = c formunda yazılır ve grafiği bir doğru oluşturur."
+  },
+  {
+    "instruction": "Doğrusal bir denklemin grafiği nasıl çizilir?",
+    "output": "Doğrusal bir denklemin grafiğini çizmek için, denklemi y = mx + b formuna dönüştürüp, x'e farklı değerler vererek karşılık gelen y değerlerini buluruz. Bu noktaları koordinat düzlemine işaretleyip, noktaları birleştirerek doğruyu çizeriz."
+  },
+  {
+    "instruction": "Eğim nedir ve nasıl bulunur?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikey eksende ne kadar yükseldiğini veya alçaldığını gösteren bir değerdir. Eğim, m ile gösterilir ve genellikle y = mx + b formundaki doğrusal denklemin katsayısı olarak bulunur."
+  },
+  {
+    "instruction": "Bir doğrunun y eksenini kestiği nokta nasıl bulunur?",
+    "output": "Bir doğrunun y eksenini kestiği nokta, x = 0 olduğunda y'nin aldığı değerdir. Doğrusal denklem y = mx + b formuna dönüştürüldüğünde, b değeri doğrunun y eksenini kestiği noktayı verir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde x ve y'nin rolü nedir?",
+    "output": "Doğrusal denklemlerde x genellikle bağımsız değişken, y ise bağımlı değişkendir. x'e verilen değerler y'yi belirler ve bu iki değişken arasındaki ilişki doğrusal bir şekilde ifade edilir."
+  },
+  {
+    "instruction": "Denklemi y'ye göre çözmek ne anlama gelir?",
+    "output": "Denklemi y'ye göre çözmek, denklemi y = mx + b formuna dönüştürmek anlamına gelir. Bu, y'yi yalnız bırakmak için diğer terimleri denklemin diğer tarafına taşımayı ve y'yi ifade etmeyi içerir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde katsayılar neyi ifade eder?",
+    "output": "Doğrusal denklemlerde katsayılar, değişkenlerin önündeki sayılardır ve genellikle eğimi ve y eksenini kesme noktasını belirler. Örneğin, y = mx + b formunda m eğimi, b ise y eksenini kesme noktasını gösterir."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir nokta nasıl belirlenir?",
+    "output": "Koordinat düzleminde bir nokta, (x, y) sıralı ikilisi ile belirlenir. x, yatay eksendeki konumu, y ise dikey eksendeki konumu gösterir. Bu iki değer, noktayı düzlemde kesin bir konuma yerleştirir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda kullanılır?",
+    "output": "Doğrusal denklemler, iki değişken arasında sabit bir orantı veya ilişki olduğunda kullanılır. Bu tür denklemler, fizik, ekonomi, mühendislik gibi alanlarda çeşitli problemlerin modellenmesinde yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Doğrusal bir denklemin grafiği neden bir doğrudur?",
+    "output": "Doğrusal bir denklemin grafiği, iki değişken arasındaki ilişkinin sabit bir oranı temsil etmesi nedeniyle bir doğrudur. Bu, her iki değişkenin de birbiriyle doğrusal bir ilişki içinde olduğu anlamına gelir."
+  }
+]

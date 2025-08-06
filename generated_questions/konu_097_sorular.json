@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem nedir?",
+    "output": "Denklem, iki matematiksel ifadenin eşitliğini gösteren bir matematiksel cümledir. Genellikle bir veya daha fazla bilinmeyeni içerir ve bu bilinmeyenlerin belirli bir değeri bulmak için çözülmesi gerekir."
+  },
+  {
+    "instruction": "Denklemler nasıl çözülür?",
+    "output": "Denklemler, bilinmeyeni izole etmek ve denklemin her iki tarafını eşit tutmak için matematiksel işlemler kullanılarak çözülür. Çözüm yöntemleri arasında toplama, çıkarma, çarpma, bölme ve yerine koyma gibi işlemler bulunur."
+  },
+  {
+    "instruction": "Bir denklemin çözüm kümesi nedir?",
+    "output": "Bir denklemin çözüm kümesi, denklemi doğru yapan tüm olası değerlerin kümesidir. Bu değerler, denklemin her iki tarafının eşit olmasını sağlar."
+  },
+  {
+    "instruction": "Denklemlerde çarpma ve bölme işlemleri nasıl uygulanır?",
+    "output": "Denklemlerde çarpma ve bölme işlemleri, bilinmeyeni izole etmek için kullanılır. Bir denklemin her iki tarafına aynı sayıyı çarpar veya bölerseniz, denklemin eşitliği bozulmaz. Bu, bilinmeyeni tek başına bırakmak için kullanılır."
+  },
+  {
+    "instruction": "Denklemlerde sadeleştirme nasıl yapılır?",
+    "output": "Denklemlerde sadeleştirme, denklemin her iki tarafındaki benzer terimleri birleştirerek veya ortak çarpanları bölerek yapılır. Bu, denklemi daha basit bir forma getirir ve çözümü kolaylaştırır."
+  },
+  {
+    "instruction": "Bölme işlemi denklemlerde nasıl kullanılır?",
+    "output": "Bölme işlemi, denklemin her iki tarafını aynı sayıya bölerek bilinmeyeni izole etmek için kullanılır. Bu işlem, denklemin eşitliğini korur ve çözüm sürecinde önemli bir adımdır."
+  },
+  {
+    "instruction": "Yerine koyma yöntemi hangi durumlarda kullanılır?",
+    "output": "Yerine koyma yöntemi, bir denklemin çözümünde bir bilinmeyenin diğer bir denklemdeki eşdeğer değeriyle değiştirilmesi gerektiğinde kullanılır. Bu yöntem, özellikle birden fazla bilinmeyeni olan sistemlerde etkilidir."
+  },
+  {
+    "instruction": "Denklemlerde tahmin ve kontrol yöntemi nedir?",
+    "output": "Tahmin ve kontrol yöntemi, denklemin çözümünü tahmin ederek ve bu tahmini denkleme yerleştirerek kontrol etme sürecidir. Bu yöntem, özellikle seçeneklerin sınırlı olduğu durumlarda faydalıdır."
+  },
+  {
+    "instruction": "Denklemlerdeki değişkenler arasındaki ilişki nasıl anlaşılır?",
+    "output": "Denklemlerdeki değişkenler arasındaki ilişki, denklemin yapısını ve verilen bilgileri analiz ederek anlaşılır. Değişkenlerden birindeki değişikliklerin diğerini nasıl etkilediğini gözlemlemek, bu ilişkinin anlaşılmasına yardımcı olur."
+  },
+  {
+    "instruction": "Denklemler neden önemlidir?",
+    "output": "Denklemler, matematiksel problemlerin çözümünde ve gerçek dünya problemlerinin modellenmesinde temel araçlardır. Bilinmeyenleri bulmamıza ve değişkenler arasındaki ilişkileri anlamamıza olanak tanır, bu da bilim, mühendislik, ekonomi gibi birçok alanda uygulama bulur."
+  }
+]

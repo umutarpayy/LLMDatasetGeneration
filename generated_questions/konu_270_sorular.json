@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Simetri nedir?",
+    "output": "Simetri, bir şeklin bir eksen veya nokta etrafında döndürüldüğünde veya yansıtıldığında kendisiyle örtüşmesi durumudur. Simetri, geometrik şekillerde estetik ve denge sağlar."
+  },
+  {
+    "instruction": "Yansıma nedir?",
+    "output": "Yansıma, bir şeklin bir doğruya göre simetrik olarak diğer tarafa geçirilmesi işlemidir. Yansıma sonucunda şeklin boyutu ve biçimi değişmez, yalnızca konumu değişir."
+  },
+  {
+    "instruction": "Bir dörtgenin simetrik özellikleri nelerdir?",
+    "output": "Bir dörtgenin simetrik özellikleri, dörtgenin türüne bağlı olarak değişir. Örneğin, kare ve dikdörtgen gibi dörtgenler hem eksenel hem de merkezi simetriye sahip olabilirken, yamuklar genellikle simetriye sahip değildir."
+  },
+  {
+    "instruction": "Dörtgen çeşitleri nelerdir?",
+    "output": "Dörtgen çeşitleri arasında kare, dikdörtgen, paralelkenar, eşkenar dörtgen, yamuk ve deltoid bulunur. Her birinin farklı kenar ve açı özellikleri vardır."
+  },
+  {
+    "instruction": "Yamuk nedir ve özellikleri nelerdir?",
+    "output": "Yamuk, yalnızca bir çift paralel kenara sahip olan dörtgendir. Paralel olmayan kenarlar yamukta farklı uzunluklarda olabilir. Yamukların iç açıları toplamı 360 derecedir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl bulunur?",
+    "output": "Bir doğrunun eğimi, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Eğimi bulmak için, iki noktanın y koordinatları farkı, x koordinatları farkına bölünür."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir doğru nasıl çizilir?",
+    "output": "Koordinat düzleminde bir doğru çizmek için, doğrunun denklemi kullanılarak iki nokta belirlenir. Bu noktalar, düzlem üzerinde işaretlenir ve bir doğru ile birleştirilir."
+  },
+  {
+    "instruction": "Paralel doğruların özellikleri nelerdir?",
+    "output": "Paralel doğrular, aynı düzlemde bulunan ve kesişmeyen doğrulardır. Paralel doğruların eğimleri eşittir ve aralarındaki mesafe sabittir."
+  },
+  {
+    "instruction": "Dik doğruların özellikleri nelerdir?",
+    "output": "Dik doğrular, birbirini 90 derece açıyla kesen doğrulardır. Dik doğruların eğimleri çarpımı -1'dir."
+  },
+  {
+    "instruction": "Koordinat düzleminde bir şeklin alanı nasıl hesaplanır?",
+    "output": "Koordinat düzleminde bir şeklin alanı, şeklin türüne göre farklı yöntemlerle hesaplanır. Örneğin, dikdörtgenin alanı uzun kenar ile kısa kenarın çarpımı ile bulunurken, üçgenin alanı taban ile yüksekliğin çarpımının yarısı ile bulunur."
+  }
+]

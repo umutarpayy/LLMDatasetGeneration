@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üçgenin kenarortaylarının kesişim noktası hangi özelliklere sahiptir?",
+    "output": "Üçgenin kenarortaylarının kesişim noktası, aynı zamanda üçgenin ağırlık merkezidir. Bu nokta, her bir kenarortayın üçte ikisi kadar köşeye, üçte biri kadar ise kenara uzaklıktadır. Bu özellik, kenarortayların kesişim noktasının üçgenin dengede kalmasını sağlayan bir merkez olduğunu gösterir."
+  },
+  {
+    "instruction": "Kenarortayların kesişim noktasının koordinatları nasıl bulunur?",
+    "output": "Kenarortayların kesişim noktasının koordinatları, üçgenin köşe noktalarının koordinatlarının ortalaması alınarak bulunur. Örneğin, köşe noktalarının koordinatları (x1, y1), (x2, y2) ve (x3, y3) ise, kesişim noktasının koordinatları ((x1 + x2 + x3)/3, (y1 + y2 + y3)/3) olur."
+  },
+  {
+    "instruction": "Üçgenin kenarortayları nasıl çizilir?",
+    "output": "Üçgenin kenarortayları, her bir köşeden karşı kenara doğru çizilen ve bu kenarı iki eş parçaya bölen doğrulardır. Her üçgenin üç kenarortayı vardır ve bu kenarortaylar üçgenin ağırlık merkezinde kesişir."
+  },
+  {
+    "instruction": "Kenarortayların kesişim noktasının üçgenin ağırlık merkezi olması ne anlama gelir?",
+    "output": "Kenarortayların kesişim noktasının üçgenin ağırlık merkezi olması, bu noktanın üçgenin kütle dağılımının dengelendiği nokta olduğu anlamına gelir. Eğer üçgen homojen bir malzemeden yapılmışsa, ağırlık merkezi üçgenin dengede durduğu noktadır."
+  },
+  {
+    "instruction": "Üçgenin kenarortayları ile ilgili oranlar nasıl hesaplanır?",
+    "output": "Üçgenin kenarortayları ile ilgili en bilinen oran, kenarortayların kesişim noktasının kenara olan uzaklığının, köşeye olan uzaklığının yarısı olmasıdır. Bu, kenarortayın toplam uzunluğunun köşeden kesişim noktasına kadar olan kısmının 2/3, kesişim noktasından kenara kadar olan kısmının ise 1/3 olması şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Üçgenin kenarortayları neden önemlidir?",
+    "output": "Üçgenin kenarortayları, üçgenin ağırlık merkezini belirlemek ve üçgenin simetrik özelliklerini incelemek için önemlidir. Ayrıca, kenarortaylar üçgenin iç bölgesini eşit alanlara böler ve çeşitli geometrik problemlerin çözümünde kullanılır."
+  },
+  {
+    "instruction": "Kenarortayların kesişim noktasının uzaklıkları nasıl hesaplanır?",
+    "output": "Kenarortayların kesişim noktasının uzaklıkları, üçgenin köşe ve kenarları arasındaki mesafelerle ilişkilidir. Kesişim noktası köşeye 2/3 birim, kenara ise 1/3 birim uzaklıktadır. Bu oran, kenarortayın toplam uzunluğunun bölünmesiyle elde edilir."
+  },
+  {
+    "instruction": "Üçgenin kenarortaylarıyla ilgili hangi teoremler vardır?",
+    "output": "Üçgenin kenarortaylarıyla ilgili önemli bir teorem, kenarortayların kesişim noktasının ağırlık merkezi olması ve bu noktanın her kenarortayı 2:1 oranında bölmesidir. Ayrıca, kenarortayların uzunlukları ve üçgenin alanı ile ilgili çeşitli teoremler de bulunmaktadır."
+  },
+  {
+    "instruction": "Üçgenin kenarortayları ile köşeleri arasındaki ilişki nedir?",
+    "output": "Üçgenin kenarortayları, köşelerden karşı kenarların orta noktalarına doğru çizilir ve her kenarortay üçgenin ağırlık merkezinde kesişir. Bu, kenarortayların üçgenin simetrik ve dengeli yapısını göstermesi açısından önemlidir."
+  },
+  {
+    "instruction": "Kenarortayların kesişim noktasının üçgenin alanına etkisi nedir?",
+    "output": "Kenarortayların kesişim noktası, üçgenin alanını doğrudan etkilemez ancak üçgenin iç bölgesini eşit alanlara böler. Bu özellik, üçgenin alanıyla ilgili problemlerde kenarortayların kullanımını kolaylaştırır."
+  }
+]

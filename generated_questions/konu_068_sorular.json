@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Rasyonel ifade nedir?",
+    "output": "Rasyonel ifade, iki tam sayının oranı şeklinde yazılabilen bir ifadedir. Bu tür ifadelerde pay ve payda tam sayılardan oluşur ve paydanın sıfır olmaması gerekir."
+  },
+  {
+    "instruction": "Bir sayının karekökü nasıl sadeleştirilir?",
+    "output": "Bir sayının karekökü, sayının içindeki tam kare çarpanlar bulunarak sadeleştirilir. Örneğin, kök 8 ifadesi kök 4 çarpı kök 2 olarak yazılabilir ve kök 4 eşittir 2 olduğundan, kök 8 ifadesi 2 kök 2 olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Pay ve paydayı aynı sayı ile çarpmak ifadenin değerini nasıl etkiler?",
+    "output": "Bir kesirde pay ve paydayı aynı sayı ile çarpmak kesrin değerini değiştirmez. Bu işlem, kesrin genişletilmesi veya sadeleştirilmesi olarak adlandırılır ve kesrin oranını korur."
+  },
+  {
+    "instruction": "Kök ifadeler nasıl çarpılır?",
+    "output": "Kök ifadeler çarpılırken, kök içindeki sayılar birbiriyle çarpılır ve sonuç kök içinde yazılır. Örneğin, kök a çarpı kök b, kök (a*b) olarak yazılır."
+  },
+  {
+    "instruction": "Rasyonel bir ifade nasıl sadeleştirilir?",
+    "output": "Rasyonel bir ifade sadeleştirilirken, pay ve paydanın ortak çarpanları bulunarak her iki kısım bu çarpanlara bölünür. Bu işlem, kesrin en basit formuna indirgenmesini sağlar."
+  },
+  {
+    "instruction": "Karekök içindeki bir sayıyı rasyonel yapmak için hangi yöntem kullanılır?",
+    "output": "Karekök içindeki bir sayıyı rasyonel yapmak için, pay ve paydayı kökün eşleniği ile çarpmak kullanılır. Bu işlem, paydadan köklü ifadeyi kaldırarak ifadeyi rasyonel hale getirir."
+  },
+  {
+    "instruction": "Kök ifadelerle işlem yaparken nelere dikkat edilmelidir?",
+    "output": "Kök ifadelerle işlem yaparken, kök içindeki sayılar mümkün olduğunca sadeleştirilmeli ve kök ifadeler aynı kök derecesinde ise toplanıp çıkarılabilmelidir. Ayrıca, kök ifadelerin çarpılması ve bölünmesi kurallarına dikkat edilmelidir."
+  },
+  {
+    "instruction": "Bir ifadenin paydasından köklü ifadeyi kaldırmanın amacı nedir?",
+    "output": "Bir ifadenin paydasından köklü ifadeyi kaldırmanın amacı, ifadeyi daha basit ve standart bir formda yazmaktır. Bu, hesaplamaları kolaylaştırır ve ifadeyi rasyonel hale getirir."
+  },
+  {
+    "instruction": "Kök ifadelerin eşleniği nedir?",
+    "output": "Kök ifadelerin eşleniği, köklü bir ifadenin işaretinin değiştirilmesiyle elde edilen ifadedir. Örneğin, a + b kök c ifadesinin eşleniği a - b kök c'dir. Eşlenikler, köklü ifadeleri rasyonel hale getirmek için kullanılır."
+  },
+  {
+    "instruction": "Kök ifadelerle toplama ve çıkarma nasıl yapılır?",
+    "output": "Kök ifadelerle toplama ve çıkarma işlemleri, ancak kök içindeki sayılar aynı olduğunda yapılabilir. Aynı kök içindeki ifadeler, katsayıları toplanarak veya çıkarılarak birleştirilir. Örneğin, 3 kök 2 + 5 kök 2 = 8 kök 2."
+  }
+]

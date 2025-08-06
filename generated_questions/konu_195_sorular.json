@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki adımlı eşitsizlik nedir?",
+    "output": "İki adımlı eşitsizlik, çözümü için iki temel cebirsel işlem gerektiren bir eşitsizlik türüdür. Bu işlemler genellikle toplama veya çıkarma ve çarpma veya bölme gibi basit işlemleri içerir. İki adımlı eşitsizlikler, genellikle bir değişkenin belirli bir aralıkta yer almasını sağlar."
+  },
+  {
+    "instruction": "İki adımlı eşitsizlikler nasıl çözülür?",
+    "output": "İki adımlı eşitsizlikleri çözmek için öncelikle eşitsizliğin her iki tarafına aynı sayıyı ekleyerek veya çıkararak değişkenin etrafındaki sabit terimleri yok edin. Ardından, değişkenin katsayısını 1 yapmak için her iki tarafı da bu katsayıya bölün veya çarpın. Eğer negatif bir sayıyla bölme veya çarpma işlemi yapılıyorsa, eşitsizlik işaretinin yönünü değiştirmeyi unutmayın."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde kesirlerle nasıl başa çıkılır?",
+    "output": "Eşitsizlik çözümünde kesirlerle başa çıkmak için genellikle paydaları eşitlemek veya kesirleri ortadan kaldırmak amacıyla eşitsizliğin her iki tarafını paydaların ortak katı ile çarpmak etkili bir yöntemdir. Bu, işlemleri daha basit hale getirir ve çözüm sürecini kolaylaştırır."
+  },
+  {
+    "instruction": "Kesirli eşitsizliklerin çözümünde nelere dikkat edilmelidir?",
+    "output": "Kesirli eşitsizliklerin çözümünde, paydaların sıfır olmamasına dikkat edilmelidir. Ayrıca, eşitsizliğin her iki tarafını negatif bir sayıyla çarptığınızda veya böldüğünüzde eşitsizlik işaretinin yönünü değiştirmeyi unutmamalısınız. Bu, doğru bir çözüm elde etmek için kritik bir adımdır."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde negatif sayılarla yapılan işlemler neden önemlidir?",
+    "output": "Eşitsizlik çözümünde negatif sayılarla yapılan işlemler önemlidir çünkü negatif bir sayıyla çarpma veya bölme işlemi, eşitsizlik işaretinin yönünü değiştirir. Bu kural, eşitsizliğin doğru bir şekilde çözülmesi için hayati öneme sahiptir ve yanlış uygulandığında hatalı sonuçlara yol açabilir."
+  },
+  {
+    "instruction": "Eşitsizliklerin sayı doğrusu üzerinde gösterimi nasıl yapılır?",
+    "output": "Eşitsizliklerin sayı doğrusu üzerinde gösterimi, çözüm kümesinin hangi sayıları içerdiğini görselleştirmek için kullanılır. Eşitsizlikteki eşitlik durumu varsa (≤ veya ≥), ilgili noktalar dolu dairelerle, yoksa ( < veya >) içi boş dairelerle gösterilir. Çözüm kümesi, bu dairelerden itibaren uygun yönde bir ok ile belirtilir."
+  },
+  {
+    "instruction": "Eşitsizlik çözümünde hangi durumlarda eşitsizlik işareti değiştirilir?",
+    "output": "Eşitsizlik çözümünde, her iki tarafı da negatif bir sayıyla çarptığınızda veya böldüğünüzde eşitsizlik işareti değiştirilir. Bu, eşitsizliğin yönünü tersine çevirir ve çözümün doğru olmasını sağlar. Örneğin, -3 ile çarpmak veya bölmek eşitsizlik işaretini tersine çevirir."
+  },
+  {
+    "instruction": "Eşitsizliklerde değişkenin yalnız bırakılması neden önemlidir?",
+    "output": "Eşitsizliklerde değişkenin yalnız bırakılması, çözümün net bir şekilde ifade edilmesini sağlar. Bu, değişkenin hangi değerleri alabileceğini belirlemek için gereklidir. Değişkeni yalnız bırakmak, eşitsizliğin her iki tarafında bulunan sabit terimlerin ve katsayıların uygun işlemlerle yok edilmesiyle sağlanır."
+  },
+  {
+    "instruction": "Tam sayılı kesirler nasıl bileşik kesirlere çevrilir?",
+    "output": "Tam sayılı kesirler, tam kısım ve kesir kısmının birleştirilmesiyle bileşik kesirlere çevrilir. Tam kısmı, kesrin paydası ile çarpılır ve bu sonuca kesrin payı eklenir. Elde edilen değer, pay olarak kullanılırken, payda aynı kalır. Örneğin, 2 tam 1/3, bileşik kesir olarak 7/3 olur."
+  },
+  {
+    "instruction": "Eşitsizliklerin çözümünde hangi matematiksel kavramlar önemlidir?",
+    "output": "Eşitsizliklerin çözümünde, cebirsel işlemler, kesirler, negatif sayılarla işlemler, ve eşitsizlik işaretlerinin yön değiştirmesi gibi kavramlar önemlidir. Bu kavramlar, eşitsizliklerin doğru bir şekilde çözülmesi ve sonuçların doğru bir şekilde yorumlanması için temel oluşturur."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dikdörtgenler prizmasının hacmi nasıl hesaplanır?",
+    "output": "Dikdörtgenler prizmasının hacmi, taban alanı ile yüksekliğin çarpılmasıyla bulunur. Taban alanı, prizmanın uzunluğu ve genişliğinin çarpımıdır. Bu nedenle hacim formülü, uzunluk x genişlik x yükseklik şeklindedir."
+  },
+  {
+    "instruction": "Bileşik kesir nedir?",
+    "output": "Bileşik kesir, payı paydasına eşit veya paydasından büyük olan kesirlerdir. Bu tür kesirler, tam sayılar ve basit kesirlerin toplamı olarak da ifade edilebilir."
+  },
+  {
+    "instruction": "Kesirli sayılarla çarpmada dikkat edilmesi gerekenler nelerdir?",
+    "output": "Kesirli sayılarla çarpmada, paylar kendi aralarında, paydalar kendi aralarında çarpılır. Sonuçta elde edilen kesir sadeleştirilebilir. Çarpmadan önce kesirlerin bileşik kesir olarak ifade edilmesi işlemleri kolaylaştırabilir."
+  },
+  {
+    "instruction": "Kesirleri sadeleştirme nasıl yapılır?",
+    "output": "Kesirleri sadeleştirmek, pay ve paydanın ortak bölenleriyle bölünerek daha basit bir kesir elde etmektir. Pay ve paydanın en büyük ortak böleni (EBOB) bulunarak her iki sayı da bu bölenle bölünür."
+  },
+  {
+    "instruction": "Taban alanı nedir ve nasıl hesaplanır?",
+    "output": "Taban alanı, bir prizmanın tabanının kapladığı alanı ifade eder. Dikdörtgenler prizması için taban alanı, uzunluk ve genişliğin çarpımı ile hesaplanır."
+  },
+  {
+    "instruction": "Kesirli ölçülerle hacim hesaplamanın avantajları nelerdir?",
+    "output": "Kesirli ölçülerle hacim hesaplamak, daha küçük veya daha hassas ölçümler yapmayı sağlar. Bu, özellikle laboratuvar çalışmaları veya küçük ölçekli projelerde önemlidir."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının boyutları nasıl ifade edilir?",
+    "output": "Dikdörtgenler prizmasının boyutları genellikle uzunluk, genişlik ve yükseklik olarak ifade edilir. Bu boyutlar, prizmanın üç farklı yönünü temsil eder ve hacim hesaplamalarında kullanılır."
+  },
+  {
+    "instruction": "Hacim hesaplamalarında birim küplerin rolü nedir?",
+    "output": "Hacim hesaplamalarında birim küpler, bir cismin içini dolduracak şekilde yerleştirilen küplerdir. Bu, hacmin görsel olarak anlaşılmasını sağlar ve hacmi birim küpler cinsinden ifade etmeye yardımcı olur."
+  },
+  {
+    "instruction": "Hacmi sadeleştirme neden önemlidir?",
+    "output": "Hacmi sadeleştirmek, hesaplamaların daha basit ve anlaşılır olmasını sağlar. Bu, özellikle sonuçların daha kolay yorumlanabilmesi ve karşılaştırılabilmesi açısından önemlidir."
+  },
+  {
+    "instruction": "Dikdörtgenler prizmasının hacmi hangi durumlarda önemlidir?",
+    "output": "Dikdörtgenler prizmasının hacmi, depolama kapasitesinin belirlenmesi, inşaat projelerinde malzeme hesaplamaları ve su tankları gibi kapalı alanların kapasitesinin ölçülmesi gibi durumlarda önemlidir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Döndürme nedir?",
+    "output": "Döndürme, bir şeklin belirli bir nokta etrafında belirli bir açı ile saat yönünde veya saat yönünün tersine hareket ettirilmesidir. Bu işlem sonucunda şeklin boyutu ve biçimi değişmez, sadece konumu değişir."
+  },
+  {
+    "instruction": "Döndürme işlemi nasıl yapılır?",
+    "output": "Döndürme işlemi, döndürülecek şeklin bir merkez noktasına göre belirli bir açıyla saat yönünde veya saat yönünün tersine hareket ettirilmesiyle yapılır. Bu işlem sırasında şeklin her bir noktası, merkez noktasına olan uzaklığını koruyarak yeni konumuna taşınır."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi özelliklere sahiptir?",
+    "output": "Döndürme işlemi, şeklin boyutunu ve biçimini değiştirmez, sadece konumunu değiştirir. Döndürme işlemi sonucunda şeklin her bir noktası, döndürme merkezine olan uzaklığını korur. Ayrıca, döndürme işlemi izometriktir, yani şeklin çevresi ve alanı değişmez."
+  },
+  {
+    "instruction": "Döndürme işlemi ne işe yarar?",
+    "output": "Döndürme işlemi, geometrik şekillerin farklı konumlarda nasıl görüneceğini anlamak için kullanılır. Bu işlem, mühendislik, bilgisayar grafikleri ve mimarlık gibi alanlarda nesnelerin çeşitli açılardan nasıl görüneceğini simüle etmek için sıkça kullanılır."
+  },
+  {
+    "instruction": "Döndürme işlemi hangi durumlarda kullanılır?",
+    "output": "Döndürme işlemi, şekillerin veya nesnelerin belirli bir açıyla farklı konumlarda nasıl görüneceğini analiz etmek gerektiğinde kullanılır. Özellikle bilgisayar grafikleri, mimarlık tasarımı ve mühendislik projelerinde, nesnelerin farklı açılardan görüntülenmesi için döndürme işlemi sıkça uygulanır."
+  },
+  {
+    "instruction": "Döndürme ile yansıtma arasındaki fark nedir?",
+    "output": "Döndürme, bir şeklin belirli bir nokta etrafında belirli bir açıyla döndürülmesini ifade ederken, yansıtma bir şeklin bir eksen boyunca simetrik olarak yer değiştirmesini ifade eder. Döndürme işleminde şekil kendi etrafında dönerken, yansıtma işleminde şekil bir eksen boyunca simetrik olarak yer değiştirir."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında koordinatlar nasıl güncellenir?",
+    "output": "Döndürme işlemi sırasında bir noktanın yeni koordinatları, döndürme merkezi ve açıya bağlı olarak trigonometri kullanılarak hesaplanır. Örneğin, bir noktanın (x, y) koordinatları, θ açısı kadar döndürüldüğünde yeni koordinatlar (x', y') olur ve bunlar x' = x*cos(θ) - y*sin(θ) ve y' = x*sin(θ) + y*cos(θ) formülleriyle hesaplanır."
+  },
+  {
+    "instruction": "Döndürme işlemi sırasında hangi matematiksel işlemler kullanılır?",
+    "output": "Döndürme işlemi sırasında trigonometri, özellikle sinüs ve kosinüs fonksiyonları kullanılır. Bu fonksiyonlar, döndürülen noktanın yeni konumunu belirlemek için kullanılır. Ayrıca, döndürme işlemi sırasında matris çarpımı da kullanılabilir."
+  },
+  {
+    "instruction": "Bir şeklin döndürülmesi sırasında hangi açı türleri kullanılır?",
+    "output": "Bir şeklin döndürülmesi sırasında genellikle pozitif veya negatif açılar kullanılır. Pozitif açılar saat yönünün tersine, negatif açılar ise saat yönünde döndürmeyi ifade eder. Yaygın olarak kullanılan açılar arasında 90, 180 ve 270 derece gibi dik açılar bulunur."
+  },
+  {
+    "instruction": "Döndürme işlemi izometrik midir?",
+    "output": "Evet, döndürme işlemi izometriktir. Bu, döndürme işlemi sonucunda şeklin boyutlarının, biçiminin, çevresinin ve alanının değişmediği anlamına gelir. Yalnızca şeklin konumu değişir."
+  }
+]

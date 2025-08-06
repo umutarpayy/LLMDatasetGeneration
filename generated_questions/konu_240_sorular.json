@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dairesel grafik nedir?",
+    "output": "Dairesel grafik, verilerin bir bütün içindeki oranlarını görselleştirmek için kullanılan bir grafik türüdür. Genellikle bir daire şeklinde olup, daire dilimlere ayrılarak her bir dilim bir veri kategorisini temsil eder. Her dilimin büyüklüğü, o kategorinin toplam içindeki yüzdesel oranına bağlıdır."
+  },
+  {
+    "instruction": "Dairesel grafik nasıl okunur?",
+    "output": "Dairesel grafik okunurken her bir dilimin büyüklüğüne bakılır. Dilimin büyüklüğü, o kategorinin toplam içindeki yüzdesel oranını gösterir. Grafik üzerinde dilimlerin büyüklükleri karşılaştırılarak hangi kategorinin daha büyük veya küçük olduğu anlaşılabilir. Ayrıca, dilimlerin üzerindeki veya yanındaki yüzde değerleri de bu oranları sayısal olarak ifade eder."
+  },
+  {
+    "instruction": "Dairesel grafiklerin hangi özellikleri vardır?",
+    "output": "Dairesel grafiklerin bazı özellikleri şunlardır: 1) Her bir dilim, bir veri kategorisini temsil eder ve dilimin büyüklüğü o kategorinin bütün içindeki oranını gösterir. 2) Daire toplamda %100’ü temsil eder ve tüm dilimlerin yüzdeleri toplamı %100 olmalıdır. 3) Görsel olarak, dilimlerin büyüklükleri kolayca karşılaştırılabilir, bu da verilerin oranlarını hızlı bir şekilde anlamayı sağlar."
+  },
+  {
+    "instruction": "Dairesel grafikler ne işe yarar?",
+    "output": "Dairesel grafikler, verilerin oranlarını görselleştirerek, hangi kategorilerin daha büyük veya küçük olduğunu hızlıca anlamamıza yardımcı olur. Özellikle bir bütünün parçalarını karşılaştırmak ve görsel olarak sunmak istediğimizde kullanışlıdır. İş dünyasında satış oranları, bütçe dağılımları gibi konularda sıkça kullanılır."
+  },
+  {
+    "instruction": "Dairesel grafik ile çubuk grafik arasındaki fark nedir?",
+    "output": "Dairesel grafikler, bir bütünün parçalarını yüzdesel olarak göstermek için kullanılırken, çubuk grafikler genellikle kategorik verilerin miktarlarını karşılaştırmak için kullanılır. Dairesel grafiklerde tüm veriler bir daire içinde yer alır ve dilimlerle gösterilirken, çubuk grafiklerde her kategori için bir çubuk bulunur ve çubuğun uzunluğu o kategorinin büyüklüğünü gösterir."
+  },
+  {
+    "instruction": "Dairesel grafik hangi durumlarda kullanılır?",
+    "output": "Dairesel grafikler, özellikle bir bütünün parçalarını yüzdesel olarak göstermek ve bu parçaların birbirleriyle olan oranlarını karşılaştırmak istediğimiz durumlarda kullanılır. Örneğin, bütçe dağılımları, pazar payları, anket sonuçları gibi verilerin görselleştirilmesinde yaygın olarak tercih edilir."
+  },
+  {
+    "instruction": "Dairesel grafikler nasıl oluşturulur?",
+    "output": "Dairesel grafik oluşturmak için öncelikle verilerin toplamı hesaplanır. Her bir veri kategorisinin toplam içindeki yüzdesi bulunur. Daha sonra, bu yüzdeler daire üzerinde dilimlere dönüştürülerek her bir dilim, ilgili kategorinin büyüklüğünü temsil edecek şekilde çizilir. Grafik çiziminde, dilimlerin toplamının %100 olması gerektiği unutulmamalıdır."
+  },
+  {
+    "instruction": "Dairesel grafiklerin avantajları nelerdir?",
+    "output": "Dairesel grafiklerin avantajları arasında, verilerin yüzdesel oranlarını görsel olarak kolayca karşılaştırma imkanı sağlaması ve görsel çekiciliği bulunur. Ayrıca, bir bütünün parçalarını temsil ettiği için, hangi kategorilerin daha baskın olduğunu hızlıca anlamamıza yardımcı olur."
+  },
+  {
+    "instruction": "Dairesel grafiklerin dezavantajları nelerdir?",
+    "output": "Dairesel grafiklerin dezavantajları arasında, çok fazla kategori olduğunda okunmasının zorlaşması ve küçük dilimlerin karşılaştırılmasının güçleşmesi bulunur. Ayrıca, kesin sayısal değerler yerine yüzdesel oranlar gösterdiği için, bazı durumlarda verilerin tam anlamıyla anlaşılmasını zorlaştırabilir."
+  },
+  {
+    "instruction": "Dairesel grafiklerde veri doğruluğu nasıl sağlanır?",
+    "output": "Dairesel grafiklerde veri doğruluğunu sağlamak için, her bir dilimin yüzdesinin doğru hesaplanması ve toplam yüzdelerin %100 olması gerekir. Ayrıca, grafik üzerindeki dilimlerin büyüklüklerinin bu yüzdelere uygun şekilde çizilmesi ve doğru etiketlenmesi önemlidir. Yanlış hesaplamalar veya çizimler, verilerin yanlış yorumlanmasına neden olabilir."
+  }
+]

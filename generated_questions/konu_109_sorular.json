@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem nedir?",
+    "output": "Denklem, iki ifadenin birbirine eşit olduğunu belirten matematiksel bir ifadedir. Genellikle bir veya daha fazla bilinmeyen içerir ve bu bilinmeyenlerin hangi değerleri alabileceğini bulmak için çözülür."
+  },
+  {
+    "instruction": "Tek adımlı denklemler hangi yöntemle çözülür?",
+    "output": "Tek adımlı denklemler, genellikle bir işlemle çözülebilen basit denklemlerdir. Çözüm için, bilinmeyeni yalnız bırakmak amacıyla denklemin her iki tarafına aynı işlemi uygulayarak çözüm bulunur."
+  },
+  {
+    "instruction": "Bilinmeyen nedir ve denklemlerde nasıl kullanılır?",
+    "output": "Bilinmeyen, genellikle 'x', 'y' gibi harflerle gösterilen ve değerini bulmaya çalıştığımız değişkenlerdir. Denklemlerde, bu bilinmeyenlerin değerlerini belirlemek için işlemler yapılır."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafını aynı sayı ile çarpmanın amacı nedir?",
+    "output": "Bir denklemin her iki tarafını aynı sayı ile çarpmak, denklemin eşitliğini bozmadan bilinmeyeni yalnız bırakmak için kullanılır. Bu işlem, denklemin her iki tarafında aynı değişiklik yapılarak eşitliğin korunmasını sağlar."
+  },
+  {
+    "instruction": "Denklemlerde sağlamanın önemi nedir?",
+    "output": "Denklemlerde sağlama, bulunan çözümün doğru olup olmadığını kontrol etmek için kullanılır. Çözümü denkleme geri koyarak, her iki tarafın da eşit olup olmadığını kontrol ederiz. Bu, hataların tespit edilmesine yardımcı olur."
+  },
+  {
+    "instruction": "Çarpma işlemi ve bölme işlemi arasındaki ilişki nedir?",
+    "output": "Çarpma ve bölme işlemleri birbirinin tersidir. Bir sayıyı bir başka sayıya bölmek, aynı sayıyı bu sayının çarpmaya göre tersine çarpmakla eşdeğerdir. Örneğin, a'yı b'ye bölmek, a'yı 1/b ile çarpmakla aynıdır."
+  },
+  {
+    "instruction": "Denklemlerde katsayı nasıl tanımlanır?",
+    "output": "Katsayı, bir değişkenin önündeki çarpan olarak tanımlanır. Örneğin, 3x ifadesinde 3, x'in katsayısıdır. Katsayı, değişkenin ne kadar sayıda olduğunu belirtir."
+  },
+  {
+    "instruction": "Denklemlerdeki eşitlik nasıl sağlanır?",
+    "output": "Denklemlerde eşitlik, her iki tarafın da aynı değere sahip olması ile sağlanır. Bu, denklemin her iki tarafına aynı işlemin uygulanmasıyla korunur. Eşitlik, denklemin temel özelliğidir ve çözüm sürecinde bozulmamalıdır."
+  },
+  {
+    "instruction": "Bir denklemin çözüm kümesi nedir?",
+    "output": "Bir denklemin çözüm kümesi, denklemi doğru yapan tüm değerlerin kümesidir. Çözüm kümesi, denklemin sağladığı koşullara uygun olan tüm olası çözümleri içerir."
+  },
+  {
+    "instruction": "Denklemlerde işlemlerin sırası neden önemlidir?",
+    "output": "Denklemlerde işlemlerin sırası, doğru çözüme ulaşmak için önemlidir. Matematikte işlem önceliği kurallarına uymak, denklemin doğru bir şekilde çözülmesini sağlar. Yanlış sırayla yapılan işlemler, hatalı sonuçlara yol açabilir."
+  }
+]

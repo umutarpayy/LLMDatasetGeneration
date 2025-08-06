@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çarpmanın değişme özelliği nedir?",
+    "output": "Çarpmanın değişme özelliği, çarpılan sayıların sırasının değiştirilmesinin çarpım sonucunu etkilememesi durumudur. Yani, a × b = b × a eşitliği her zaman doğrudur."
+  },
+  {
+    "instruction": "Çarpmanın birleşme özelliği nedir?",
+    "output": "Çarpmanın birleşme özelliği, çarpma işlemi yaparken sayıların gruplandırılmasının çarpım sonucunu etkilememesi durumudur. Yani, (a × b) × c = a × (b × c) eşitliği her zaman geçerlidir."
+  },
+  {
+    "instruction": "Küp kök nedir?",
+    "output": "Küp kök, bir sayının üçüncü dereceden köküdür. Başka bir deyişle, bir sayının küp kökü, bu sayının hangi sayının küpü olduğunu belirten sayıdır. Örneğin, 8'in küp kökü 2'dir çünkü 2'nin küpü 8'dir."
+  },
+  {
+    "instruction": "Üs alma işlemi nedir ve nasıl yapılır?",
+    "output": "Üs alma işlemi, bir sayının kendisiyle belirli bir sayıda çarpılmasıdır. Örneğin, a üzeri n (a^n), a'nın kendisiyle n kez çarpılması anlamına gelir. Üs alma işlemi, tekrarlı çarpma işleminin kısa bir gösterimidir."
+  },
+  {
+    "instruction": "Köklü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Köklü ifadelerde çarpma işlemi, kök içindeki sayıların çarpılmasıyla yapılır. Aynı dereceden kökler çarpılırken, kök içindeki sayılar çarpılır ve sonuç aynı kök derecesinde yazılır. Örneğin, √a × √b = √(a × b) şeklinde hesaplanır."
+  },
+  {
+    "instruction": "Üslerin çarpma işlemi üzerindeki etkisi nedir?",
+    "output": "Üslerin çarpma işlemi üzerindeki etkisi, aynı tabana sahip üslerin çarpılması durumunda üslerin toplanmasıdır. Yani, a^m × a^n = a^(m+n) şeklinde ifade edilir. Bu özellik, üslerin çarpma işlemi sırasında nasıl birleştirileceğini gösterir."
+  },
+  {
+    "instruction": "Çarpımın kuvveti nedir ve nasıl hesaplanır?",
+    "output": "Çarpımın kuvveti, bir çarpımın tümünün belirli bir üsse yükseltilmesi durumudur. (a × b)^n = a^n × b^n şeklinde hesaplanır. Bu, çarpımın her bir bileşeninin ayrı ayrı üsse yükseltilip çarpılması anlamına gelir."
+  },
+  {
+    "instruction": "Bir sayının küp kökü nasıl bulunur?",
+    "output": "Bir sayının küp kökü, o sayının hangi sayının küpü olduğunu belirleyen sayıdır. Küp kökünü bulmak için, sayıyı asal çarpanlarına ayırarak her bir çarpanın üçüncü kuvvetini alırız. Örneğin, 27'nin küp kökü 3'tür çünkü 3^3 = 27."
+  },
+  {
+    "instruction": "Köklü ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Köklü ifadelerde sadeleştirme, kök içindeki sayıları mümkün olduğunca küçük hale getirmek için yapılır. Bu, kök içindeki sayıyı asal çarpanlarına ayırarak ve tam kare çarpanları kök dışına çıkararak yapılır. Örneğin, √18 = √(9 × 2) = 3√2 şeklinde sadeleştirilir."
+  },
+  {
+    "instruction": "Üslerin özellikleri nelerdir?",
+    "output": "Üslerin özellikleri, üslü sayılarla yapılan işlemleri kolaylaştırmak için kullanılan kurallardır. Başlıca özellikler arasında çarpma (a^m × a^n = a^(m+n)), bölme (a^m / a^n = a^(m-n)), kuvvetin kuvveti ((a^m)^n = a^(m×n)) ve çarpımın kuvveti ((a × b)^n = a^n × b^n) yer alır."
+  }
+]

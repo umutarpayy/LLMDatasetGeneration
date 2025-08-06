@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifadelerde negatif sayıların kullanımı nasıl yapılır?",
+    "output": "Cebirsel ifadelerde negatif sayılar, genellikle eksi işaretiyle gösterilir ve toplama, çıkarma, çarpma gibi işlemlerle birlikte kullanılır. Örneğin, '-7 + 8x' ifadesinde '-7' negatif bir sayıdır ve 8x terimiyle toplanmıştır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl temsil edilir?",
+    "output": "Cebirsel ifadelerde çarpma işlemi genellikle 'x' veya '*' sembolü yerine doğrudan yan yana yazılarak gösterilir. Örneğin, '8 çarpı x' ifadesi '8x' şeklinde yazılır."
+  },
+  {
+    "instruction": "Bir cebirsel ifadede terimler nasıl belirlenir?",
+    "output": "Bir cebirsel ifadede terimler, toplama veya çıkarma işlemleriyle ayrılan kısımlardır. Örneğin, '8x - 7' ifadesinde '8x' ve '-7' iki ayrı terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sabit terimler nedir?",
+    "output": "Cebirsel ifadelerde sabit terimler, değişken içermeyen sayılardır. Örneğin, '8x - 7' ifadesinde '-7' sabit terimdir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nedir?",
+    "output": "Cebirsel ifadelerde katsayı, bir değişkenin önündeki sayıdır ve değişkenin kaç katı olduğunu belirtir. Örneğin, '8x' ifadesinde '8' katsayıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Cebirsel ifadelerde toplama ve çıkarma işlemleri, benzer terimlerin birleştirilmesiyle yapılır. Örneğin, '3x + 4x' ifadesi '7x' olarak birleştirilir. Sabit terimler de kendi aralarında toplanır veya çıkarılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişken nedir?",
+    "output": "Cebirsel ifadelerde değişken, genellikle bir harfle temsil edilen ve farklı değerler alabilen bir semboldür. Örneğin, 'x' bir değişkendir ve '8x' ifadesinde 'x' değişkeni 8 ile çarpılmıştır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerdeki terimler nasıl sadeleştirilir?",
+    "output": "Cebirsel ifadelerdeki terimler, benzer terimlerin birleştirilmesiyle sadeleştirilir. Benzer terimler, aynı değişkenlere ve aynı derecelere sahip olan terimlerdir. Örneğin, '3x + 5x' ifadesi '8x' olarak sadeleştirilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, katsayıların çarpılması ve değişkenlerin çarpılması şeklinde yapılır. Örneğin, '(2x) * (3y)' ifadesi '6xy' olarak çarpılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde negatif terimler nasıl gösterilir?",
+    "output": "Cebirsel ifadelerde negatif terimler, eksi işaretiyle gösterilir. Örneğin, '-3x' ifadesi, 'x' teriminin negatif üç katı anlamına gelir. Negatif terimler, toplama ve çıkarma işlemlerinde dikkatlice ele alınmalıdır."
+  }
+]

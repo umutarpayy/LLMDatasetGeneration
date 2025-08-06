@@ -1,0 +1,237 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "process_json_files",
+        "kind": 2,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "def process_json_files():\n    \"\"\"JSON dosyalarını işleyen ana fonksiyon\"\"\"\n    global current_status\n    try:\n        # 📁 Klasörleri kontrol et\n        input_folder = \"generated_questions\"\n        output_folder = \"gpt_generated_questions\"\n        if not os.path.exists(input_folder):\n            current_status[\"errors\"].append(f\"Input klasörü bulunamadı: {input_folder}\")\n            return",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "def home():\n    \"\"\"Ana sayfa\"\"\"\n    return jsonify({\n        \"message\": \"JSON İşleme API'si\",\n        \"endpoints\": {\n            \"/status\": \"Mevcut durumu göster\",\n            \"/start\": \"İşlemi başlat\",\n            \"/stop\": \"İşlemi durdur\",\n            \"/logs\": \"Son logları göster\"\n        }",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "get_status",
+        "kind": 2,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "def get_status():\n    \"\"\"Mevcut durumu döndür\"\"\"\n    status = current_status.copy()\n    if status[\"start_time\"]:\n        elapsed = datetime.now() - status[\"start_time\"]\n        status[\"elapsed_time\"] = str(elapsed).split('.')[0]  # Saniye kısmını çıkar\n        if status[\"total_count\"] > 0:\n            progress_percent = (status[\"processed_count\"] / status[\"total_count\"]) * 100\n            status[\"progress_percent\"] = round(progress_percent, 2)\n    return jsonify(status)",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "start_processing",
+        "kind": 2,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "def start_processing():\n    \"\"\"İşlemi başlat\"\"\"\n    global current_status\n    if current_status[\"is_running\"]:\n        return jsonify({\n            \"error\": \"İşlem zaten çalışıyor\",\n            \"current_file\": current_status[\"current_file\"]\n        }), 400\n    # Status'u sıfırla\n    current_status = {",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "stop_processing",
+        "kind": 2,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "def stop_processing():\n    \"\"\"İşlemi durdur\"\"\"\n    global current_status\n    if not current_status[\"is_running\"]:\n        return jsonify({\n            \"error\": \"Çalışan işlem yok\"\n        }), 400\n    current_status[\"is_running\"] = False\n    return jsonify({\n        \"message\": \"İşlem durduruldu\",",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "get_logs",
+        "kind": 2,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "def get_logs():\n    \"\"\"Son logları döndür\"\"\"\n    return jsonify({\n        \"errors\": current_status[\"errors\"][-10:],  # Son 10 hata\n        \"completed_files\": current_status[\"completed_files\"][-10:],  # Son 10 tamamlanan\n        \"timestamp\": datetime.now().isoformat()\n    })\nif __name__ == '__main__':\n    print(\"🚀 JSON İşleme API'si başlatılıyor...\")\n    print(\"📡 Endpoints:\")",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "app = Flask(__name__)\n# 🔐 OpenAI API Key (.env dosyasından)\nopenai.api_key = os.getenv(\"OPENAI_API_KEY\")\n# API key kontrol et\nif not openai.api_key:\n    print(\"❌ HATA: OPENAI_API_KEY environment variable bulunamadı!\")\n    print(\"   .env dosyasına OPENAI_API_KEY=your-key-here ekleyin.\")\n    exit(1)\nprint(f\"✅ OpenAI API Key yüklendi: {openai.api_key[:8]}...{openai.api_key[-4:]}\")\n# 🌐 Global değişkenler",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "openai.api_key = os.getenv(\"OPENAI_API_KEY\")\n# API key kontrol et\nif not openai.api_key:\n    print(\"❌ HATA: OPENAI_API_KEY environment variable bulunamadı!\")\n    print(\"   .env dosyasına OPENAI_API_KEY=your-key-here ekleyin.\")\n    exit(1)\nprint(f\"✅ OpenAI API Key yüklendi: {openai.api_key[:8]}...{openai.api_key[-4:]}\")\n# 🌐 Global değişkenler\ncurrent_status = {\n    \"is_running\": False,",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "current_status",
+        "kind": 5,
+        "importPath": "api_server",
+        "description": "api_server",
+        "peekOfCode": "current_status = {\n    \"is_running\": False,\n    \"current_file\": \"\",\n    \"processed_count\": 0,\n    \"total_count\": 0,\n    \"start_time\": None,\n    \"errors\": [],\n    \"completed_files\": [],\n    \"current_request_time\": 0\n}",
+        "detail": "api_server",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "konu",
+        "description": "konu",
+        "peekOfCode": "openai.api_key = os.getenv(\"OPENAI_API_KEY\")\n# API key kontrol et\nif not openai.api_key:\n    print(\"❌ HATA: OPENAI_API_KEY environment variable bulunamadı!\")\n    print(\"   .env dosyasına OPENAI_API_KEY=your-key-here ekleyin.\")\n    exit(1)\n# 📁 generated_questions klasöründeki JSON dosyalarını al\ninput_folder = \"generated_questions\"\njson_files = sorted(glob.glob(os.path.join(input_folder, \"konu_*.json\")))\nprint(f\"📊 Toplam {len(json_files)} JSON dosyası bulundu.\")",
+        "detail": "konu",
+        "documentation": {}
+    },
+    {
+        "label": "input_folder",
+        "kind": 5,
+        "importPath": "konu",
+        "description": "konu",
+        "peekOfCode": "input_folder = \"generated_questions\"\njson_files = sorted(glob.glob(os.path.join(input_folder, \"konu_*.json\")))\nprint(f\"📊 Toplam {len(json_files)} JSON dosyası bulundu.\")\n# 📁 GPT response'ları için klasör oluştur\noutput_folder = \"gpt_generated_questions\"\nif not os.path.exists(output_folder):\n    os.makedirs(output_folder)\n# 🔁 Her JSON dosyası için döngü - Progress bar ile\nfor i, json_file in enumerate(tqdm(json_files, desc=\"📚 JSON dosyaları işleniyor\", unit=\"dosya\")):\n    # 📖 JSON dosyasını oku",
+        "detail": "konu",
+        "documentation": {}
+    },
+    {
+        "label": "json_files",
+        "kind": 5,
+        "importPath": "konu",
+        "description": "konu",
+        "peekOfCode": "json_files = sorted(glob.glob(os.path.join(input_folder, \"konu_*.json\")))\nprint(f\"📊 Toplam {len(json_files)} JSON dosyası bulundu.\")\n# 📁 GPT response'ları için klasör oluştur\noutput_folder = \"gpt_generated_questions\"\nif not os.path.exists(output_folder):\n    os.makedirs(output_folder)\n# 🔁 Her JSON dosyası için döngü - Progress bar ile\nfor i, json_file in enumerate(tqdm(json_files, desc=\"📚 JSON dosyaları işleniyor\", unit=\"dosya\")):\n    # 📖 JSON dosyasını oku\n    try:",
+        "detail": "konu",
+        "documentation": {}
+    },
+    {
+        "label": "output_folder",
+        "kind": 5,
+        "importPath": "konu",
+        "description": "konu",
+        "peekOfCode": "output_folder = \"gpt_generated_questions\"\nif not os.path.exists(output_folder):\n    os.makedirs(output_folder)\n# 🔁 Her JSON dosyası için döngü - Progress bar ile\nfor i, json_file in enumerate(tqdm(json_files, desc=\"📚 JSON dosyaları işleniyor\", unit=\"dosya\")):\n    # 📖 JSON dosyasını oku\n    try:\n        with open(json_file, \"r\", encoding=\"utf-8\") as f:\n            json_data = json.load(f)\n        # JSON verisini string olarak format et",
+        "detail": "konu",
+        "documentation": {}
+    }
+]

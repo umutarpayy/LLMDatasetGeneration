@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Medyal üçgen nedir?",
+    "output": "Medyal üçgen, bir üçgenin her bir kenarının orta noktalarını birleştirerek elde edilen yeni bir üçgendir. Bu üçgen, orijinal üçgenin içindedir ve her kenarı orijinal üçgenin kenarlarının yarısına eşittir."
+  },
+  {
+    "instruction": "Medyal üçgenin özellikleri nelerdir?",
+    "output": "Medyal üçgen, orijinal üçgeni dört eşit alana böler. Bu dört üçgen birbirine eşittir ve orijinal üçgene benzerler. Medyal üçgenin kenarları, orijinal üçgenin kenarlarının yarısı uzunluğundadır ve paralel kenarlara sahiptir."
+  },
+  {
+    "instruction": "Üçgen benzerliği nedir?",
+    "output": "Üçgen benzerliği, iki üçgenin şekil olarak aynı ancak boyut olarak farklı olduğu durumu ifade eder. Benzer üçgenlerde, karşılıklı açıları eşit ve karşılıklı kenarların oranları sabittir."
+  },
+  {
+    "instruction": "Kenar-Açı-Kenar (KAK) benzerliği nedir?",
+    "output": "Kenar-Açı-Kenar (KAK) benzerliği, iki üçgenin birer açısının eşit ve bu açının iki yanındaki kenarların oranlarının eşit olduğu durumda, üçgenlerin benzer olduğunu ifade eden bir benzerlik kriteridir."
+  },
+  {
+    "instruction": "Medyal üçgenin kenarları nasıl hesaplanır?",
+    "output": "Medyal üçgenin her bir kenarı, orijinal üçgenin karşılıklı kenarının yarısına eşittir. Bu, orta noktaların birleştirilmesiyle elde edilen kenarların uzunluklarının, orijinal üçgenin kenarlarının yarısı kadar olduğu anlamına gelir."
+  },
+  {
+    "instruction": "Üçgenin alanı nasıl hesaplanır?",
+    "output": "Bir üçgenin alanı, taban uzunluğu ile yüksekliğinin çarpımının yarısına eşittir. Formül olarak, Alan = (taban × yükseklik) / 2 şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Üçgenin iç açıları toplamı nedir?",
+    "output": "Bir üçgenin iç açıları toplamı her zaman 180 derecedir. Bu, üçgenin temel bir geometrik özelliğidir ve tüm üçgenler için geçerlidir."
+  },
+  {
+    "instruction": "Benzer üçgenlerin alanları arasındaki ilişki nedir?",
+    "output": "Benzer üçgenlerin alanları arasındaki oran, benzerlik oranının karesine eşittir. Eğer iki üçgenin benzerlik oranı k ise, alanlarının oranı k² olur."
+  },
+  {
+    "instruction": "Paralel kenarlar nasıl tanımlanır?",
+    "output": "Paralel kenarlar, aynı düzlemde bulunan ve hiçbir noktada kesişmeyen iki doğru parçasıdır. Paralel kenarlar, her zaman eşit mesafede kalır ve birbirine dik olan herhangi bir doğruya karşı aynı eğimi gösterir."
+  },
+  {
+    "instruction": "Üçgenin kenarları arasındaki oranlar nasıl belirlenir?",
+    "output": "Üçgenin kenarları arasındaki oranlar, benzerlik veya eşitlik durumlarına göre belirlenir. Benzer üçgenlerde, karşılıklı kenarların oranları sabittir. Bu oranlar, benzerlik kriterlerine (Kenar-Kenar-Kenar, Kenar-Açı-Kenar, Açı-Kenar-Açı) göre hesaplanabilir."
+  }
+]

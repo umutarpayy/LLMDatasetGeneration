@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklemler matematikte ne işe yarar?",
+    "output": "Denklemler, matematikte bilinmeyen değerleri bulmak, ilişkileri modellemek ve problemleri çözmek için kullanılır. Gerçek dünya problemlerini matematiksel bir biçimde ifade ederek çözüm sürecini sistematik hale getirirler."
+  },
+  {
+    "instruction": "Bir denklemin çözümü nasıl kontrol edilir?",
+    "output": "Bir denklemin çözümü, elde edilen değeri denklemin yerine koyarak ve denklemin her iki tarafının eşit olup olmadığını kontrol ederek doğrulanır. Eğer eşitlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Denklem çözümünde ters işlemler nasıl kullanılır?",
+    "output": "Denklem çözümünde ters işlemler, denklemin her iki tarafında aynı işlemi uygulayarak bilinmeyeni izole etmek için kullanılır. Örneğin, toplama işleminin tersi çıkarma, çarpmanın tersi bölmedir. Bu işlemler, denklemi sadeleştirerek çözüm bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Tek adımlı denklemler hangi durumlarda kullanılır?",
+    "output": "Tek adımlı denklemler, genellikle basit problemler veya doğrudan bir bilinmeyeni izole etme gerektiren durumlarda kullanılır. Bu tür denklemler, genellikle bir işlemle çözülebilir ve başlangıç seviyesindeki cebir problemlerinde yaygındır."
+  },
+  {
+    "instruction": "Denklemlerde eşitliğin korunumu ne anlama gelir?",
+    "output": "Denklemlerde eşitliğin korunumu, denklemin her iki tarafına aynı işlemi uyguladığınızda eşitliğin bozulmaması anlamına gelir. Bu prensip, denklemleri çözerken yapılan işlemlerin geçerliliğini sağlar."
+  },
+  {
+    "instruction": "Bir denklemi çözerken hangi adımlar izlenir?",
+    "output": "Bir denklemi çözerken genellikle şu adımlar izlenir: 1) Denklemi sadeleştirme, 2) Bilinmeyeni izole etmek için ters işlemleri kullanma, 3) Çözümü kontrol etme. Bu adımlar, doğru ve sistematik bir çözüm süreci sağlar."
+  },
+  {
+    "instruction": "Denklemlerde değişken nedir?",
+    "output": "Denklemlerde değişken, genellikle bir harfle temsil edilen ve farklı değerler alabilen bilinmeyen bir sayıdır. Değişkenler, denklemlerdeki bilinmeyenleri ifade eder ve çözüm sürecinde bu değerler bulunur."
+  },
+  {
+    "instruction": "Denklem çözümünde toplama ve çıkarma işlemleri nasıl kullanılır?",
+    "output": "Denklem çözümünde toplama ve çıkarma işlemleri, denklemin her iki tarafına aynı değeri ekleyerek veya çıkararak bilinmeyeni izole etmek için kullanılır. Bu işlemler, denklemi sadeleştirerek çözüm bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Denklemlerde çarpma ve bölme işlemleri nasıl kullanılır?",
+    "output": "Denklemlerde çarpma ve bölme işlemleri, denklemin her iki tarafını aynı sayı ile çarparak veya bölerek bilinmeyeni izole etmek için kullanılır. Bu işlemler, denklemi sadeleştirerek çözüm bulmayı kolaylaştırır."
+  },
+  {
+    "instruction": "Denklemlerle modelleme ne anlama gelir?",
+    "output": "Denklemlerle modelleme, gerçek dünya problemlerini matematiksel ifadelerle temsil etme sürecidir. Bu, problemlerin çözülebilmesi için matematiksel bir çerçeve oluşturur ve çözüm sürecini sistematik hale getirir."
+  }
+]

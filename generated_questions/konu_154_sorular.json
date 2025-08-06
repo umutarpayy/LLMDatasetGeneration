@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Tek adımlı denklem nedir?",
+    "output": "Tek adımlı denklem, çözümü için yalnızca bir matematiksel işlem gerektiren denklemdir. Genellikle bir bilinmeyen içeren ve bu bilinmeyeni izole etmek için toplama, çıkarma, çarpma veya bölme gibi basit işlemlerle çözülen denklemlerdir."
+  },
+  {
+    "instruction": "Denklem çözümünde değişken tanımlamanın önemi nedir?",
+    "output": "Denklem çözümünde değişken tanımlamak, problemin daha kolay anlaşılmasını ve çözülmesini sağlar. Değişkenler, bilinmeyen miktarları temsil eder ve denklemin kurulmasına yardımcı olur. Bu, özellikle karmaşık problemler için çözüm sürecini sistematik hale getirir."
+  },
+  {
+    "instruction": "Bir denklemi cebirsel olarak ifade etmek neden faydalıdır?",
+    "output": "Bir denklemi cebirsel olarak ifade etmek, problemi daha genel bir biçimde analiz etmeyi ve farklı senaryoları kolayca değerlendirmeyi sağlar. Cebirsel ifadeler, değişkenlerin ve sabitlerin ilişkilerini net bir şekilde gösterir, bu da çözüm sürecini daha anlaşılır ve sistematik hale getirir."
+  },
+  {
+    "instruction": "Denklem kurma süreci nasıl işler?",
+    "output": "Denklem kurma süreci, problemin dikkatle okunması ve bilinmeyenlerin belirlenmesiyle başlar. Ardından, problemde verilen bilgilerin matematiksel ifadelerle temsil edilmesi gerekir. Bu ifadeler, genellikle toplama, çıkarma, çarpma ve bölme gibi işlemlerle birleştirilerek bir denklem oluşturulur."
+  },
+  {
+    "instruction": "Deneme ve temel program maliyetleri nasıl karşılaştırılır?",
+    "output": "Deneme ve temel program maliyetleri, her bir program için oluşturulan denklemler kullanılarak karşılaştırılır. Her program için aylık toplam maliyet denklemi kurulur ve bu denklemler, farklı seans sayıları için hesaplanarak hangi programın daha avantajlı olduğu belirlenir."
+  },
+  {
+    "instruction": "Denklemlerle senaryo analizi nasıl yapılır?",
+    "output": "Denklemlerle senaryo analizi, farklı değişken değerleri için denklemleri çözerek yapılır. Her senaryo, belirli bir değişken değerine karşılık gelen maliyet veya sonuçları gösterir. Bu, farklı koşullar altında en iyi seçeneği belirlemeye yardımcı olur."
+  },
+  {
+    "instruction": "Denklemlerde sabit terimlerin rolü nedir?",
+    "output": "Denklemlerde sabit terimler, belirli bir miktarın veya değerin değişmediğini ve her durumda aynı kaldığını gösterir. Sabit terimler, denklemin genel yapısını etkiler ve genellikle başlangıç maliyetleri veya temel ücretler gibi sabit giderleri temsil eder."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi matematiksel işlemler kullanılır?",
+    "output": "Denklem çözümünde genellikle toplama, çıkarma, çarpma ve bölme gibi temel matematiksel işlemler kullanılır. Bu işlemler, bilinmeyeni izole etmek ve denklemi çözmek için kullanılır. İşlemler, denklemin her iki tarafına eşit şekilde uygulanmalıdır."
+  },
+  {
+    "instruction": "Denklemlerle maliyet analizi yapmanın avantajları nelerdir?",
+    "output": "Denklemlerle maliyet analizi yapmak, karar verme sürecini daha objektif ve sistematik hale getirir. Denklemler, farklı seçeneklerin maliyetlerini karşılaştırmayı kolaylaştırır ve hangi seçeneğin daha ekonomik olduğunu belirlemeye yardımcı olur. Bu, bütçe planlaması ve kaynak yönetimi için önemlidir."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi stratejiler kullanılır?",
+    "output": "Denklem çözümünde kullanılan stratejiler arasında, bilinmeyeni izole etme, her iki tarafa eşit işlemler uygulama ve denklemi sadeleştirme yer alır. Ayrıca, denklemi kontrol etme ve doğrulama stratejileri de çözümün doğruluğunu garanti etmek için kullanılır."
+  }
+]

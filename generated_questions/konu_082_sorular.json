@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Değişken nedir?",
+    "output": "Değişken, cebirde farklı değerler alabilen bir semboldür. Matematiksel ifadelerde, genellikle harflerle temsil edilir ve bu harfler, belirli bir duruma veya probleme bağlı olarak değişen miktarları ifade eder."
+  },
+  {
+    "instruction": "Değişkenler neden kullanılır?",
+    "output": "Değişkenler, matematiksel problemleri ve ifadeleri genelleştirmek için kullanılır. Farklı durumlar için farklı değerler alabilen değişkenler, bir problemin çözümünde esneklik sağlar ve genel çözümler üretmeye yardımcı olur."
+  },
+  {
+    "instruction": "Cebirde değişkenler nasıl temsil edilir?",
+    "output": "Cebirde değişkenler genellikle harflerle temsil edilir. Bu harfler, problemdeki bilinmeyen veya değişken miktarları ifade eder. Örneğin, x, y, z gibi harfler sıkça kullanılan değişken sembolleridir."
+  },
+  {
+    "instruction": "Değişkenlerin özellikleri nelerdir?",
+    "output": "Değişkenler, farklı değerler alabilir ve bu değerler problem bağlamına göre değişir. Değişkenler, matematiksel ifadelerde ve denklemlerde kullanılır ve genellikle harflerle gösterilir. Ayrıca, değişkenler, bir ifadenin veya denklemin sonucunu etkileyen önemli unsurlardır."
+  },
+  {
+    "instruction": "Değişken kullanmanın avantajları nelerdir?",
+    "output": "Değişken kullanmanın avantajları arasında, problemleri genelleştirme yeteneği, farklı durumlar için esneklik sağlama ve matematiksel ifadeleri daha anlaşılır ve yönetilebilir hale getirme bulunur. Değişkenler, karmaşık problemleri daha basit hale getirerek çözüm süreçlerini kolaylaştırır."
+  },
+  {
+    "instruction": "Bir matematiksel ifadede değişken nasıl tanımlanır?",
+    "output": "Bir matematiksel ifadede değişken, genellikle bir harfle tanımlanır ve bu harf, ifadedeki bilinmeyen veya değişken miktarı temsil eder. Değişkenin aldığı değerler, problem bağlamına göre belirlenir ve bu değerler ifadenin sonucunu etkiler."
+  },
+  {
+    "instruction": "Değişkenler hangi durumlarda kullanılır?",
+    "output": "Değişkenler, bilinmeyen miktarların veya değişken miktarların söz konusu olduğu her türlü matematiksel problemde kullanılır. Özellikle cebirsel ifadelerde, denklemlerde ve fonksiyonlarda değişkenler önemli bir rol oynar."
+  },
+  {
+    "instruction": "Değişkenlerle çalışırken dikkat edilmesi gerekenler nelerdir?",
+    "output": "Değişkenlerle çalışırken, her değişkenin neyi temsil ettiğini açıkça tanımlamak önemlidir. Ayrıca, değişkenlerin alabileceği değer aralıklarını ve bu değerlerin problem üzerindeki etkilerini anlamak da kritik bir öneme sahiptir."
+  },
+  {
+    "instruction": "Değişkenlerin farklı değerler alması ne anlama gelir?",
+    "output": "Değişkenlerin farklı değerler alması, bir problemdeki koşullara veya duruma göre değişkenin temsil ettiği miktarın değişebileceği anlamına gelir. Bu, problemin farklı senaryolar için çözüm üretmesini sağlar ve esneklik kazandırır."
+  },
+  {
+    "instruction": "Değişken sembolü seçerken nelere dikkat edilmelidir?",
+    "output": "Değişken sembolü seçerken, sembolün problemdeki durumu veya miktarı temsil etmesi ve anlaşılır olması önemlidir. Genellikle, problemle alakalı harfler veya semboller seçilir, ancak bu bir zorunluluk değildir; sembolün tanımlı ve anlaşılır olması yeterlidir."
+  }
+]

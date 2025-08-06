@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dal-yaprak grafiği nedir?",
+    "output": "Dal-yaprak grafiği, verilerin hızlı ve kolay bir şekilde görselleştirilmesini sağlayan bir istatistiksel grafik türüdür. Sayıların basamaklarına göre ayrılarak düzenlenmesiyle oluşturulur ve veri setinin dağılımını anlamak için kullanılır."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği nasıl oluşturulur?",
+    "output": "Dal-yaprak grafiği oluşturmak için önce veriler basamaklarına ayrılır. Sol tarafta 'dal' kısmı, genellikle onlar basamağını temsil ederken, sağ tarafta 'yaprak' kısmı birler basamağını temsil eder. Veriler bu şekilde düzenlenerek grafik oluşturulur."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği hangi özelliklere sahiptir?",
+    "output": "Dal-yaprak grafiği, verilerin sıralı bir şekilde görselleştirilmesini sağlar ve veri setinin merkezi eğilim ve dağılımı hakkında bilgi verir. Ayrıca, veri setindeki mod, medyan gibi istatistiksel ölçümleri kolayca belirlemeye yardımcı olur."
+  },
+  {
+    "instruction": "Dal-yaprak grafikleri ne işe yarar?",
+    "output": "Dal-yaprak grafikleri, veri setinin dağılımını ve merkezi eğilimlerini hızlı bir şekilde görselleştirmek için kullanılır. Özellikle küçük veri setlerinde, verilerin detaylı bir şekilde incelenmesine olanak tanır."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile histogram arasındaki fark nedir?",
+    "output": "Dal-yaprak grafiği, verileri basamaklarına ayırarak detaylı bir şekilde gösterirken, histogram verileri belirli aralıklara ayırarak frekans dağılımını gösterir. Dal-yaprak grafiği, verilerin tam değerlerini korurken, histogram daha genel bir görünüm sunar."
+  },
+  {
+    "instruction": "Dal-yaprak grafikleri hangi durumlarda kullanılır?",
+    "output": "Dal-yaprak grafikleri, özellikle küçük ve orta büyüklükteki veri setlerinde, verilerin dağılımını ve merkezi eğilimlerini görselleştirmek için kullanılır. Detaylı veri analizi gerektiren durumlarda tercih edilir."
+  },
+  {
+    "instruction": "Dal-yaprak grafiğinde veri okuma nasıl yapılır?",
+    "output": "Dal-yaprak grafiğinde, sol taraftaki dal kısmı genellikle onlar basamağını, sağ taraftaki yaprak kısmı ise birler basamağını temsil eder. Her bir yaprak, dalın temsil ettiği sayı ile birleştirilerek tam sayı olarak okunur."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği oluştururken nelere dikkat edilmelidir?",
+    "output": "Dal-yaprak grafiği oluştururken, verilerin doğru bir şekilde basamaklarına ayrılması ve sıralanması önemlidir. Ayrıca, grafiğin okunabilir ve anlaşılır olması için yaprakların düzenli bir şekilde yerleştirilmesi gereklidir."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği kullanmanın avantajları nelerdir?",
+    "output": "Dal-yaprak grafiği, verilerin detaylı bir şekilde incelenmesine olanak tanır ve veri setinin dağılımını görselleştirir. Ayrıca, verilerin tam değerlerini koruyarak, merkezi eğilim ölçümlerinin kolayca yapılmasını sağlar."
+  },
+  {
+    "instruction": "Dal-yaprak grafiği ile çizgi grafiği arasındaki fark nedir?",
+    "output": "Dal-yaprak grafiği, verilerin basamaklarına ayrılarak detaylı bir şekilde gösterilmesini sağlarken, çizgi grafiği verilerin zaman içindeki değişimini göstermek için kullanılır. Dal-yaprak grafiği daha çok dağılım analizi için, çizgi grafiği ise trend analizi için uygundur."
+  }
+]

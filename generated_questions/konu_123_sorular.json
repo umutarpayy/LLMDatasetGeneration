@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Denklem nedir?",
+    "output": "Denklem, iki matematiksel ifadenin eşit olduğunu belirten bir ifadedir. Genellikle bir veya daha fazla bilinmeyen içerir ve bu bilinmeyenlerin değerlerini bulmak için çözülür."
+  },
+  {
+    "instruction": "Sıralı ikili nasıl yazılır?",
+    "output": "Sıralı ikili, iki elemandan oluşan ve belirli bir sıraya sahip olan bir çift olarak yazılır. Genellikle parantez içinde (x, y) şeklinde ifade edilir, burada x birinci eleman, y ise ikinci elemandır."
+  },
+  {
+    "instruction": "Bir denklemin çözümü nasıl kontrol edilir?",
+    "output": "Bir denklemin çözümünü kontrol etmek için, verilen sıralı ikilideki x ve y değerleri denkleme yerleştirilir ve denklemin her iki tarafı hesaplanır. Eğer eşitlik sağlanıyorsa, bu sıralı ikili denklemin bir çözümüdür."
+  },
+  {
+    "instruction": "Denklemlerde x ve y'nin rolü nedir?",
+    "output": "Denklemlerde x ve y genellikle bilinmeyenlerdir ve denklemin çözümü bu bilinmeyenlerin hangi değerleri alabileceğini belirler. x genellikle yatay ekseni, y ise dikey ekseni temsil eder."
+  },
+  {
+    "instruction": "İki değişkenli denklemler nasıl çözülür?",
+    "output": "İki değişkenli denklemler genellikle sıralı ikililer kullanılarak çözülür. Bu, denklemin sağ tarafını ve sol tarafını eşit hale getiren x ve y değerlerini bulmayı içerir. Çözüm, genellikle denklemi sağlayan sıralı ikililer kümesi olarak ifade edilir."
+  },
+  {
+    "instruction": "Denklemler hangi amaçlarla kullanılır?",
+    "output": "Denklemler, bilinmeyenleri bulmak, ilişkileri modellemek ve problemleri çözmek için kullanılır. Matematik, mühendislik, ekonomi ve bilim gibi birçok alanda önemli bir araçtır."
+  },
+  {
+    "instruction": "Sıralı ikililer hangi özelliklere sahiptir?",
+    "output": "Sıralı ikililer, elemanlarının sırasının önemli olduğu çiftlerdir. (x, y) ve (y, x) gibi sıralı ikililer genellikle farklı kabul edilir, çünkü birincisi x'i birinci eleman, y'yi ikinci eleman olarak alırken, ikincisi y'yi birinci eleman, x'i ikinci eleman olarak alır."
+  },
+  {
+    "instruction": "Denklem çözümünde hata kontrolü nasıl yapılır?",
+    "output": "Denklem çözümünde hata kontrolü, çözüm olarak bulunan değerlerin denkleme geri konulması ve her iki tarafın eşit olup olmadığının kontrol edilmesiyle yapılır. Eğer eşitlik sağlanıyorsa, çözüm doğrudur."
+  },
+  {
+    "instruction": "Denklemlerde katsayı nedir?",
+    "output": "Denklemlerde katsayı, bir değişkenin önündeki sabit sayıdır. Örneğin, 4x teriminde 4, x'in katsayısıdır. Katsayılar, denklemin yapısını ve çözümünü etkiler."
+  },
+  {
+    "instruction": "İki değişkenli denklemler nasıl modellenir?",
+    "output": "İki değişkenli denklemler, genellikle bir düzlem üzerinde bir doğru veya eğri olarak modellenir. Bu modelleme, denklemin çözüm kümesini görselleştirmeye ve analiz etmeye yardımcı olur."
+  }
+]

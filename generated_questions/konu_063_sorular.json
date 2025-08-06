@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Rasyonel sayı nedir?",
+    "output": "Rasyonel sayı, iki tam sayının oranı olarak ifade edilebilen sayılardır. Yani, bir rasyonel sayı a/b şeklinde yazılabilir, burada a ve b tam sayılar ve b sıfırdan farklıdır."
+  },
+  {
+    "instruction": "İrrasyonel sayı nedir?",
+    "output": "İrrasyonel sayı, iki tam sayının oranı olarak ifade edilemeyen sayılardır. Bu sayılar, ondalık gösteriminde sonsuz ve tekrarsız bir şekilde devam eder. Örneğin, pi (π) ve karekök 2 irrasyonel sayılardır."
+  },
+  {
+    "instruction": "Karekök nedir?",
+    "output": "Karekök, bir sayının hangi sayının karesi olduğunu bulmamıza yarayan matematiksel bir işlemdir. Örneğin, 25'in karekökü 5'tir çünkü 5'in karesi 25'tir."
+  },
+  {
+    "instruction": "Karekök nasıl sadeleştirilir?",
+    "output": "Karekök sadeleştirme, bir sayının karekökünü daha basit bir forma dönüştürmek için asal çarpanlarına ayırma yöntemini kullanır. Sayının içindeki tam kareleri belirleyip, kök dışına çıkartarak sadeleştirme yapılır."
+  },
+  {
+    "instruction": "Bir sayının karekökünün rasyonel mi irrasyonel mi olduğunu nasıl anlarız?",
+    "output": "Bir sayının karekökü tam sayı ise rasyoneldir. Eğer karekök tam sayı değilse ve asal sayı içeriyorsa, bu durumda irrasyoneldir. Örneğin, 4'ün karekökü 2'dir ve rasyoneldir, ancak 2'nin karekökü irrasyoneldir."
+  },
+  {
+    "instruction": "Karekök işlemi hangi durumlarda irrasyonel sonuç verir?",
+    "output": "Karekök işlemi, sonucunda tam sayı elde edilemeyen ve asal sayı içeren durumlarda irrasyonel sonuç verir. Örneğin, 2 veya 3 gibi asal sayıların karekökleri irrasyoneldir."
+  },
+  {
+    "instruction": "Karekök işlemi sırasında payda nasıl rasyonel hale getirilir?",
+    "output": "Karekök işlemi sırasında paydada köklü bir ifade varsa, bu ifadeyi rasyonel hale getirmek için hem payı hem de paydayı köklü ifadenin eşleniği ile çarparız. Bu işlem, paydadaki kökün ortadan kalkmasını sağlar."
+  },
+  {
+    "instruction": "Karekök işlemi neden önemlidir?",
+    "output": "Karekök işlemi, matematikte birçok alanda kullanılır. Özellikle geometri, cebir ve trigonometri gibi konularda, uzunluk hesaplamaları ve denklemler çözerken önemlidir. Ayrıca, mühendislik ve bilimsel hesaplamalarda da yaygın olarak kullanılır."
+  },
+  {
+    "instruction": "Tam kare sayı ile karekök arasındaki ilişki nedir?",
+    "output": "Tam kare sayı, bir tam sayının karesi olarak ifade edilebilen sayıdır. Örneğin, 9 bir tam kare sayıdır çünkü 3'ün karesidir. Karekök işlemi, tam kare sayının hangi sayının karesi olduğunu bulmamıza yardımcı olur."
+  },
+  {
+    "instruction": "Karekök işlemi sırasında hangi matematiksel kurallara dikkat edilmelidir?",
+    "output": "Karekök işlemi sırasında, negatif sayıların karekökünün reel sayılar arasında tanımlı olmadığını bilmek önemlidir. Ayrıca, kök içindeki ifadeyi asal çarpanlarına ayırarak tam kareleri belirlemek ve sadeleştirme kurallarını doğru uygulamak gereklidir."
+  }
+]

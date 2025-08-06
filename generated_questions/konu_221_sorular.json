@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Pisagor Teoremi nedir?",
+    "output": "Pisagor Teoremi, bir dik üçgende, hipotenüsün karesinin diğer iki kenarın karelerinin toplamına eşit olduğunu ifade eder. Yani, a² + b² = c² şeklinde formüle edilir; burada c hipotenüs, a ve b ise dik kenarlardır."
+  },
+  {
+    "instruction": "Pisagor Teoremi nasıl ispatlanır?",
+    "output": "Pisagor Teoremi, çeşitli yöntemlerle ispatlanabilir. Bunlardan biri, dik üçgenin kenarlarıyla oluşturulan karelerin alanlarının karşılaştırılmasıdır. Garfield'ın ispatı ise bir yamuk kullanarak, bu yamuğun alanını iki farklı yolla hesaplayarak teoremi doğrular."
+  },
+  {
+    "instruction": "Pisagor Teoremi hangi durumlarda kullanılır?",
+    "output": "Pisagor Teoremi, dik üçgenlerde kenar uzunluklarını bulmak için kullanılır. Özellikle, bir dik üçgende iki kenar uzunluğu biliniyorsa, üçüncü kenar uzunluğunu hesaplamak için kullanılır. Ayrıca, geometri ve trigonometri problemlerinde sıklıkla kullanılır."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin tarihçesi nedir?",
+    "output": "Pisagor Teoremi, adını M.Ö. 6. yüzyılda yaşamış olan Yunan matematikçi Pisagor'dan alır. Ancak, teoremin bilindiği ve kullanıldığına dair bulgular, Pisagor'dan önceki medeniyetlere kadar uzanır. James Garfield gibi farklı matematikçiler ve bilim insanları da teoremin farklı ispatlarını yapmıştır."
+  },
+  {
+    "instruction": "Garfield'ın Pisagor Teoremi ispatı nasıl yapılır?",
+    "output": "Garfield'ın ispatı, bir yamuk çizerek ve bu yamuğun alanını iki farklı yöntemle hesaplayarak yapılır. İlk olarak, yamuğun alanı üst ve alt kenarların ortalaması ile yükseklik çarpılarak hesaplanır. İkinci olarak, yamuğu oluşturan dik üçgenlerin ve büyük üçgenin alanları toplamı alınarak hesaplanır. İki sonuç eşitlenerek teorem ispatlanır."
+  },
+  {
+    "instruction": "Garfield'ın ispatında hangi geometrik şekiller kullanılmıştır?",
+    "output": "Garfield'ın ispatında, bir yamuk ve dik üçgenler kullanılmıştır. Yamuk, dik üçgenlerin hipotenüsleri ve dik kenarları kullanılarak oluşturulmuştur. Bu şekillerin alanları hesaplanarak ispat gerçekleştirilmiştir."
+  },
+  {
+    "instruction": "Yamuk alanı nasıl hesaplanır?",
+    "output": "Yamuğun alanı, üst ve alt taban uzunluklarının ortalaması ile yüksekliğin çarpılmasıyla bulunur. Formül olarak, alan = (üst taban + alt taban) / 2 * yükseklik şeklindedir."
+  },
+  {
+    "instruction": "Dik üçgenin alanı nasıl hesaplanır?",
+    "output": "Dik üçgenin alanı, iki dik kenarın çarpımının yarısı alınarak hesaplanır. Formül olarak, alan = (dik kenar1 * dik kenar2) / 2 şeklindedir."
+  },
+  {
+    "instruction": "Pisagor Teoremi'nin ispatında neden farklı yöntemler kullanılır?",
+    "output": "Farklı ispat yöntemleri, teoremin doğruluğunu çeşitli bakış açılarından gösterir ve matematiksel düşüncenin zenginliğini ortaya koyar. Ayrıca, farklı yöntemler, teoremin farklı uygulama alanlarında nasıl kullanılabileceğini anlamamıza yardımcı olur."
+  },
+  {
+    "instruction": "Pisagor Teoremi ile ilgili gerçek dünya uygulamaları nelerdir?",
+    "output": "Pisagor Teoremi, mühendislik, mimarlık, fizik ve bilgisayar grafikleri gibi birçok alanda kullanılır. Örneğin, binaların yapısal hesaplamalarında, köprü tasarımlarında ve bilgisayar oyunlarında mesafe hesaplamalarında kullanılabilir."
+  }
+]

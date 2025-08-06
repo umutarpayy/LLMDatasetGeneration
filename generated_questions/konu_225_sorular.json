@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Koşullu olasılık nedir?",
+    "output": "Koşullu olasılık, bir olayın gerçekleşme olasılığının, başka bir olayın gerçekleşmiş olduğu bilgisi altında hesaplanmasıdır. Eğer A ve B iki olay ise, B olayının gerçekleştiği bilindiğinde A olayının gerçekleşme olasılığı 'P(A|B)' şeklinde gösterilir ve P(A|B) = P(A ∩ B) / P(B) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Olasılık ağaç diyagramı nedir ve nasıl kullanılır?",
+    "output": "Olasılık ağaç diyagramı, olayların ve bu olayların olasılıklarının görsel bir temsilidir. Her dal bir olayı ve dalların üzerinde yazan sayılar bu olayların olasılıklarını gösterir. Ağaç diyagramları, karmaşık olasılık problemlerini adım adım çözmek ve olaylar arasındaki ilişkileri anlamak için kullanılır."
+  },
+  {
+    "instruction": "Bayes teoremi nedir ve hangi durumlarda kullanılır?",
+    "output": "Bayes teoremi, bir hipotezin olasılığını, elde edilen yeni kanıtlar ışığında güncellemek için kullanılan bir olasılık teorisidir. Özellikle, bir olayın olasılığını, bu olayla ilgili başka bir olayın gerçekleştiği bilgisi altında hesaplamak için kullanılır. Teorem, P(A|B) = [P(B|A) * P(A)] / P(B) formülü ile ifade edilir."
+  },
+  {
+    "instruction": "Bağımlı ve bağımsız olaylar arasındaki fark nedir?",
+    "output": "Bağımsız olaylar, bir olayın gerçekleşmesinin diğerinin olasılığını etkilemediği olaylardır. Örneğin, bir zar atışının sonucu, bir madeni para atışının sonucunu etkilemez. Bağımlı olaylar ise, bir olayın gerçekleşmesinin diğerinin olasılığını etkilediği olaylardır. Örneğin, bir torbadan bir top çekip yerine koymadan ikinci bir top çekmek, ikinci topun renginin olasılığını etkiler."
+  },
+  {
+    "instruction": "Olasılıkta 'deney' ve 'sonuç' terimleri ne anlama gelir?",
+    "output": "Olasılıkta 'deney', belirli koşullar altında yapılan ve sonuçları önceden tahmin edilemeyen bir işlemi ifade eder. Örneğin, bir zar atmak bir deneydir. 'Sonuç' ise, bu deneyin sonucunda elde edilen belirli bir durumdur. Zar atma deneyinde, zarın üst yüzeyinde görülen sayı bir sonuçtur."
+  },
+  {
+    "instruction": "Bileşik olay nedir?",
+    "output": "Bileşik olay, birden fazla basit olayın birleşiminden oluşan olaylardır. Bu tür olaylar, birden fazla olayın aynı anda gerçekleşmesi veya bir olayın birden fazla farklı şekilde gerçekleşmesi durumlarını kapsar. Örneğin, bir zar atışında çift sayı gelmesi bir bileşik olaydır, çünkü 2, 4 veya 6 gelmesi durumlarından biri gerçekleşebilir."
+  },
+  {
+    "instruction": "Olasılıkta 'örnek uzay' nedir?",
+    "output": "Örnek uzay, bir deneyin tüm olası sonuçlarının kümesidir. Her bir sonuç, örnek uzayın bir elemanıdır. Örneğin, bir zar atıldığında örnek uzay {1, 2, 3, 4, 5, 6} şeklindedir, çünkü zarın üst yüzeyinde bu sayılardan biri görünebilir."
+  },
+  {
+    "instruction": "Tam olasılık teoremi nedir?",
+    "output": "Tam olasılık teoremi, bir olayın olasılığını, bu olayın farklı durumlar altında gerçekleşme olasılıklarının toplamı olarak ifade eder. Bu teorem, özellikle olayın doğrudan hesaplanmasının zor olduğu durumlarda, olayın farklı senaryolar altında hesaplanmasını ve bu senaryoların olasılıklarının toplamını kullanarak olayın genel olasılığını bulmak için kullanılır."
+  },
+  {
+    "instruction": "Bir olayın 'kesin' olma durumu ne anlama gelir?",
+    "output": "Bir olayın 'kesin' olması, bu olayın gerçekleşme olasılığının 1 olması anlamına gelir. Yani, olayın gerçekleşmesi kaçınılmazdır. Örneğin, bir madeni paranın iki yüzü olduğunu bilmek, paranın atıldığında ya tura ya da yazı gelmesinin kesin olduğunu gösterir."
+  },
+  {
+    "instruction": "Öznel olasılık nedir?",
+    "output": "Öznel olasılık, bir olayın gerçekleşme olasılığının kişisel inançlara veya yargılara dayalı olarak tahmin edilmesidir. Bu tür olasılık, genellikle kesin verilerin veya deneylerin olmadığı durumlarda kullanılır ve bireyden bireye değişebilir. Örneğin, bir futbol maçını kimin kazanacağına dair yapılan tahminler öznel olasılık örnekleridir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Üslü sayı nedir?",
+    "output": "Üslü sayı, bir sayının kendisiyle belirli bir sayıda çarpılmasını ifade eden bir matematiksel ifadedir. Üslü sayılar, taban ve üs olmak üzere iki bileşenden oluşur. Taban, çarpılan sayıyı, üs ise bu çarpmanın kaç kez yapılacağını belirtir."
+  },
+  {
+    "instruction": "Sıfırın kuvvetleri nasıl hesaplanır?",
+    "output": "Sıfırın 'sıfır olmayan' herhangi bir kuvveti alındığında sonuç her zaman 0 olur. Ancak, 0'ın 0. kuvveti matematiksel olarak tanımsız kabul edilir, çünkü bu durum hem 0'a hem de 1'e eşit olabileceği için belirsizlik yaratır."
+  },
+  {
+    "instruction": "Bir sayının 0. kuvveti ne anlama gelir?",
+    "output": "Sıfır olmayan bir sayının 0. kuvveti, 1 olarak tanımlanır. Bu, matematiksel olarak bir sayının kendisiyle 0 kez çarpılması anlamına gelir ve bu durumun sonucu 1 olarak kabul edilir."
+  },
+  {
+    "instruction": "Sıfırın 0. kuvveti neden tanımsızdır?",
+    "output": "Sıfırın 0. kuvveti tanımsızdır çünkü matematiksel olarak bu durum hem 0'a hem de 1'e eşit olabilecek bir belirsizlik yaratır. Sıfırın herhangi bir pozitif kuvveti 0'a eşitken, herhangi bir sayının 0. kuvveti 1'e eşittir. Bu nedenle, 0'ın 0. kuvveti konusunda bir uzlaşma sağlanamamış ve tanımsız bırakılmıştır."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban ve üs neyi ifade eder?",
+    "output": "Üslü ifadelerde taban, çarpılacak olan sayıyı temsil ederken, üs bu çarpmanın kaç kez yapılacağını gösterir. Örneğin, 3^4 ifadesinde 3 taban, 4 ise üssü temsil eder ve bu ifade 3'ün kendisiyle 4 kez çarpılmasını belirtir."
+  },
+  {
+    "instruction": "Negatif üs nedir ve nasıl yorumlanır?",
+    "output": "Negatif üs, bir sayının tersinin üslü olarak ifade edilmesini belirtir. Örneğin, a^(-n) ifadesi, 1/(a^n) anlamına gelir. Negatif üs, pozitif üssün tersini almak için kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerin özellikleri nelerdir?",
+    "output": "Üslü ifadelerin temel özellikleri arasında çarpma ve bölme kuralları, kuvvetin kuvveti kuralı ve negatif üslerin terslik özelliği bulunur. Örneğin, a^m * a^n = a^(m+n) ve (a^m)^n = a^(m*n) gibi kurallar üslü ifadelerin hesaplanmasında kullanılır."
+  },
+  {
+    "instruction": "Üslü sayılar hangi durumlarda kullanılır?",
+    "output": "Üslü sayılar, büyüklüklerin hızlı bir şekilde ifade edilmesi gereken durumlarda kullanılır. Özellikle bilimsel hesaplamalarda, finansal modellemelerde ve mühendislik uygulamalarında büyüklük ve oranların ifade edilmesinde yaygın olarak kullanılırlar."
+  },
+  {
+    "instruction": "Üslü ifadelerle ilgili hangi matematiksel kurallar vardır?",
+    "output": "Üslü ifadelerle ilgili temel matematiksel kurallar arasında çarpma ve bölme kuralları, kuvvetin kuvveti kuralı, negatif üslerin terslik kuralı ve sıfırın kuvveti kuralları bulunur. Bu kurallar, üslü ifadelerin doğru bir şekilde hesaplanmasını sağlar."
+  },
+  {
+    "instruction": "Sıfırın pozitif kuvvetleri ne anlama gelir?",
+    "output": "Sıfırın pozitif kuvvetleri, sıfırın kendisiyle pozitif bir sayı kadar çarpılması anlamına gelir ve bu her zaman 0 ile sonuçlanır. Örneğin, 0^3 ifadesi 0 * 0 * 0 = 0 olarak hesaplanır."
+  }
+]

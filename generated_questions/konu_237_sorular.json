@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Aritmetik ortalama nedir?",
+    "output": "Aritmetik ortalama, bir veri setindeki tüm sayıların toplamının, sayıların adedine bölünmesiyle elde edilen değerdir. Merkezi eğilim ölçülerinden biridir ve genellikle veri setinin genel eğilimini göstermek için kullanılır."
+  },
+  {
+    "instruction": "Aritmetik ortalama nasıl hesaplanır?",
+    "output": "Aritmetik ortalama hesaplamak için, veri setindeki tüm sayılar toplanır ve bu toplam, veri setindeki sayıların adedine bölünür. Örneğin, 5, 10 ve 15 sayılarının aritmetik ortalaması (5 + 10 + 15) / 3 = 10'dur."
+  },
+  {
+    "instruction": "Medyan nedir?",
+    "output": "Medyan, bir veri setindeki sayılar sıralandığında ortada kalan sayıdır. Eğer veri seti tek sayıda elemana sahipse, ortadaki sayı medyan olur. Çift sayıda elemana sahipse, ortadaki iki sayının aritmetik ortalaması medyan olarak alınır."
+  },
+  {
+    "instruction": "Medyan nasıl hesaplanır?",
+    "output": "Medyanı hesaplamak için, veri setindeki sayılar küçükten büyüğe doğru sıralanır. Eğer veri seti tek sayıda elemana sahipse, ortadaki sayı medyan olur. Çift sayıda elemana sahipse, ortadaki iki sayının aritmetik ortalaması medyan olarak alınır."
+  },
+  {
+    "instruction": "Aritmetik ortalama ve medyan arasındaki fark nedir?",
+    "output": "Aritmetik ortalama, tüm veri noktalarının toplamının veri sayısına bölünmesiyle elde edilirken, medyan veri setindeki ortadaki değerdir. Aritmetik ortalama uç değerlerden etkilenirken, medyan bu tür uç değerlerden daha az etkilenir."
+  },
+  {
+    "instruction": "Merkezi eğilim nedir?",
+    "output": "Merkezi eğilim, bir veri setinin ortalama değerini veya tipik bir değerini tanımlayan ölçülerdir. Aritmetik ortalama, medyan ve mod merkezi eğilim ölçülerine örnek olarak verilebilir."
+  },
+  {
+    "instruction": "Merkezi eğilim ölçüleri hangi durumlarda kullanılır?",
+    "output": "Merkezi eğilim ölçüleri, veri setinin genel eğilimini veya tipik bir değerini belirlemek için kullanılır. Aritmetik ortalama, veri setinde uç değerler yoksa kullanışlıdır. Medyan, uç değerlerin olduğu durumlarda daha güvenilir bir ölçüdür. Mod ise en sık tekrar eden değeri bulmak için kullanılır."
+  },
+  {
+    "instruction": "Veri setinde aritmetik ortalama değiştiğinde medyan neden değişmeyebilir?",
+    "output": "Aritmetik ortalama, veri setindeki tüm değerlerin toplamına bağlı olduğu için uç değerlerden etkilenir. Ancak medyan, sadece sıralanmış veri setinin ortasındaki değere bağlı olduğu için uç değerlerin varlığı medyanı etkilemez."
+  },
+  {
+    "instruction": "Veri setinde medyanın daha iyi bir merkezi eğilim ölçüsü olduğu durumlar nelerdir?",
+    "output": "Medyan, veri setinde uç değerlerin veya aykırı değerlerin bulunduğu durumlarda daha iyi bir merkezi eğilim ölçüsüdür, çünkü bu tür değerler medyanı etkilemez. Bu nedenle, veri setindeki genel eğilim hakkında daha doğru bir bilgi verir."
+  },
+  {
+    "instruction": "Aritmetik ortalama ve medyanın birlikte kullanılması ne tür avantajlar sağlar?",
+    "output": "Aritmetik ortalama ve medyanın birlikte kullanılması, veri setinin dağılımı hakkında daha kapsamlı bir anlayış sağlar. Aritmetik ortalama genel eğilimi gösterirken, medyan uç değerlerin etkisini azaltarak veri setinin merkezine dair daha güvenilir bir ölçü sunar. Bu kombinasyon, veri analizi yaparken daha dengeli bir perspektif sunar."
+  }
+]

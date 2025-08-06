@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Histogram nedir?",
+    "output": "Histogram, verilerin sıklığını görselleştirmek için kullanılan bir grafik türüdür. Veriler belirli aralıklara bölünür ve her bir aralığın sıklığı bir sütun ile temsil edilir. Sütunların yüksekliği, o aralıktaki veri sayısını gösterir."
+  },
+  {
+    "instruction": "Histogram nasıl oluşturulur?",
+    "output": "Histogram oluşturmak için öncelikle veriler belirli aralıklara bölünür. Her bir aralık için verilerin sıklığı hesaplanır ve bu sıklıklar birer sütun ile gösterilir. Sütunların yatay ekseni veri aralıklarını, dikey ekseni ise sıklıkları temsil eder."
+  },
+  {
+    "instruction": "Histogram hangi durumlarda kullanılır?",
+    "output": "Histogram, özellikle büyük veri setlerinin dağılımını ve sıklığını görselleştirmek için kullanılır. Veri kümelerinin merkezi eğilimlerini, yayılımını ve şekil özelliklerini analiz etmek için uygundur."
+  },
+  {
+    "instruction": "Histogramın özellikleri nelerdir?",
+    "output": "Histogram, sürekli verilerin dağılımını gösterir ve veri aralıklarına göre gruplandırma yapar. Sütunlar bitişik olarak çizilir, bu da veri aralıklarının kesintisiz olduğunu belirtir. Sütunların yüksekliği, o aralıktaki veri sıklığını temsil eder."
+  },
+  {
+    "instruction": "Histogram ile çubuk grafiği arasındaki fark nedir?",
+    "output": "Histogram, sürekli verilerin dağılımını göstermek için kullanılır ve sütunlar bitişiktir. Çubuk grafiği ise kategorik verileri göstermek için kullanılır ve sütunlar arasında boşluk bulunur."
+  },
+  {
+    "instruction": "Histogramda veri aralıkları nasıl belirlenir?",
+    "output": "Veri aralıkları, veri setinin en küçük ve en büyük değerleri dikkate alınarak eşit aralıklara bölünür. Aralık sayısı genellikle veri setinin büyüklüğüne ve analiz amacına göre belirlenir."
+  },
+  {
+    "instruction": "Histogramda eksenler nasıl belirlenir?",
+    "output": "Yatay eksen, veri aralıklarını temsil eder ve aralıklar eşit genişlikte olmalıdır. Dikey eksen ise sıklıkları gösterir ve sıklık değerlerine göre ölçeklendirilir."
+  },
+  {
+    "instruction": "Histogramın avantajları nelerdir?",
+    "output": "Histogram, verilerin dağılımını ve sıklığını görsel olarak anlamayı kolaylaştırır. Verilerin merkezi eğilimlerini, yayılımını ve simetrisini analiz etmeye yardımcı olur."
+  },
+  {
+    "instruction": "Histogram yorumlarken nelere dikkat edilmelidir?",
+    "output": "Histogram yorumlarken, veri dağılımının şekline, merkezi eğilimlerine, yayılımına ve simetrisine dikkat edilmelidir. Ayrıca, aralık genişliklerinin eşit olup olmadığı kontrol edilmelidir."
+  },
+  {
+    "instruction": "Histogramda verilerin simetrik olması ne anlama gelir?",
+    "output": "Histogramda verilerin simetrik olması, veri dağılımının ortalama etrafında eşit şekilde yayılması anlamına gelir. Bu durumda histogramın her iki tarafı da birbirine benzer ve simetrik bir görünüm sergiler."
+  }
+]

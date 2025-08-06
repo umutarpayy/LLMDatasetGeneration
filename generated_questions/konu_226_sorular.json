@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Olasılık nedir?",
+    "output": "Olasılık, bir olayın gerçekleşme şansını ölçen bir matematik dalıdır. Genellikle 0 ile 1 arasında bir değer olarak ifade edilir, burada 0 imkansız bir olay, 1 ise kesin bir olay anlamına gelir."
+  },
+  {
+    "instruction": "Bağımsız olaylar nedir?",
+    "output": "Bağımsız olaylar, bir olayın gerçekleşmesinin diğer bir olayın gerçekleşmesini etkilemediği durumlardır. Örneğin, bir zar atışının sonucu, başka bir zar atışının sonucunu etkilemez."
+  },
+  {
+    "instruction": "Birleşim olasılığı nasıl hesaplanır?",
+    "output": "Birleşim olasılığı, iki veya daha fazla olayın en az birinin gerçekleşme olasılığıdır. İki olay A ve B için, birleşim olasılığı P(A ∪ B) = P(A) + P(B) - P(A ∩ B) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Deneysel olasılık nedir?",
+    "output": "Deneysel olasılık, bir olayın gerçekleşme olasılığını deneyler veya gözlemler yoluyla belirleyen bir yöntemdir. Belirli bir olayın gerçekleşme sayısının, toplam deneme sayısına bölünmesiyle elde edilir."
+  },
+  {
+    "instruction": "Teorik olasılık nedir?",
+    "output": "Teorik olasılık, bir olayın olasılığını hesaplamak için matematiksel modeller ve varsayımlar kullanan bir yöntemdir. Olayın tüm olası sonuçlarının eşit derecede olası olduğu varsayılarak hesaplanır."
+  },
+  {
+    "instruction": "Olasılık dağılımı nedir?",
+    "output": "Olasılık dağılımı, bir rastgele değişkenin alabileceği tüm olası değerlerin ve bu değerlere karşılık gelen olasılıkların bir listesidir. Olasılık dağılımı, olasılık kütle fonksiyonu (diskret) veya olasılık yoğunluk fonksiyonu (sürekli) ile temsil edilebilir."
+  },
+  {
+    "instruction": "Koşulsuz olasılık nedir?",
+    "output": "Koşulsuz olasılık, bir olayın gerçekleşme olasılığıdır ve bu olasılık, başka bir olayın gerçekleşmesine bağlı değildir. Örneğin, bir zar atıldığında 6 gelme olasılığı, diğer zar atışlarından bağımsız olarak hesaplanır."
+  },
+  {
+    "instruction": "Tamamlayıcı olay nedir?",
+    "output": "Tamamlayıcı olay, bir olayın gerçekleşmemesi durumunu temsil eder. Bir olay A için, tamamlayıcı olay A'nın gerçekleşmemesi durumudur ve P(A') = 1 - P(A) formülü ile hesaplanır."
+  },
+  {
+    "instruction": "Kesişim olasılığı nedir?",
+    "output": "Kesişim olasılığı, iki veya daha fazla olayın aynı anda gerçekleşme olasılığıdır. İki olay A ve B için kesişim olasılığı P(A ∩ B) olarak ifade edilir."
+  },
+  {
+    "instruction": "Olasılıkta örnek uzay nedir?",
+    "output": "Örnek uzay, bir deneyin tüm olası sonuçlarının kümesidir. Örneğin, bir zar atışının örnek uzayı {1, 2, 3, 4, 5, 6} şeklindedir, çünkü zarın alabileceği tüm olası sonuçlar bunlardır."
+  }
+]

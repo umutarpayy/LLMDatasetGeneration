@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eden bir formattır. Burada 'm' eğimi, 'b' ise y-eksenini kestiği noktayı temsil eder. Bu form, bir doğrunun eğimini ve y-eksenini kestiği noktayı kolayca belirlemeye olanak tanır."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl bulunur?",
+    "output": "Bir doğrunun denklemini bulmak için genellikle eğim ve bir nokta bilgisi kullanılır. Eğim-kesişim formunda (y = mx + b), eğim (m) ve doğrunun geçtiği bir nokta (x, y) biliniyorsa, bu bilgiler yerine konularak b değeri hesaplanır ve denklem oluşturulur."
+  },
+  {
+    "instruction": "Eğim ve bir nokta kullanılarak doğrunun denklemi nasıl yazılır?",
+    "output": "Eğim ve bir nokta kullanılarak bir doğrunun denklemi yazılırken, önce eğim (m) bilinir ve y = mx + b formülüne yerleştirilir. Ardından, verilen noktanın koordinatları (x, y) denkleme konur ve b değeri çözülerek bulunur. Sonuçta y = mx + b formunda bir denklem elde edilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formundaki 'b' değeri nasıl hesaplanır?",
+    "output": "'b' değeri, doğrunun y-eksenini kestiği noktayı temsil eder. Eğim (m) ve bir nokta (x, y) biliniyorsa, bu değerler y = mx + b denklemine yerleştirilir ve b yalnız bırakılarak hesaplanır."
+  },
+  {
+    "instruction": "Bir doğrunun y-eksenini kestiği nokta nasıl bulunur?",
+    "output": "Bir doğrunun y-eksenini kestiği nokta, x'in sıfır olduğu durumda y'nin aldığı değerdir. Eğim-kesişim formunda (y = mx + b), x yerine 0 konularak y = b bulunur. Bu, doğrunun y-eksenini kestiği noktadır."
+  },
+  {
+    "instruction": "Eğim ve bir nokta ile b değeri nasıl belirlenir?",
+    "output": "Eğim ve bir nokta ile b değeri belirlenirken, eğim (m) ve nokta (x, y) y = mx + b denklemine yerleştirilir. Bu denklemde y ve x yerine noktanın koordinatları konur ve b değeri çözülerek bulunur."
+  },
+  {
+    "instruction": "Eğim-kesişim formu hangi durumlarda tercih edilir?",
+    "output": "Eğim-kesişim formu, bir doğrunun eğimi ve y-eksenini kestiği nokta kolayca görülebileceği için, grafik çizimlerinde ve doğrunun özelliklerinin hızlı bir şekilde anlaşılmasında tercih edilir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi ve y-keseni bilindiğinde denklemi nasıl yazılır?",
+    "output": "Bir doğrunun eğimi (m) ve y-keseni (b) bilindiğinde, doğrunun denklemi y = mx + b formunda yazılır. Burada m eğimi, b ise y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Eğim ve y-kesen kullanılarak doğrusal denklem nasıl oluşturulur?",
+    "output": "Eğim ve y-kesen kullanılarak doğrusal denklem oluşturulurken, eğim (m) ve y-kesen (b) bilgileri y = mx + b formuna yerleştirilir. Bu form, doğrunun eğimini ve y-eksenini kestiği noktayı açıkça gösterir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile standart form arasındaki fark nedir?",
+    "output": "Eğim-kesişim formu (y = mx + b), doğrunun eğimi ve y-eksenini kestiği noktayı gösterirken, standart form (Ax + By = C) genellikle doğrunun genel bir tanımını verir. Eğim-kesişim formu daha çok grafiksel analiz için kullanılırken, standart form cebirsel işlemler için tercih edilebilir."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Cebirsel ifadelerde dağılma özelliği nasıl uygulanır?",
+    "output": "Dağılma özelliği, bir cebirsel ifadede parantez içindeki terimlerin, parantez dışındaki terim ile ayrı ayrı çarpılması işlemidir. Örneğin, a(b + c) ifadesi dağılma özelliği kullanılarak ab + ac şeklinde yazılır. Bu özellik, çarpma işleminin toplama veya çıkarma işlemi üzerine dağıtılması anlamına gelir."
+  },
+  {
+    "instruction": "Dağılma özelliği hangi durumlarda kullanılır?",
+    "output": "Dağılma özelliği, cebirsel ifadeleri sadeleştirmek, genişletmek veya düzenlemek gerektiğinde kullanılır. Özellikle, iki terimli ifadelerin çarpımı, polinomların genişletilmesi ve denklemlerin çözümü sırasında bu özellikten yararlanılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde ortak çarpan parantezine alma nasıl yapılır?",
+    "output": "Ortak çarpan parantezine alma, bir cebirsel ifadede tüm terimlerde ortak olan bir çarpanı belirleyip, bu çarpanı parantez dışına alarak ifadeyi sadeleştirme işlemidir. Örneğin, 2x + 4 ifadesinde her iki terimde de 2 ortak çarpandır ve ifade 2(x + 2) şeklinde yazılabilir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terim nedir?",
+    "output": "Cebirsel ifadelerde terim, bir değişken veya sabit sayı ile bunların çarpımından oluşan ifadelerdir. Örneğin, 3x, 5 ve -2y gibi ifadeler birer terimdir. Terimler, toplama veya çıkarma işlemleriyle birbirinden ayrılır."
+  },
+  {
+    "instruction": "Bir cebirsel ifadenin en sade hali nasıl bulunur?",
+    "output": "Bir cebirsel ifadenin en sade hali, tüm terimlerin mümkün olan en küçük sayıda ve en basit biçimde yazılmasıyla elde edilir. Bu, genellikle ortak çarpan parantezine alma, benzer terimleri birleştirme ve gereksiz parantezleri kaldırma işlemleriyle sağlanır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde benzer terimler nasıl birleştirilir?",
+    "output": "Benzer terimler, aynı değişkenlere ve aynı derecelere sahip terimlerdir. Bu terimler, katsayıları toplanarak birleştirilir. Örneğin, 3x + 5x ifadesi, benzer terimlerin birleştirilmesiyle 8x olur."
+  },
+  {
+    "instruction": "Dağılma özelliği ile çarpanlara ayırma arasındaki fark nedir?",
+    "output": "Dağılma özelliği, bir ifadenin genişletilmesi veya açılması için kullanılırken, çarpanlara ayırma bir ifadenin daha küçük çarpanlarına ayrılması işlemidir. Dağılma özelliği, çarpma işleminin toplama veya çıkarma üzerine uygulanmasıdır; çarpanlara ayırma ise ifadenin çarpanlarının bulunmasıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpan nedir?",
+    "output": "Cebirsel ifadelerde çarpan, bir ifadenin çarpım şeklinde yazılmasını sağlayan unsurlardır. Örneğin, 2x ifadesinde 2 ve x çarpanlardır. Çarpanlar, ifadeyi oluşturan temel bileşenlerdir."
+  },
+  {
+    "instruction": "Dağılma özelliği neden önemlidir?",
+    "output": "Dağılma özelliği, cebirsel ifadelerin manipülasyonu ve çözümünde kritik bir rol oynar. Bu özellik, ifadelerin genişletilmesi, sadeleştirilmesi ve denklemlerin çözümü sırasında kullanılır. Matematiksel işlemleri daha kolay ve anlaşılır hale getirir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayı nedir?",
+    "output": "Cebirsel ifadelerde katsayı, bir terimdeki değişkenin önündeki sayıdır. Katsayı, değişkenin kaç katı olduğunu belirtir. Örneğin, 3x teriminde 3 katsayıdır. Katsayılar, terimlerin büyüklüğünü ve yönünü belirler."
+  }
+]

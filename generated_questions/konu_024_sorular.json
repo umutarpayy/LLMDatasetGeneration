@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Negatif üslü ifadelerde tabanın çarpmaya göre tersi nasıl alınır?",
+    "output": "Negatif üslü ifadelerde tabanın çarpmaya göre tersi, sayının pay ve paydasının yer değiştirilmesiyle elde edilir. Örneğin, a/b ifadesinin çarpmaya göre tersi, b/a şeklindedir."
+  },
+  {
+    "instruction": "Negatif üslerin pozitif hale getirilmesi ne anlama gelir?",
+    "output": "Negatif üslerin pozitif hale getirilmesi, negatif üssü olan bir sayının tabanının çarpmaya göre tersini alarak üssü pozitif yapmaktır. Bu işlem, negatif üslerin pozitif üslerle aynı kurallara tabi olmasını sağlar."
+  },
+  {
+    "instruction": "Üslü ifadelerde çarpma işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde çarpma işlemi yapılırken, tabanlar aynı ise üsler toplanır. Örneğin, a^m * a^n = a^(m+n) şeklinde hesaplanır. Tabanlar farklıysa, çarpma işlemi normal şekilde yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde bölme işlemi nasıl yapılır?",
+    "output": "Üslü ifadelerde bölme işlemi yapılırken, tabanlar aynı ise üsler çıkarılır. Örneğin, a^m / a^n = a^(m-n) şeklinde hesaplanır. Tabanlar farklıysa, bölme işlemi normal şekilde yapılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde negatif üslerin özellikleri nelerdir?",
+    "output": "Negatif üslerin en temel özelliği, tabanın çarpmaya göre tersini alarak üssü pozitif hale getirmektir. Ayrıca, negatif üsler, sayının büyüklüğünü küçültür, çünkü tabanın çarpmaya göre tersi alınır."
+  },
+  {
+    "instruction": "Negatif üsler hangi durumlarda kullanılabilir?",
+    "output": "Negatif üsler, matematiksel ifadeleri daha basit ve anlaşılır hale getirmek için kullanılır. Özellikle, bir sayının çarpmaya göre tersini almak gerektiğinde veya büyüklükleri küçültmek için negatif üsler kullanılır."
+  },
+  {
+    "instruction": "Üslü ifadelerde taban ve üs neyi ifade eder?",
+    "output": "Üslü ifadelerde taban, sayının kendisini ifade ederken, üs bu sayının kaç kez çarpılacağını belirtir. Örneğin, 2^3 ifadesinde 2 taban, 3 ise üssü temsil eder ve 2'nin 3 kez çarpılacağını gösterir."
+  },
+  {
+    "instruction": "Negatif üslü ifadelerin hesaplanmasında dikkat edilmesi gereken noktalar nelerdir?",
+    "output": "Negatif üslü ifadelerin hesaplanmasında dikkat edilmesi gereken en önemli nokta, tabanın çarpmaya göre tersini alarak üssü pozitif hale getirmektir. Ayrıca, işlemler sırasında işaret değişikliklerine dikkat edilmelidir."
+  },
+  {
+    "instruction": "Negatif üslü ifadelerde işaret değişiklikleri nasıl olur?",
+    "output": "Negatif üslü ifadelerde, negatif bir tabanın negatif bir üssü varsa, tabanın çarpmaya göre tersi alınırken işaret değişebilir. Örneğin, negatif bir sayının çift kuvveti pozitif, tek kuvveti ise negatif olur."
+  },
+  {
+    "instruction": "Negatif üslerin pozitif üslerden farkı nedir?",
+    "output": "Negatif üsler, tabanın çarpmaya göre tersini alırken pozitif üsler, tabanın kendisini çarpar. Negatif üsler, sayının büyüklüğünü küçültürken, pozitif üsler sayının büyüklüğünü artırır."
+  }
+]

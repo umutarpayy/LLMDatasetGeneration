@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre ne kadar dik olduğunu ölçen bir sayıdır. Matematiksel olarak, eğim, iki nokta arasındaki y eksenindeki değişimin x eksenindeki değişime oranı olarak tanımlanır. Pozitif eğim, doğru yukarı doğru eğimli, negatif eğim ise aşağı doğru eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, iki nokta arasındaki y değerlerinin farkının, x değerlerinin farkına bölünmesiyle hesaplanır. Formül olarak, eğim m = (y2 - y1) / (x2 - x1) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Y-kesişim noktası nedir?",
+    "output": "Y-kesişim noktası, bir doğrunun y ekseni ile kesiştiği noktadır. Bu nokta, x'in 0 olduğu durumda doğrunun y değerini verir ve genellikle (0, b) olarak ifade edilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu neden kullanılır?",
+    "output": "Eğim-kesişim formu, bir doğrunun eğimini ve y-kesişim noktasını hızlı bir şekilde görselleştirmek ve anlamak için kullanılır. Bu form, y = mx + b şeklindedir ve m eğimi, b ise y-kesişim noktasını temsil eder."
+  },
+  {
+    "instruction": "Negatif eğim ne anlama gelir?",
+    "output": "Negatif eğim, bir doğrunun x ekseni üzerinde sağa doğru hareket ederken aşağıya doğru eğimli olduğunu belirtir. Yani, x arttıkça y azalır. Bu, doğrunun negatif bir eğime sahip olduğunu gösterir."
+  },
+  {
+    "instruction": "Bir doğrunun denklemi nasıl yazılır?",
+    "output": "Bir doğrunun denklemi, eğim-kesişim formu kullanılarak y = mx + b şeklinde yazılır. Burada m eğimi, b ise y-kesişim noktasını temsil eder. Eğim ve y-kesişim noktası bilindiğinde, bu form kullanılarak doğrunun denklemi kolayca oluşturulabilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile bir doğrunun eğimi nasıl belirlenir?",
+    "output": "Eğim-kesişim formunda (y = mx + b), eğim doğrudan m katsayısı ile ifade edilir. Bu katsayı, doğrunun eğimini gösterir ve doğrunun ne kadar dik veya yatay olduğunu belirler."
+  },
+  {
+    "instruction": "Eğim ve y-kesişim noktası arasındaki ilişki nedir?",
+    "output": "Eğim ve y-kesişim noktası, bir doğrunun eğim-kesişim formunda (y = mx + b) birbirini tamamlayan iki bileşendir. Eğim, doğrunun yatay eksene göre ne kadar dik olduğunu belirtirken, y-kesişim noktası doğrunun y ekseni üzerindeki kesişim noktasını gösterir."
+  },
+  {
+    "instruction": "Doğrunun eğimi ve y-kesişim noktası biliniyorsa, denklemi nasıl oluşturulur?",
+    "output": "Doğrunun eğimi (m) ve y-kesişim noktası (b) biliniyorsa, doğrunun denklemi y = mx + b formunda yazılır. Bu form, doğrunun eğimini ve y ekseni üzerindeki başlangıç noktasını temsil eder."
+  },
+  {
+    "instruction": "Negatif eğim ile pozitif eğim arasındaki fark nedir?",
+    "output": "Negatif eğim, bir doğrunun x ekseni üzerinde sağa doğru hareket ederken aşağıya doğru eğimli olduğunu gösterirken, pozitif eğim yukarı doğru eğimli olduğunu belirtir. Yani, negatif eğimde x arttıkça y azalırken, pozitif eğimde x arttıkça y de artar."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim nedir?",
+    "output": "Eğim, bir doğrunun yatay eksene göre dikey eksende ne kadar yükseldiğini veya alçaldığını gösteren bir ölçüdür. Matematikte genellikle 'm' harfi ile gösterilir ve iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır."
+  },
+  {
+    "instruction": "Eğim nasıl hesaplanır?",
+    "output": "Eğim, iki nokta arasındaki y değerlerindeki değişimin x değerlerindeki değişime bölünmesiyle hesaplanır. Formül olarak, eğim m = (y2 - y1) / (x2 - x1) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "Doğrunun denklemi nedir?",
+    "output": "Doğrunun denklemi, genellikle y = mx + b formunda ifade edilir. Burada m eğimi, b ise y eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Y kesişimi nedir?",
+    "output": "Y kesişimi, bir doğrunun y eksenini kestiği noktadır. Doğrunun denklemi y = mx + b formunda verildiğinde, y kesişimi b değerine eşittir."
+  },
+  {
+    "instruction": "Eğim ile y kesişimi arasındaki ilişki nedir?",
+    "output": "Eğim, bir doğrunun eğimini belirlerken, y kesişimi doğrunun y ekseni üzerindeki başlangıç noktasını belirler. Eğim, doğrunun eğim açısını tanımlarken, y kesişimi doğrunun y ekseni üzerindeki konumunu belirler."
+  },
+  {
+    "instruction": "Negatif eğim ne anlama gelir?",
+    "output": "Negatif eğim, bir doğrunun sola doğru eğildiğini, yani x ekseni boyunca sağa gidildikçe y değerinin azaldığını gösterir. Bu, doğrunun aşağı doğru eğimli olduğunu ifade eder."
+  },
+  {
+    "instruction": "Eğim ve y kesişimi kullanılarak bir doğru nasıl çizilir?",
+    "output": "Öncelikle y kesişimi b noktasını y ekseni üzerinde işaretleyin. Ardından, eğimi kullanarak bu noktadan başlayarak doğruyu çizin. Eğim m = rise/run formülüne göre, y ekseninde ne kadar yukarı veya aşağı gidileceğini ve x ekseninde ne kadar sağa gidileceğini belirler."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi neden önemlidir?",
+    "output": "Eğim, bir doğrunun yönünü ve dikliğini belirler. Bu, grafiklerin analizinde, iki değişken arasındaki ilişkinin anlaşılmasında ve eğilimlerin belirlenmesinde önemli bir rol oynar."
+  },
+  {
+    "instruction": "Eğim ve y kesişimi ile ilgili hangi problemlere çözüm bulunabilir?",
+    "output": "Eğim ve y kesişimi, doğrusal denklemlerle ilgili birçok problemi çözmek için kullanılır. Örneğin, iki nokta arasındaki doğruyu bulma, iki doğrunun kesişim noktasını belirleme ve bir doğrunun grafiğini çizme gibi problemler bu kavramlarla çözülebilir."
+  },
+  {
+    "instruction": "Eğim ve y kesişimi ile doğrusal regresyon nasıl yapılır?",
+    "output": "Doğrusal regresyon, iki değişken arasındaki ilişkiyi modellemek için kullanılır. Eğim ve y kesişimi, veri noktalarına en iyi uyacak doğruyu belirlemek için hesaplanır. Bu, veri analizi ve tahmin yapmada önemli bir tekniktir."
+  }
+]

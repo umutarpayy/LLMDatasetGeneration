@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Bir denklemi çözmek için hangi temel işlemler kullanılır?",
+    "output": "Bir denklemi çözmek için genellikle toplama, çıkarma, çarpma ve bölme işlemleri kullanılır. Bu işlemler, denklemin her iki tarafına eşit şekilde uygulanarak değişkenin izole edilmesi ve çözümün bulunması sağlanır."
+  },
+  {
+    "instruction": "Denklem çözümünde 'eşitliğin dengesi' ne anlama gelir?",
+    "output": "Eşitliğin dengesi, bir denklemin her iki tarafına aynı işlemin uygulanması gerektiğini ifade eder. Bu, denklemin yapısını bozmadan değişkenin izole edilmesine olanak tanır ve doğru çözüme ulaşmayı sağlar."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafına aynı sayıyı eklemenin etkisi nedir?",
+    "output": "Bir denklemin her iki tarafına aynı sayıyı eklemek, denklemin dengesi bozulmadan değişkenin izole edilmesine yardımcı olur. Bu işlem, denklemin eşitliğini korur ve çözüm sürecinde sıkça kullanılır."
+  },
+  {
+    "instruction": "Bir denklemin her iki tarafını aynı sayıya bölmenin etkisi nedir?",
+    "output": "Bir denklemin her iki tarafını aynı sayıya bölmek, değişkenin katsayısını 1 yaparak değişkeni izole etmeye yardımcı olur. Bu işlem, denklemin eşitliğini korur ve doğru çözüme ulaşmayı sağlar."
+  },
+  {
+    "instruction": "Denklem çözümünde değişkeni izole etmek ne anlama gelir?",
+    "output": "Denklem çözümünde değişkeni izole etmek, değişkeni denklemin bir tarafında tek başına bırakmak anlamına gelir. Bu, genellikle değişkenin katsayısını 1 yaparak ve diğer terimleri karşı tarafa taşıyarak yapılır."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi adımlar izlenmelidir?",
+    "output": "Denklem çözümünde genellikle şu adımlar izlenir: 1) Değişkeni içeren terimleri bir tarafta toplamak, 2) Sabit terimleri diğer tarafa taşımak, 3) Değişkenin katsayısını 1 yapmak için çarpma veya bölme işlemi uygulamak."
+  },
+  {
+    "instruction": "Denklem çözümünde toplama ve çıkarma işlemleri neden önemlidir?",
+    "output": "Toplama ve çıkarma işlemleri, denklemin her iki tarafına eşit şekilde uygulanarak değişkenin izole edilmesine yardımcı olur. Bu işlemler, denklemin eşitliğini koruyarak doğru çözüme ulaşmayı sağlar."
+  },
+  {
+    "instruction": "Denklem çözümünde çarpma ve bölme işlemleri nasıl kullanılır?",
+    "output": "Çarpma ve bölme işlemleri, değişkenin katsayısını 1 yaparak değişkeni izole etmeye yardımcı olur. Bu işlemler, denklemin her iki tarafına eşit şekilde uygulanarak denge korunur ve doğru çözüme ulaşılır."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi durumlarda toplama ve çıkarma işlemleri tercih edilir?",
+    "output": "Toplama ve çıkarma işlemleri, genellikle sabit terimleri denklemin bir tarafına toplamak veya değişkeni içeren terimleri izole etmek için kullanılır. Bu işlemler, denklemin her iki tarafına eşit şekilde uygulanarak denge korunur."
+  },
+  {
+    "instruction": "Denklem çözümünde hangi durumlarda çarpma ve bölme işlemleri tercih edilir?",
+    "output": "Çarpma ve bölme işlemleri, genellikle değişkenin katsayısını 1 yapmak için tercih edilir. Bu işlemler, denklemin her iki tarafına eşit şekilde uygulanarak değişken izole edilir ve denge korunur."
+  }
+]

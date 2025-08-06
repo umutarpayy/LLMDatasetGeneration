@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Aykırı değer nedir?",
+    "output": "Aykırı değer, bir veri setinde diğer verilere göre çok daha büyük veya çok daha küçük olan veri noktalarıdır. Bu değerler, ortalamayı önemli ölçüde etkileyebilir ve veri setinin genel eğilimini çarpıtabilir."
+  },
+  {
+    "instruction": "Aykırı değerler ortalamayı nasıl etkiler?",
+    "output": "Aykırı değerler, ortalamayı yukarı veya aşağı çekebilir. Örneğin, bir veri setinde çok büyük bir aykırı değer varsa, bu ortalamayı olduğundan daha yüksek gösterir. Aynı şekilde, çok küçük bir aykırı değer de ortalamayı düşürebilir."
+  },
+  {
+    "instruction": "Aykırı değerlerin medyan üzerindeki etkisi nedir?",
+    "output": "Aykırı değerler medyanı genellikle etkilemez. Medyan, veri setinin ortadaki değerini temsil ettiği için, veri setinin uçlarındaki değerlerin değişmesi medyanı değiştirmez."
+  },
+  {
+    "instruction": "Merkezi eğilim ölçüleri nelerdir?",
+    "output": "Merkezi eğilim ölçüleri, bir veri setinin merkezini veya tipik değerini belirlemek için kullanılan istatistiksel ölçülerdir. En yaygın merkezi eğilim ölçüleri ortalama, medyan ve moddur."
+  },
+  {
+    "instruction": "Mod nedir?",
+    "output": "Mod, bir veri setinde en sık görülen değerdir. Bir veri setinde birden fazla mod olabilir veya hiç mod bulunmayabilir."
+  },
+  {
+    "instruction": "Mod nasıl bulunur?",
+    "output": "Mod, bir veri setinde en sık tekrar eden değeri bulmak suretiyle bulunur. Veri setindeki her bir değerin frekansı sayılır ve en yüksek frekansa sahip olan değer mod olarak belirlenir."
+  },
+  {
+    "instruction": "Ortalama, medyan ve mod arasındaki fark nedir?",
+    "output": "Ortalama, tüm veri noktalarının toplamının veri sayısına bölünmesiyle elde edilir. Medyan, sıralanmış bir veri setinin ortadaki değeridir. Mod ise en sık tekrar eden değerdir. Her biri farklı durumlarda merkezi eğilim ölçüsü olarak kullanılabilir."
+  },
+  {
+    "instruction": "Veri dağılımı nedir?",
+    "output": "Veri dağılımı, bir veri setindeki değerlerin nasıl dağıldığını, yani hangi değerlerin ne sıklıkla ortaya çıktığını gösterir. Veri dağılımı, veri setinin genel yapısını ve eğilimlerini anlamak için önemlidir."
+  },
+  {
+    "instruction": "Veri setinde merkezi eğilim ölçüsü seçimi neye göre yapılır?",
+    "output": "Merkezi eğilim ölçüsü seçimi, veri setinin özelliklerine ve analiz amacına bağlıdır. Aykırı değerlerin varlığı medyanı daha uygun hale getirirken, homojen bir dağılımda ortalama daha iyi bir temsilci olabilir. Mod, özellikle kategorik verilerde veya en sık görülen değerin önemli olduğu durumlarda kullanılır."
+  },
+  {
+    "instruction": "Veri analizi neden önemlidir?",
+    "output": "Veri analizi, verilerin toplanması, incelenmesi ve yorumlanması sürecidir. Bu süreç, verilerden anlamlı bilgiler elde etmeyi ve karar verme süreçlerini desteklemeyi amaçlar. İyi bir veri analizi, daha bilinçli ve etkili kararlar alınmasına yardımcı olur."
+  }
+]

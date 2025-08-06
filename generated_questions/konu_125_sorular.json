@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "İki değişkenli denklemler nedir?",
+    "output": "İki değişkenli denklemler, genellikle x ve y gibi iki farklı değişken içeren matematiksel ifadelerden oluşan denklemlerdir. Bu tür denklemler, genellikle bir düzlemde bir doğruyu temsil eder ve çözüm kümesi sıralı ikililerden oluşur."
+  },
+  {
+    "instruction": "Sıralı ikili nedir?",
+    "output": "Sıralı ikili, iki elemandan oluşan ve belirli bir sıraya sahip bir çift olarak tanımlanır. Matematikte genellikle koordinat düzleminde bir noktayı belirtmek için kullanılır ve (x, y) şeklinde ifade edilir."
+  },
+  {
+    "instruction": "İki değişkenli denklemlerin çözümü nasıl bulunur?",
+    "output": "İki değişkenli denklemlerin çözümü, denklemi sağlayan x ve y değerlerinin bulunması anlamına gelir. Bu genellikle denklemi y'ye göre çözerek veya iki denklemi birlikte çözerek yapılır. Çözüm, genellikle sıralı ikililer olarak ifade edilir."
+  },
+  {
+    "instruction": "Koordinat düzleminde sıralı ikililer nasıl kullanılır?",
+    "output": "Koordinat düzleminde sıralı ikililer, bir noktanın yerini belirlemek için kullanılır. İlk eleman (x) yatay eksende, ikinci eleman (y) dikey eksende yer alır. Bu, bir noktayı tam olarak tanımlamak için gereklidir."
+  },
+  {
+    "instruction": "Bir denklemin çözüm kümesi nedir?",
+    "output": "Bir denklemin çözüm kümesi, denklemi doğru yapan tüm değerlerin topluluğudur. İki değişkenli bir denklemde, çözüm kümesi genellikle sıralı ikililerden oluşur ve bu ikililer koordinat düzleminde bir doğruyu oluşturur."
+  },
+  {
+    "instruction": "İki değişkenli denklemler hangi durumlarda kullanılır?",
+    "output": "İki değişkenli denklemler, genellikle iki değişken arasındaki ilişkiyi modellemek için kullanılır. Bu, fizik, ekonomi, mühendislik gibi alanlarda karşılaşılan problemleri çözmek için yaygın bir yöntemdir."
+  },
+  {
+    "instruction": "Sıralı ikililerin özellikleri nelerdir?",
+    "output": "Sıralı ikililerin en önemli özelliği, elemanların sırasının önemli olmasıdır. (x, y) ikilisi (y, x) ikilisinden farklıdır. Sıralı ikililer, genellikle koordinat düzleminde bir noktayı belirtmek için kullanılır."
+  },
+  {
+    "instruction": "İki değişkenli denklemlerin grafiği nasıl çizilir?",
+    "output": "İki değişkenli bir denklemin grafiği, genellikle bir doğru olarak çizilir. Denklemi y'ye göre çözüp, x ve y için birkaç değer seçilerek bu değerler koordinat düzleminde işaretlenir ve bu noktalar birleştirilerek doğru çizilir."
+  },
+  {
+    "instruction": "Sıralı ikililer hangi matematiksel konularda kullanılır?",
+    "output": "Sıralı ikililer, analitik geometri, fonksiyonlar, doğrusal cebir ve koordinat geometri gibi birçok matematiksel konuda kullanılır. Özellikle, koordinat düzleminde noktaların belirlenmesi ve grafiklerin çizilmesi için temel bir yapı taşını oluşturur."
+  },
+  {
+    "instruction": "İki değişkenli denklemler ve tek değişkenli denklemler arasındaki fark nedir?",
+    "output": "Tek değişkenli denklemler yalnızca bir değişken içerirken, iki değişkenli denklemler iki farklı değişken içerir. Tek değişkenli denklemlerin çözümü bir sayı iken, iki değişkenli denklemlerin çözümü genellikle bir sıralı ikilidir ve bir doğruyu temsil eder."
+  }
+]

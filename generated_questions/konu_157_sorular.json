@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Yer değiştirme yöntemi ile denklem çözme nedir?",
+    "output": "Yer değiştirme yöntemi, bir denklemi çözmek için kullanılan bir tekniktir. Bu yöntemde, bir bilinmeyeni diğer bilinmeyen cinsinden ifade ederiz ve bu ifadeyi diğer denkleme yerleştiririz. Bu şekilde, bir bilinmeyeni ortadan kaldırarak diğer bilinmeyeni bulmamız kolaylaşır."
+  },
+  {
+    "instruction": "Denklemlerin kesişim noktası ne anlama gelir?",
+    "output": "Denklemlerin kesişim noktası, iki veya daha fazla doğrunun grafik üzerinde kesiştiği noktayı ifade eder. Bu nokta, her iki doğrunun da aynı anda sağladığı koordinatları temsil eder ve genellikle sistemin çözümü olarak kabul edilir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerde eğim nasıl yorumlanır?",
+    "output": "Doğrusal denklemlerde eğim, doğrunun yatay eksene göre ne kadar dik olduğunu gösterir. Eğim, bir birim yatay hareket için dikeyde ne kadar değişim olduğunu belirtir. Pozitif eğim, doğrunun yukarı doğru eğimli olduğunu, negatif eğim ise aşağı doğru eğimli olduğunu gösterir."
+  },
+  {
+    "instruction": "Bir denklemin y eksenini kesme noktası nasıl bulunur?",
+    "output": "Bir denklemin y eksenini kesme noktası, x'in sıfır olduğu durumda y'nin değerini bulmakla elde edilir. Doğrusal bir denklemin y = mx + c formunda olduğu düşünüldüğünde, y eksenini kesme noktası c değerine eşittir."
+  },
+  {
+    "instruction": "Doğrusal denklemler hangi durumlarda eşit maliyet sağlar?",
+    "output": "Doğrusal denklemler, iki farklı planın veya durumun maliyetlerinin eşit olduğu noktayı belirlemek için kullanılır. Bu, genellikle iki doğrunun kesişim noktasıdır ve bu noktada her iki plan da aynı maliyeti sağlar."
+  },
+  {
+    "instruction": "Denklem çözümünde sadeleştirme nasıl yapılır?",
+    "output": "Denklem çözümünde sadeleştirme, denklemin her iki tarafındaki benzer terimleri çıkarmak veya eklemek suretiyle yapılır. Bu işlem, denklemi daha basit bir forma dönüştürerek çözümü kolaylaştırır. Örneğin, bir denklemdeki aynı bilinmeyen terimleri bir tarafta toplamak sadeleştirme işlemine örnektir."
+  },
+  {
+    "instruction": "Denklemde bilinmeyen nasıl yalnız bırakılır?",
+    "output": "Denklemde bilinmeyeni yalnız bırakmak için, bilinmeyen terimi denklemin bir tarafında izole ederiz. Bu, genellikle diğer terimleri çıkarmak veya eklemek ve ardından bilinmeyeni çarpan veya bölen bir sayı varsa bu sayı ile bölmek suretiyle yapılır."
+  },
+  {
+    "instruction": "Denklem çözümünde eşitlik nasıl korunur?",
+    "output": "Denklem çözümünde eşitliği korumak için, yapılan her işlemi denklemin her iki tarafına da uygulamak gerekir. Örneğin, bir taraftan bir sayı çıkarılıyorsa, aynı sayı diğer taraftan da çıkarılmalıdır. Bu, denklemin dengesini bozmadan çözüm sürecini ilerletir."
+  },
+  {
+    "instruction": "Denklemlerde ön ödeme nasıl hesaplanır?",
+    "output": "Denklemlerde ön ödeme, genellikle sabit bir başlangıç maliyetini temsil eder ve bu, denklemin sabit terimi olarak ifade edilir. Örneğin, y = mx + c denkleminde c terimi, başlangıçta yapılan ön ödemeyi gösterir."
+  },
+  {
+    "instruction": "Doğrusal denklemlerle modelleme ne işe yarar?",
+    "output": "Doğrusal denklemlerle modelleme, gerçek dünya problemlerini matematiksel olarak ifade etmek ve çözmek için kullanılır. Bu, maliyet hesaplamaları, hareket problemleri veya diğer ilişkisel durumları analiz etmek için etkili bir yöntemdir. Modelleme, karar verme süreçlerini destekler ve durumu daha iyi anlamamıza yardımcı olur."
+  }
+]

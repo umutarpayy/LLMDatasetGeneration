@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Ters açılar nedir ve hangi özelliklere sahiptir?",
+    "output": "Ters açılar, iki doğru birbirini kestiğinde oluşan ve karşılıklı olarak eşit olan açılardır. İki doğru kesiştiğinde dört açı oluşur ve bu açılardan karşılıklı olanlar ters açılar olarak adlandırılır. Ters açılar her zaman eşittir."
+  },
+  {
+    "instruction": "Kenar-Açı-Kenar (KAK) eşlik teoremi nedir?",
+    "output": "Kenar-Açı-Kenar (KAK) eşlik teoremi, iki üçgenin bir kenarının, bu kenarın karşısındaki açının ve bu açının diğer tarafındaki kenarın sırasıyla diğer üçgenin karşılık gelen kenar, açı ve kenarına eşit olması durumunda, iki üçgenin eş olduğunu belirten bir teoremdir."
+  },
+  {
+    "instruction": "Üçgen eşliği ispatında hangi yöntemler kullanılır?",
+    "output": "Üçgen eşliği ispatında genellikle Kenar-Kenar-Kenar (KKK), Kenar-Açı-Kenar (KAK), Açı-Kenar-Açı (AKA) ve Açı-Açı-Kenar (AAK) gibi eşlik teoremleri kullanılır. Bu teoremler, belirli kenar ve açıların eşitliğine dayanarak üçgenlerin eş olduğunu ispatlamak için kullanılır."
+  },
+  {
+    "instruction": "Eş üçgenlerin özellikleri nelerdir?",
+    "output": "Eş üçgenler, tüm karşılık gelen kenarlarının ve açıların eşit olduğu üçgenlerdir. Eş üçgenlerde, çevre ve alan gibi ölçüler de eşittir. İki üçgenin eş olması, birinin diğerine tam olarak örtüşmesi anlamına gelir."
+  },
+  {
+    "instruction": "Geometride 'verilenler' nasıl kullanılır?",
+    "output": "Geometride 'verilenler', bir problemi çözmek veya bir ispat yapmak için başlangıç noktası olarak kullanılır. Verilen bilgiler, şekillerin özelliklerini, uzunlukları, açıları veya diğer geometrik ilişkileri içerebilir. Bu bilgiler, ispat veya çözüm sürecinde kullanılacak olan teoremleri ve yöntemleri belirlemek için kritiktir."
+  },
+  {
+    "instruction": "Kenar-Kenar-Kenar (KKK) eşlik teoremi nedir?",
+    "output": "Kenar-Kenar-Kenar (KKK) eşlik teoremi, üç kenarı da sırasıyla diğer üçgenin üç kenarına eşit olan iki üçgenin eş olduğunu belirten bir teoremdir. Bu teorem, üçgenlerin tüm kenarlarının eşitliği üzerinden eşlik ispatı yapar."
+  },
+  {
+    "instruction": "Ters açılar nasıl bulunur?",
+    "output": "Ters açılar, iki doğru birbirini kestiğinde oluşan dört açıdan karşılıklı olanlar olarak bulunur. Bu açılar, kesişen doğruların oluşturduğu açılar arasında karşılıklı olarak yer alır ve her zaman eşittirler."
+  },
+  {
+    "instruction": "Geometrik ispatlarda 'varsayım' nasıl kullanılır?",
+    "output": "Geometrik ispatlarda 'varsayım', bir durumun doğru olduğunu kabul ederek ispat sürecine başlamak için kullanılır. Varsayımlar, ispatın temelini oluşturur ve genellikle teoremlerin veya postülatların uygulanmasına olanak tanır. Varsayımın doğruluğu, ispatın sonunda elde edilen sonuçlarla doğrulanır."
+  },
+  {
+    "instruction": "Geometri problemlerinde şekil çizimi neden önemlidir?",
+    "output": "Geometri problemlerinde şekil çizimi, problemin görselleştirilmesine ve anlaşılmasına yardımcı olur. Doğru ve ölçekli bir şekil, verilen bilgilerin ve ilişkilerin daha iyi anlaşılmasını sağlar. Ayrıca, şekil üzerinde yapılan işaretlemeler ve notlar, ispat veya çözüm sürecinde rehberlik eder."
+  },
+  {
+    "instruction": "Kenar-Açı-Kenar (KAK) eşlik teoremi hangi durumlarda geçerlidir?",
+    "output": "Kenar-Açı-Kenar (KAK) eşlik teoremi, iki üçgenin bir kenarının, bu kenarın karşısındaki açının ve bu açının diğer tarafındaki kenarın sırasıyla diğer üçgenin karşılık gelen kenar, açı ve kenarına eşit olduğu durumlarda geçerlidir. Bu koşullar sağlandığında, iki üçgenin eş olduğu söylenebilir."
+  }
+]

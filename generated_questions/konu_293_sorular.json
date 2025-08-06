@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Geometri nedir?",
+    "output": "Geometri, şekillerin, boyutların, konumların ve uzayda bulunan nesnelerin özelliklerini ve ilişkilerini inceleyen matematik dalıdır. Geometri, düzlem geometri (iki boyutlu şekiller) ve uzay geometri (üç boyutlu şekiller) olarak iki ana kategoriye ayrılır."
+  },
+  {
+    "instruction": "Altın Oran sanat ve mimaride nasıl kullanılır?",
+    "output": "Altın Oran, estetik açıdan hoş ve dengeli tasarımlar oluşturmak için sanat ve mimaride kullanılır. Sanatçılar ve mimarlar, bu oranı kullanarak eserlerinde simetri ve uyum yakalamaya çalışırlar. Örneğin, birçok ünlü ressam ve mimar, eserlerinde Altın Oran'ı kullanarak estetik bir denge oluşturmuştur."
+  },
+  {
+    "instruction": "Altın Oran ile Fibonacci dizisi arasındaki ilişki nedir?",
+    "output": "Altın Oran ile Fibonacci dizisi arasında yakın bir ilişki vardır. Fibonacci dizisinin ardışık terimleri arasındaki oran, dizide ilerledikçe Altın Oran'a (yaklaşık 1.618) yaklaşır. Bu nedenle, Fibonacci dizisi Altın Oran'ı doğal bir şekilde temsil eder."
+  },
+  {
+    "instruction": "Altın Oran'ın matematiksel ifadesi nedir?",
+    "output": "Altın Oran, genellikle 'phi' (φ) sembolü ile gösterilir ve (1 + √5) / 2 olarak ifade edilir. Bu oran yaklaşık olarak 1.6180339887'dir. Matematiksel olarak, bir doğru parçası iki parçaya bölündüğünde, uzun parçanın kısa parçaya oranı, tüm parçanın uzun parçaya oranına eşit olduğunda Altın Oran elde edilir."
+  },
+  {
+    "instruction": "Altın Oran'ın doğadaki örnekleri nelerdir?",
+    "output": "Altın Oran, doğada sıkça görülür. Örneğin, bazı bitkilerin yaprak düzenlerinde, çam kozalağındaki spiral desenlerde, deniz kabuklarının şekillerinde ve hatta bazı hayvanların vücut oranlarında Altın Oran gözlemlenebilir. Bu oran, doğada estetik ve yapısal bir denge sağladığı düşünülmektedir."
+  },
+  {
+    "instruction": "Altın Oran'ın tarihçesi nedir?",
+    "output": "Altın Oran'ın tarihçesi antik Yunan dönemine kadar uzanır. İlk olarak M.Ö. 5. yüzyılda Yunan matematikçi Öklid tarafından tanımlanmıştır. Daha sonra, Rönesans döneminde sanatçılar ve mimarlar tarafından sıkça kullanılmıştır. Leonardo da Vinci, eserlerinde Altın Oran'ı kullanmasıyla ünlüdür."
+  },
+  {
+    "instruction": "Altın Oran'ın psikolojik etkileri nelerdir?",
+    "output": "Altın Oran'ın psikolojik etkileri, estetik algı ve beğeni ile ilişkilidir. İnsanlar genellikle Altın Oran'a sahip nesneleri daha estetik ve hoş bulurlar. Bu nedenle, tasarımda ve sanatta Altın Oran kullanılarak izleyiciler üzerinde olumlu bir psikolojik etki yaratılabilir."
+  },
+  {
+    "instruction": "Altın Oran ve simetri arasındaki ilişki nedir?",
+    "output": "Altın Oran ve simetri, estetik ve denge açısından birbirleriyle ilişkilidir. Altın Oran, simetrik ve dengeli tasarımlar oluşturmak için kullanılabilir. Simetri, bir nesnenin veya şeklin bir eksene göre aynen tekrarlanmasıdır, Altın Oran ise bu simetrinin estetik bir şekilde düzenlenmesine yardımcı olabilir."
+  },
+  {
+    "instruction": "Altın Oran ve oranlar arasındaki fark nedir?",
+    "output": "Altın Oran, özel bir oran türüdür ve yaklaşık 1.618'e eşittir. Oranlar genel olarak iki miktar arasındaki ilişkiyi ifade ederken, Altın Oran bu oranların estetik ve matematiksel olarak özel bir halidir. Altın Oran, özellikle sanat ve mimaride estetik bir denge sağlamak için kullanılır."
+  },
+  {
+    "instruction": "Altın Oran'ın matematiksel özellikleri nelerdir?",
+    "output": "Altın Oran'ın matematiksel özellikleri arasında, kendisiyle çarpıldığında kendisine 1 eklenmesi ve tersinin kendisinden 1 çıkması gibi ilginç özellikler bulunur. Bu özellikler, Altın Oran'ın benzersiz ve özel bir matematiksel oran olmasını sağlar."
+  }
+]

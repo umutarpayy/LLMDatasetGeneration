@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dönel simetri nedir?",
+    "output": "Dönel simetri, bir şeklin belirli bir merkez etrafında belirli bir açıyla döndürüldüğünde orijinal şekliyle aynı görünmesi durumudur. Örneğin, bir şekil 180 derece döndürüldüğünde aynı görünüyorsa, bu şekil 180 derece dönel simetriye sahiptir."
+  },
+  {
+    "instruction": "180 derece döndürme işlemi nasıl yapılır?",
+    "output": "180 derece döndürme işlemi, bir şeklin merkezinden geçen bir doğru etrafında şekli yarım tur döndürmektir. Bu işlem sonucunda şeklin her noktası, merkezden aynı uzaklıkta ancak merkezden karşı tarafa yer değiştirir."
+  },
+  {
+    "instruction": "Hangi şekiller 180 derece dönel simetriye sahiptir?",
+    "output": "Genellikle kareler, eşkenar dörtgenler ve bazı yıldız şekilleri 180 derece dönel simetriye sahiptir. Bu şekiller, 180 derece döndürüldüğünde orijinal halleriyle aynı görünürler."
+  },
+  {
+    "instruction": "Bir şeklin dönel simetrik olup olmadığını nasıl anlarız?",
+    "output": "Bir şeklin dönel simetrik olup olmadığını anlamak için şekli belirli bir merkez etrafında döndürürüz. Eğer belirli bir açıyla döndürüldüğünde şekil orijinal haliyle aynı görünüyorsa, şekil dönel simetriktir. Özellikle 180 derece döndürme, simetrik olup olmadığını test etmek için yaygın bir yöntemdir."
+  },
+  {
+    "instruction": "Dönel simetri hangi durumlarda kullanılır?",
+    "output": "Dönel simetri, mühendislik, mimari ve sanat gibi alanlarda tasarım ve estetik amaçlı kullanılır. Ayrıca, doğada bazı canlıların ve yaprakların düzeninde dönel simetri görülür. Matematikte ise, şekillerin özelliklerini incelemek ve simetri gruplarını anlamak için kullanılır."
+  },
+  {
+    "instruction": "Dönel simetri ile yansıma simetrisi arasındaki fark nedir?",
+    "output": "Dönel simetri, bir şeklin belirli bir açıyla döndürüldüğünde aynı kalmasıdır. Yansıma simetrisi ise, bir şeklin bir eksen boyunca katlandığında iki yarısının birbirinin aynası olmasıdır. Dönel simetri, merkez etrafında döndürmeyi içerirken, yansıma simetrisi bir eksen boyunca yansıtmayı içerir."
+  },
+  {
+    "instruction": "Bir şeklin merkezi nasıl belirlenir?",
+    "output": "Bir şeklin merkezi, genellikle şeklin geometrik ortasıdır. Örneğin, bir dairenin merkezi, dairenin ortasındaki noktadır. Dörtgenler gibi çokgenlerde ise, köşegenlerin kesişim noktası merkez olarak alınabilir. Merkez, şeklin dönel simetri testlerinde döndürme işleminin yapıldığı noktadır."
+  },
+  {
+    "instruction": "Dönel simetri hangi geometrik şekillerde daha yaygındır?",
+    "output": "Dönel simetri, genellikle düzenli çokgenlerde (örneğin, kare, eşkenar dörtgen) ve dairelerde daha yaygındır. Bu şekiller, belirli açılarla döndürüldüğünde orijinal halleriyle aynı görünme eğilimindedirler."
+  },
+  {
+    "instruction": "Paralelkenarın dönel simetrik özellikleri nelerdir?",
+    "output": "Paralelkenar, genellikle 180 derece dönel simetriye sahiptir. Bu, paralelkenarın merkezinden geçen bir doğru etrafında 180 derece döndürüldüğünde şeklin orijinal haliyle aynı görünmesi anlamına gelir. Ancak, tüm paralelkenarlar bu özelliğe sahip olmayabilir, şeklin özel durumuna bağlıdır."
+  },
+  {
+    "instruction": "Dönel simetri, şekil analizi ve tasarımda neden önemlidir?",
+    "output": "Dönel simetri, şekil analizi ve tasarımda estetik ve denge sağlamak için önemlidir. Simetrik tasarımlar genellikle daha hoş ve dengeli görünür. Ayrıca, dönel simetri, mühendislik ve mimaride yapısal dayanıklılığı artırabilir ve doğal dünyadaki simetrik yapıları anlamamıza yardımcı olabilir."
+  }
+]

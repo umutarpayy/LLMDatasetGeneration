@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Çarpan nedir?",
+    "output": "Çarpan, bir sayıyı bölen ve sonuç olarak tam sayı elde edilen sayılardır. Örneğin, 9'un çarpanları 1, 3 ve 9'dur çünkü bu sayılar 9'u tam böler."
+  },
+  {
+    "instruction": "Çarpanlar nasıl bulunur?",
+    "output": "Bir sayının çarpanlarını bulmak için, o sayıyı bölebilecek tüm pozitif tam sayıları belirlemek gerekir. Bu işlem, genellikle sayıyı 1'den başlayarak daha büyük sayılara bölerek gerçekleştirilir ve bölen sayılar çarpan olarak kabul edilir."
+  },
+  {
+    "instruction": "Çarpanlar hangi özelliklere sahiptir?",
+    "output": "Çarpanlar, bir sayıyı tam bölen sayılardır ve her sayı en az iki çarpana sahiptir: 1 ve kendisi. Ayrıca, çarpanlar genellikle sayının kareköküne kadar olan sayılar arasında aranır."
+  },
+  {
+    "instruction": "Çarpanlar ne işe yarar?",
+    "output": "Çarpanlar, matematikte sayıların bölünebilirliğini anlamak, sayıların asal olup olmadığını belirlemek ve çeşitli problem çözümlerinde kullanılır. Özellikle faktorizasyon ve bölünebilme testlerinde önemli rol oynar."
+  },
+  {
+    "instruction": "Asal çarpan nedir?",
+    "output": "Asal çarpan, bir sayının çarpanları arasında sadece 1 ve kendisi dışında başka bir böleni olmayan sayılardır. Örneğin, 12'nin asal çarpanları 2 ve 3'tür."
+  },
+  {
+    "instruction": "Bir sayının asal çarpanları nasıl bulunur?",
+    "output": "Bir sayının asal çarpanlarını bulmak için, sayıyı en küçük asal sayıdan başlayarak böleriz ve her böldüğümüzde elde edilen bölüm asal sayı olana kadar devam ederiz. Bu işlem sonucunda elde edilen asal sayılar, o sayının asal çarpanlarıdır."
+  },
+  {
+    "instruction": "Çarpanlar ve katlar arasındaki fark nedir?",
+    "output": "Çarpanlar, bir sayıyı tam bölen sayılardır, katlar ise bir sayının kendisiyle çarpılarak elde edilen sayılardır. Örneğin, 6'nın çarpanları 1, 2, 3 ve 6 iken, katları 6, 12, 18 gibi sayılardır."
+  },
+  {
+    "instruction": "Bir sayının çarpanları hangi durumlarda kullanılır?",
+    "output": "Bir sayının çarpanları, matematik problemlerinde bölünebilirlik testleri, asal çarpanlara ayırma ve sayıların özelliklerini inceleme gibi durumlarda kullanılır."
+  },
+  {
+    "instruction": "Bir sayının çarpanları neden önemlidir?",
+    "output": "Bir sayının çarpanları, o sayının yapısını anlamak ve çeşitli matematiksel işlemleri gerçekleştirmek için önemlidir. Özellikle asal çarpanlara ayırma, en küçük ortak kat ve en büyük ortak bölen gibi kavramların temelini oluşturur."
+  },
+  {
+    "instruction": "Bir sayının çarpanları nasıl kontrol edilir?",
+    "output": "Bir sayının çarpanları, sayıyı 1'den başlayarak daha büyük sayılara bölerek ve her bölen sayıyı kontrol ederek bulunur. Eğer bölüm tam sayı ise, bölen sayı bir çarpandır."
+  }
+]

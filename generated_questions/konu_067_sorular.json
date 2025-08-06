@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Paydayı rasyonel yapmak nedir?",
+    "output": "Paydayı rasyonel yapmak, bir kesirdeki irrasyonel paydanın, çarpma işlemi kullanılarak rasyonel bir sayıya dönüştürülmesi işlemidir. Bu, genellikle kesirlerin daha kolay anlaşılabilir ve hesaplanabilir hale gelmesi için yapılır."
+  },
+  {
+    "instruction": "İrrasyonel sayı nedir?",
+    "output": "İrrasyonel sayı, kesirli bir biçimde ifade edilemeyen, yani iki tam sayının oranı şeklinde yazılamayan sayıdır. Örneğin, pi (π) ve karekök 2 (√2) irrasyonel sayılardır."
+  },
+  {
+    "instruction": "Paydayı rasyonel yapmanın amacı nedir?",
+    "output": "Paydayı rasyonel yapmanın amacı, kesirleri daha anlaşılır ve hesaplanabilir hale getirmektir. Bu, özellikle hesap makinelerinin yaygın olmadığı zamanlarda, hesaplamaları kolaylaştırmak için önemliydi."
+  },
+  {
+    "instruction": "İki kare farkı özdeşliği nedir?",
+    "output": "İki kare farkı özdeşliği, (a - b)(a + b) = a² - b² şeklinde ifade edilen bir matematiksel özdeşliktir. Bu özdeşlik, iki terimin çarpımını, terimlerin karelerinin farkı olarak ifade eder."
+  },
+  {
+    "instruction": "İki terimli bir ifadede paydayı rasyonel yapmak için hangi yöntem kullanılır?",
+    "output": "İki terimli bir ifadede paydayı rasyonel yapmak için, payda ile konjugatını (eşleniğini) çarpmak gerekir. Örneğin, (a - b) şeklindeki bir paydanın konjugatı (a + b) olup, bu iki terim çarpıldığında iki kare farkı özdeşliği kullanılarak payda rasyonel hale getirilir."
+  },
+  {
+    "instruction": "Konjugat (eşlenik) nedir?",
+    "output": "Konjugat, bir sayının işaret değiştirilmiş hali olarak tanımlanır. Özellikle karmaşık sayılar ve iki terimli ifadelerde kullanılır. Örneğin, a + b şeklindeki bir ifadenin konjugatı a - b'dir."
+  },
+  {
+    "instruction": "Bir kesirde payı ve paydayı aynı sayıyla çarpmak neden kesrin değerini değiştirmez?",
+    "output": "Bir kesirde payı ve paydayı aynı sayıyla çarpmak, kesrin değerini değiştirmez çünkü bu işlem, kesri 1 ile çarpmak anlamına gelir. Matematikte herhangi bir sayıyı 1 ile çarpmak o sayının değerini değiştirmez."
+  },
+  {
+    "instruction": "İrrasyonel bir sayıyı rasyonel bir sayıya dönüştürmek mümkün müdür?",
+    "output": "İrrasyonel bir sayıyı doğrudan rasyonel bir sayıya dönüştürmek mümkün değildir. Ancak, irrasyonel bir sayının bulunduğu bir kesirin paydasını rasyonel yapmak mümkündür. Bu, kesirin genel yapısını değiştirir ancak değeri aynı kalır."
+  },
+  {
+    "instruction": "Paydayı rasyonel yaparken hangi matematiksel işlemler kullanılır?",
+    "output": "Paydayı rasyonel yaparken genellikle çarpma ve iki kare farkı özdeşliği gibi matematiksel işlemler kullanılır. Bu işlemler, irrasyonel terimleri yok etmek ve paydayı rasyonel hale getirmek için kullanılır."
+  },
+  {
+    "instruction": "Rasyonel ve irrasyonel sayılar arasındaki fark nedir?",
+    "output": "Rasyonel sayılar, iki tam sayının oranı olarak ifade edilebilen sayılardır, yani kesirli bir biçimde yazılabilirler. İrrasyonel sayılar ise kesirli bir biçimde ifade edilemeyen, sonsuz ve devirsiz ondalık açılıma sahip sayılardır. Örneğin, 1/2 bir rasyonel sayı iken, √2 bir irrasyonel sayıdır."
+  }
+]

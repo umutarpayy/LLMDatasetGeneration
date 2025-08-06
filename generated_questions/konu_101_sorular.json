@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Dağılma özelliği nedir?",
+    "output": "Dağılma özelliği, bir cebirsel ifadede bir terimin parantez içindeki her terimle ayrı ayrı çarpılması gerektiğini belirten bir özelliktir. Örneğin, a(b + c) ifadesi dağılma özelliği kullanılarak ab + ac şeklinde yazılabilir."
+  },
+  {
+    "instruction": "Dağılma özelliği nasıl uygulanır?",
+    "output": "Dağılma özelliği, parantez dışındaki terimin parantez içindeki her terimle çarpılması yoluyla uygulanır. Örneğin, 3(x + 4) ifadesinde 3, hem x ile hem de 4 ile çarpılır ve sonuç 3x + 12 olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde sadeleştirme nasıl yapılır?",
+    "output": "Cebirsel ifadelerde sadeleştirme, benzer terimlerin birleştirilmesi ve dağılma özelliği gibi matematiksel özelliklerin kullanılmasıyla yapılır. Bu işlem, ifadeyi daha basit ve anlaşılır bir hale getirir."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde terimler nasıl sınıflandırılır?",
+    "output": "Cebirsel ifadelerde terimler, benzer terimler ve farklı terimler olarak sınıflandırılır. Benzer terimler, aynı değişkenlere ve aynı derecelere sahip terimlerdir ve birleştirilebilirler. Farklı terimler ise farklı değişkenlere veya derecelere sahip oldukları için birleştirilemezler."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde parantez açma işlemi nasıl yapılır?",
+    "output": "Parantez açma işlemi, dağılma özelliği kullanılarak yapılır. Parantez dışındaki terim, parantez içindeki her terimle çarpılarak parantez açılır. Örneğin, 2(x + 3) ifadesi 2x + 6 olarak açılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde negatif işaretler nasıl yönetilir?",
+    "output": "Negatif işaretler, dağılma özelliği uygulanırken dikkatle yönetilmelidir. Parantez önündeki negatif işaret, içindeki her terimi çarparken işaretin değişmesine neden olur. Örneğin, -(x + 2) ifadesi -x - 2 olarak açılır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde çarpma işlemi hangi kurallara göre yapılır?",
+    "output": "Cebirsel ifadelerde çarpma işlemi, katsayıların çarpılması ve aynı değişkenlerin üslerinin toplanması kurallarına göre yapılır. Örneğin, 3x * 2x = 6x^2 olur."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde toplama ve çıkarma işlemleri nasıl yapılır?",
+    "output": "Cebirsel ifadelerde toplama ve çıkarma işlemleri, yalnızca benzer terimler arasında yapılabilir. Benzer terimlerin katsayıları toplanır veya çıkarılır, değişken kısmı aynı kalır. Örneğin, 5x + 3x = 8x ve 7y - 2y = 5y."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde katsayılar nasıl tanımlanır?",
+    "output": "Cebirsel ifadelerde katsayı, bir terimdeki değişkenin önündeki sayıdır. Katsayı, terimin büyüklüğünü belirler ve değişkenle birlikte çarpılır. Örneğin, 4x teriminde 4 katsayıdır."
+  },
+  {
+    "instruction": "Cebirsel ifadelerde değişkenler hangi amaçla kullanılır?",
+    "output": "Cebirsel ifadelerde değişkenler, bilinmeyen veya değişken değerleri temsil etmek için kullanılır. Değişkenler, matematiksel ifadelerin genelleştirilmesine ve çeşitli durumların modellenmesine olanak tanır."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "X eksenini kesme noktası nedir?",
+    "output": "X eksenini kesme noktası, bir doğrunun y koordinatının sıfır olduğu noktadır. Yani, bu noktada doğru x eksenini keser ve y'nin değeri sıfırdır."
+  },
+  {
+    "instruction": "Bir doğrunun x eksenini kestiği nokta nasıl bulunur?",
+    "output": "Bir doğrunun x eksenini kestiği noktayı bulmak için, doğrunun denklemi y=0 olacak şekilde düzenlenir ve x için çözülür. Bu, doğrunun y=0 olduğunda x'in alacağı değeri verir."
+  },
+  {
+    "instruction": "Doğru denklemi nasıl çözülür?",
+    "output": "Doğru denklemi çözülürken, genellikle bir değişken sabitlenir (örneğin y=0) ve diğer değişken için çözüm yapılır. Bu, doğrunun belirli bir ekseni kestiği noktayı bulmak için kullanılır."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl hesaplanır?",
+    "output": "Bir doğrunun eğimi, iki nokta arasındaki dikey değişimin yatay değişime oranı olarak hesaplanır. Matematiksel olarak, eğim (m) = (y2 - y1) / (x2 - x1) formülü ile bulunur."
+  },
+  {
+    "instruction": "Bileşik kesir nedir?",
+    "output": "Bileşik kesir, tam sayı ve kesir kısmından oluşan bir kesirdir. Örneğin, 2 tam 1/3, bileşik bir kesirdir ve 7/3 gibi bir kesirle ifade edilebilir."
+  },
+  {
+    "instruction": "Denklem çözümünde neden her iki tarafı aynı sayıya bölüyoruz?",
+    "output": "Denklem çözümünde her iki tarafı aynı sayıya bölmek, denklemin eşitliğini bozmadan bir değişkeni izole etmeye yardımcı olur. Bu, denklemin her iki tarafına aynı işlemi uygulayarak denklemi basitleştirir."
+  },
+  {
+    "instruction": "Bir doğrunun grafiği nasıl çizilir?",
+    "output": "Bir doğrunun grafiği, doğru denkleminin belirli noktaları için x ve y değerleri hesaplanarak çizilir. Elde edilen noktalar koordinat sistemine yerleştirilir ve bu noktalar birleştirilerek doğru çizilir."
+  },
+  {
+    "instruction": "Doğrusal bir denklemin grafiği neyi temsil eder?",
+    "output": "Doğrusal bir denklemin grafiği, iki değişken arasındaki lineer ilişkiyi temsil eder. Grafik, bu iki değişkenin nasıl değiştiğini ve birbirleriyle nasıl ilişkili olduğunu gösterir."
+  },
+  {
+    "instruction": "Yatay ve dikey kesişim noktaları arasındaki fark nedir?",
+    "output": "Yatay kesişim noktası, bir doğrunun x eksenini kestiği noktadır ve y=0'dır. Dikey kesişim noktası ise doğrunun y eksenini kestiği noktadır ve x=0'dır."
+  },
+  {
+    "instruction": "Doğru denklemlerinde değişkenlerin katsayıları neyi ifade eder?",
+    "output": "Doğru denklemlerinde değişkenlerin katsayıları, doğrunun eğimini ve eksen kesişim noktalarını belirler. Örneğin, y=mx+b formülünde m eğimi, b ise y eksenini kestiği noktayı gösterir."
+  }
+]

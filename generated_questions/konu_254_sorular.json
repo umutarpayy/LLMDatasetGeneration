@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Küre nedir?",
+    "output": "Küre, bir merkezi noktadan eşit uzaklıktaki tüm noktaların oluşturduğu üç boyutlu bir geometrik cisimdir. Küre, yüzeyi tamamen eğri olan ve hiçbir düz yüzeye sahip olmayan bir şekildir."
+  },
+  {
+    "instruction": "Kürenin hacmi nasıl hesaplanır?",
+    "output": "Kürenin hacmi, 4/3 çarpı pi çarpı yarıçapın küpü formülüyle hesaplanır. Bu formülde pi genellikle 3.14 olarak alınır ve yarıçap, kürenin merkezinden yüzeyine olan mesafedir."
+  },
+  {
+    "instruction": "Çap ve yarıçap arasındaki fark nedir?",
+    "output": "Çap, bir daire veya kürenin bir kenarından diğer kenarına, merkezinden geçerek ölçülen en uzun doğrusal mesafedir. Yarıçap ise, merkezin bir kenara olan mesafesidir ve çapın yarısına eşittir."
+  },
+  {
+    "instruction": "Pi sayısı nedir ve nasıl kullanılır?",
+    "output": "Pi sayısı, bir çemberin çevresinin çapına oranını temsil eden matematiksel bir sabittir ve yaklaşık olarak 3.14159 değerine sahiptir. Pi, daire ve küre gibi şekillerin alan ve hacim hesaplamalarında kullanılır."
+  },
+  {
+    "instruction": "Küre hangi durumlarda kullanılır?",
+    "output": "Küre, genellikle mühendislik, mimarlık ve fizik gibi alanlarda, üç boyutlu modellemelerde, hacim hesaplamalarında ve geometrik analizlerde kullanılır. Ayrıca, doğada gezegenler ve su damlaları gibi küreye yakın şekillerde de karşımıza çıkar."
+  },
+  {
+    "instruction": "Kürenin özellikleri nelerdir?",
+    "output": "Kürenin yüzeyi tamamen eğridir ve hiçbir düz yüzey içermez. Her noktası merkezden eşit uzaklıktadır. Kürenin yüzey alanı ve hacmi, yarıçapına bağlı olarak hesaplanır."
+  },
+  {
+    "instruction": "Kürenin yüzey alanı nasıl hesaplanır?",
+    "output": "Kürenin yüzey alanı, 4 çarpı pi çarpı yarıçapın karesi formülüyle hesaplanır. Bu formül, kürenin yüzeyindeki toplam alanı verir."
+  },
+  {
+    "instruction": "Küre ile daire arasındaki fark nedir?",
+    "output": "Daire, iki boyutlu bir şekildir ve bir düzlemde yer alır. Küre ise üç boyutlu bir cisimdir ve uzayda yer alır. Dairenin çevresi ve alanı vardır, kürenin ise yüzey alanı ve hacmi vardır."
+  },
+  {
+    "instruction": "Küre hacmi hesaplanırken neden pi kullanılır?",
+    "output": "Pi, daire ve küre gibi yuvarlak şekillerin hesaplamalarında kullanılan bir sabittir. Kürenin hacmi, dairesel bir tabana sahip olduğu için pi kullanılarak hesaplanır, bu da hacmin doğru bir şekilde bulunmasını sağlar."
+  },
+  {
+    "instruction": "Kürenin yarıçapı nasıl bulunur?",
+    "output": "Kürenin yarıçapı, çapın yarısı olarak hesaplanır. Eğer kürenin çapı biliniyorsa, yarıçapı bulmak için çapı ikiye bölmek yeterlidir."
+  }
+]

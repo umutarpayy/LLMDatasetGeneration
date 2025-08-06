@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Özdeş şekiller nedir?",
+    "output": "Özdeş şekiller, şekil ve boyut olarak tamamen aynı olan şekillerdir. Bir şekil, diğerine döndürme, yansıtma veya yer değiştirme gibi dönüşümlerle üst üste getirilebiliyorsa, bu şekiller özdeştir."
+  },
+  {
+    "instruction": "Dönüşüm nedir?",
+    "output": "Dönüşüm, bir şeklin konumunu, yönünü veya boyutunu değiştiren matematiksel işlemler bütünüdür. Geometrik dönüşümler, yer değiştirme (translasyon), döndürme (rotasyon), yansıtma (refleksiyon) ve ölçekleme gibi işlemleri içerir."
+  },
+  {
+    "instruction": "Yer değiştirme (translasyon) nasıl yapılır?",
+    "output": "Yer değiştirme, bir şeklin tüm noktalarının aynı doğrultuda ve aynı mesafede kaydırılması işlemidir. Bu işlem, şeklin boyutunu veya şeklini değiştirmez, sadece konumunu değiştirir."
+  },
+  {
+    "instruction": "Döndürme (rotasyon) işlemi nasıl yapılır?",
+    "output": "Döndürme işlemi, bir şeklin belirli bir nokta etrafında belirli bir açı kadar döndürülmesidir. Döndürme işlemi, şeklin boyutunu veya şeklini değiştirmez, sadece yönünü değiştirir."
+  },
+  {
+    "instruction": "Yansıtma (refleksiyon) işlemi nedir?",
+    "output": "Yansıtma, bir şeklin belirli bir eksen boyunca simetriği alınarak elde edilen görüntüsüdür. Bu işlem, şeklin boyutunu veya şeklini değiştirmez, sadece konumunu ve yönünü değiştirir."
+  },
+  {
+    "instruction": "Özdeş şekillerin belirlenmesinde dönüşümler nasıl kullanılır?",
+    "output": "Özdeş şekillerin belirlenmesinde dönüşümler, şekillerin üst üste gelip gelmediğini kontrol etmek için kullanılır. Yer değiştirme, döndürme ve yansıtma işlemleri ile şekillerin konumları ve yönleri değiştirilerek özdeş olup olmadıkları test edilir."
+  },
+  {
+    "instruction": "Dönüşüm işlemleri hangi özelliklere sahiptir?",
+    "output": "Dönüşüm işlemleri, şeklin boyutunu ve şeklini değiştirmeden sadece konumunu ve yönünü değiştiren işlemlerdir. Bu işlemler, şeklin geometrik özelliklerini korur."
+  },
+  {
+    "instruction": "Yer değiştirme ile döndürme arasındaki fark nedir?",
+    "output": "Yer değiştirme, bir şeklin tüm noktalarının aynı doğrultuda ve mesafede kaydırılmasıdır. Döndürme ise, bir şeklin belirli bir nokta etrafında belirli bir açıyla döndürülmesidir. Yer değiştirme şeklin yönünü değiştirmezken, döndürme şeklin yönünü değiştirir."
+  },
+  {
+    "instruction": "Yansıtma işlemi ne işe yarar?",
+    "output": "Yansıtma işlemi, bir şeklin simetrik görüntüsünü elde etmek için kullanılır. Bu işlem, şeklin konumunu ve yönünü değiştirerek, simetri ve özdeşlik gibi kavramların incelenmesine olanak tanır."
+  },
+  {
+    "instruction": "Özdeş şekillerin belirlenmesinde hangi dönüşüm işlemleri kullanılır?",
+    "output": "Özdeş şekillerin belirlenmesinde yer değiştirme, döndürme ve yansıtma gibi dönüşüm işlemleri kullanılır. Bu işlemler, şekillerin üst üste gelip gelmediğini kontrol etmek için uygulanır."
+  }
+]

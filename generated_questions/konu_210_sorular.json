@@ -1,0 +1,42 @@
+[
+  {
+    "instruction": "Eğim-kesişim formu nedir?",
+    "output": "Eğim-kesişim formu, bir doğrunun denklemini y = mx + b şeklinde ifade eden bir matematiksel formüldür. Burada 'm' doğrunun eğimini, 'b' ise doğrunun y-eksenini kestiği noktayı temsil eder."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda eğim (m) nasıl belirlenir?",
+    "output": "Eğim (m), bir doğrunun iki noktası arasındaki y eksenindeki değişimin x eksenindeki değişime oranı olarak hesaplanır. Bu oran, doğrunun eğimini belirler ve y = mx + b formülünde 'm' olarak ifade edilir."
+  },
+  {
+    "instruction": "Y-kesişim noktası (b) nasıl bulunur?",
+    "output": "Y-kesişim noktası (b), doğrunun y-eksenini kestiği noktadır. Eğer bir doğrunun denklemi y = mx + b formundaysa, b değeri doğrunun y-eksenini kestiği noktayı verir. Bu nokta, x = 0 olduğunda y'nin değeridir."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile bir doğrunun denklemi nasıl yazılır?",
+    "output": "Bir doğrunun denklemi eğim-kesişim formunda yazılırken, önce doğrunun eğimi (m) ve y-kesişim noktası (b) belirlenir. Daha sonra bu değerler y = mx + b formülüne yerleştirilerek doğrunun denklemi elde edilir."
+  },
+  {
+    "instruction": "Negatif eğim ne anlama gelir?",
+    "output": "Negatif eğim, bir doğrunun x ekseninde sağa doğru ilerlerken y ekseninde aşağıya doğru hareket ettiğini gösterir. Bu, doğrunun aşağıya doğru eğimli olduğunu ve eğim değerinin negatif bir sayı olduğunu ifade eder."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile doğrunun grafiği nasıl çizilir?",
+    "output": "Eğim-kesişim formu ile doğrunun grafiğini çizmek için önce y-kesişim noktası (b) y ekseninde işaretlenir. Daha sonra eğim (m) kullanılarak, y-kesişim noktasından başlayarak eğimin belirttiği oranda x ve y eksenlerinde ilerlenerek diğer noktalar belirlenir ve bu noktalar birleştirilerek doğru çizilir."
+  },
+  {
+    "instruction": "Eğim-kesişim formunda 'b' değeri neyi ifade eder?",
+    "output": "'b' değeri, doğrunun y-eksenini kestiği noktayı ifade eder. Bu değer, doğrunun y eksenindeki başlangıç noktasını gösterir ve x = 0 olduğunda y'nin değerine eşittir."
+  },
+  {
+    "instruction": "Bir doğrunun eğimi nasıl negatif olur?",
+    "output": "Bir doğrunun eğimi, y eksenindeki değişimin x eksenindeki değişime oranı negatif olduğunda negatif olur. Bu, x ekseninde sağa doğru ilerlerken y ekseninde aşağıya doğru bir hareket olduğunu gösterir."
+  },
+  {
+    "instruction": "Eğim-kesişim formunu kullanarak doğrusal bir denklemin grafiği nasıl yorumlanır?",
+    "output": "Eğim-kesişim formunu kullanarak bir doğrunun grafiği yorumlanırken, eğim (m) doğrunun yatay eksene göre ne kadar dik olduğunu ve hangi yöne eğimli olduğunu gösterir. Y-kesişim noktası (b) ise doğrunun y eksenini kestiği noktayı belirler. Bu iki bilgi, doğrunun grafiğinin genel şeklini ve konumunu anlamamıza yardımcı olur."
+  },
+  {
+    "instruction": "Eğim-kesişim formu ile eğim nasıl hesaplanır?",
+    "output": "Eğim-kesişim formunda eğim, doğrunun iki noktası arasındaki y eksenindeki değişimin x eksenindeki değişime oranı olarak hesaplanır. Bu oran, y = mx + b denkleminde 'm' olarak ifade edilir ve doğrunun eğimini belirler."
+  }
+]
