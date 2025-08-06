@@ -306,4 +306,4 @@ if __name__ == '__main__':
     print("   GET  /logs     - Log bilgileri")
     print("\n🌐 API çalışıyor: http://localhost:5000")
     
-    app.run(host='0.0.0.0', port=5000, debug=False)
+    app.run(host='0.0.0.0', port=8001, debug=False)
