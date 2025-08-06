@@ -18,12 +18,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY api_server.py .
 COPY README.md .
 
-# 📂 Gerekli klasörleri oluştur
-RUN mkdir -p /app/generated_questions \
-    && mkdir -p /app/gpt_generated_questions
-
 # 🌐 Port'u aç
-EXPOSE 5000
+EXPOSE 8001
 
 # 👤 Root olmayan kullanıcı oluştur ve kullan
 RUN adduser --disabled-password --gecos '' appuser && \
