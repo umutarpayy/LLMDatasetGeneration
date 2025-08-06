@@ -25,6 +25,6 @@ USER appuser
 
 # 🌐 Port'u aç
 EXPOSE 8001
-
+#
 # 🚀 Uygulamayı başlat
 CMD ["python", "-u", "api_server.py"]
