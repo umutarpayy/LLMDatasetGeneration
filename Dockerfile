@@ -17,13 +17,14 @@ RUN pip install --no-cache-dir -r requirements.txt
 # 📁 Uygulama dosyalarını kopyala
 COPY api_server.py .
 
+# 👤 Root olmayan kullanıcı oluştur ve izinleri ayarla
+RUN adduser --disabled-password --gecos '' appuser && \
+    chown -R appuser:appuser /app
+
+USER appuser
+
 # 🌐 Port'u aç
 EXPOSE 8001
 
-# 👤 Root olmayan kullanıcı oluştur ve kullan
-RUN adduser --disabled-password --gecos '' appuser && \
-    chown -R appuser:appuser /app
-USER appuser
-
 # 🚀 Uygulamayı başlat
-CMD ["python", "api_server.py"]
+CMD ["python", "-u", "api_server.py"]
